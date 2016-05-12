@@ -1,1 +1,4 @@
 exportPattern("^[[:alpha:]]+")
+import(stats)
+importFrom(XML,htmlParse,readHTMLTable)
+importFrom(ggmap,geocode)

@@ -1,0 +1,75 @@
+"Library Name" "Address" "City" "State" "Latitude" "Longitude"
+"Star Valley Branch Library" "261 Washington, 83110" "Afton" "WY" -110.9333485 42.7282669
+"Alta Branch Library" ", 83422" "Alta" "WY" -111.3464203 43.6598212
+"Baggs Library" "105 2nd Street, 82321" "Baggs" "WY" -107.6525398 41.0351123
+"Bairoil Branch Library" "501 Indian Paintbrush St., 82322" "Bairoil" "WY" -107.5592606 42.2351754
+"Big Horn County Library" "430 W. C Street, 82410" "Basin" "WY" -108.0394535 44.3811263
+"Johnson County Library System" "171 North Adams, 82834" "Buffalo" "WY" -106.7005025 44.3491647
+"Burns Branch Library" "112 Main Street, 82053" "Burns" "WY" -104.359233 41.1923455
+"Natrona County Library System" "307 East 2nd, 82601" "Casper" "WY" -106.3217867 42.8483907
+"Centennial Library Branch" "27 2nd Street, 82055" "Centennial" "WY" -106.1404117 41.2985345
+"Laramie County Library System" "2800 Central Ave, 82001" "Cheyenne" "WY" -104.8220005 41.1441236
+"Chugwater Branch Library" "301 Second Street, 82210" "Chugwater" "WY" -104.8226172 41.7571003
+"Sheridan County Public Library - Clearmont" "1254 Front Street, 82835" "Clearmont" "WY" -106.3809085 44.6396344
+"Park County Public Library" "1500 Heart Mountain Street, 82414" "Cody" "WY" -109.0610143 44.522167
+"Cokeville Branch Library" "240 E. Main, 83114" "Cokeville" "WY" -110.9607392 42.085625
+"Deaver Branch Library" "180 W First, 82421" "Deaver" "WY" -108.5973857 44.8912628
+"Converse County Library System" "300 Walnut, 82633" "Douglas" "WY" -105.3840239 42.7609259
+"Dubois Branch Library" "5506 E Main St, 82515" "Dubois" "WY" -108.5835563 42.9077831
+"Mark J. Davis Branch Library" "935 Cottonwood, 82635" "Edgerton" "WY" -106.2490825 43.4130712
+"Elk Mountain Library" "105 Bridge Street, 82324" "Elk Mountain" "WY" -106.4134168 41.6873095
+"Encampment Library" "202 Rankin Street, 82325" "Encampment" "WY" -106.7939286 41.2076155
+"Uinta County Library System" "701 Main St, 82930" "Evanston" "WY" -110.9638341 41.2653454
+"Farson Branch Library" "30 Hwy 28, 82932" "Farson" "WY" -109.4436189 42.1109758
+"Frannie Branch Library" "311 4th Street, 82423" "Frannie" "WY" -108.0389256 44.3836369
+"Campbell County Public Library System" "2101 4-J Road, 82718" "Gillette" "WY" -105.5089625 44.2735071
+"Glendo Branch Library" "213 Second Street, 82213" "Glendo" "WY" -105.0266514 42.5036301
+"Glenrock Branch Library" "518 S. 4th, 82637" "Glenrock" "WY" -105.8721218 42.8580516
+"Granger Branch Library" "60 Spruce Street, 82934" "Granger" "WY" -109.9701066 41.5910007
+"Sweetwater County Library System" "300 N. 1st Street, 82935" "Green River" "WY" -109.464512 41.5297955
+"Greybull Branch Library" "325 Greybull Avenue, 82426" "Greybull" "WY" -108.0517348 44.4888642
+"Guernsey Branch Library" "108 South Wyoming Avenue, 82214" "Guernsey" "WY" -104.7415626 42.2689614
+"Hanna Library" "303 3rd Street, 82327" "Hanna" "WY" -106.5628716 41.8719942
+"Hulett Branch Library" "401 Sager Street, 82720" "Hulett" "WY" -104.6016104 44.6845492
+"Hyattville Branch Library" "119 North Main, 82426" "Hyattville" "WY" -73.2141937 44.4758653
+"Teton County Library" "125 Virginian Lane, 83001" "Jackson" "WY" -110.78 43.4718
+"Kaycee Branch Library" "231 Ritter Ave., 82639" "Kaycee" "WY" -106.6376962 43.7130093
+"Lincoln County Library System" "519 Emerald, 83101" "Kemmerer" "WY" -110.5415445 41.7947665
+"Labarge Branch Library" "262 Main Street, 83123" "Labarge" "WY" -110.1943938 42.2610976
+"Fremont County Library System" "451 North 2nd St, 82520" "Lander" "WY" -108.728156 42.836402
+"Albany County Public Library" "310 South 8th St, 82070" "Laramie" "WY" -105.5878593 41.3103221
+"Linch Branch Library" "236 William Street, 82640" "Linch" "WY" -106.1974481 43.607521
+"Lovell Branch Library" "300 Oregon Ave., 82431" "Lovell" "WY" -108.388 44.8388
+"Niobrara County Library" "425 S. Main Street, 82225" "Lusk" "WY" -104.4521546 42.7627023
+"Lyman Branch Library" "129 S. Franklin, 82937" "Lyman" "WY" -110.2905651 41.3264836
+"Medicine Bow Library" "302 Sage Street, 82329" "Medicine Bow" "WY" -106.2010653 41.8981252
+"Meeteetse Branch Library" "2107 Idaho Street, 82433" "Meeteetse" "WY" -108.87244 44.15367
+"Mills Public Library" "425 Morgan Ave., 82644" "Mills" "WY" -106.3711393 42.8409086
+"Moorcroft Branch Library" "105 East Converse, 82721" "Moorcroft" "WY" -104.9497296 44.2633265
+"Mountain View Branch Library" "322 2nd Street, 82939" "Mountain View" "WY" -91.5701063 41.6703719
+"Weston County Library System" "23 West Main St, 82701" "Newcastle" "WY" -104.2023355 43.8555921
+"Pine Bluffs Branch Library" "110 E. 2nd Street, 82082" "Pine Bluffs" "WY" -104.0677755 41.1828332
+"Sublette County Library System" "155 S Tyler Street, 82941" "Pinedale" "WY" -109.8612765 42.8646674
+"Big Piney Library" "106 Fish St., 83113" "Piney" "WY" -110.1135458 42.5365489
+"Powell Branch Library" "217 East 3rd Street, 82435" "Powell" "WY" -108.7565907 44.7557541
+"Sheridan County Public Library - Tongue River" "145 Coffeen Street, 82839" "Ranchester" "WY" -107.1610414 44.90891
+"Rawlins Library" "215 West Buffalo, 82301" "Rawlins" "WY" -107.23765 41.789503
+"Reliance Branch Library" "1329 Main, 82943" "Reliance" "WY" -112.0331738 41.3883367
+"Riverton Branch Library" "1330 West Park, 82501" "Riverton" "WY" -108.409655 43.027202
+"Rock River Branch Library" "321 Avenue D, 82083" "Rock River" "WY" -105.9765849 41.7442351
+"Rock Springs Branch Library" "400 C Street, 82901" "Rock Springs" "WY" -109.2186975 41.5836771
+"White Mountain Branch Library" "2935 Sweetwater Drive, 82901" "Rock Springs" "WY" -109.269542 41.5858736
+"Saratoga Library" "503 West Elm Street, 82331" "Saratoga" "WY" -106.8133217 41.4529698
+"Sheridan County Library" "335 West Alger St, 82801" "Sheridan" "WY" -106.9575665 44.8012161
+"Sinclair Library" "7th And Lincoln Hwy, 82334" "Sinclair" "WY" -91.0547608 41.8887475
+"Sheridan County Public Library - Story" "20 N. Piney, 82842" "Story" "WY" -106.891473 44.5746916
+"Crook County Library" "414 Main Street, 82729" "Sundance" "WY" -104.3779328 44.4061376
+"Superior Branch Library" "3 North Main, 82945" "Superior" "WY" -108.9686028 41.7656906
+"Ten Sleep Branch Library" "401 Fir Street, 82442" "Ten Sleep" "WY" -107.4485717 44.0350511
+"Hot Springs County Library" "344 Arapahoe Street, 82443" "Thermopolis" "WY" -108.2074876 43.6472606
+"Goshen County Library" "2001 East A St, 82240" "Torrington" "WY" -104.1829531 42.064044
+"Upton Branch Library" "722 4th Street, 82730" "Upton" "WY" -104.625639 44.1010512
+"Wamsutter Branch Library" "230 Tierney, Lot 44, 82336" "Wamsutter" "WY" -107.9779834 41.673016
+"Platte County Library System" "904 9th St, 82201" "Wheatland" "WY" -104.9532251 42.0563054
+"Washakie County Library" "1019 Coburn Ave, 82401" "Worland" "WY" -107.9548404 44.0160992
+"Wright Branch Library" "305 Wright Boulevard, 82732" "Wright" "WY" -105.4901565 43.7559234
