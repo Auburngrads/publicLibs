@@ -3,7 +3,8 @@ Type: Package
 Title: Records and presents information about Public libraries in the US
 Version: 0.1.0
 Date: 2016-05-12
-Authors@R: Jason Freels auburngrads@live.com role = c("aut", "cre")), Corey Degroot role = c("aut", "cre"))
+Author: Jason K. Freels (cre), Corey Degroot (cre)
+Maintainer: Jason K. Freels <jason.freels@afit.edu>
 Description: Really awesome stuff for smart people who like libraries.  If you don't like libraries, you may not like this package
 License: GPL-2
 LazyData: TRUE
