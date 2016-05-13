@@ -1,0 +1,145 @@
+"Library Name" "Address" "City" "State" "Latitude" "Longitude" "NA"
+"Aberdeen District" "Aberdeen" "76 E Central Ave" "83210" "ID" -112.8375617 42.9440881
+"American Falls District" "American Falls" "308 Roosevelt St" "83211" "ID" -112.852637 42.7823838
+"Lost Rivers District" "Arco" "126 S Front St" "83213" "ID" -113.2967062 43.6338755
+"Fremont County District" "Ashton" "925 Main" "83420" "ID" -111.4444467 44.0713542
+"Community Library Network - Athol" "Athol" "330399 3rd Street" "" "ID" -96.9591177 43.2576697
+"Bellevue Public" "Bellevue" "115 E Pine" "83313" "ID" -114.2594001 43.4631615
+"Blackfoot Public" "Blackfoot" "129 N Broadway" "83221" "ID" -112.3450144 43.1902959
+"Snake River - Junior High School Library" "Blackfoot" "918 E Hwy 39" "" "ID" -89.8711378 29.8677008
+"Snake River - Middle School Library" "Blackfoot" "1060 W 110 S" "" "ID" -98.1366486 37.4866977
+"Snake River - Moreland Elementary Library" "Blackfoot" "185 N 750 W" "" "ID" -113.8137719 42.6476375
+"Snake River - Riverside Elementary Library" "Blackfoot" "16 S 700 W" "" "ID" -87.5258811 40.7926428
+"Snake River - Rockford Elementary" "Blackfoot" "1152 W Hwy 39" "" "ID" -112.525639 43.1993382
+"Snake River School-Community" "Blackfoot" "924 W Hwy 39" "83221" "ID" -112.479521 43.1969891
+"Ada County District" "Boise" "10664 W Victory Rd" "83709" "ID" -116.314591 43.5760194
+"Boise Public" "Boise" "715 S Capitol Blvd" "83702" "ID" -116.2078633 43.6104584
+"Towne Square Library" "Boise" "350 N. Milwaukee" "" "ID" -87.953652 42.286419
+"Boundary County District" "Bonners Ferry" "6370 Kootenai" "83805" "ID" -116.310507 48.696298
+"Bovill Public Library" "Bovill" "310 First Ave" "83806" "ID" -116.3965252 46.8585499
+"Bruneau Valley District" "Bruneau" "32073 Ruth St" "83604" "ID" -115.799909 42.8814272
+"Buhl Public" "Buhl" "215 Broadway N" "83316" "ID" -114.7616419 42.600094
+"Burley Public" "Burley" "1300 Miller Ave" "83318" "ID" -113.79624 42.536429
+"Caldwell Public" "Caldwell" "1010 Dearborn St" "83605" "ID" -116.6882367 43.6615049
+"Cambridge District" "Cambridge" "120 N Superior St" "83610" "ID" -116.6778179 44.5707557
+"Little Wood River District" "Carey" "16 Panther Ave" "83320" "ID" -113.9438642 43.3161935
+"Cascade Public" "Cascade" "105 N Front St" "83611" "ID" -116.0414959 44.5165198
+"Challis Public" "Challis" "6th And Main St" "83226" "ID" -114.233287 44.505076
+"Portneuf District" "Chubbuck" "5210 Stuart" "83202" "ID" -112.474079 42.92818
+"East Bonner County Library District - Clark Fork Branch Library" "Clark Fork" "601 Main Street" "83811" "ID" -116.1766428 48.1479702
+"Clarkia District" "Clarkia" "377 Poplar St" "83812" "ID" -116.2533893 47.0060103
+"Coeur Dalene Public" "Coeur Dalene" "702 E Front Ave" "83814" "ID" -116.7767103 47.6721829
+"Council Valley District" "Council" "104 California Ave" "83612" "ID" -116.4363734 44.7280739
+"Prairie-River District - Craigmont" "Craigmont" "112 W Main" "" "ID" -92.9376602 35.2420543
+"Prairie-River District - Culdesac" "Culdesac" "608 Main" "" "ID" -92.4649363 33.5377724
+"Deary Public Library" "Deary" "304 2nd Ave" "83823" "ID" -116.562275 46.7995034
+"South Bannock District" "Downey" "18 N Main" "83234" "ID" -112.1243139 42.4286926
+"Clark County District" "Dubois" "160 W Main St" "83423" "ID" -112.2296473 44.1762528
+"Eagle Public" "Eagle" "100 N Stierman Way" "83616" "ID" -116.3469075 43.6961722
+"Elk River District" "Elk River" "203 Main St" "83827" "ID" -116.179464 46.7824219
+"Emmett Public" "Emmett" "275 S Hayes Ave" "83617" "ID" -116.499037 43.8738666
+"Camas County District" "Fairfield" "519 1st St W" "83327" "ID" -114.7938558 43.3456049
+"Filer Public" "Filer" "219 Main St" "83328" "ID" -114.606886 42.5702276
+"Garden City Public" "Garden City" "6015 Glenwood St" "83714" "ID" -116.2807169 43.6601998
+"Garden Valley District" "Garden Valley" "342 Village Circle" "83622" "ID" -115.9692041 44.1147709
+"Genesee Public Library" "Genesee" "140 E Walnut Street" "83832" "ID" -116.9253094 46.5505341
+"Glenns Ferry Public" "Glenns Ferry" "298 S Lincoln" "83623" "ID" -115.2997888 42.9556192
+"Gooding Public" "Gooding" "306 Fifth Ave W" "83330" "ID" -114.7155406 42.9406431
+"Grace District" "Grace" "204 S Main St" "83241" "ID" -111.7304199 42.5747242
+"Eastern Owyhee County District" "Grand View" "520 Boise Ave" "83624" "ID" -116.09568 42.988706
+"Grangeville Centennial" "Grangeville" "215 W North St" "83530" "ID" -116.1214626 45.927115
+"Hagerman Public" "Hagerman" "290 S State St" "83332" "ID" -114.8985646 42.8149491
+"Hailey Public" "Hailey" "7 W Croy St" "83333" "ID" -114.3171086 43.5176489
+"Hamer Public Library" "Hamer" "2450 E 2100 North" "83425" "ID" -112.208638 43.925472
+"Hansen District" "Hansen" "120 W Maple Ave" "83334" "ID" -114.3010593 42.5306891
+"Community Library Network - Harrison" "Harrison" "111 Coeur Dalene Avenue" "" "ID" -116.785845 47.453626
+"Community Library Network - Hayden" "Hayden" "8385 N. Government Way" "" "ID" -116.7875599 47.7479346
+"Kootenai-Shoshone District" "Hayden" "8385 N Government Wy" "83835" "ID" -116.7875599 47.7479346
+"Hidden Springs Branch" "Hidden Springs" "5892 W Hidden Springs Dr" "" "ID" -116.262331 43.7251339
+"Homedale Public" "Homedale" "125 W Owyhee Ave" "83628" "ID" -116.9365064 43.6187063
+"Horseshoe Bend District" "Horseshoe Bend" "392 Highway 55" "83629" "ID" -116.19937 43.9100974
+"Boise Basin District" "Idaho City" "123 Montgomery St" "83631" "ID" -115.8341956 43.8263977
+"Idaho Falls Public" "Idaho Falls" "457 W Broadway" "83402" "ID" -112.0424998 43.4913952
+"Jerome Public" "Jerome" "100 1st Ave E" "83338" "ID" -114.5180675 42.7254138
+"Juliaetta Public Library" "Juliaetta" "205 Main Street" "83535" "ID" -116.7077039 46.5768901
+"Prairie-River District - Kamiah" "Kamiah" "507 Main" "" "ID" -91.4574128 34.7870362
+"Kellogg Public" "Kellogg" "16 W Market Ave" "83837" "ID" -116.1222804 47.5338496
+"Kimberly Public" "Kimberly" "120 Madison St W" "83341" "ID" -114.365537 42.5345835
+"Prairie-River District - Kooskia" "Kooskia" "26 S Main" "" "ID" -73.2184763 44.4757321
+"Kuna District" "Kuna" "457 N Locust" "83634" "ID" -116.4205917 43.4924518
+"Prairie-River District" "Lapwai" "103 N Main St" "83540" "ID" -116.804477 46.40519
+"Prairie-River District Lapwai" "Lapwai" "103 North Main" "" "ID" -73.2151544 44.4758234
+"South Bannock District - Lava Hot Springs" "Lava Hot Springs" "33 Main St" "" "ID" -118.4818474 34.0002544
+"Lewiston City Library" "Lewiston" "428 Thain Rd" "" "ID" -116.9738656 46.3787049
+"Lewisville Public" "Lewisville" "3453 E 480 N" "83431" "ID" -112.012066 43.696354
+"Mackay District" "Mackay" "320 Capitol Ave" "83251" "ID" -113.6146404 43.9144658
+"Island Park Branch" "Macks Inn" "4377 County Circle Drive" "" "ID" -89.7812271 44.5929303
+"Oneida County District" "Malad" "31 N 100 W" "83252" "ID" -112.2481015 42.1855931
+"Lizard Butte District" "Marsing" "111 3rd Ave W" "83639" "ID" -116.8066034 43.5449446
+"Mccall Public" "Mccall" "218 E Park St" "83638" "ID" -116.0990186 44.9089061
+"Jefferson County District" "Menan" "623a N 3500 E" "83434" "ID" -112.00449 43.718609
+"Menan - Annis - Grant Library" "Menan" "623 N 3500 E" "" "ID" -112.00449 43.718609
+"Meridian District" "Meridian" "1326 W Cherry Ln" "83642" "ID" -116.40909 43.619831
+"Old Town Branch" "Meridian" "18 E Idaho Ave" "" "ID" -116.9626722 44.026568
+"Middleton Public" "Middleton" "307 E Main St" "83644" "ID" -116.6188891 43.7067196
+"Midvale District" "Midvale" "70 E Bridge St" "83645" "ID" -116.7355005 44.4712083
+"Bear Lake County District" "Montpelier" "138 N 6th St" "83254" "ID" -111.3021104 42.3186767
+"Latah County District" "Moscow" "110 S Jefferson St" "83843" "ID" -116.9982702 46.7333547
+"Mountain Home Public" "Mountain Home" "790 N 10th E" "83647" "ID" -115.6875199 43.1369969
+"Mullan Public" "Mullan" "117 Hunter Ave" "83846" "ID" -115.8023243 47.4705931
+"Nampa Public" "Nampa" "101 11th Ave S" "83651" "ID" -116.5615179 43.5796407
+"Nampa Public Public Library" "Nampa" "101 11th Avenue S" "" "ID" -104.9861162 39.7338626
+"Meadows Valley District" "New Meadows" "400 Virginia St" "83654" "ID" -116.282942 44.9711222
+"Armoral Tuttle Public" "New Plymouth" "301 N Plymouth Ave" "83655" "ID" -116.819729 43.9728582
+"Nezperce Community Library" "Nezperce" "502 Oak St" "" "ID" -97.2180885 41.9557541
+"Prairie-River District Nezperce" "Nezperce" "602 4th Avenue" "" "ID" -122.3303096 47.6032636
+"Notus Public" "Notus" "387 First St" "83656" "ID" -116.8002027 43.7260036
+"Oakley District" "Oakley" "185 E Main St" "83346" "ID" -113.879884 42.243314
+"Ola District" "Ola" "11475 Ola School Rd" "83657" "ID" -116.2842195 44.1762879
+"Osburn Public" "Osburn" "921 Mullan Ave" "83849" "ID" -115.9912271 47.5023908
+"Paris Branch" "Paris" "62 S Main" "" "ID" -73.2170559 44.4757845
+"Parma Public Library" "Parma" "121 N 3rd St" "" "ID" -105.5933558 41.3130417
+"Payette Public" "Payette" "24 S 10th St" "83661" "ID" -116.932101 44.074067
+"Prairie-River District - Peck" "Peck" "217 N Main St" "" "ID" -73.2107139 44.4759912
+"Pierce District" "Pierce" "208 S Main St" "83546" "ID" -115.799416 46.48907
+"Community Library Network - Pinehurst" "Pinehurst" "107 Main Avenue" "83850" "ID" -116.3119956 48.697575
+"Plummer Public" "Plummer" "800 D St" "83851" "ID" -116.8854652 47.3341565
+"Marshall Public" "Pocatello" "113 S Garfield" "83204" "ID" -112.4525546 42.860321
+"Community Library Network - Post Falls" "Post Falls" "821 N Spokane" "83854" "ID" -116.9490237 47.7164352
+"Potlatch Public Library" "Potlatch" "1010 Onaway Rd" "83855" "ID" -116.9009488 46.9278839
+"Prairie District" "Prairie" "71 Smith Creek Rd" "83647" "ID" -115.5736655 43.5020912
+"Larsen-Sant-Franklin District" "Preston" "109 S 1st E" "83263" "ID" -111.8739507 42.0939227
+"Priest Lake District" "Priest Lake" "28769 Hwy 57" "83856" "ID" -116.9339845 48.5212625
+"Community Library Network - Rathdrum" "Rathdrum" "16780 W Hwy 41" "" "ID" -83.4930369 38.8388829
+"Madison District" "Rexburg" "73 N Center St" "83440" "ID" -111.7845276 43.8279143
+"Richfield District" "Richfield" "205 S Main" "83349" "ID" -114.15383 43.0489468
+"Rigby Public" "Rigby" "110 N State St" "83442" "ID" -111.9146103 43.6725317
+"Salmon River Public" "Riggins" "126 N Main St" "83549" "ID" -116.3153316 45.4213839
+"Ririe Public" "Ririe" "464 Main St" "83443" "ID" -111.77325 43.631187
+"Roberts Public" "Roberts" "650 N 2870 E" "83444" "ID" -112.128469 43.719914
+"Rockland School-Community" "Rockland" "321 E Center" "83271" "ID" -112.8795302 42.5740228
+"Demary Memorial" "Rupert" "417 7th St" "83350" "ID" -113.6707488 42.6185384
+"Lemhi County District" "Salmon" "204 Main St" "83467" "ID" -113.8970072 45.1768373
+"East Bonner County District" "Sandpoint" "1407 Cedar St" "83864" "ID" -116.5685389 48.2752965
+"East Bonner County Library District Sandpoint Branch Library" "Sandpoint" "1407 Cedar Street" "83864" "ID" -116.5685389 48.2752965
+"North Bingham County District" "Shelley" "197 W Locust St" "83274" "ID" -112.1244144 43.3783196
+"Shoshone Public" "Shoshone" "211 S Rail St W" "83352" "ID" -114.4084947 42.9359984
+"Soda Springs Public" "Soda Springs" "149 S Main St" "83276" "ID" -111.6036944 42.6557629
+"Community Library Network - Spirit Lake" "Spirit Lake" "32575 N. 5th Ave" "83869" "ID" -116.8685908 47.9591662
+"St Maries Public" "St Maries" "822 College Ave" "83861" "ID" -116.5679959 47.3152771
+"Fremont County District - St Anthony" "St. Anthony" "110 W Main" "" "ID" -92.937644 35.2420557
+"Stanley District" "Stanley" "33 Ace Of Diamonds St" "83278" "ID" -114.9391717 44.2162404
+"Star Branch Library" "Star" "10706 W. State St Suite D" "" "ID" -81.1620517 40.9020379
+"Sugar Salem School-Community" "Sugar City" "1 Digger Dr" "83448" "ID" -111.739495 43.87101
+"Benewah District" "Tensed" "4345 Fox Rd" "83870" "ID" -116.812142 47.153829
+"Heart Of The Valley Public Library" "Terreton" "1252 E 1500 N" "" "ID" -112.444037 43.839288
+"Troy Public Library" "Troy" "402 S Main St" "83871" "ID" -116.7702372 46.73748
+"Twin Falls Public" "Twin Falls" "201 Fourth Ave E" "83301" "ID" -114.4652702 42.5571982
+"Valley Of The Tetons District" "Victor" "56 N Main" "83455" "ID" -111.110912 43.6038659
+"Wallace Public" "Wallace" "415 River St" "83873" "ID" -115.925825 47.474041
+"Clearwater District" "Weippe" "204 Wood St" "83553" "ID" -115.9429922 46.3758631
+"Weippe Public Library" "Weippe" "204 Wood Street" "" "ID" -71.2628361 42.455153
+"Weiser Public" "Weiser" "628 E 1st St" "83672" "ID" -116.9677615 44.2475086
+"Sherburn Smith Memorial" "Wendell" "375 1st Ave E" "83355" "ID" -114.6989658 42.7764019
+"Wilder District" "Wilder" "207 A Ave E" "83676" "ID" -116.9053571 43.6770184
+"Prairie-River District - Winchester" "Winchester" "413 1-2 Nez Perce" "" "ID" -116.2435093 46.2371189
