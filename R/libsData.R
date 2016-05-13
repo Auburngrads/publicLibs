@@ -6,7 +6,7 @@
 #'
 #'
 #' @param state Which state
-#' @param ... more options
+#' @param ... more options for ggmap::geocode
 
 
 libsData <- function(state = NULL, geocode = TRUE,...) {
@@ -61,7 +61,7 @@ libsData <- function(state = NULL, geocode = TRUE,...) {
   xml6 <- list()
   for(i in 1:nrow(xml5))  {
 
-    xml6[[i]] <- ggmap::geocode(xml5[i,1], source = 'google', override_limit = TRUE)
+    xml6[[i]] <- ggmap::geocode(xml5[i,1], source = 'google',...)
 
   }
 
