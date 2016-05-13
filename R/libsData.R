@@ -9,7 +9,7 @@
 #' @param ... more options
 
 
-libsData <- function(state = NULL,...) {
+libsData <- function(state = NULL, geocode = TRUE,...) {
 
   if(!(tolower(state)%in%tolower(state.abb) | tolower(state)%in%tolower(state.name))) {
 
@@ -54,6 +54,10 @@ libsData <- function(state = NULL,...) {
 
   xml5 <- data.frame(unlist(xml4), stringsAsFactors = F)
 
+  if(!geocode) {  return(xml5)
+
+    } else {
+
   xml6 <- list()
   for(i in 1:nrow(xml5))  {
 
@@ -76,4 +80,5 @@ libsData <- function(state = NULL,...) {
 
   save(list = rda.name, file = paste(c("data/",tolower(rda.name),'.rda'), collapse = ''))
 
+}
 }
