@@ -36,8 +36,14 @@ libsData <- function(state = NULL,...) {
   xml3 <- data.frame(lib.name,lib.city,xml2$libraries$Address,xml2$libraries$Zip, stringsAsFactors = F)
   xml3[,3] <- as.character(xml3[,3])
   xml3[,4] <- as.character(xml3[,4])
-  xml3     <- xml3[-which(duplicated(xml3[,3])),]
-  xml3     <- xml3[-which(xml3[,3]==''),]
+
+  duplicates <- which(duplicated(xml3[,3]))
+
+    if(!is.na(duplicates[1])) xml3 <- xml3[-duplicates,]
+
+  blanks <- which(xml3[,3]=='')
+
+    if(!is.na(blanks[1])) xml3 <- xml3[-blanks,]
 
   xml4 <- list()
   for(i in 1:nrow(xml3))  {
