@@ -49,7 +49,7 @@ libsData <- function(state = NULL,...) {
   xml6 <- list()
   for(i in 1:nrow(xml5))  {
 
-    xml6[[i]] <- ggmap::geocode(xml5[i,1])
+    xml6[[i]] <- ggmap::geocode(xml5[i,1], source = 'dsk')
 
   }
 
