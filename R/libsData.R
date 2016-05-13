@@ -33,20 +33,21 @@ libsData <- function(state = NULL,...) {
   lib.name  <- data.frame(xml2$libraries$Library, stringsAsFactors = F)
   lib.city  <- data.frame(xml2$libraries$City,    stringsAsFactors = F)
 
-  xml3 <- data.frame(xml2$libraries$Address,xml2$libraries$Zip, stringsAsFactors = F)
-  xml3[,1] <- as.character(xml3[,1])
-  xml3[,2] <- as.character(xml3[,2])
-  xml3     <- xml3[-which(duplicated(xml3[,1])),]
-  xml3     <- xml3[-which(xml3[,1]==''),]
+  xml3 <- data.frame(lib.name,lib.city,xml2$libraries$Address,xml2$libraries$Zip, stringsAsFactors = F)
+  xml3[,3] <- as.character(xml3[,3])
+  xml3[,4] <- as.character(xml3[,4])
+  xml3     <- xml3[-which(duplicated(xml3[,3])),]
+  xml3     <- xml3[-which(xml3[,3]==''),]
 
   xml4 <- list()
   for(i in 1:nrow(xml3))  {
 
-    xml4[[i]] <- paste(c(xml3[i,1],xml3[i,2]), collapse = ', ')
+    xml4[[i]] <- paste(c(xml3[i,3],xml3[i,4]), collapse = ', ')
 
   }
 
   xml5 <- data.frame(unlist(xml4), stringsAsFactors = F)
+  xml5 <- data.frame(xml3[,1:2],xml5, stringsAsFactors = F)
 
   xml6 <- list()
   for(i in 1:nrow(xml5))  {
@@ -57,7 +58,7 @@ libsData <- function(state = NULL,...) {
 
   xml7 <- matrix(unlist(xml6),ncol = 2, byrow = T)
 
-  xml8 <- data.frame(lib.name,xml5,lib.city,rep(lib.state,nrow(xml7)),xml7)
+  xml8 <- data.frame(xml5,rep(lib.state,nrow(xml7)),xml7)
   colnames(xml8) <- c('Library Name','Address','City','State','Latitude','Longitude')
 
   txt.name <-  paste(c('inst/','extdata/',lib.state,'_Libs.txt'),collapse = '')
