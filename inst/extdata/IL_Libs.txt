@@ -1,810 +1,810 @@
-"Library Name" "Address" "City" "State" "Latitude" "Longitude" "NA"
-"John Mosser Public Library District" "Abingdon" "106 West Meek Street" "61410" "IL" -90.3986668 40.8023705
-"Addison Public Library" "Addison" "2 Friendship Plaza" "60101" "IL" -87.9930147 41.9328094
-"Albany Public Library District" "Albany" "302 South Main Street" "61230" "IL" -90.2230635 41.7883351
-"Albion Public Library" "Albion" "6 North Fourth Street" "62806" "IL" -88.0562403 38.3771016
-"Mercer Carnegie Public Library District" "Aledo" "200 North College Avenue" "61231" "IL" -90.7487889 41.2027267
-"Alexis Branch Library" "Alexis" "102 West Broadway" "" "IL" -74.0088283 40.7160619
-"Algonquin Area Public Library District" "Algonquin" "2600 Harnish Drive" "60102" "IL" -88.349798 42.162245
-"Eastgate Branch" "Algonquin" "115 Eastgate" "" "IL" -95.8477001 36.2729473
-"Alsip-Merrionette Park Library District" "Alsip" "11960 South Pulaski Road" "60803" "IL" -87.7201684 41.6750373
-"Altamont Public Library" "Altamont" "121 West Washington Avenue" "62411" "IL" -88.749482 39.060572
-"Alto Pass Branch Library" "Alto Pass" "25 N. Elm St." "" "IL" -72.7438828 42.1307908
-"Alton Square Branch Library" "Alton" "210 Alton Square" "" "IL" -90.1763102 38.9256842
-"Hayner Public Library District" "Alton" "326 Belle Street" "62002" "IL" -90.187769 38.8919249
-"Youth Library" "Alton" "401 State Street" "" "IL" -119.6944836 34.415818
-"Ransom Memorial Public Library" "Altona" "110 East Main Street" "61414" "IL" -90.1632847 41.1144752
-"Pankhurst Memorial Library" "Amboy" "3 South Jefferson Avenue" "61310" "IL" -89.327613 41.7144162
-"Andalusia Township Library" "Andalusia" "503 Second Street West" "61232" "IL" -90.720431 41.439704
-"Stinson Memorial Public Library District" "Anna" "409 South Main Street" "62906" "IL" -89.251804 37.458142
-"Annawan-Alba Township Library" "Annawan" "320 West Front Street" "61234" "IL" -89.9089081 41.3976728
-"Antioch Public Library District" "Antioch" "757 Main Street" "60002" "IL" -88.0957778 42.4823773
-"Arcola Public Library District" "Arcola" "407 East Main Street" "61910" "IL" -88.3032301 39.6840132
-"Argenta Public Library" "Argenta" "100 East Water Street" "62501" "IL" -88.8224651 39.9813921
-"Arlington Heights Memorial Library" "Arlington Heights" "500 North Dunton Avenue" "60004" "IL" -87.9835063 42.0876093
-"Arthur Public Library District" "Arthur" "225 South Walnut Street" "61911" "IL" -88.4734845 39.7157226
-"Ashland Public Library" "Ashland" "125 W. Editor" "" "IL" -90.0077642 39.8886846
-"Prairie Skies Public Library District" "Ashland" "125 West Editor Street" "62612" "IL" -90.0077642 39.8886846
-"Ashley Public Library District" "Ashley" "70 North Second Street" "62808" "IL" -89.1886911 38.3271003
-"Mills Petrie Memorial Library And Gymnasium" "Ashton" "704 North First Street" "61006" "IL" -89.2237808 41.8670294
-"Assumption Public Library District" "Assumption" "205 North Oak Street" "62510" "IL" -89.0486102 39.5202597
-"Astoria Public Library District" "Astoria" "220 West Broadway" "61501" "IL" -90.3603824 40.2269197
-"Athens Municipal Library" "Athens" "410 East Hargrave Street" "62613" "IL" -89.7178865 39.9604391
-"Atkinson Public Library District" "Atkinson" "119 West Main Street" "61235" "IL" -90.0156209 41.4210028
-"Atlanta Public Library District" "Atlanta" "100 Race Street" "61723" "IL" -89.232389 40.260306
-"Atwood-Hammond Public Library District" "Atwood" "123 North Main Street" "61913" "IL" -88.462325 39.8002419
-"Auburn Public Library" "Auburn" "338 West Jefferson Street" "62615" "IL" -89.7451813 39.5920706
-"Greater West Central Public Library District" "Augusta" "202 North Center Street" "62311" "IL" -90.9498385 40.2304776
-"Greater West Central Public Library District" "Augusta" "202 Center St" "" "IL" -72.5277573 41.7734316
-"Aurora Public Library" "Aurora" "1 East Benton Street" "60505" "IL" -88.31731 41.756124
-"Eola Road Branch" "Aurora" "555 S. Eola Road" "" "IL" -88.2475617 41.7458108
-"West Branch" "Aurora" "233 S. Constitution Drive" "" "IL" -88.3681779 41.7585146
-"Village Of Avon Public Library" "Avon" "105 South Main Street" "61415" "IL" -90.4350356 40.6618708
-"Barrington Public Library District" "Barrington" "505 North Northwest Highway" "60010" "IL" -88.1276169 42.1593535
-"Barry Public Library" "Barry" "880 Bainbridge Street" "62312" "IL" -91.0403802 39.6928664
-"Bartlett Public Library District" "Bartlett" "800 South Bartlett Road" "60103" "IL" -88.18453 41.9768035
-"Alpha Park Public Library District" "Bartonville" "3527 South Airport Road" "61607" "IL" -89.6809065 40.6458606
-"Batavia Public Library District" "Batavia" "10 South Batavia Avenue" "60510" "IL" -88.3112714 41.8494327
-"Beardstown Houston Memorial Public Library" "Beardstown" "13 Boulevard Road" "62618" "IL" -90.427387 40.0063264
-"Bedford Park Public Library District" "Bedford Park" "7816 West 65th Place" "60501" "IL" -87.8163086 41.7731171
-"Beecher Public Library District" "Beecher" "660 Penfield Street" "60401" "IL" -87.626998 41.342136
-"Beecher City Branch Library" "Beecher City" "205 S. Sweazy St." "" "IL" -88.788453 39.188625
-"Belleville Public Library" "Belleville" "121 East Washington Street" "62220" "IL" -89.9819046 38.5137346
-"West Branch" "Belleville" "3414 West Main Street" "" "IL" -85.807807 38.262076
-"Bellwood Public Library" "Bellwood" "600 Bohland Avenue" "60104" "IL" -87.8774804 41.8813685
-"Ida Public Library" "Belvidere" "320 North State Street" "61008" "IL" -88.8461174 42.2616353
-"Bement Public Library District" "Bement" "349 South Macon Street" "61813" "IL" -88.5714767 39.9199301
-"Frank Bertetti Benld Public Library" "Benld" "308 East Central Avenue" "62009" "IL" -89.8033734 39.0930482
-"Bensenville Community Public Library District" "Bensenville" "200 South Church Road" "60106" "IL" -87.9520007 41.9523666
-"Benton Public Library District" "Benton" "502 South Main Street" "62812" "IL" -88.9200189 37.9913973
-"Berkeley Public Library" "Berkeley" "1637 North Taft Avenue" "60163" "IL" -87.9127578 41.8840555
-"Berwyn Public Library" "Berwyn" "2701 South Harlem Avenue" "60402" "IL" -87.8032626 41.8418008
-"Bethalto Public Library District" "Bethalto" "321 South Prairie Street" "62010" "IL" -90.0403471 38.9074591
-"Marrowbone Public Library District" "Bethany" "216 West Main Street" "61914" "IL" -88.740166 39.6453016
-"Henderson County Public Library District" "Biggsville" "110 Hill Crest Drive" "61418" "IL" -90.8621242 40.8493643
-"Blandinsville-Hire Library District" "Blandinsville" "130 South Main Street" "61420" "IL" -90.8662575 40.5554331
-"Bloomingdale Public Library" "Bloomingdale" "101 Fairfield Way" "60108" "IL" -88.079309 41.948939
-"Bloomington Public Library" "Bloomington" "205 East Olive Street" "61701" "IL" -88.9921371 40.4768209
-"Blue Island Public Library" "Blue Island" "2433 York Street" "60406" "IL" -87.6814285 41.6568927
-"Blue Mound Memorial Library District" "Blue Mound" "213 North Saint Marie Street" "62513" "IL" -89.1226986 39.6975926
-"Bluffs Public Library" "Bluffs" "110 North Bluff Street" "62621" "IL" -90.5351831 39.7511136
-"Fountaindale Public Library District" "Bolingbrook" "300 West Briarcliff Road" "60440" "IL" -88.0793877 41.6988139
-"Bourbonnais Public Library District" "Bourbonnais" "250 West John Casey Road" "60914" "IL" -87.8793919 41.1652933
-"Bowen Branch" "Bowen" "116 Fifth St" "" "IL" -81.5856332 27.8995464
-"Bradford Public Library District" "Bradford" "111 South Peoria Street" "61421" "IL" -89.6578404 41.177042
-"Bradley Public Library District" "Bradley" "296 North Fulton Avenue" "60915" "IL" -87.8561338 41.1476874
-"Fossil Ridge Public Library District" "Braidwood" "386 West Kennedy Road" "60408" "IL" -88.223633 41.260535
-"Breese Public Library" "Breese" "530 North Third Street" "62230" "IL" -89.5283926 38.6098171
-"Bridgeview Public Library" "Bridgeview" "7840 West 79th Street" "60455" "IL" -87.8157305 41.7481857
-"Brighton Memorial Public Library" "Brighton" "110 North Main Street" "62012" "IL" -90.141558 39.0391467
-"Brimfield Public Library District" "Brimfield" "111 South Galena Street" "61517" "IL" -89.8846013 40.8385082
-"Brimfield Public Library District" "Brimfield" "111 S. Galena Street" "" "IL" -82.9090691 40.2634307
-"Broadview Public Library District" "Broadview" "2226 South 16th Avenue" "60155" "IL" -87.8521745 41.8632953
-"Brookfield Public Library" "Brookfield" "3609 Grand Boulevard" "60513" "IL" -87.8481842 41.8255934
-"South County Public Library District" "Brussels" "106 West Main Street" "62013" "IL" -90.5891188 38.9501456
-"Mason Memorial Public Library" "Buda" "104 West Main Street" "61314" "IL" -89.679419 41.3267538
-"Bunker Hill Public Library District" "Bunker Hill" "220 East Warren Street" "62014" "IL" -89.950176 39.042788
-"Prairie Trails Public Library District" "Burbank" "8449 South Moody Avenue" "60459" "IL" -87.7733901 41.7385385
-"Leepertown Township Public Library" "Bureau" "201 East Nebraska Street" "61315" "IL" -89.3656128 41.2878715
-"Bushnell Public Library District" "Bushnell" "455 North Dean Street" "61422" "IL" -90.5110443 40.5531484
-"Byron Public Library District" "Byron" "109 North Franklin Street" "61010" "IL" -89.2600442 42.1255265
-"Cahokia Public Library District" "Cahokia" "140 Cahokia Park Drive" "62206" "IL" -90.1708033 38.5562533
-"Cairo Public Library" "Cairo" "1609 Washington Avenue" "62914" "IL" -89.1733313 37.0033118
-"Calumet City Public Library" "Calumet City" "660 Manistee Avenue" "60409" "IL" -87.555676 41.616404
-"Calumet Park Public Library" "Calumet Park" "1500 West 127th Street" "60827" "IL" -87.65865 41.663213
-"Cambridge Public Library District" "Cambridge" "212 West Center Street" "61238" "IL" -90.195485 41.303192
-"Camp Point Public Library District" "Camp Point" "206 East State Street" "62320" "IL" -91.064054 40.042279
-"Canaryville Branch" "Canaryville" "642 W. 43rd Street" "60609" "IL" -87.6425921 41.8164759
-"Parlin-Ingersoll Public Library" "Canton" "205 West Chestnut Street" "61520" "IL" -90.0389211 40.5576046
-"Carbondale Public Library" "Carbondale" "405 West Main Street" "" "IL" -85.7567462 38.2566429
-"Carlinville Public Library" "Carlinville" "510 North Broad Street" "62626" "IL" -89.8825888 39.2858741
-"Carlock Public Library District" "Carlock" "202 East Washington Street" "61725" "IL" -89.1317877 40.5823309
-"White Oak Township Public Library District" "Carlock" "202 E. Washington" "" "IL" -77.01396 38.89584
-"Case-Halstead Public Library" "Carlyle" "571 Franklin Street" "62231" "IL" -89.364468 38.610487
-"Carmi Public Library" "Carmi" "103 Slocumb Street" "62821" "IL" -88.1648818 38.0870126
-"Carol Stream Public Library" "Carol Stream" "616 Hiawatha Drive" "60188" "IL" -88.1299368 41.9189478
-"Carrier Mills-Stonefort Public Library District" "Carrier Mills" "109 Oak Street" "62917" "IL" -88.6342756 37.6841217
-"Carrollton Public Library" "Carrollton" "509 South Main Street" "62016" "IL" -90.407767 39.3009497
-"Anne West Lindsey Carterville District Library And Nature Pa" "Carterville" "117 South Division Street" "62918" "IL" -89.0772038 37.7613611
-"Carterville Public Library" "Carterville" "117 S. Division Street" "" "IL" -97.4253559 35.8776048
-"Carthage Public Library District" "Carthage" "500 Wabash Avenue" "62321" "IL" -91.1362183 40.4123015
-"Cary Area Public Library District" "Cary" "1606 Three Oaks Road" "60013" "IL" -88.2307964 42.2209951
-"Casey Township Library" "Casey" "307 East Main Street" "62420" "IL" -87.9897412 39.3002628
-"Caseyville Public Library District" "Caseyville" "419 South Second Street" "62232" "IL" -90.0302193 38.636946
-"Catlin Public Library District" "Catlin" "101 Mapleleaf Drive" "61817" "IL" -87.7144592 40.0651965
-"Allen Mccarthy Branch Library" "Centralia" "1500 Case" "" "IL" -85.1557088 44.1024821
-"Centralia Regional Library District" "Centralia" "515 East Broadway Avenue" "62801" "IL" -89.129317 38.5260767
-"Centreville Public Library" "Centreville" "701 South 47th Street" "62207" "IL" -90.1235673 38.580587
-"Hope Welty Public Library District" "Cerro Gordo" "100 South Madison Street" "61818" "IL" -88.7304546 39.8905196
-"Chadwick Public Library District" "Chadwick" "110 Main Street" "61014" "IL" -89.8908639 42.013343
-"Champaign Public Library" "Champaign" "200 West Green Street" "61820" "IL" -88.2458594 40.110343
-"Douglass Branch Library" "Champaign" "504 E. Grove St." "" "IL" -87.976883 42.0773566
-"Three Rivers Public Library District" "Channahon" "25207 West Channon Drive" "60410" "IL" -88.2239297 41.4336936
-"Charleston Carnegie Public Library" "Charleston" "712 Sixth Street" "61920" "IL" -88.1759791 39.4933918
-"Chatham Area Public Library District" "Chatham" "600 East Spruce Street" "62629" "IL" -89.6974971 39.6718301
-"Chatsworth Township Library" "Chatsworth" "432 East Locust Street" "60921" "IL" -88.2915113 40.7537741
-"Chenoa Public Library District" "Chenoa" "211 South Division Street" "61726" "IL" -88.7185782 40.7438903
-"Cherry Valley Public Library District" "Cherry Valley" "755 East State Street" "61016" "IL" -88.9446952 42.2354884
-"Chester Public Library" "Chester" "733 State Street" "62233" "IL" -89.8264206 37.9060402
-"Albany Park Branch" "Chicago" "5150 N. Kimball Avenue" "" "IL" -87.7137735 41.9755882
-"Altgeld Branch" "Chicago" "950 E. 132nd Place" "" "IL" -87.596897 41.6553601
-"Archer Heights Branch" "Chicago" "5055 S. Archer Avenue" "" "IL" -87.7266461 41.8008734
-"Austin Branch" "Chicago" "5615 W. Race Avenue" "" "IL" -87.7658112 41.8890161
-"Austin-Irving Branch" "Chicago" "6100 W. Irving Park Road" "" "IL" -87.7797348 41.9532556
-"Avalon Branch" "Chicago" "8828 S. Stony Island" "" "IL" -87.585975 41.734138
-"Back Of The Yards Branch" "Chicago" "4650 S. Damen Avenue" "" "IL" -87.6746034 41.8089714
-"Bessie Coleman Branch" "Chicago" "731 E. 63rd Street" "" "IL" -94.5795276 39.0134485
-"Beverly Branch" "Chicago" "2121 W. 95th Street" "" "IL" -87.6722429 41.7213718
-"Bezazian Branch" "Chicago" "1226 W. Ainslie Street" "" "IL" -87.6607369 41.9716923
-"Blackstone Branch" "Chicago" "4904 S. Lake Park Avenue" "" "IL" -87.5903444 41.8058352
-"Brainerd Branch" "Chicago" "1350 W. 89th Street" "" "IL" -87.6576966 41.7325283
-"Brighton Park Branch" "Chicago" "4314 Archer Avenue" "" "IL" -88.0115655 41.6347838
-"Bucktown-Wicker Park Branch" "Chicago" "1701 N. Milwaukee Ave." "" "IL" -87.6802818 41.9124886
-"Budlong Woods Branch" "Chicago" "5630 N. Lincoln Avenue" "" "IL" -87.6963282 41.9833634
-"Chicago Bee Branch" "Chicago" "3647 S. State Street" "60609" "IL" -87.626081 41.8280706
-"Chicago Lawn Branch" "Chicago" "6120 S. Kedzie Avenue" "60629" "IL" -87.7035387 41.7818971
-"Chicago Public Library" "Chicago" "400 South State Street" "60605" "IL" -87.6282016 41.8763007
-"Chinatown Branch" "Chicago" "2353 S. Wentworth Avenue" "" "IL" -87.6317029 41.8494563
-"Clearing Branch" "Chicago" "6423 W. 63rd Place" "" "IL" -87.7822279 41.7764699
-"Douglass Branch" "Chicago" "3353 W. 13th Street" "" "IL" -98.381192 40.9315468
-"Dunning Branch" "Chicago" "7455 W. Cornelia Avenue" "60634" "IL" -87.8139236 41.9430671
-"Eckhart Park Branch" "Chicago" "1371 W. Chicago Avenue" "" "IL" -87.6621552 41.8959242
-"Edgebrook Branch" "Chicago" "5331 W. Devon Avenue" "" "IL" -87.7618969 41.9970863
-"Edgewater Branch" "Chicago" "1210 W. Elmdale Avenue" "" "IL" -87.6606882 41.9911199
-"Gage Park Branch" "Chicago" "2807 W. 55th Street" "" "IL" -87.6941787 41.7934351
-"Galewood-Mont Clare Branch" "Chicago" "6969 W. Grand Avenue" "" "IL" -87.9753463 42.3858051
-"Garfield Ridge Branch" "Chicago" "6348 Archer Avenue" "" "IL" -88.0114305 41.6348902
-"Greater Grand Crossing Branch" "Chicago" "1000 East 73rd Street" "60619" "IL" -87.6002895 41.7625563
-"Hall Branch" "Chicago" "4801 S. Michigan Avenue" "" "IL" -87.6223077 41.8071888
-"Harold Washington Library Center(Main Library)" "Chicago" "400 S. State Street" "" "IL" -111.887823 40.760899
-"Hegewisch Branch" "Chicago" "3048 E. 130th Street" "" "IL" -101.7992536 33.4762637
-"Humboldt Park" "Chicago" "1605 N. Troy Street" "60647" "IL" -87.7053461 41.9104659
-"Independence Branch" "Chicago" "3548 W. Irving Park Road" "" "IL" -87.7173437 41.9540433
-"Jefferson Park Branch" "Chicago" "5363 W. Lawrence Avenue" "" "IL" -87.7619861 41.9673551
-"Jeffery Manor Branch" "Chicago" "2401 East 100th Street" "" "IL" -87.5655129 41.7132223
-"John Merlo Branch" "Chicago" "644 W. Belmont Avenue" "" "IL" -119.8192432 36.750298
-"Kelly Branch" "Chicago" "6151 S. Normal Boulvard" "" "IL" -87.6373514 41.7823938
-"Legler Branch (Marshall Square)" "Chicago" "115 S. Pulaski Road" "" "IL" -87.7253028 41.8793121
-"Lincoln Belmont Branch" "Chicago" "1659 W. Melrose Avenue" "" "IL" -87.6707648 41.9403197
-"Lincoln Park Branch" "Chicago" "1150 W. Fullerton Avenue" "" "IL" -87.6581305 41.9255928
-"Little Village Branch" "Chicago" "2311 S. Kedzie" "60623" "IL" -87.7047968 41.8496377
-"Logan Square Branch" "Chicago" "3255 W. Altgeld Street" "" "IL" -87.7097748 41.9263366
-"Mabel Manning Branch" "Chicago" "6 S. Hoyne Avenue" "" "IL" -87.6795493 41.8810304
-"Martin Luther King, Jr. Branch" "Chicago" "3436 S. King Drive" "" "IL" -87.6177792 41.8318134
-"Mayfair Branch" "Chicago" "4400 W. Lawrence Avenue" "" "IL" -87.7381078 41.9683065
-"Mckinley Park Branch" "Chicago" "1915 W. 35th Street" "" "IL" -87.673591 41.8301512
-"Midwest Branch" "Chicago" "2335 W. Chicago Avenue" "" "IL" -87.685836 41.895472
-"Mount Greenwood Branch" "Chicago" "11010 S. Kedzie Avenue" "" "IL" -87.7012066 41.6930972
-"Near North Branch" "Chicago" "310 W. Division Street" "" "IL" -112.1877255 47.8093244
-"North Austin Branch" "Chicago" "5724 W. North Avenue" "" "IL" -87.7688315 41.9096407
-"North Pulaski Branch" "Chicago" "4300 W. North Avenue" "" "IL" -87.7338339 41.9101001
-"Northtown Branch" "Chicago" "6435 N. California" "" "IL" -87.6993858 41.9987663
-"Oriole Park Branch" "Chicago" "5201 N. Oketo Avenue" "" "IL" -87.8118691 41.9744364
-"Portage-Cragin Branch" "Chicago" "5108 W. Belmont Avenue" "" "IL" -119.8825345 36.7500577
-"Pullman Branch" "Chicago" "11001 S. Indiana Avenue" "" "IL" -87.3547615 41.3994575
-"Richard J. Daley Branch" "Chicago" "3400 S. Halsted Street" "" "IL" -87.63582 41.5302173
-"Roden Branch" "Chicago" "6083 Northwest Hwy. 60631" "" "IL" -87.7979695 41.9921166
-"Rogers Park Branch" "Chicago" "6907 N. Clark Street" "" "IL" -87.6731857 42.006985
-"Roosevelt Branch" "Chicago" "1101 W. Taylor Street" "" "IL" -76.3388458 39.6690671
-"Rudy Lozano Branch" "Chicago" "1805 S. Loomis Street" "" "IL" -87.6609496 41.8575941
-"Scottsdale Branch" "Chicago" "4101 W. 79th Street" "" "IL" -87.7245103 41.7491604
-"Sherman Park Branch" "Chicago" "5440 S. Racine Avenue" "" "IL" -88.1581984 42.9451838
-"South Chicago Branch" "Chicago" "9055 S. Houston Avenue" "" "IL" -87.5495373 41.730364
-"South Shore Branch" "Chicago" "2505 E. 73rd Street" "" "IL" -87.5636887 41.7624286
-"Sulzer Regional" "Chicago" "4455 N. Lincoln Avenue" "" "IL" -104.9858874 39.7774792
-"Thurgood Marshall Branch" "Chicago" "7506 S. Racine Avenue" "" "IL" -87.6543734 41.7573801
-"Toman Branch" "Chicago" "4005 W. 27th Street" "" "IL" -92.493498 42.513718
-"Tuley Park Branch" "Chicago" "501 E. 90th Place" "" "IL" -87.6111996 41.7301204
-"Uptown Branch" "Chicago" "929 W. Buena Avenue" "" "IL" -87.654193 41.95818
-"Vodak East Side Branch" "Chicago" "10542 S. Ewing Avenue" "" "IL" -87.5353925 41.7032935
-"Walker Branch" "Chicago" "11071 S. Hoyne Avenue" "" "IL" -87.6740836 41.692067
-"Water Works Branch" "Chicago" "163 E. Pearson Street" "60611" "IL" -87.623476 41.8972063
-"West Addison Branch" "Chicago" "7536 W. Addison Street" "" "IL" -87.8158623 41.945204
-"West Belmont Branch" "Chicago" "3104 N. Narragansett Avenue" "" "IL" -87.7861631 41.9367293
-"West Chicago Avenue Branch" "Chicago" "4856 W. Chicago Ave." "" "IL" -87.747991 41.8953106
-"West Englewood Branch" "Chicago" "1745 W. 63rd Street" "" "IL" -87.6684425 41.7790764
-"West Lawn Branch" "Chicago" "4020 W. 63rd Street" "" "IL" -94.633545 39.0153279
-"West Pullman Branch" "Chicago" "830 W. 119th Street" "" "IL" -87.6431281 41.6780355
-"West Town Branch" "Chicago" "1625 W. Chicago Avenue" "60622" "IL" -87.6683964 41.8957988
-"Whitney M. Young, Jr. Branch" "Chicago" "7901 S. King Drive" "" "IL" -87.6144938 41.7509123
-"Woodson Regional Library" "Chicago" "9525 S. Halsted Street" "" "IL" -87.6358195 41.5301722
-"Wrightwood-Ashburn Branch" "Chicago" "8530 S. Kedzie Avenue" "" "IL" -87.7024963 41.7376441
-"Chicago Heights Public Library" "Chicago Heights" "25 West Fifteenth Street" "60411" "IL" -87.6416416 41.5045559
-"Chicago Ridge Public Library" "Chicago Ridge" "10400 South Oxford Avenue" "60415" "IL" -87.7778693 41.7030652
-"Chillicothe Public Library District" "Chillicothe" "430 North Bradley Avenue" "61523" "IL" -89.4998256 40.9144226
-"Chrisman Public Library" "Chrisman" "108 North Illinois Street" "61924" "IL" -87.6790692 39.8034851
-"Christopher Public Library" "Christopher" "202 East Market Street" "62822" "IL" -89.0524156 37.9725821
-"Cicero Public Library" "Cicero" "5225 West Cermak Road" "60804" "IL" -87.7737406 41.8507944
-"Cicero Public Library South Branch" "Cicero" "5444 W. 34th Street" "" "IL" -95.4707262 29.8194775
-"Willow Branch Township Library" "Cisco" "330 North Eldon Street" "61830" "IL" -88.7271926 40.0090006
-"Cissna Park Community Library District" "Cissna Park" "511 North Second Street" "60924" "IL" -87.8918753 40.5706053
-"Clarendon Hills Public Library" "Clarendon Hills" "7 North Prospect Avenue" "60514" "IL" -87.954478 41.798179
-"Clayton Public Library District" "Clayton" "211 East Main Street" "62324" "IL" -90.956034 40.030792
-"Central Citizens Library District" "Clifton" "1134 East 3100 North Road" "60927" "IL" -87.919378 40.958641
-"Clifton Public Library" "Clifton" "150 East Fourth Avenue" "60927" "IL" -87.9332261 40.9336868
-"Vespasian Warner Public Library District" "Clinton" "310 North Quincy Street" "61727" "IL" -88.9622911 40.1544011
-"Coal City Public Library District" "Coal City" "85 North Garfield Street" "60416" "IL" -88.2813228 41.2888773
-"Robert R. Jones Public Library District" "Coal Valley" "900 First Street" "61240" "IL" -90.461618 41.442948
-"Cobden Branch Library" "Cobden" "100 S. Front St." "" "IL" -87.3928887 46.5431804
-"Colchester District Library" "Colchester" "203 Macomb Street" "62326" "IL" -90.7920495 40.4262289
-"Martin Township Public Library" "Colfax" "132 West Main Street" "61728" "IL" -88.6166969 40.5669665
-"Collinsville Memorial Public Library" "Collinsville" "408 West Main St." "" "IL" -79.4315383 42.392072
-"Mississippi Valley Public Library District" "Collinsville" "408 West Main Street" "62234" "IL" -89.9903483 38.6681933
-"Colona District Public Library" "Colona" "911 First Street" "61241" "IL" -90.3580961 41.4699195
-"Columbia Public Library" "Columbia" "106 North Metter Avenue" "62236" "IL" -90.1990239 38.4441696
-"Cordova District Library" "Cordova" "402 Main Avenue" "61242" "IL" -90.3253696 41.6800514
-"Amity Township Public Library" "Cornell" "604 East Main Street" "61319" "IL" -88.7291846 40.9896631
-"Cortland Community Library" "Cortland" "63 South Somonauk Road" "60112" "IL" -88.6890632 41.9205056
-"Coulterville Public Library" "Coulterville" "103 South Fourth Street" "62237" "IL" -89.6038026 38.1862804
-"Dry Point Township Library" "Cowden" "po box 275" "62422" "IL" -88.8838834 39.2530024
-"Crest Hill Branch Library" "Crest Hill" "1298 Theodore Street" "" "IL" -88.113473 41.55234
-"Creston-Dement Public Library District" "Creston" "107 South Main Street" "60113" "IL" -88.9648163 41.9318602
-"Crestwood Public Library District" "Crestwood" "4955 West 135th Street" "60445" "IL" -87.7442151 41.6466187
-"Crete Public Library District" "Crete" "1177 North Main Street" "60417" "IL" -87.6309124 41.4501705
-"Creve Coeur Public Library District" "Creve Coeur" "311 North Highland Street" "61610" "IL" -89.5984891 40.6491657
-"Crystal Lake Public Library" "Crystal Lake" "126 Paddock Street" "60014" "IL" -88.3251248 42.2395586
-"Spoon River Library District" "Cuba" "201 South Third Street" "61427" "IL" -90.1957752 40.4921888
-"Dahlgren Public Library" "Dahlgren" "po box 237" "62828" "IL" -88.5855173 38.2131618
-"Danvers Township Library" "Danvers" "105 South West Street" "61732" "IL" -89.177063 40.529165
-"Danville Public Library" "Danville" "319 North Vermilion Street" "61832" "IL" -87.6289759 40.1298684
-"Indian Prairie Public Library District" "Darien" "401 Plainfield Road" "60561" "IL" -87.9556665 41.7563765
-"Decatur Public Library" "Decatur" "130 North Franklin Street" "62523" "IL" -88.9523179 39.8420442
-"Deer Creek District Library" "Deer Creek" "205 East First Avenue" "61733" "IL" -89.3301116 40.6276232
-"Deerfield Public Library" "Deerfield" "920 Waukegan Road" "60015" "IL" -87.8469651 42.1694443
-"Dekalb Public Library" "Dekalb" "309 Oak Street" "60115" "IL" -88.7497399 41.9320732
-"Goose Creek Township Carnegie Library" "Deland" "130 North Highway Avenue" "61839" "IL" -88.6464562 40.125314
-"Ayer Public Library District" "Delavan" "208 Locust Street" "61734" "IL" -89.5471724 40.3741294
-"Selby Township Library District" "Depue" "101 Depot Street" "61322" "IL" -89.3062383 41.3246429
-"Des Plaines Public Library" "Des Plaines" "1501 Ellinwood Street" "60016" "IL" -87.8865953 42.0404512
-"Divernon Township Library" "Divernon" "221 South Second Street" "62530" "IL" -89.6587029 39.5652315
-"Divernon Township Library" "Divernon" "221 South Second" "" "IL" -94.7280155 31.3369454
-"Dixon Public Library" "Dixon" "221 South Hennepin Avenue" "61021" "IL" -89.4836038 41.841621
-"Dolton Public Library District" "Dolton" "14037 Lincoln Avenue" "60419" "IL" -87.6084864 41.6401707
-"Dongola Public Library District" "Dongola" "114 North East Front Street" "62926" "IL" -89.1650364 37.3616274
-"Downers Grove Public Library" "Downers Grove" "1050 Curtiss Street" "60515" "IL" -88.011452 41.7941142
-"Du Quoin Public Library" "Du Quoin" "28 South Washington St." "" "IL" -89.2360176 38.0103768
-"Dunlap Public Library District" "Dunlap" "302 South First Street" "61525" "IL" -89.6730029 40.8573702
-"Daugherty Public Library District" "Dupo" "220 South Fifth Street" "62239" "IL" -90.206967 38.5156911
-"Duquoin Public Library" "Duquoin" "28 South Washington Street" "62832" "IL" -89.2360176 38.0103768
-"Prairie Creek Public Library District" "Dwight" "501 Carriage House Lane" "60420" "IL" -88.428183 41.08933
-"Earl Township Public Library" "Earlville" "205 Winthrop Street" "" "IL" -71.232543 41.852951
-"East Alton Public Library District" "East Alton" "250 Washington Avenue" "62024" "IL" -90.1031752 38.8780571
-"East Dubuque District Library" "East Dubuque" "350 Wall Street" "61025" "IL" -90.6424893 42.4913376
-"Dundee Township Public Library District" "East Dundee" "555 Barrington Avenue" "60118" "IL" -88.2638748 42.1042251
-"East Moline Public Library" "East Moline" "740 Sixteenth Avenue" "61244" "IL" -90.4434524 41.5147738
-"Fondulac Public Library District" "East Peoria" "140 East Washington Street" "61611" "IL" -89.5781926 40.6651252
-"Spring Bay Branch" "East Peoria" "411 Illinois Street" "" "IL" -105.2307623 39.7603275
-"East St. Louis Public Library" "East St Louis" "5300 State Street" "62203" "IL" -90.098952 38.605849
-"Edwardsville Public Library" "Edwardsville" "112 South Kansas Street" "62025" "IL" -89.9538694 38.8111351
-"Helen Matthes Library" "Effingham" "100 East Market Avenue" "62401" "IL" -88.5416979 39.1233836
-"El Paso Public Library" "El Paso" "149 West First Street" "61738" "IL" -89.0186301 40.7393578
-"Town And Country Public Library District" "Elburn" "320 East North Street" "60119" "IL" -88.4686008 41.8925037
-"Eldorado Memorial Public Library District" "Eldorado" "1001 Grant Street" "62930" "IL" -88.4353912 37.8152345
-"Gail Borden Public Library District" "Elgin" "270 North Grove Avenue" "60120" "IL" -88.288011 42.0424482
-"Elizabeth Township Library" "Elizabeth" "210 East Myrtle Street" "61028" "IL" -90.2222411 42.3174808
-"Elk Grove Village Public Library" "Elk Grove Village" "1001 Wellington Avenue" "60007" "IL" -88.0079524 42.0013877
-"Elkhart Public Library District" "Elkhart" "121 East Bohan Street" "62634" "IL" -89.4813505 40.0212926
-"Rick Warren Memorial Public Library District" "Elkville" "114 South Fourth Street" "62932" "IL" -89.2355963 37.9075829
-"Elmhurst Public Library" "Elmhurst" "125 South Prospect Avenue" "60126" "IL" -87.944164 41.8985387
-"Morrison Mary Wiley Library" "Elmwood" "206 West Main Street" "61529" "IL" -89.968464 40.777755
-"Elmwood Park Public Library" "Elmwood Park" "1 Conti Parkway" "60707" "IL" -87.8172683 41.9261171
-"Enfield Reading Center" "Enfield" "111 E. Main St." "" "IL" -82.9963365 39.9564305
-"Erie Public Library District" "Erie" "802 8th Avenue" "61250" "IL" -90.0788079 41.6559052
-"Eureka Public Library District" "Eureka" "202 South Main Street" "61530" "IL" -89.273173 40.7200533
-"Evanston Public Library" "Evanston" "1703 Orrington Avenue" "60201" "IL" -87.6800306 42.0483943
-"North Branch" "Evanston" "2026 Central Street" "" "IL" -87.7020387 42.0641151
-"South Branch" "Evanston" "949 Chicago Avenue" "" "IL" -87.6792769 42.035543
-"Central Public Library District" "Evansville" "701 Oak Street A" "62242" "IL" -89.9341309 38.0913177
-"Evansville Public Library" "Evansville" "602 Public Street" "62242" "IL" -89.9367024 38.0907554
-"Evergreen Park Public Library" "Evergreen Park" "9400 South Troy Avenue" "60805" "IL" -87.701001 41.7222369
-"Fairfield Public Library" "Fairfield" "300 South East Second Street" "62837" "IL" -88.3588443 38.3775181
-"Valley District Library" "Fairview" "515 Carter Street" "61432" "IL" -90.1642649 40.6333465
-"Fairview Heights Public Library" "Fairview Heights" "10017 Bunkum Road" "62208" "IL" -90.0106192 38.5981467
-"Farmer City Public Library" "Farmer City" "109 East Green Street" "61842" "IL" -88.6425203 40.2433692
-"Farmersville-Waggoner Public Library District" "Farmersville" "210 South Cleveland Street" "62533" "IL" -89.6515624 39.4425298
-"Farmington Area Library District" "Farmington" "266 East Fort Street" "61531" "IL" -90.0024364 40.6981453
-"Susie Wesley Memorial Library" "Flat Rock" "105 South Main St." "" "IL" -73.214984 44.4758308
-"Flora Public Library" "Flora" "216 North Main Street" "62839" "IL" -88.4863967 38.6698288
-"Flossmoor Public Library" "Flossmoor" "1000 Sterling Avenue" "60422" "IL" -87.6788215 41.544166
-"Ford Heights Public Library District" "Ford Heights" "800 East 14th Street" "" "IL" -73.9733092 40.7274275
-"Forest Park Public Library" "Forest Park" "7555 Jackson Boulevard" "60130" "IL" -87.8143675 41.876072
-"Forrest Public Library District" "Forrest" "301 West James Street" "61741" "IL" -88.4134079 40.753258
-"Forreston Public Library" "Forreston" "204 First Avenue" "61030" "IL" -89.5791485 42.1258223
-"Forsyth Public Library" "Forsyth" "268 South Elwood Street" "62535" "IL" -88.9504778 39.9332126
-"Fox Lake Public Library District" "Fox Lake" "255 East Grand Avenue" "60020" "IL" -88.1609536 42.3936466
-"Fox River Grove Memorial Library" "Fox River Grove" "407 Lincoln Avenue" "60021" "IL" -87.7638252 42.1361961
-"Frankfort Public Library District" "Frankfort" "21119 South Pfeiffer Road" "60423" "IL" -87.82798 41.5058703
-"Franklin Grove Public Library" "Franklin Grove" "112 South Elm Street" "61031" "IL" -89.2994802 41.8398999
-"Winifred Knox Memorial Library" "Franklin Grove" "112 S. Elm St." "" "IL" -94.3774034 42.0148695
-"Franklin Park Public Library District" "Franklin Park" "10311 Grand Avenue" "60131" "IL" -87.882749 41.9296705
-"Freeburg Area Library District" "Freeburg" "407 South Belleville Street" "62243" "IL" -89.911158 38.420085
-"Freeport Public Library" "Freeport" "100 East Douglas Street" "61032" "IL" -89.6206453 42.3004638
-"Schmaling Memorial Public Library District" "Fulton" "501 Tenth Avenue" "61252" "IL" -90.1645623 41.867169
-"Galatia Public Library District" "Galatia" "217 South Main Cross Street" "62935" "IL" -88.6119872 37.839616
-"Galena Public Library District" "Galena" "601 South Bench Street" "61036" "IL" -90.4318745 42.4120697
-"Galesburg Public Library" "Galesburg" "40 East Simmons Street" "61401" "IL" -90.3704054 40.9461009
-"Galva Public Library District" "Galva" "120 Northwest Third Avenue" "61434" "IL" -90.0458617 41.1677086
-"Geneseo Public Library District" "Geneseo" "218 South State Street" "61254" "IL" -90.1553222 41.4510913
-"Geneva Public Library District" "Geneva" "127 James Street" "60134" "IL" -88.3062212 41.886923
-"Genoa Public Library District" "Genoa" "232 West Main Street" "60135" "IL" -88.6943622 42.0972083
-"Georgetown Public Library" "Georgetown" "102 West West Street" "61846" "IL" -87.6357033 39.9753844
-"Germantown Public Library District" "Germantown" "403 Munster Street" "62245" "IL" -89.5385605 38.5537304
-"Moyer District Library" "Gibson City" "307 North Sangamon Avenue" "60936" "IL" -88.375361 40.4675968
-"Gillespie Public Library" "Gillespie" "201 West Chestnut Street" "62033" "IL" -89.8177006 39.1257581
-"Gilman-Danforth District Library" "Gilman" "715 North Maple Street" "60938" "IL" -87.9875947 40.7749771
-"Gilson Branch" "Gilson" "1261 Harding Street" "" "IL" -86.1873079 39.7499541
-"Girard Township Library" "Girard" "201 West Madison Street" "62640" "IL" -89.7792633 39.4454315
-"Glen Carbon Centennial Library" "Glen Carbon" "198 South Main Street" "62034" "IL" -89.9839208 38.7487112
-"Glen Ellyn Public Library" "Glen Ellyn" "400 Duane Street" "60137" "IL" -88.0706945 41.8756933
-"Glencoe Public Library" "Glencoe" "320 Park Avenue" "60022" "IL" -87.7577095 42.1337961
-"Glenside Public Library District" "Glendale Heights" "25 East Fullerton Avenue" "60139" "IL" -88.0897341 41.9167328
-"Glenview Public Library" "Glenview" "1930 Glenview Road" "60025" "IL" -87.806572 42.073192
-"Glenwood-Lynwood Public Library District" "Glenwood" "320 East Glenwood Lansing Road" "60425" "IL" -87.603989 41.542093
-"Golconda Public Library" "Golconda" "126 West Main Street" "62938" "IL" -88.4880794 37.3676804
-"Golden Branch" "Golden" "309 Quincy" "" "IL" -111.9553236 41.269739
-"Grand Tower Public Library" "Grand Tower" "111 Walnut Street" "62942" "IL" -89.5020539 37.6270474
-"Granite City Branch" "Granite City" "2145 Johnson Road" "" "IL" -84.0350306 37.1478725
-"Six Mile Regional Library District" "Granite City" "2001 Delmar Avenue" "62040" "IL" -90.1498158 38.7024916
-"Grant Park Public Library" "Grant Park" "107 West Taylor Street" "60940" "IL" -87.6454409 41.2411016
-"Granville Branch Library" "Granville" "212 S. Mccoy Street" "" "IL" -80.5018532 35.6878089
-"Grayslake Area Public Library District" "Grayslake" "100 Library Lane" "60030" "IL" -88.0362674 42.3466651
-"Grayville Carnegie Public Library" "Grayville" "110 West Mill Street" "62844" "IL" -87.9967553 38.2587598
-"Greenfield Public Library" "Greenfield" "515 Chestnut Street" "62044" "IL" -90.210954 39.3435302
-"Greenup Township Public Library" "Greenup" "101 North Franklin Street" "62428" "IL" -88.166776 39.2465916
-"Greenville Public Library" "Greenville" "414 West Main Street" "62246" "IL" -89.4147295 38.8919917
-"Gridley Public Library District" "Gridley" "320 Center Street" "61744" "IL" -88.8811553 40.7387873
-"Griggsville Public Library" "Griggsville" "119 South Corey Street" "62340" "IL" -90.7265565 39.7081481
-"Warren-Newport Public Library District" "Gurnee" "224 North Oplaine Road" "60031" "IL" -87.9153047 42.3632069
-"Hamilton Public Library" "Hamilton" "861 Broadway" "62341" "IL" -91.3471822 40.3931234
-"Hammond Branch" "Hammond" "1st Don Ryan Street" "" "IL" NA NA
-"Ella Johnson Memorial Public Library District" "Hampshire" "109 South State Street" "60140" "IL" -88.5297245 42.0988723
-"Hanover Township Library" "Hanover" "204 Jefferson Street" "61041" "IL" -90.2838798 42.2567021
-"Hanover Park Branch Library" "Hanover Park" "1570 Irving Park Road" "" "IL" -88.143937 42.0052772
-"Poplar Creek Hanover Park" "Hanover Park" "4300 Audrey Lane" "" "IL" -88.1622865 41.9513973
-"Harrisburg Public Library District" "Harrisburg" "2 West Walnut Street" "" "IL" -94.1341903 36.333763
-"Hartford Public Library District" "Hartford" "143 West Hawthorne Street" "62048" "IL" -90.0975782 38.8335844
-"Harvard Diggins Library" "Harvard" "900 East Mckinley Street" "60033" "IL" -88.6036164 42.4257202
-"Harvey Public Library District" "Harvey" "15441 Turlington Avenue" "60426" "IL" -87.6474189 41.6085209
-"Eisenhower Public Library District" "Harwood Heights" "4613 North Oketo Avenue" "60706" "IL" -87.8116205 41.9639866
-"Havana Public Library District" "Havana" "201 West Adams Street" "62644" "IL" -90.0622902 40.2989437
-"Grande Prairie Public Library District" "Hazel Crest" "3479 West 183rd Street" "60429" "IL" -87.7008828 41.5565227
-"Hecker Public Library" "Hecker" "151 West Monroe Street" "62248" "IL" -89.993231 38.305439
-"Hennepin Headquarters" "Hennepin" "214 N. Fourth Street" "" "IL" -82.9963889 39.96742
-"Putnam County Public Library District" "Hennepin" "214 North Fourth Street" "61327" "IL" -89.3425735 41.2539738
-"Henry Public Library" "Henry" "702 Front Street" "61537" "IL" -89.356656 41.10867
-"Herrick Township Public Library" "Herrick" "303 North Broadway Street" "62431" "IL" -88.9847289 39.2150663
-"Herrin City Library" "Herrin" "120 North 13th Street" "62948" "IL" -89.0249184 37.8040016
-"Heyworth Public Library District" "Heyworth" "119 East Main Street" "61745" "IL" -88.97666 40.3139
-"Louis Latzer Memorial Public Library" "Highland" "1001 Ninth Street" "62249" "IL" -89.6786802 38.7417596
-"Highland Park Public Library" "Highland Park" "494 Laurel Avenue" "60035" "IL" -87.7967708 42.1844931
-"Highwood Public Library" "Highwood" "102 Highwood Avenue" "60040" "IL" -87.8108397 42.202203
-"Hillsboro Public Library" "Hillsboro" "214 School Street" "62049" "IL" -89.4926302 39.1559579
-"Moore Memorial Library District" "Hillsdale" "509 Main Street" "61257" "IL" -90.1770669 41.613324
-"Hillside Public Library" "Hillside" "405 North Hillside Avenue" "60162" "IL" -87.9080362 41.8770042
-"Hinckley Public Library District" "Hinckley" "100 North Maple Street" "60520" "IL" -88.6393236 41.769605
-"Hinsdale Public Library" "Hinsdale" "20 East Maple Street" "60521" "IL" -87.9283676 41.8043857
-"Hodgkins Public Library District" "Hodgkins" "6500 Wenz Avenue" "60525" "IL" -87.8560552 41.7715371
-"Hoffman Area Branch Library" "Hoffman" "100 N. Broadway" "" "IL" -108.5924416 37.3496131
-"Hoffman Estates Branch Library" "Hoffman Estates" "1550 Hassell Road" "" "IL" -88.1183384 42.0631087
-"Homer Community Library" "Homer" "500 East Second Street" "61849" "IL" -87.952197 40.038624
-"Homer Township Public Library District" "Homer Glen" "14320 West 151st Street" "60491" "IL" -87.9674492 41.6142857
-"Hometown Public Library" "Hometown" "4331 Southwest Highway" "60456" "IL" -87.7299567 41.7285433
-"Homewood Public Library District" "Homewood" "17917 Dixie Highway" "60430" "IL" -87.6645186 41.5640125
-"Hoopeston Public Library District" "Hoopeston" "110 North Fourth Street" "60942" "IL" -87.6652997 40.4681854
-"Pembroke Public Library District" "Hopkins Park" "13795 East Central Street" "60944" "IL" -87.6035535 41.0672175
-"Hudson Area Public Library District" "Hudson" "104 Pearl Street" "61748" "IL" -88.9892798 40.6041505
-"Kinderhook Township Public Library District" "Hull" "665 Southwest Lee Evans Drive" "62343" "IL" -91.2061502 39.7065146
-"Huntley Area Public Library District" "Huntley" "11000 Ruth Road" "60142" "IL" -88.4117046 42.1696853
-"Hutsonville Public Library" "Hutsonville" "104 South Main," "" "IL" -73.2151681 44.4758496
-"Illiopolis-Niantic Public Library District" "Illiopolis" "401 Sixth And Mary Street" "62539" "IL" -89.2406466 39.8533531
-"Irvington Branch Library" "Irvington" "500 Superior" "" "IL" -84.7687199 44.3111333
-"Itasca Community Library" "Itasca" "500 West Irving Park Road" "60143" "IL" -88.020002 41.970777
-"Jacksonville Public Library" "Jacksonville" "201 West College Avenue" "62650" "IL" -90.2299792 39.7324667
-"Jerseyville Public Library" "Jerseyville" "105 North Liberty Street" "62052" "IL" -90.3300978 39.1187958
-"Johnsburg Public Library District" "Johnsburg" "3000 North Johnsburg Road" "60051" "IL" -88.2364051 42.3818591
-"Johnston City Public Library" "Johnston City" "506 Washington Avenue" "62951" "IL" -88.9266411 37.8160052
-"Black Road Branch" "Joliet" "3395 W. Black Road" "" "IL" -85.4489334 38.7673724
-"Joliet Public Library" "Joliet" "150 North Ottawa Street" "60432" "IL" -88.0823566 41.5271411
-"Jpl West Outlet" "Joliet" "1244 Louis Joliet Mall" "" "IL" -73.6157311 45.4305206
-"Jonesboro Public Library" "Jonesboro" "412 South Main Street" "62952" "IL" -89.2681032 37.4467834
-"Justice Public Library District" "Justice" "7641 South Oak Grove Avenue" "60458" "IL" -87.8400325 41.7514707
-"Kaneville Public Library District" "Kaneville" "2 South 101 Harter Road" "60144" "IL" -88.5219054 41.835621
-"Kankakee Public Library" "Kankakee" "201 East Merchant Street" "60901" "IL" -87.8633507 41.1190432
-"Limestone Township Library" "Kankakee" "2701 West Tower Road" "60901" "IL" -87.927733 41.140721
-"Kansas Community Memorial Library" "Kansas" "107 North Front Street" "61933" "IL" -87.9395511 39.5522553
-"Kansas Community Memorial Library" "Kansas" "107 N. Front St." "" "IL" -78.223 40.8963729
-"Kewanee Public Library District" "Kewanee" "102 South Tremont Street" "61443" "IL" -89.9259282 41.2431901
-"Kinmundy Public Library" "Kinmundy" "111 South Monroe Street" "62854" "IL" -88.850249 38.7732252
-"Kirkland Public Library" "Kirkland" "513 West Main Street" "60146" "IL" -88.8502309 42.0928929
-"Kirkwood Branch Library" "Kirkwood" "134 South Kirk" "" "IL" -83.562495 43.4924636
-"Knoxville Public Library" "Knoxville" "200 East Main Street" "61448" "IL" -90.2827336 40.9079645
-"Lasalle Public Library" "La Salle" "305 Marquette Street" "61301" "IL" -89.096045 41.33047
-"Lacon Public Library District" "Lacon" "205 Sixth Street" "61540" "IL" -89.4120705 41.0258246
-"Ladd Public Library District" "Ladd" "125 North Main Street" "61329" "IL" -89.2191095 41.3818712
-"Ladd Public Library District" "Ladd" "125 N. Main St." "" "IL" -73.2139521 44.4758756
-"Ira C. Reed Public Library" "Lafayette" "302 Commercial Street" "61449" "IL" -89.9727262 41.109524
-"Lagrange Public Library" "Lagrange" "10 West Cossitt Avenue" "60525" "IL" -87.8700424 41.8121886
-"Lagrange Park Public Library District" "Lagrange Park" "555 North La Grange Road" "60526" "IL" -87.8712429 41.8249521
-"Laharpe Carnegie Public Library District" "Laharpe" "209 East Main Street" "61450" "IL" -90.9679543 40.5834852
-"Lake Bluff Public Library" "Lake Bluff" "123 East Scranton Avenue" "60044" "IL" -87.8430104 42.2794177
-"Lake Forest Library" "Lake Forest" "360 East Deerpath Road" "60045" "IL" -87.838115 42.252502
-"Lake Villa Public Library District" "Lake Villa" "1001 East Grand Avenue" "60046" "IL" -88.0581001 42.4141103
-"Ela Area Public Library District" "Lake Zurich" "275 Mohawk Trail" "60047" "IL" -88.0886145 42.1946974
-"Lamoille-Clarion Public Library District" "Lamoille" "81 Main Street" "61330" "IL" -89.2796782 41.5336058
-"Lanark Public Library" "Lanark" "110 West Carroll Street" "61046" "IL" -89.8331047 42.102941
-"Lanark Public Library" "Lanark" "110 W Carroll St" "" "IL" -81.4050237 28.3262214
-"Lansing Public Library" "Lansing" "2750 Indiana Avenue" "60438" "IL" -87.5495843 41.5660981
-"Lawrence Public Library District" "Lawrenceville" "814 Twelfth Street" "62439" "IL" -87.6829072 38.7279676
-"Bertolet Memorial Library District" "Leaf River" "705 Main Street" "61047" "IL" -89.4039197 42.1193523
-"Lebanon Public Library" "Lebanon" "314 West Saint Louis Street" "62254" "IL" -89.8110278 38.603791
-"Lemont Public Library District" "Lemont" "50 East Wend Street" "60439" "IL" -88.00364 41.6579454
-"Lena Community District Library" "Lena" "300 West Mason Street" "61048" "IL" -89.8277794 42.3788194
-"Lewistown Carnegie Public Library District" "Lewistown" "321 West Lincoln Avenue" "61542" "IL" -90.1571674 40.3965533
-"Lexington Public Library District" "Lexington" "207 South Cedar Street" "61753" "IL" -88.7832635 40.6405705
-"Cook Memorial Public Library District" "Libertyville" "413 North Milwaukee Avenue" "60048" "IL" -87.956164 42.287088
-"Lincoln Public Library" "Lincoln" "725 Pekin St." "" "IL" -89.361148 40.1468455
-"Lincoln Public Library District" "Lincoln" "725 Pekin Street" "62656" "IL" -89.361148 40.1468455
-"Vernon Area Public Library District" "Lincolnshire" "300 Olde Half Day Road" "60069" "IL" -87.9366437 42.1986666
-"Lincolnwood Public Library District" "Lincolnwood" "4000 West Pratt Avenue" "60712" "IL" -87.7292553 42.004755
-"Lisle Library District" "Lisle" "777 Front Street" "60532" "IL" -88.0669568 41.7964256
-"Litchfield Carnegie Public Library" "Litchfield" "400 North State Street" "62056" "IL" -89.6553971 39.1772665
-"Littleton Branch" "Littleton" "110 Center St" "" "IL" -72.523521 41.774779
-"Lockport Branch Library" "Lockport" "121 East Eighth Street" "60441" "IL" -88.0560954 41.5899456
-"A. Herr Smith E.E. Smith Library" "Loda" "105 East Adams" "60948" "IL" -88.070237 40.5175243
-"Logan Reading Center" "Logan" "6342 Main Street" "" "IL" -78.7163276 42.9661655
-"Helen M. Plum Memorial Library" "Lombard" "110 West Maple Street" "60148" "IL" -88.0202818 41.8841788
-"Lostant Community Library" "Lostant" "102 West Third Street" "61334" "IL" -89.0595215 41.1417204
-"North Suburban Public Library District" "Loves Park" "6340 North Second Street" "61111" "IL" -89.0585791 42.3227489
-"Lovington Public Library District" "Lovington" "110 West State Street" "61937" "IL" -88.6329438 39.7157486
-"Lyons Public Library" "Lyons" "4209 Joliet Avenue" "60534" "IL" -87.8204254 41.8149439
-"Mackinaw District Public Library" "Mackinaw" "117 South Main Street" "61755" "IL" -89.3591851 40.5359543
-"Macomb Public Library District" "Macomb" "235 South Lafayette Street" "61455" "IL" -90.6715626 40.456643
-"South Macon Public Library District" "Macon" "451 West Glenn Street" "62544" "IL" -89.0051853 39.7071947
-"Madison Public Library" "Madison" "1700 Fifth Street" "62060" "IL" -90.1521178 38.6809127
-"Magnolia Branch" "Magnolia" "114 N. Chicago Street" "" "IL" -87.5198964 41.6284246
-"Mahomet Public Library District" "Mahomet" "512 East Main Street" "61853" "IL" -88.401383 40.194803
-"Malta Township Public Library" "Malta" "203 East Adams" "60150" "IL" -88.8633735 41.9298345
-"Manhattan Public Library District" "Manhattan" "240 Whitson Street" "60442" "IL" -87.984128 41.421839
-"Forman Valley Public Library District" "Manito" "404 1-2 South Harrison Street" "61546" "IL" -89.7802605 40.4209811
-"Manito Public Library District" "Manito" "404 1-2 S. Harrison" "" "IL" -87.4082712 39.462375
-"Blue Ridge Township Public Library" "Mansfield" "101 West Oliver Street" "61854" "IL" -88.5062798 40.2114601
-"Manteno Public Library District" "Manteno" "50 West Division Street" "60950" "IL" -87.8360547 41.2491494
-"Maple Park Public Library District" "Maple Park" "302 Willow Street" "60151" "IL" -88.5999978 41.9061756
-"Maquon Public Library District" "Maquon" "210 Main Street" "61458" "IL" -90.1649848 40.798994
-"Marengo Public Library District" "Marengo" "200 South State Street" "60152" "IL" -88.6086363 42.2491713
-"Crab Orchard Public Library District" "Marion" "20012 Crab Orchard Road" "62959" "IL" -88.7892103 37.7308573
-"Marion Carnegie Library" "Marion" "206 South Market Street" "62959" "IL" -88.9276414 37.7294981
-"Marissa Area Public Library District" "Marissa" "212 North Main Street" "62257" "IL" -89.7541009 38.24691
-"Bradford Anderson Oglesby Public Library" "Markham" "16640 South Kedzie Avenue" "60428" "IL" -87.6949353 41.5866984
-"Maroa Public Library District" "Maroa" "305 East Garfield Street" "61756" "IL" -88.9532765 40.0339173
-"Marquette Heights Public Library" "Marquette Heights" "715 Lincoln Road" "61554" "IL" -89.6027623 40.6156684
-"Marseilles Public Library" "Marseilles" "155 East Bluff Street" "61341" "IL" -88.708179 41.3306954
-"Marshall Public Library" "Marshall" "612 Archer Avenue" "62441" "IL" -87.6954751 39.3908129
-"Martinsville Public Library District" "Martinsville" "120 East Cumberland Street" "62442" "IL" -87.8792237 39.3341285
-"Maryville Community Library District" "Maryville" "8 Schiber Court" "62062" "IL" -89.9497989 38.7308704
-"Mascoutah Public Library" "Mascoutah" "3 West Church Street" "62258" "IL" -89.7978979 38.4914488
-"Mason City Public Library District" "Mason City" "820 West Chestnut Street" "62664" "IL" -89.7134643 40.2023853
-"Matherville Branch" "Matherville" "1376 252nd Street" "" "IL" -97.3827885 43.7316938
-"Matteson Public Library" "Matteson" "801 South School Avenue" "60443" "IL" -87.7251478 41.5127986
-"Mattoon Public Library" "Mattoon" "1600 Charleston Avenue" "61938" "IL" -88.3742274 39.4819077
-"Maywood Public Library District" "Maywood" "121 South Fifth Avenue" "60153" "IL" -87.8385126 41.887358
-"Mccook Public Library District" "Mccook" "8419 West 50th Street" "60525" "IL" -87.8312511 41.8003322
-"Mchenry Nunda Public Library District" "Mchenry" "813 West Il Route 120" "60051" "IL" -88.2137678 42.3346144
-"Mchenry Public Library District" "Mchenry" "809 North Front Street" "60050" "IL" -88.2755992 42.3393805
-"Mount Hope-Funks Grove Townships Public Library District" "Mclean" "111 South Hamilton Street" "61754" "IL" -89.1711269 40.3151774
-"Mccoy Memorial Library" "Mcleansboro" "118 South Washington Street" "62859" "IL" -88.536576 38.0937684
-"Mcnabb Branch Library" "Mcnabb" "322. W. Main" "" "IL" -92.9402951 35.2419585
-"Melrose Park Public Library" "Melrose Park" "801 North Broadway Street" "60160" "IL" -87.8562227 41.8943532
-"Melvin Public Library" "Melvin" "102 South Center Street" "60952" "IL" -88.2495051 40.5686772
-"Four Star Public Library District" "Mendon" "132 West South Street" "62351" "IL" -91.284958 40.088527
-"Graves-Hume Public Library District" "Mendota" "1401 West Main Street" "61342" "IL" -89.1205293 41.555249
-"M-C River Valley Public Library District" "Meredosia" "304 Main Street" "62665" "IL" -90.5609985 39.8309146
-"Germantown Hills Branch" "Metamora" "101 Warrior Way" "" "IL" -74.3340327 42.5904641
-"Illinois Prairie District Public Library" "Metamora" "208 East Partridge Street" "61548" "IL" -89.3613095 40.79125
-"Metropolis Public Library" "Metropolis" "317 Metropolis Street" "62960" "IL" -88.731687 37.149261
-"Midlothian Public Library" "Midlothian" "14701 South Kenton Avenue" "60445" "IL" -87.7319451 41.624978
-"Coyne Center Branch" "Milan" "11310 16th Street" "" "IL" -90.7657559 42.0473242
-"Milford District Library" "Milford" "2 South Grant Avenue" "60953" "IL" -87.6931054 40.628389
-"Wysox Township Public Library" "Milledgeville" "18 West Fifth Street" "61051" "IL" -89.7747945 41.9638194
-"Millstadt Library" "Millstadt" "115 West Laurel Street" "62260" "IL" -90.093127 38.4589786
-"Mineral-Gold Public Library District" "Mineral" "120 East Main Street" "61344" "IL" -89.8371421 41.3823207
-"H.A. Peine District Library" "Minier" "202 North Main Street" "61759" "IL" -89.3146991 40.4322102
-"Filger Public Library" "Minonk" "261 East Fifth Street" "61760" "IL" -89.0326299 40.9018404
-"Minooka Branch" "Minooka" "109 N Wabena St" "" "IL" -88.2619735 41.4563088
-"Mokena Community Public Library District" "Mokena" "11327 West 195th Street" "60448" "IL" -87.8916902 41.5344526
-"Moline Public Library" "Moline" "3210 41st Street" "61265" "IL" -90.4781787 41.4810701
-"Southeast Library" "Moline" "504 - 17th Street" "" "IL" -104.9892793 39.7448324
-"Edward Chipman Public Library" "Momence" "126 North Locust Street" "60954" "IL" -87.66082 41.163939
-"Warren County Public Library District" "Monmouth" "62 Public Square" "61462" "IL" -90.6485487 40.9114026
-"Allerton Public Library" "Monticello" "201 N. State Street" "" "IL" -111.6971979 40.3009918
-"Monticello Township Library" "Monticello" "201 North State Street" "61856" "IL" -88.5714942 40.0263659
-"Morris Area Public Library District" "Morris" "604 Liberty Street" "60450" "IL" -88.4239172 41.3611745
-"Odell Public Library" "Morrison" "307 South Madison Street" "61270" "IL" -89.9661605 41.8056862
-"Kitchell Memorial Library" "Morrisonville" "300 South East 5th Street" "62546" "IL" -89.4539316 39.4175086
-"Morton Public Library District" "Morton" "315 West Pershing Street" "61550" "IL" -89.4634221 40.6124981
-"Morton Grove Public Library" "Morton Grove" "6140 Lincoln Avenue" "60053" "IL" -88.0707589 41.7746385
-"Mound City Public Library" "Mound City" "224 High Street" "62963" "IL" -89.1658074 37.0847354
-"Mounds Public Library" "Mounds" "418 First Street" "62964" "IL" -89.1978576 37.1143031
-"Mount Carmel Public Library" "Mount Carmel" "727 North Mulberry Street" "62863" "IL" -87.761717 38.4141764
-"Mount Carroll Township Public Library" "Mount Carroll" "208 North Main Street" "61053" "IL" -89.9788474 42.1000925
-"Mount Morris Public Library" "Mount Morris" "105 South Mckendrie Avenue" "61054" "IL" -89.4319143 42.0476851
-"Mount Olive Public Library" "Mount Olive" "100 North Plum Street" "62069" "IL" -89.726022 39.075998
-"Mount Prospect Public Library" "Mount Prospect" "10 South Emerson Street" "60056" "IL" -87.9360653 42.0656567
-"Mount Pulaski Public Library District" "Mount Pulaski" "320 North Washington Street" "62548" "IL" -89.2852096 40.0118817
-"Brown County Public Library District" "Mount Sterling" "143 West Main Street" "62353" "IL" -90.765928 39.9859301
-"C.E. Brehm Memorial Public Library District" "Mount Vernon" "101 South Seventh Street" "62864" "IL" -88.8994427 38.3175847
-"Mount Zion Public Library District" "Mount Zion" "115 West Main Street" "62549" "IL" -88.8720971 39.7695516
-"Moweaqua Public Library District" "Moweaqua" "600 North Putnam Street" "62550" "IL" -89.0146322 39.6312709
-"Moweaqua Public Library District" "Moweaqua" "122 North Main St" "" "IL" -73.2142267 44.4758907
-"Fremont Public Library District" "Mundelein" "1170 North Midlothian Road" "60060" "IL" -88.0201982 42.2821112
-"Sallie Logan Public Library" "Murphysboro" "1808 Walnut Street" "62966" "IL" -89.3429326 37.7646457
-"95th Street Library (Nsl)" "Naperville" "3015 Cedar Glade Dr." "" "IL" -92.1798665 35.1802893
-"Naper Boulevard Library" "Naperville" "2035 S. Naper Blvd." "" "IL" -88.1180793 41.7297912
-"Naperville Public Library" "Naperville" "200 West Jefferson Avenue" "60540" "IL" -88.1519347 41.772304
-"Nichols Library" "Naperville" "200 W. Jefferson Ave." "" "IL" -83.171085 42.168684
-"Nashville Public Library" "Nashville" "219 East Elm Street" "62263" "IL" -89.3815045 38.3445293
-"Nauvoo Public Library" "Nauvoo" "1270 Mulholland Street" "62354" "IL" -91.3824517 40.5497048
-"Neoga Public Library District" "Neoga" "550 Chestnut Avenue" "62447" "IL" -88.4527573 39.3207767
-"Neponset Public Library" "Neponset" "201 West Commerical Street" "61345" "IL" -89.7908564 41.2965088
-"New Athens District Library" "New Athens" "201 North Van Buren Street" "62264" "IL" -89.87806 38.32678
-"New Baden Public Library" "New Baden" "210 North First Street" "62265" "IL" -89.6997033 38.5375758
-"West Sangamon Public Library District" "New Berlin" "103 East Illinois Street" "62670" "IL" -89.91219 39.7248109
-"New Lenox Public Library District" "New Lenox" "120 Veterans Parkway" "60451" "IL" -87.9787177 41.5137002
-"New Windsor Public Library District" "New Windsor" "412 Main Street" "61465" "IL" -90.4415603 41.2023998
-"Charles B. Phillips Public Library District" "Newark" "6 North Jackson Street" "60541" "IL" -88.5822972 41.5370643
-"Newman Regional Library District" "Newman" "108 West Yates Street" "61942" "IL" -87.9862833 39.7976231
-"Newton Public Library District" "Newton" "100 South Van Buren Street" "62448" "IL" -88.1612047 38.9908645
-"Niles Public Library District" "Niles" "6960 Oakton Street" "60714" "IL" -87.8010584 42.0264488
-"Nokomis Public Library" "Nokomis" "22 South Cedar Street" "62075" "IL" -89.2875886 39.3001179
-"Normal Public Library" "Normal" "206 West College Avenue" "61761" "IL" -88.9866075 40.5106271
-"Norris City Memorial Public Library District" "Norris City" "603 South Division Street" "62869" "IL" -88.3288567 37.9762436
-"Messenger Public Library Of North Aurora" "North Aurora" "113 Oak Street" "60542" "IL" -88.3286094 41.8090875
-"North Chicago Public Library" "North Chicago" "2100 Argonne Drive" "60064" "IL" -87.857754 42.3256159
-"North Riverside Public Library District" "North Riverside" "2400 South Des Plaines Avenue" "60546" "IL" -87.8237382 41.8462419
-"Northbrook Public Library" "Northbrook" "1201 Cedar Lane" "60062" "IL" -87.8309149 42.1305109
-"Northfield Branch" "Northfield" "1785 Orchard Lane" "" "IL" -97.1058275 31.5670897
-"Northlake Public Library District" "Northlake" "231 North Wolf Road" "60164" "IL" -87.9029311 41.911359
-"Oak Brook Public Library" "Oak Brook" "600 Oak Brook Road" "60523" "IL" -87.9370594 41.8337423
-"Acorn Public Library District" "Oak Forest" "15624 South Central Avenue" "60452" "IL" -87.7567452 41.607367
-"Oak Lawn Public Library" "Oak Lawn" "9427 South Raymond Avenue" "60453" "IL" -87.7523404 41.7203713
-"Dole Branch Library" "Oak Park" "255 Augusta" "" "IL" -98.6079374 29.8485133
-"Maze Branch Library" "Oak Park" "845 South Gunderson" "" "IL" -124.1322271 46.9573134
-"Oak Park Public Library" "Oak Park" "834 Lake Street" "60301" "IL" -87.7963412 41.8891681
-"Oakwood Public Library District" "Oakwood" "110 East Finley Street" "61858" "IL" -87.7770964 40.1148183
-"Odell Public Library District" "Odell" "301 East Richard Street" "60460" "IL" -88.5220445 41.0030669
-"Ofallon Public Library" "Ofallon" "120 Civic Plaza" "62269" "IL" -89.9132779 38.581801
-"Ogden Rose Public Library" "Ogden" "103 West Main Street" "61859" "IL" -87.956342 40.11419
-"Oglesby Public Library District" "Oglesby" "111 South Woodland Avenue" "61348" "IL" -89.0625093 41.293959
-"Ohio Public Library District" "Ohio" "112 North Main Street" "61349" "IL" -89.4617239 41.5581051
-"Dodge Memorial Public Library District" "Olive Branch" "22440 Railroad Street" "62969" "IL" -117.1416179 47.4497694
-"Olmsted Public Library" "Olmsted" "160 North Front Street" "62970" "IL" -89.0882583 37.1814701
-"Olney Public Library" "Olney" "400 West Main Street" "62450" "IL" -88.0895323 38.730909
-"Onarga Community Public Library District" "Onarga" "209 West Seminary Avenue" "60955" "IL" -88.0088075 40.7151759
-"Greig Memorial Library" "Oneida" "110 South Joy Street" "61467" "IL" -90.22214 41.072083
-"Oneida Greig Memorial Library" "Oneida" "110 S. Joy Street" "" "IL" -90.22214 41.072083
-"Oreana Public Library" "Oreana" "100 South Route 48" "62554" "IL" -88.8678941 39.9363398
-"Oregon Public Library District" "Oregon" "300 Jefferson Street" "61061" "IL" -89.3316929 42.0135546
-"Western District Library" "Orion" "1111 Fourth Street" "61273" "IL" -90.381071 41.353121
-"Orland Park Public Library" "Orland Park" "14921 South Ravinia Avenue" "60462" "IL" -87.8563805 41.6188585
-"Oswego Public Library District" "Oswego" "32 West Jefferson Street" "60543" "IL" -88.3508496 41.6852048
-"Reddick Public Library District" "Ottawa" "1010 Canal Street" "61350" "IL" -88.8458713 41.3500594
-"Palatine Public Library District" "Palatine" "700 North North Court" "60067" "IL" -88.0368146 42.1219889
-"Rand Road Branch" "Palatine" "1585 Rand Road" "" "IL" -87.88388 42.0461042
-"Palestine Public Library District" "Palestine" "116 South Main Street" "62451" "IL" -87.6128048 39.002632
-"Palos Heights Public Library" "Palos Heights" "12501 South 71st Avenue" "60463" "IL" -87.7938479 41.6639663
-"Green Hills Public Library District" "Palos Hills" "8611 West 103rd Street" "60465" "IL" -87.8321292 41.703265
-"Palos Park Public Library" "Palos Park" "12330 South Forest Glen Boulevard" "60464" "IL" -87.5816847 33.3097212
-"Carnegie-Schuyler Library" "Pana" "303 East Second Street" "62557" "IL" -89.0786032 39.3886087
-"Paris Carnegie Public Library" "Paris" "207 South Main Street" "61944" "IL" -87.6949452 39.6128488
-"Park Forest Public Library" "Park Forest" "400 Lakewood Boulevard" "60466" "IL" -87.6847386 41.4850966
-"Park Ridge Public Library" "Park Ridge" "20 South Prospect Avenue" "60068" "IL" -87.8305081 42.0106828
-"Patoka Public Library" "Patoka" "210 West Bond Street" "62875" "IL" -89.0969745 38.7540562
-"Paw Paw Public Library District" "Paw Paw" "362 Chicago Road" "61353" "IL" -88.9821284 41.6886263
-"Pawnee Public Library" "Pawnee" "613 Douglas Street" "62558" "IL" -89.5804135 39.5918039
-"Paxton Carnegie Library" "Paxton" "254 South Market Street" "60957" "IL" -88.0985488 40.4588634
-"Pearl City Public Library District" "Pearl City" "221 South Main Street" "61062" "IL" -89.826186 42.2658066
-"Pecatonica Public Library District" "Pecatonica" "400 West Eleventh Street" "61063" "IL" -89.3639828 42.3048441
-"Pekin Public Library" "Pekin" "301 South Fourth Street" "61554" "IL" -89.6480935 40.5675863
-"Lakeview Branch Library" "Peoria" "1137 W. Lake Ave." "" "IL" -89.6118772 40.7410119
-"Lincoln Branch Library" "Peoria" "1312 W. Lincoln Ave" "" "IL" -96.0985434 46.2838052
-"Mcclure Branch Library" "Peoria" "315 W. Mcclure Ave." "" "IL" -89.5343636 37.8723268
-"Peoria Public Library" "Peoria" "107 Northeast Monroe Street" "61602" "IL" -89.5924468 40.695347
-"Riverwest Library" "Peoria" "312 S. Merriman" "" "IL" -79.297147 33.370531
-"South Side Library" "Peoria" "2605 W. Krause Ave." "" "IL" -89.6345437 40.6668404
-"Peoria Heights Public Library" "Peoria Heights" "816 East Glen Avenue" "61616" "IL" -89.5808345 40.7459459
-"Peotone Public Library District" "Peotone" "515 North First Street" "60468" "IL" -87.7919552 41.3381622
-"Percy Reading Center" "Percy" "307 West Pine" "" "IL" -81.8831814 31.6093578
-"Peru Public Library" "Peru" "1409 Eleventh Street" "61354" "IL" -89.1244943 41.3340405
-"Petersburg Public Library" "Petersburg" "220 South Sixth Street" "62675" "IL" -89.8483373 40.0100985
-"Philo Public Library District" "Philo" "115 East Washington Street" "61864" "IL" -88.156931 40.006672
-"Pinckneyville Public Library" "Pinckneyville" "312 South Walnut Street" "62274" "IL" -89.3827413 38.0769812
-"Piper City Public Library District" "Piper City" "39 West Main Street" "60959" "IL" -88.1915312 40.7587881
-"Pittsburg Branch Library" "Pittsburg" "302 W. Avery St." "" "IL" -87.2234502 30.4300925
-"Pittsfield Public Library" "Pittsfield" "205 North Memorial Street" "62363" "IL" -90.8075769 39.6079929
-"Plainfield Public Library District" "Plainfield" "15025 South Illinois Street" "60544" "IL" -88.2032543 41.6090836
-"Plano Community Library District" "Plano" "15 West North Street" "60545" "IL" -88.53812 41.6631518
-"Pleasant Plains Branch" "Pleasant Plains" "555 Buckeye Rd" "" "IL" -82.8722215 32.5568748
-"Plymouth Branch" "Plymouth" "103 Main" "" "IL" 34.1183674 -15.8802138
-"Polo Public Library District" "Polo" "302 West Mason Street" "61064" "IL" -89.5802405 41.9861684
-"Pontiac Public Library" "Pontiac" "211 East Madison Street" "61764" "IL" -88.6274297 40.8803544
-"River Valley District Library" "Port Byron" "214 South Main Street" "61275" "IL" -90.335932 41.604877
-"Matson Public Library" "Princeton" "15 Park Avenue West" "" "IL" -82.5163034 40.7585675
-"Princeton Public Library" "Princeton" "698 East Peru Street" "61356" "IL" -89.4530484 41.3715197
-"Lillie M. Evans Library District" "Princeville" "207 North Walnut Avenue" "61559" "IL" -89.7564454 40.931208
-"Henry C. Adams Memorial Library" "Prophetstown" "209 West Third Street" "61277" "IL" -89.9375804 41.6714088
-"Prospect Heights Public Library District" "Prospect Heights" "12 North Elm Street" "60070" "IL" -87.9425968 42.0967174
-"Putnam (Condit) Branch" "Putnam" "105 W. Center Street" "" "IL" -79.2681185 36.096361
-"Quincy Public Library" "Quincy" "526 Jersey Street" "62301" "IL" -91.4074804 39.9298907
-"York Street Branch" "Quincy" "639 York Street" "" "IL" -104.9602056 39.7263829
-"Ramsey Public Library" "Ramsey" "401 South Superior Street" "62080" "IL" -89.108296 39.1472815
-"Rantoul Public Library" "Rantoul" "106 West Flessner Avenue" "61866" "IL" -88.159599 40.294334
-"Doyle Public Library District" "Raymond" "109 South Obannon Street" "62560" "IL" -89.5744243 39.3214614
-"Red Bud Public Library" "Red Bud" "925 South Main Street" "62278" "IL" -89.993971 38.2036423
-"Nippersink Public Library District" "Richmond" "5418 Hill Road" "60071" "IL" -88.3043498 42.4652509
-"Richton Park Public Library District" "Richton Park" "4045 Sauk Trail" "60471" "IL" -87.715659 41.483781
-"Elwood Township Carnegie Library" "Ridge Farm" "104 North State Street" "61870" "IL" -87.6517087 39.8971909
-"River Forest Public Library" "River Forest" "735 Lathrop Avenue" "60305" "IL" -87.8149199 41.8935074
-"River Grove Public Library District" "River Grove" "8638 West Grand Avenue" "60171" "IL" -87.842035 41.9297349
-"Riverdale Public Library District" "Riverdale" "208 West 144th Street" "60827" "IL" -87.6274093 41.6331869
-"Riverside Public Library" "Riverside" "1 Burling Road" "60546" "IL" -87.8191342 41.8265188
-"Riverton Village Library" "Riverton" "1200 East Riverton Road" "62561" "IL" -89.5386139 39.8598744
-"Roanoke Branch" "Roanoke" "123 East Broad Street" "" "IL" -77.4404923 37.5444227
-"William Leonard Public Library District" "Robbins" "13820 Central Park Avenue" "60472" "IL" -87.7090417 41.6413945
-"Robinson Public Library District" "Robinson" "606 North Jefferson Street" "62454" "IL" -87.7382251 39.0103013
-"Flagg-Rochelle Public Library District" "Rochelle" "619 Fourth Avenue" "61068" "IL" -89.06846 41.9231263
-"Rochester Public Library District" "Rochester" "1 Community Drive" "62563" "IL" -89.5265713 39.7447821
-"Rock Falls Public Library District" "Rock Falls" "1007 Seventh Avenue" "61071" "IL" -89.697532 41.7723898
-"Rock Island 30-31 Branch" "Rock Island" "3059 30th Street" "" "IL" -117.1293127 32.7373062
-"Rock Island Public Library" "Rock Island" "401 Nineteenth Street" "61201" "IL" -90.5727919 41.5085083
-"Rock Island Southwest Branch" "Rock Island" "9010 Ridgewood Road" "" "IL" -90.594784 41.429262
-"Lewis Lemon Branch" "Rockford" "1988 West Jefferson Street" "" "IL" -85.7841817 38.2568321
-"Montague Branch" "Rockford" "1238 South Winnebago Street" "" "IL" -93.5276543 43.40781
-"Northeast Branch" "Rockford" "320 North Alpine Road" "" "IL" -89.029039 42.2684729
-"Rock River Branch" "Rockford" "3128 11th Street" "" "IL" -89.071004 42.2274768
-"Rockford Public Library" "Rockford" "215 North Wyman Street" "61101" "IL" -89.0924467 42.2720571
-"Rockton Centre Branch" "Rockford" "3114 North Rockton Avenue" "" "IL" -89.0968625 42.3060111
-"Talcott Free Library District" "Rockton" "101 East Main Street" "61072" "IL" -89.0721491 42.4527869
-"Biblioteca Del Centro" "Rolling Meadows" "2268 Algonquin Road" "" "IL" -88.3318746 42.1757584
-"Rolling Meadows Library" "Rolling Meadows" "3110 Martin Lane" "60008" "IL" -88.0212873 42.0764648
-"Romeoville Branch Library" "Romeoville" "201 West Normantown Road" "" "IL" -88.0855395 41.6541026
-"Roodhouse Public Library" "Roodhouse" "220 West Franklin Street" "62082" "IL" -90.3722925 39.4823652
-"North Suburban Library-Roscoe" "Roscoe" "5562 Cayton Circle" "" "IL" -95.3129515 29.6508005
-"Roselle Public Library District" "Roselle" "40 South Park Street" "60172" "IL" -88.0760734 41.9826413
-"Roseville Branch Library" "Roseville" "145 West Penn" "" "IL" -91.8632114 41.1468493
-"Rosiclare Memorial Public Library" "Rosiclare" "po box 10" "62982" "IL" -88.372493 37.4249627
-"Round Lake Area Public Library District" "Round Lake" "906 Hart Road" "60073" "IL" -88.1058118 42.3577488
-"Roxana Public Library District" "Roxana" "200 North Central Avenue" "62084" "IL" -90.0792968 38.8488377
-"Royalton Public Library District" "Royalton" "305 South Dean Street" "62983" "IL" -89.1154613 37.8779222
-"Rushville Public Library" "Rushville" "104 North Monroe Street" "62681" "IL" -90.5651257 40.120692
-"St. Elmo Public Library District" "Saint Elmo" "311 West Cumberland Road" "62458" "IL" -88.8513834 39.0229965
-"St. Joseph Township-Swearingen Memorial Library" "Saint Joseph" "201 North Third Street" "61873" "IL" -88.040758 40.112502
-"Bryan-Bennett Library" "Salem" "217 West Main Street" "62881" "IL" -88.946839 38.6270504
-"Sandoval Branch Library" "Sandoval" "101 N. Broadway" "" "IL" -108.593004 37.349928
-"Sandwich District Library" "Sandwich" "107 East Center Street" "60548" "IL" -88.620334 41.645993
-"Nancy L. Mcconathy Public Library District" "Sauk Village" "21737 Jeffrey Avenue" "60411" "IL" -87.573797 41.4917018
-"Savanna Public Library District" "Savanna" "326 Third Street" "61074" "IL" -90.1553165 42.0938311
-"Cheneys Grove Township Library" "Saybrook" "204 South State Street" "61770" "IL" -88.5288388 40.425545
-"Schaumburg Township District Library" "Schaumburg" "130 South Roselle Road" "60193" "IL" -88.083314 42.025461
-"Schiller Park Public Library" "Schiller Park" "4200 Old River Road" "60176" "IL" -87.8609969 41.9555986
-"Seaton Public Library District" "Seaton" "201 Maple Street" "61476" "IL" -90.8019364 41.1017667
-"Seneca Public Library District" "Seneca" "210 North Main Street" "61360" "IL" -88.6099824 41.3151204
-"Sesser Public Library" "Sesser" "303 West Franklin Street" "62884" "IL" -89.0526578 38.0917059
-"Flewellin Memorial Library" "Shabbona" "108 West Comanche" "60550" "IL" -88.873383 41.768143
-"Shawneetown Public Library" "Shawneetown" "320 North Lincoln Boulevard" "62984" "IL" -88.1867704 37.714712
-"Sheffield Public Library" "Sheffield" "136 East Cook Street" "61361" "IL" -89.7367627 41.3564543
-"Shelbyville Public Library" "Shelbyville" "154 North Broadway Street" "62565" "IL" -88.7937261 39.4072796
-"Sheldon Public Library District" "Sheldon" "125 North Fifth Street" "60966" "IL" -87.5623872 40.7711615
-"Robert W. Rowe Public Library District" "Sheridan" "120 East Si Johnson Avenue" "60551" "IL" -88.6816693 41.5299655
-"Sherman Public Library District" "Sherman" "2100 East Andrew Road" "62684" "IL" -89.6158465 39.8959572
-"Sherrard Public Library District" "Sherrard" "200 Fifth Avenue" "61281" "IL" -90.5072585 41.320098
-"Shorewood-Troy Public Library District" "Shorewood" "650 Deerwood Drive" "60404" "IL" -88.204941 41.524076
-"Sidell District Library" "Sidell" "101 East Market Street" "61876" "IL" -87.8213919 39.9107257
-"Sidney Community Library" "Sidney" "221 South David Street" "61877" "IL" -88.0733601 40.0241196
-"Silvis Public Library" "Silvis" "105 Eighth Street" "61282" "IL" -90.4167806 41.5122014
-"Skokie Public Library" "Skokie" "5215 Oakton Street" "60077" "IL" -87.7576986 42.0257291
-"Smithton Public Library District" "Smithton" "109 South Main Street" "62285" "IL" -89.9925729 38.407637
-"Somonauk Public Library District" "Somonauk" "115 East Dekalb Street" "60552" "IL" -88.6840484 41.632777
-"South Beloit Public Library" "South Beloit" "630 Blackhawk Boulevard" "61080" "IL" -89.039657 42.4881242
-"South Holland Public Library" "South Holland" "16250 Wausau Avenue" "60473" "IL" -87.6106657 41.5994358
-"South Pekin Library" "South Pekin" "208 Main Street" "61564" "IL" -89.6478772 40.4946438
-"Sparta Public Library" "Sparta" "211 West Broadway" "62286" "IL" -89.7041339 38.1226672
-"Richard A. Mautino Memorial Library" "Spring Valley" "215 East Cleveland Street" "61362" "IL" -89.197886 41.3266348
-"Lincoln Library" "Springfield" "326 South Seventh Street" "62701" "IL" -89.646486 39.7986186
-"St. Charles Public Library District" "St. Charles" "1 South Sixth Ave." "" "IL" -95.9019949 40.7989379
-"Standard Branch" "Standard" "128 First Street" "" "IL" -90.5671922 41.4528368
-"Allin Township Library" "Stanford" "116 West Main Street" "61774" "IL" -89.2190416 40.4346364
-"Staunton Public Library" "Staunton" "306 West Main Street" "62088" "IL" -89.7891424 39.0120732
-"Steeleville Area Public Library District" "Steeleville" "625 South Sparta Street" "62288" "IL" -89.6586641 38.0026678
-"Steger-South Chicago Heights Public Library District" "Steger" "54 East 31st Street" "60475" "IL" -87.6339194 41.4750034
-"Stickney-Forest View Public Library District" "Stickney" "6800 West 43rd Street" "60402" "IL" -87.7926806 41.8144138
-"Stockton Township Public Library" "Stockton" "140 West Benton Avenue" "61085" "IL" -90.0082204 42.3508552
-"Stonington Township Public Library" "Stonington" "500 East North Street" "62567" "IL" -89.1836769 39.6405538
-"Poplar Creek Public Library District" "Streamwood" "1405 South Park Avenue" "60107" "IL" -88.1744921 42.0086374
-"Streator Public Library" "Streator" "130 South Park Street" "61364" "IL" -88.8341874 41.1204119
-"Sugar Grove Public Library District" "Sugar Grove" "54 Snow Street" "60554" "IL" -88.4442718 41.761044
-"Elizabeth Titus Memorial Library" "Sullivan" "2 West Water Street" "61951" "IL" -88.6074383 39.5971271
-"Summit Public Library District" "Summit" "6233 South Archer Road" "60501" "IL" -87.8135935 41.7779876
-"Sycamore Public Library" "Sycamore" "103 East State Street" "60178" "IL" -88.6838826 41.9886963
-"Taylorville Public Library" "Taylorville" "121 West Vine Street" "62568" "IL" -89.2958199 39.5505837
-"York Township Public Library" "Thomson" "1005 West Main Street" "61285" "IL" -90.1025388 41.9586891
-"Thornton Public Library" "Thornton" "115 East Margaret Street" "60476" "IL" -87.6117085 41.5678731
-"Tilden Public Library" "Tilden" "540 Pine Street" "62292" "IL" -89.6813341 38.2104151
-"Tinley Park Public Library" "Tinley Park" "7851 Timber Drive" "60477" "IL" -87.8104221 41.5617163
-"Sumpter Township Library" "Toledo" "408 Courthouse Square" "62468" "IL" -87.7747281 30.8821922
-"Tolono Public Library District" "Tolono" "111 East Main Street" "61880" "IL" -88.260346 39.985231
-"Toluca Public Library District" "Toluca" "102 North Main Street" "61369" "IL" -89.1339958 41.0031166
-"Toulon Public Library District" "Toulon" "306 West Jefferson Street" "61483" "IL" -89.861232 41.0928585
-"Towanda District Library" "Towanda" "301 South Taylor Street" "61776" "IL" -88.8947753 40.5632214
-"Tremont District Library" "Tremont" "215 South Sampson Street" "61568" "IL" -89.4911337 40.5254765
-"Trenton Public Library" "Trenton" "118 East Indiana Street" "62293" "IL" -89.680351 38.603094
-"Tri-Township Public Library District" "Troy" "209 South Main Street" "62294" "IL" -89.8841619 38.7274635
-"Tuscola Public Library" "Tuscola" "112 East Sale Street" "61953" "IL" -88.2874785 39.7998392
-"University Park Public Library District" "University Park" "1100 Blackhawk Drive" "60466" "IL" -87.6948992 41.4740243
-"Urbana Free Library" "Urbana" "210 West Green Street" "61801" "IL" -88.2094983 40.1113033
-"Utica Public Library District" "Utica" "po box 367" "61373" "IL" -88.9988098 41.4168873
-"Valmeyer Public Library District" "Valmeyer" "300 South Cedar Bluff Drive" "62295" "IL" -90.277925 38.310295
-"Evans Public Library District" "Vandalia" "215 South Fifth Street" "62471" "IL" -89.0961007 38.9605445
-"Venice Public Library" "Venice" "325 Broadway Avenue" "62090" "IL" -90.1707113 38.6718645
-"Potomac Public Library" "Vermilion" "110 East State Street" "61865" "IL" -87.8006499 40.3053362
-"Vermont Public Library" "Vermont" "po box 199" "61484" "IL" -90.4219444 40.297885
-"Evergreen Interim Library" "Vernon Hills" "290 Evergreen Dr." "" "IL" -88.3152589 44.3011136
-"Versailles Branch Library" "Versailles" "112 West 2nd Street" "" "IL" -104.5320373 33.3940529
-"Victoria Public Library District" "Victoria" "227 East Main Street" "61485" "IL" -90.0966976 41.0337924
-"Vienna Carnegie Public Library" "Vienna" "401 Poplar Street" "62995" "IL" -88.8960402 37.4140139
-"Camargo Township District Library" "Villa Grove" "14 North Main Street" "61956" "IL" -88.1615337 39.8621282
-"Villa Park Public Library" "Villa Park" "305 South Ardmore Avenue" "60181" "IL" -87.9785137 41.8846891
-"Viola Public Library District" "Viola" "1705 Fourteenth Street" "61486" "IL" -90.5858922 41.2025868
-"Grand Prairie Of The West Public Library District" "Virden" "142 West Jackson Street" "62690" "IL" -89.7684479 39.5018048
-"Virginia Memorial Public Library" "Virginia" "100 North Main Street" "62691" "IL" -90.2094282 39.9510007
-"Walnut Public Library District" "Walnut" "101 Heaton" "61376" "IL" -89.594288 41.556548
-"Warren Township Public Library" "Warren" "210 Burnett Avenue" "61087" "IL" -89.9867228 42.496349
-"Barclay Public Library District" "Warrensburg" "220 South Main Street" "62573" "IL" -89.0623191 39.927129
-"Warrenville Public Library District" "Warrenville" "28w751 Stafford Place" "60555" "IL" -88.1826598 41.8230846
-"Warsaw Public Library" "Warsaw" "1025 Webster Street" "62379" "IL" -91.4300333 40.3559777
-"Washburn Branch" "Washburn" "102 West Magnolia" "" "IL" -81.2604639 40.6675096
-"Sunnyland Branch" "Washington" "1 Sunnyland Plaza" "" "IL" -89.4810855 40.6934806
-"Washington District Library" "Washington" "380 North Wilmor Road" "61571" "IL" -89.4231485 40.7071846
-"Washington Park Public Library" "Washington Park" "5103 Bunkum Road 2" "62204" "IL" -90.095763 38.623375
-"Morrison-Talbott Library" "Waterloo" "215 Park Street" "62298" "IL" -90.1523722 38.332933
-"Clinton Township Public Library" "Waterman" "110 South Elm Street" "60556" "IL" -88.7738321 41.7682532
-"Watseka Public Library" "Watseka" "201 South 4th Street" "60970" "IL" -87.7327574 40.7751186
-"Wauconda Area Public Library District" "Wauconda" "801 North Main Street" "60084" "IL" -88.1449512 42.2706052
-"Waukegan Public Library" "Waukegan" "128 North County Street" "60085" "IL" -87.8329016 42.3620699
-"Waverly Public Library" "Waverly" "291 North Pearl Street" "62692" "IL" -89.9534489 39.5934664
-"Wayne City Public Library" "Wayne City" "103 East Mill Street" "62895" "IL" -88.5856596 38.3454135
-"Weldon Public Library District" "Weldon" "505 Maple Street" "61882" "IL" -88.7478159 40.1210716
-"Bond Public Library" "Wenona" "208 South Chestnut Street" "61377" "IL" -89.0501202 41.0541257
-"West Chicago Public Library District" "West Chicago" "118 West Washington Street" "60185" "IL" -88.2055009 41.8840145
-"West Frankfort Public Library" "West Frankfort" "402 East Poplar Street" "62896" "IL" -88.9236684 37.8988552
-"West Salem Public Library" "West Salem" "112 West South Street" "62476" "IL" -88.0053815 38.5201287
-"West Union District Library" "West Union" "209 West Union Street" "62477" "IL" -87.668669 39.215946
-"Westchester Public Library" "Westchester" "10700 Canterbury Street" "60154" "IL" -87.889992 41.8555191
-"Thomas Ford Memorial Library" "Western Springs" "800 Chestnut Street" "60558" "IL" -87.8991989 41.8127342
-"Westmont Public Library" "Westmont" "428 North Cass Avenue" "60559" "IL" -87.976159 41.8062094
-"Westville Public Library District" "Westville" "233 South State Street" "61883" "IL" -87.6378273 40.0408307
-"Wheaton Public Library" "Wheaton" "225 North Cross Street" "60187" "IL" -88.10459 41.86676
-"Indian Trails Public Library District" "Wheeling" "355 South Schoenbeck Road" "60090" "IL" -87.9451988 42.1329076
-"White Hall Township Library" "White Hall" "119 East Sherman Street" "62092" "IL" -90.4034251 39.4368491
-"Williamsfield Public Library District" "Williamsfield" "111 West Gale Street" "61489" "IL" -90.0196592 40.9235298
-"Williamsville Public Library" "Williamsville" "141 West Main Street" "62693" "IL" -89.5489672 39.9542668
-"Willisville Village Library" "Willisville" "803 Broadway Street" "62997" "IL" -89.5897109 37.9832788
-"Wilmette Public Library District" "Wilmette" "1242 Wilmette Avenue" "60091" "IL" -87.7094595 42.0749165
-"Wilmington Public Library District" "Wilmington" "201 South Kankakee Street" "60481" "IL" -88.143747 41.307604
-"Winchester Public Library" "Winchester" "215 North Main Street" "62694" "IL" -90.4562381 39.633294
-"Windsor Storm Memorial Public Library District" "Windsor" "102 South Maple Street" "61957" "IL" -88.5936051 39.4381876
-"Winnebago Public Library District" "Winnebago" "210 North Elida Street" "61088" "IL" -89.241839 42.268222
-"Winnetka-Northfield Public Library District" "Winnetka" "768 Oak Street" "60093" "IL" -87.7330524 42.1042139
-"Witt Township Memorial Library" "Witt" "18 North Second Street" "62094" "IL" -89.3517638 39.2544518
-"Wolf Lake Branch Library" "Wolf Lake" "4720 State Rt. 3 North" "" "IL" -89.4431562 37.512572
-"Wood Dale Public Library District" "Wood Dale" "520 North Wood Dale Road" "60191" "IL" -87.9800124 41.9708283
-"Wood River Public Library" "Wood River" "326 East Ferguson Avenue" "62095" "IL" -90.0907997 38.8608301
-"Clover Public Library District" "Woodhull" "440 North Division Street" "61490" "IL" -90.3155989 41.1805657
-"Woodridge Public Library" "Woodridge" "3 Plaza Drive" "60517" "IL" -88.0451849 41.7556657
-"Woodstock Public Library" "Woodstock" "414 West Judd Street" "60098" "IL" -88.4522774 42.3160071
-"Worden Public Library District" "Worden" "111 East Wall Street" "62097" "IL" -89.8387902 38.9315768
-"Worth Public Library District" "Worth" "6917 West 111th Street" "60482" "IL" -87.7923365 41.6897273
-"Raymond A. Sapp Memorial Township Library" "Wyanet" "103 East Main Street" "61379" "IL" -89.5832517 41.3652783
-"Wyoming Public Library District" "Wyoming" "119 North Seventh Street" "61491" "IL" -89.7730996 41.0620283
-"Yorkville Public Library" "Yorkville" "902 Game Farm Road" "60560" "IL" -88.4503753 41.6526023
-"Zeigler Public Library" "Zeigler" "102 East Maryland Street" "62999" "IL" -89.0512059 37.8988052
-"Zion-Benton Public Library District" "Zion" "2400 Gabriel Avenue" "60099" "IL" -87.8395927 42.4510349
+"Library Name" "Address" "City" "ZIP Code" "State" "Latitude" "Longitude"
+"1" "John Mosser Public Library District" "Abingdon" "106 West Meek Street" 61410 "IL" -90.3986668 40.8023705
+"2" "Addison Public Library" "Addison" "2 Friendship Plaza" 60101 "IL" -87.9930147 41.9328094
+"3" "Albany Public Library District" "Albany" "302 South Main Street" 61230 "IL" -90.2230635 41.7883351
+"4" "Albion Public Library" "Albion" "6 North Fourth Street" 62806 "IL" -88.0562403 38.3771016
+"5" "Mercer Carnegie Public Library District" "Aledo" "200 North College Avenue" 61231 "IL" -90.7487889 41.2027267
+"6" "Alexis Branch Library" "Alexis" "102 West Broadway" NA "IL" -74.0088283 40.7160619
+"7" "Algonquin Area Public Library District" "Algonquin" "2600 Harnish Drive" 60102 "IL" -88.349798 42.162245
+"8" "Eastgate Branch" "Algonquin" "115 Eastgate" NA "IL" -95.8477001 36.2729473
+"9" "Alsip-Merrionette Park Library District" "Alsip" "11960 South Pulaski Road" 60803 "IL" -87.7201684 41.6750373
+"10" "Altamont Public Library" "Altamont" "121 West Washington Avenue" 62411 "IL" -88.749482 39.060572
+"11" "Alto Pass Branch Library" "Alto Pass" "25 N. Elm St." NA "IL" -72.7438828 42.1307908
+"12" "Alton Square Branch Library" "Alton" "210 Alton Square" NA "IL" -90.1763102 38.9256842
+"13" "Hayner Public Library District" "Alton" "326 Belle Street" 62002 "IL" -90.187769 38.8919249
+"14" "Youth Library" "Alton" "401 State Street" NA "IL" -119.6944836 34.415818
+"15" "Ransom Memorial Public Library" "Altona" "110 East Main Street" 61414 "IL" -90.1632847 41.1144752
+"16" "Pankhurst Memorial Library" "Amboy" "3 South Jefferson Avenue" 61310 "IL" -89.327613 41.7144162
+"17" "Andalusia Township Library" "Andalusia" "503 Second Street West" 61232 "IL" -90.720431 41.439704
+"18" "Stinson Memorial Public Library District" "Anna" "409 South Main Street" 62906 "IL" -89.251804 37.458142
+"19" "Annawan-Alba Township Library" "Annawan" "320 West Front Street" 61234 "IL" -89.9089081 41.3976728
+"20" "Antioch Public Library District" "Antioch" "757 Main Street" 60002 "IL" -88.0957778 42.4823773
+"21" "Arcola Public Library District" "Arcola" "407 East Main Street" 61910 "IL" -88.3032301 39.6840132
+"22" "Argenta Public Library" "Argenta" "100 East Water Street" 62501 "IL" -88.8224651 39.9813921
+"23" "Arlington Heights Memorial Library" "Arlington Heights" "500 North Dunton Avenue" 60004 "IL" -87.9835063 42.0876093
+"24" "Arthur Public Library District" "Arthur" "225 South Walnut Street" 61911 "IL" -88.4734845 39.7157226
+"25" "Ashland Public Library" "Ashland" "125 W. Editor" NA "IL" -90.0077642 39.8886846
+"26" "Prairie Skies Public Library District" "Ashland" "125 West Editor Street" 62612 "IL" -90.0077642 39.8886846
+"27" "Ashley Public Library District" "Ashley" "70 North Second Street" 62808 "IL" -89.1886911 38.3271003
+"28" "Mills Petrie Memorial Library And Gymnasium" "Ashton" "704 North First Street" 61006 "IL" -89.2237808 41.8670294
+"29" "Assumption Public Library District" "Assumption" "205 North Oak Street" 62510 "IL" -89.0486102 39.5202597
+"30" "Astoria Public Library District" "Astoria" "220 West Broadway" 61501 "IL" -90.3603824 40.2269197
+"31" "Athens Municipal Library" "Athens" "410 East Hargrave Street" 62613 "IL" -89.7178865 39.9604391
+"32" "Atkinson Public Library District" "Atkinson" "119 West Main Street" 61235 "IL" -90.0156209 41.4210028
+"33" "Atlanta Public Library District" "Atlanta" "100 Race Street" 61723 "IL" -89.232389 40.260306
+"34" "Atwood-Hammond Public Library District" "Atwood" "123 North Main Street" 61913 "IL" -88.462325 39.8002419
+"35" "Auburn Public Library" "Auburn" "338 West Jefferson Street" 62615 "IL" -89.7451813 39.5920706
+"36" "Greater West Central Public Library District" "Augusta" "202 North Center Street" 62311 "IL" -90.9498385 40.2304776
+"37" "Greater West Central Public Library District" "Augusta" "202 Center St" NA "IL" -72.5277573 41.7734316
+"38" "Aurora Public Library" "Aurora" "1 East Benton Street" 60505 "IL" -88.31731 41.756124
+"39" "Eola Road Branch" "Aurora" "555 S. Eola Road" NA "IL" -88.2475617 41.7458108
+"40" "West Branch" "Aurora" "233 S. Constitution Drive" NA "IL" -88.3681779 41.7585146
+"41" "Village Of Avon Public Library" "Avon" "105 South Main Street" 61415 "IL" -90.4350356 40.6618708
+"42" "Barrington Public Library District" "Barrington" "505 North Northwest Highway" 60010 "IL" -88.1276169 42.1593535
+"43" "Barry Public Library" "Barry" "880 Bainbridge Street" 62312 "IL" -91.0403802 39.6928664
+"44" "Bartlett Public Library District" "Bartlett" "800 South Bartlett Road" 60103 "IL" -88.18453 41.9768035
+"45" "Alpha Park Public Library District" "Bartonville" "3527 South Airport Road" 61607 "IL" -89.6809065 40.6458606
+"46" "Batavia Public Library District" "Batavia" "10 South Batavia Avenue" 60510 "IL" -88.3112714 41.8494327
+"47" "Beardstown Houston Memorial Public Library" "Beardstown" "13 Boulevard Road" 62618 "IL" -90.427387 40.0063264
+"48" "Bedford Park Public Library District" "Bedford Park" "7816 West 65th Place" 60501 "IL" -87.8163086 41.7731171
+"49" "Beecher Public Library District" "Beecher" "660 Penfield Street" 60401 "IL" -87.626998 41.342136
+"50" "Beecher City Branch Library" "Beecher City" "205 S. Sweazy St." NA "IL" -88.788453 39.188625
+"51" "Belleville Public Library" "Belleville" "121 East Washington Street" 62220 "IL" -89.9819046 38.5137346
+"52" "West Branch" "Belleville" "3414 West Main Street" NA "IL" -85.807807 38.262076
+"53" "Bellwood Public Library" "Bellwood" "600 Bohland Avenue" 60104 "IL" -87.8774804 41.8813685
+"54" "Ida Public Library" "Belvidere" "320 North State Street" 61008 "IL" -88.8461174 42.2616353
+"55" "Bement Public Library District" "Bement" "349 South Macon Street" 61813 "IL" -88.5714767 39.9199301
+"56" "Frank Bertetti Benld Public Library" "Benld" "308 East Central Avenue" 62009 "IL" -89.8033734 39.0930482
+"57" "Bensenville Community Public Library District" "Bensenville" "200 South Church Road" 60106 "IL" -87.9520007 41.9523666
+"58" "Benton Public Library District" "Benton" "502 South Main Street" 62812 "IL" -88.9200189 37.9913973
+"59" "Berkeley Public Library" "Berkeley" "1637 North Taft Avenue" 60163 "IL" -87.9127578 41.8840555
+"60" "Berwyn Public Library" "Berwyn" "2701 South Harlem Avenue" 60402 "IL" -87.8032626 41.8418008
+"61" "Bethalto Public Library District" "Bethalto" "321 South Prairie Street" 62010 "IL" -90.0403471 38.9074591
+"62" "Marrowbone Public Library District" "Bethany" "216 West Main Street" 61914 "IL" -88.740166 39.6453016
+"63" "Henderson County Public Library District" "Biggsville" "110 Hill Crest Drive" 61418 "IL" -90.8621242 40.8493643
+"64" "Blandinsville-Hire Library District" "Blandinsville" "130 South Main Street" 61420 "IL" -90.8662575 40.5554331
+"65" "Bloomingdale Public Library" "Bloomingdale" "101 Fairfield Way" 60108 "IL" -88.079309 41.948939
+"66" "Bloomington Public Library" "Bloomington" "205 East Olive Street" 61701 "IL" -88.9921371 40.4768209
+"67" "Blue Island Public Library" "Blue Island" "2433 York Street" 60406 "IL" -87.6814285 41.6568927
+"68" "Blue Mound Memorial Library District" "Blue Mound" "213 North Saint Marie Street" 62513 "IL" -89.1226986 39.6975926
+"69" "Bluffs Public Library" "Bluffs" "110 North Bluff Street" 62621 "IL" -90.5351831 39.7511136
+"70" "Fountaindale Public Library District" "Bolingbrook" "300 West Briarcliff Road" 60440 "IL" -88.0793877 41.6988139
+"71" "Bourbonnais Public Library District" "Bourbonnais" "250 West John Casey Road" 60914 "IL" -87.8793919 41.1652933
+"72" "Bowen Branch" "Bowen" "116 Fifth St" NA "IL" -81.5856332 27.8995464
+"73" "Bradford Public Library District" "Bradford" "111 South Peoria Street" 61421 "IL" -89.6578404 41.177042
+"74" "Bradley Public Library District" "Bradley" "296 North Fulton Avenue" 60915 "IL" -87.8561338 41.1476874
+"75" "Fossil Ridge Public Library District" "Braidwood" "386 West Kennedy Road" 60408 "IL" -88.223633 41.260535
+"76" "Breese Public Library" "Breese" "530 North Third Street" 62230 "IL" -89.5283926 38.6098171
+"77" "Bridgeview Public Library" "Bridgeview" "7840 West 79th Street" 60455 "IL" -87.8157305 41.7481857
+"78" "Brighton Memorial Public Library" "Brighton" "110 North Main Street" 62012 "IL" -90.141558 39.0391467
+"79" "Brimfield Public Library District" "Brimfield" "111 South Galena Street" 61517 "IL" -89.8846013 40.8385082
+"80" "Brimfield Public Library District" "Brimfield" "111 S. Galena Street" NA "IL" -82.9090691 40.2634307
+"81" "Broadview Public Library District" "Broadview" "2226 South 16th Avenue" 60155 "IL" -87.8521745 41.8632953
+"82" "Brookfield Public Library" "Brookfield" "3609 Grand Boulevard" 60513 "IL" -87.8481842 41.8255934
+"83" "South County Public Library District" "Brussels" "106 West Main Street" 62013 "IL" -90.5891188 38.9501456
+"84" "Mason Memorial Public Library" "Buda" "104 West Main Street" 61314 "IL" -89.679419 41.3267538
+"85" "Bunker Hill Public Library District" "Bunker Hill" "220 East Warren Street" 62014 "IL" -89.950176 39.042788
+"86" "Prairie Trails Public Library District" "Burbank" "8449 South Moody Avenue" 60459 "IL" -87.7733901 41.7385385
+"87" "Leepertown Township Public Library" "Bureau" "201 East Nebraska Street" 61315 "IL" -89.3656128 41.2878715
+"88" "Bushnell Public Library District" "Bushnell" "455 North Dean Street" 61422 "IL" -90.5110443 40.5531484
+"89" "Byron Public Library District" "Byron" "109 North Franklin Street" 61010 "IL" -89.2600442 42.1255265
+"90" "Cahokia Public Library District" "Cahokia" "140 Cahokia Park Drive" 62206 "IL" -90.1708033 38.5562533
+"91" "Cairo Public Library" "Cairo" "1609 Washington Avenue" 62914 "IL" -89.1733313 37.0033118
+"92" "Calumet City Public Library" "Calumet City" "660 Manistee Avenue" 60409 "IL" -87.555676 41.616404
+"93" "Calumet Park Public Library" "Calumet Park" "1500 West 127th Street" 60827 "IL" -87.65865 41.663213
+"94" "Cambridge Public Library District" "Cambridge" "212 West Center Street" 61238 "IL" -90.195485 41.303192
+"95" "Camp Point Public Library District" "Camp Point" "206 East State Street" 62320 "IL" -91.064054 40.042279
+"96" "Canaryville Branch" "Canaryville" "642 W. 43rd Street" 60609 "IL" -87.6425921 41.8164759
+"97" "Parlin-Ingersoll Public Library" "Canton" "205 West Chestnut Street" 61520 "IL" -90.0389211 40.5576046
+"98" "Carbondale Public Library" "Carbondale" "405 West Main Street" NA "IL" -85.7567462 38.2566429
+"99" "Carlinville Public Library" "Carlinville" "510 North Broad Street" 62626 "IL" -89.8825888 39.2858741
+"100" "Carlock Public Library District" "Carlock" "202 East Washington Street" 61725 "IL" -89.1317877 40.5823309
+"101" "White Oak Township Public Library District" "Carlock" "202 E. Washington" NA "IL" -77.01396 38.89584
+"102" "Case-Halstead Public Library" "Carlyle" "571 Franklin Street" 62231 "IL" -89.364468 38.610487
+"103" "Carmi Public Library" "Carmi" "103 Slocumb Street" 62821 "IL" -88.1648818 38.0870126
+"104" "Carol Stream Public Library" "Carol Stream" "616 Hiawatha Drive" 60188 "IL" -88.1299368 41.9189478
+"105" "Carrier Mills-Stonefort Public Library District" "Carrier Mills" "109 Oak Street" 62917 "IL" -88.6342756 37.6841217
+"106" "Carrollton Public Library" "Carrollton" "509 South Main Street" 62016 "IL" -90.407767 39.3009497
+"107" "Anne West Lindsey Carterville District Library And Nature Pa" "Carterville" "117 South Division Street" 62918 "IL" -89.0772038 37.7613611
+"108" "Carterville Public Library" "Carterville" "117 S. Division Street" NA "IL" -97.4253559 35.8776048
+"109" "Carthage Public Library District" "Carthage" "500 Wabash Avenue" 62321 "IL" -91.1362183 40.4123015
+"110" "Cary Area Public Library District" "Cary" "1606 Three Oaks Road" 60013 "IL" -88.2307964 42.2209951
+"111" "Casey Township Library" "Casey" "307 East Main Street" 62420 "IL" -87.9897412 39.3002628
+"112" "Caseyville Public Library District" "Caseyville" "419 South Second Street" 62232 "IL" -90.0302193 38.636946
+"113" "Catlin Public Library District" "Catlin" "101 Mapleleaf Drive" 61817 "IL" -87.7144592 40.0651965
+"114" "Allen Mccarthy Branch Library" "Centralia" "1500 Case" NA "IL" -85.1557088 44.1024821
+"115" "Centralia Regional Library District" "Centralia" "515 East Broadway Avenue" 62801 "IL" -89.129317 38.5260767
+"116" "Centreville Public Library" "Centreville" "701 South 47th Street" 62207 "IL" -90.1235673 38.580587
+"117" "Hope Welty Public Library District" "Cerro Gordo" "100 South Madison Street" 61818 "IL" -88.7304546 39.8905196
+"118" "Chadwick Public Library District" "Chadwick" "110 Main Street" 61014 "IL" -89.8908639 42.013343
+"119" "Champaign Public Library" "Champaign" "200 West Green Street" 61820 "IL" -88.2458594 40.110343
+"120" "Douglass Branch Library" "Champaign" "504 E. Grove St." NA "IL" -87.976883 42.0773566
+"121" "Three Rivers Public Library District" "Channahon" "25207 West Channon Drive" 60410 "IL" -88.2239297 41.4336936
+"122" "Charleston Carnegie Public Library" "Charleston" "712 Sixth Street" 61920 "IL" -88.1759791 39.4933918
+"123" "Chatham Area Public Library District" "Chatham" "600 East Spruce Street" 62629 "IL" -89.6974971 39.6718301
+"124" "Chatsworth Township Library" "Chatsworth" "432 East Locust Street" 60921 "IL" -88.2915113 40.7537741
+"125" "Chenoa Public Library District" "Chenoa" "211 South Division Street" 61726 "IL" -88.7185782 40.7438903
+"126" "Cherry Valley Public Library District" "Cherry Valley" "755 East State Street" 61016 "IL" -88.9446952 42.2354884
+"127" "Chester Public Library" "Chester" "733 State Street" 62233 "IL" -89.8264206 37.9060402
+"128" "Albany Park Branch" "Chicago" "5150 N. Kimball Avenue" NA "IL" -87.7137735 41.9755882
+"129" "Altgeld Branch" "Chicago" "950 E. 132nd Place" NA "IL" -87.596897 41.6553601
+"130" "Archer Heights Branch" "Chicago" "5055 S. Archer Avenue" NA "IL" -87.7266461 41.8008734
+"131" "Austin Branch" "Chicago" "5615 W. Race Avenue" NA "IL" -87.7658112 41.8890161
+"132" "Austin-Irving Branch" "Chicago" "6100 W. Irving Park Road" NA "IL" -87.7797348 41.9532556
+"133" "Avalon Branch" "Chicago" "8828 S. Stony Island" NA "IL" -87.585975 41.734138
+"134" "Back Of The Yards Branch" "Chicago" "4650 S. Damen Avenue" NA "IL" -87.6746034 41.8089714
+"135" "Bessie Coleman Branch" "Chicago" "731 E. 63rd Street" NA "IL" -94.5795276 39.0134485
+"136" "Beverly Branch" "Chicago" "2121 W. 95th Street" NA "IL" -87.6722429 41.7213718
+"137" "Bezazian Branch" "Chicago" "1226 W. Ainslie Street" NA "IL" -87.6607369 41.9716923
+"138" "Blackstone Branch" "Chicago" "4904 S. Lake Park Avenue" NA "IL" -87.5903444 41.8058352
+"139" "Brainerd Branch" "Chicago" "1350 W. 89th Street" NA "IL" -87.6576966 41.7325283
+"140" "Brighton Park Branch" "Chicago" "4314 Archer Avenue" NA "IL" -88.0115655 41.6347838
+"141" "Bucktown-Wicker Park Branch" "Chicago" "1701 N. Milwaukee Ave." NA "IL" -87.6802818 41.9124886
+"142" "Budlong Woods Branch" "Chicago" "5630 N. Lincoln Avenue" NA "IL" -87.6963282 41.9833634
+"143" "Chicago Bee Branch" "Chicago" "3647 S. State Street" 60609 "IL" -87.626081 41.8280706
+"144" "Chicago Lawn Branch" "Chicago" "6120 S. Kedzie Avenue" 60629 "IL" -87.7035387 41.7818971
+"145" "Chicago Public Library" "Chicago" "400 South State Street" 60605 "IL" -87.6282016 41.8763007
+"146" "Chinatown Branch" "Chicago" "2353 S. Wentworth Avenue" NA "IL" -87.6317029 41.8494563
+"147" "Clearing Branch" "Chicago" "6423 W. 63rd Place" NA "IL" -87.7822279 41.7764699
+"148" "Douglass Branch" "Chicago" "3353 W. 13th Street" NA "IL" -98.381192 40.9315468
+"149" "Dunning Branch" "Chicago" "7455 W. Cornelia Avenue" 60634 "IL" -87.8139236 41.9430671
+"150" "Eckhart Park Branch" "Chicago" "1371 W. Chicago Avenue" NA "IL" -87.6621552 41.8959242
+"151" "Edgebrook Branch" "Chicago" "5331 W. Devon Avenue" NA "IL" -87.7618969 41.9970863
+"152" "Edgewater Branch" "Chicago" "1210 W. Elmdale Avenue" NA "IL" -87.6606882 41.9911199
+"153" "Gage Park Branch" "Chicago" "2807 W. 55th Street" NA "IL" -87.6941787 41.7934351
+"154" "Galewood-Mont Clare Branch" "Chicago" "6969 W. Grand Avenue" NA "IL" -87.9753463 42.3858051
+"155" "Garfield Ridge Branch" "Chicago" "6348 Archer Avenue" NA "IL" -88.0114305 41.6348902
+"156" "Greater Grand Crossing Branch" "Chicago" "1000 East 73rd Street" 60619 "IL" -87.6002895 41.7625563
+"157" "Hall Branch" "Chicago" "4801 S. Michigan Avenue" NA "IL" -87.6223077 41.8071888
+"158" "Harold Washington Library Center(Main Library)" "Chicago" "400 S. State Street" NA "IL" -111.887823 40.760899
+"159" "Hegewisch Branch" "Chicago" "3048 E. 130th Street" NA "IL" -101.7992536 33.4762637
+"160" "Humboldt Park" "Chicago" "1605 N. Troy Street" 60647 "IL" -87.7053461 41.9104659
+"161" "Independence Branch" "Chicago" "3548 W. Irving Park Road" NA "IL" -87.7173437 41.9540433
+"162" "Jefferson Park Branch" "Chicago" "5363 W. Lawrence Avenue" NA "IL" -87.7619861 41.9673551
+"163" "Jeffery Manor Branch" "Chicago" "2401 East 100th Street" NA "IL" -87.5655129 41.7132223
+"164" "John Merlo Branch" "Chicago" "644 W. Belmont Avenue" NA "IL" -119.8192432 36.750298
+"165" "Kelly Branch" "Chicago" "6151 S. Normal Boulvard" NA "IL" -87.6373514 41.7823938
+"166" "Legler Branch (Marshall Square)" "Chicago" "115 S. Pulaski Road" NA "IL" -87.7253028 41.8793121
+"167" "Lincoln Belmont Branch" "Chicago" "1659 W. Melrose Avenue" NA "IL" -87.6707648 41.9403197
+"168" "Lincoln Park Branch" "Chicago" "1150 W. Fullerton Avenue" NA "IL" -87.6581305 41.9255928
+"169" "Little Village Branch" "Chicago" "2311 S. Kedzie" 60623 "IL" -87.7047968 41.8496377
+"170" "Logan Square Branch" "Chicago" "3255 W. Altgeld Street" NA "IL" -87.7097748 41.9263366
+"171" "Mabel Manning Branch" "Chicago" "6 S. Hoyne Avenue" NA "IL" -87.6795493 41.8810304
+"172" "Martin Luther King, Jr. Branch" "Chicago" "3436 S. King Drive" NA "IL" -87.6177792 41.8318134
+"173" "Mayfair Branch" "Chicago" "4400 W. Lawrence Avenue" NA "IL" -87.7381078 41.9683065
+"174" "Mckinley Park Branch" "Chicago" "1915 W. 35th Street" NA "IL" -87.673591 41.8301512
+"175" "Midwest Branch" "Chicago" "2335 W. Chicago Avenue" NA "IL" -87.685836 41.895472
+"176" "Mount Greenwood Branch" "Chicago" "11010 S. Kedzie Avenue" NA "IL" -87.7012066 41.6930972
+"177" "Near North Branch" "Chicago" "310 W. Division Street" NA "IL" -112.1877255 47.8093244
+"178" "North Austin Branch" "Chicago" "5724 W. North Avenue" NA "IL" -87.7688315 41.9096407
+"179" "North Pulaski Branch" "Chicago" "4300 W. North Avenue" NA "IL" -87.7338339 41.9101001
+"180" "Northtown Branch" "Chicago" "6435 N. California" NA "IL" -87.6993858 41.9987663
+"181" "Oriole Park Branch" "Chicago" "5201 N. Oketo Avenue" NA "IL" -87.8118691 41.9744364
+"182" "Portage-Cragin Branch" "Chicago" "5108 W. Belmont Avenue" NA "IL" -119.8825345 36.7500577
+"183" "Pullman Branch" "Chicago" "11001 S. Indiana Avenue" NA "IL" -87.3547615 41.3994575
+"184" "Richard J. Daley Branch" "Chicago" "3400 S. Halsted Street" NA "IL" -87.63582 41.5302173
+"185" "Roden Branch" "Chicago" "6083 Northwest Hwy. 60631" NA "IL" -87.7979695 41.9921166
+"186" "Rogers Park Branch" "Chicago" "6907 N. Clark Street" NA "IL" -87.6731857 42.006985
+"187" "Roosevelt Branch" "Chicago" "1101 W. Taylor Street" NA "IL" -76.3388458 39.6690671
+"188" "Rudy Lozano Branch" "Chicago" "1805 S. Loomis Street" NA "IL" -87.6609496 41.8575941
+"189" "Scottsdale Branch" "Chicago" "4101 W. 79th Street" NA "IL" -87.7245103 41.7491604
+"190" "Sherman Park Branch" "Chicago" "5440 S. Racine Avenue" NA "IL" -88.1581984 42.9451838
+"191" "South Chicago Branch" "Chicago" "9055 S. Houston Avenue" NA "IL" -87.5495373 41.730364
+"192" "South Shore Branch" "Chicago" "2505 E. 73rd Street" NA "IL" -87.5636887 41.7624286
+"193" "Sulzer Regional" "Chicago" "4455 N. Lincoln Avenue" NA "IL" -104.9858874 39.7774792
+"194" "Thurgood Marshall Branch" "Chicago" "7506 S. Racine Avenue" NA "IL" -87.6543734 41.7573801
+"195" "Toman Branch" "Chicago" "4005 W. 27th Street" NA "IL" -92.493498 42.513718
+"196" "Tuley Park Branch" "Chicago" "501 E. 90th Place" NA "IL" -87.6111996 41.7301204
+"197" "Uptown Branch" "Chicago" "929 W. Buena Avenue" NA "IL" -87.654193 41.95818
+"198" "Vodak East Side Branch" "Chicago" "10542 S. Ewing Avenue" NA "IL" -87.5353925 41.7032935
+"199" "Walker Branch" "Chicago" "11071 S. Hoyne Avenue" NA "IL" -87.6740836 41.692067
+"200" "Water Works Branch" "Chicago" "163 E. Pearson Street" 60611 "IL" -87.623476 41.8972063
+"201" "West Addison Branch" "Chicago" "7536 W. Addison Street" NA "IL" -87.8158623 41.945204
+"202" "West Belmont Branch" "Chicago" "3104 N. Narragansett Avenue" NA "IL" -87.7861631 41.9367293
+"203" "West Chicago Avenue Branch" "Chicago" "4856 W. Chicago Ave." NA "IL" -87.747991 41.8953106
+"204" "West Englewood Branch" "Chicago" "1745 W. 63rd Street" NA "IL" -87.6684425 41.7790764
+"205" "West Lawn Branch" "Chicago" "4020 W. 63rd Street" NA "IL" -94.633545 39.0153279
+"206" "West Pullman Branch" "Chicago" "830 W. 119th Street" NA "IL" -87.6431281 41.6780355
+"207" "West Town Branch" "Chicago" "1625 W. Chicago Avenue" 60622 "IL" -87.6683964 41.8957988
+"208" "Whitney M. Young, Jr. Branch" "Chicago" "7901 S. King Drive" NA "IL" -87.6144938 41.7509123
+"209" "Woodson Regional Library" "Chicago" "9525 S. Halsted Street" NA "IL" -87.6358195 41.5301722
+"210" "Wrightwood-Ashburn Branch" "Chicago" "8530 S. Kedzie Avenue" NA "IL" -87.7024963 41.7376441
+"211" "Chicago Heights Public Library" "Chicago Heights" "25 West Fifteenth Street" 60411 "IL" -87.6416416 41.5045559
+"212" "Chicago Ridge Public Library" "Chicago Ridge" "10400 South Oxford Avenue" 60415 "IL" -87.7778693 41.7030652
+"213" "Chillicothe Public Library District" "Chillicothe" "430 North Bradley Avenue" 61523 "IL" -89.4998256 40.9144226
+"214" "Chrisman Public Library" "Chrisman" "108 North Illinois Street" 61924 "IL" -87.6790692 39.8034851
+"215" "Christopher Public Library" "Christopher" "202 East Market Street" 62822 "IL" -89.0524156 37.9725821
+"216" "Cicero Public Library" "Cicero" "5225 West Cermak Road" 60804 "IL" -87.7737406 41.8507944
+"217" "Cicero Public Library South Branch" "Cicero" "5444 W. 34th Street" NA "IL" -95.4707262 29.8194775
+"218" "Willow Branch Township Library" "Cisco" "330 North Eldon Street" 61830 "IL" -88.7271926 40.0090006
+"219" "Cissna Park Community Library District" "Cissna Park" "511 North Second Street" 60924 "IL" -87.8918753 40.5706053
+"220" "Clarendon Hills Public Library" "Clarendon Hills" "7 North Prospect Avenue" 60514 "IL" -87.954478 41.798179
+"221" "Clayton Public Library District" "Clayton" "211 East Main Street" 62324 "IL" -90.956034 40.030792
+"222" "Central Citizens Library District" "Clifton" "1134 East 3100 North Road" 60927 "IL" -87.919378 40.958641
+"223" "Clifton Public Library" "Clifton" "150 East Fourth Avenue" 60927 "IL" -87.9332261 40.9336868
+"224" "Vespasian Warner Public Library District" "Clinton" "310 North Quincy Street" 61727 "IL" -88.9622911 40.1544011
+"225" "Coal City Public Library District" "Coal City" "85 North Garfield Street" 60416 "IL" -88.2813228 41.2888773
+"226" "Robert R. Jones Public Library District" "Coal Valley" "900 First Street" 61240 "IL" -90.461618 41.442948
+"227" "Cobden Branch Library" "Cobden" "100 S. Front St." NA "IL" -87.3928887 46.5431804
+"228" "Colchester District Library" "Colchester" "203 Macomb Street" 62326 "IL" -90.7920495 40.4262289
+"229" "Martin Township Public Library" "Colfax" "132 West Main Street" 61728 "IL" -88.6166969 40.5669665
+"230" "Collinsville Memorial Public Library" "Collinsville" "408 West Main St." NA "IL" -79.4315383 42.392072
+"231" "Mississippi Valley Public Library District" "Collinsville" "408 West Main Street" 62234 "IL" -89.9903483 38.6681933
+"232" "Colona District Public Library" "Colona" "911 First Street" 61241 "IL" -90.3580961 41.4699195
+"233" "Columbia Public Library" "Columbia" "106 North Metter Avenue" 62236 "IL" -90.1990239 38.4441696
+"234" "Cordova District Library" "Cordova" "402 Main Avenue" 61242 "IL" -90.3253696 41.6800514
+"235" "Amity Township Public Library" "Cornell" "604 East Main Street" 61319 "IL" -88.7291846 40.9896631
+"236" "Cortland Community Library" "Cortland" "63 South Somonauk Road" 60112 "IL" -88.6890632 41.9205056
+"237" "Coulterville Public Library" "Coulterville" "103 South Fourth Street" 62237 "IL" -89.6038026 38.1862804
+"238" "Dry Point Township Library" "Cowden" "po box 275" 62422 "IL" -88.8838834 39.2530024
+"239" "Crest Hill Branch Library" "Crest Hill" "1298 Theodore Street" NA "IL" -88.113473 41.55234
+"240" "Creston-Dement Public Library District" "Creston" "107 South Main Street" 60113 "IL" -88.9648163 41.9318602
+"241" "Crestwood Public Library District" "Crestwood" "4955 West 135th Street" 60445 "IL" -87.7442151 41.6466187
+"242" "Crete Public Library District" "Crete" "1177 North Main Street" 60417 "IL" -87.6309124 41.4501705
+"243" "Creve Coeur Public Library District" "Creve Coeur" "311 North Highland Street" 61610 "IL" -89.5984891 40.6491657
+"244" "Crystal Lake Public Library" "Crystal Lake" "126 Paddock Street" 60014 "IL" -88.3251248 42.2395586
+"245" "Spoon River Library District" "Cuba" "201 South Third Street" 61427 "IL" -90.1957752 40.4921888
+"246" "Dahlgren Public Library" "Dahlgren" "po box 237" 62828 "IL" -88.5855173 38.2131618
+"247" "Danvers Township Library" "Danvers" "105 South West Street" 61732 "IL" -89.177063 40.529165
+"248" "Danville Public Library" "Danville" "319 North Vermilion Street" 61832 "IL" -87.6289759 40.1298684
+"249" "Indian Prairie Public Library District" "Darien" "401 Plainfield Road" 60561 "IL" -87.9556665 41.7563765
+"250" "Decatur Public Library" "Decatur" "130 North Franklin Street" 62523 "IL" -88.9523179 39.8420442
+"251" "Deer Creek District Library" "Deer Creek" "205 East First Avenue" 61733 "IL" -89.3301116 40.6276232
+"252" "Deerfield Public Library" "Deerfield" "920 Waukegan Road" 60015 "IL" -87.8469651 42.1694443
+"253" "Dekalb Public Library" "Dekalb" "309 Oak Street" 60115 "IL" -88.7497399 41.9320732
+"254" "Goose Creek Township Carnegie Library" "Deland" "130 North Highway Avenue" 61839 "IL" -88.6464562 40.125314
+"255" "Ayer Public Library District" "Delavan" "208 Locust Street" 61734 "IL" -89.5471724 40.3741294
+"256" "Selby Township Library District" "Depue" "101 Depot Street" 61322 "IL" -89.3062383 41.3246429
+"257" "Des Plaines Public Library" "Des Plaines" "1501 Ellinwood Street" 60016 "IL" -87.8865953 42.0404512
+"258" "Divernon Township Library" "Divernon" "221 South Second Street" 62530 "IL" -89.6587029 39.5652315
+"259" "Divernon Township Library" "Divernon" "221 South Second" NA "IL" -94.7280155 31.3369454
+"260" "Dixon Public Library" "Dixon" "221 South Hennepin Avenue" 61021 "IL" -89.4836038 41.841621
+"261" "Dolton Public Library District" "Dolton" "14037 Lincoln Avenue" 60419 "IL" -87.6084864 41.6401707
+"262" "Dongola Public Library District" "Dongola" "114 North East Front Street" 62926 "IL" -89.1650364 37.3616274
+"263" "Downers Grove Public Library" "Downers Grove" "1050 Curtiss Street" 60515 "IL" -88.011452 41.7941142
+"264" "Du Quoin Public Library" "Du Quoin" "28 South Washington St." NA "IL" -89.2360176 38.0103768
+"265" "Dunlap Public Library District" "Dunlap" "302 South First Street" 61525 "IL" -89.6730029 40.8573702
+"266" "Daugherty Public Library District" "Dupo" "220 South Fifth Street" 62239 "IL" -90.206967 38.5156911
+"267" "Duquoin Public Library" "Duquoin" "28 South Washington Street" 62832 "IL" -89.2360176 38.0103768
+"268" "Prairie Creek Public Library District" "Dwight" "501 Carriage House Lane" 60420 "IL" -88.428183 41.08933
+"269" "Earl Township Public Library" "Earlville" "205 Winthrop Street" NA "IL" -71.232543 41.852951
+"270" "East Alton Public Library District" "East Alton" "250 Washington Avenue" 62024 "IL" -90.1031752 38.8780571
+"271" "East Dubuque District Library" "East Dubuque" "350 Wall Street" 61025 "IL" -90.6424893 42.4913376
+"272" "Dundee Township Public Library District" "East Dundee" "555 Barrington Avenue" 60118 "IL" -88.2638748 42.1042251
+"273" "East Moline Public Library" "East Moline" "740 Sixteenth Avenue" 61244 "IL" -90.4434524 41.5147738
+"274" "Fondulac Public Library District" "East Peoria" "140 East Washington Street" 61611 "IL" -89.5781926 40.6651252
+"275" "Spring Bay Branch" "East Peoria" "411 Illinois Street" NA "IL" -105.2307623 39.7603275
+"276" "East St. Louis Public Library" "East St Louis" "5300 State Street" 62203 "IL" -90.098952 38.605849
+"277" "Edwardsville Public Library" "Edwardsville" "112 South Kansas Street" 62025 "IL" -89.9538694 38.8111351
+"278" "Helen Matthes Library" "Effingham" "100 East Market Avenue" 62401 "IL" -88.5416979 39.1233836
+"279" "El Paso Public Library" "El Paso" "149 West First Street" 61738 "IL" -89.0186301 40.7393578
+"280" "Town And Country Public Library District" "Elburn" "320 East North Street" 60119 "IL" -88.4686008 41.8925037
+"281" "Eldorado Memorial Public Library District" "Eldorado" "1001 Grant Street" 62930 "IL" -88.4353912 37.8152345
+"282" "Gail Borden Public Library District" "Elgin" "270 North Grove Avenue" 60120 "IL" -88.288011 42.0424482
+"283" "Elizabeth Township Library" "Elizabeth" "210 East Myrtle Street" 61028 "IL" -90.2222411 42.3174808
+"284" "Elk Grove Village Public Library" "Elk Grove Village" "1001 Wellington Avenue" 60007 "IL" -88.0079524 42.0013877
+"285" "Elkhart Public Library District" "Elkhart" "121 East Bohan Street" 62634 "IL" -89.4813505 40.0212926
+"286" "Rick Warren Memorial Public Library District" "Elkville" "114 South Fourth Street" 62932 "IL" -89.2355963 37.9075829
+"287" "Elmhurst Public Library" "Elmhurst" "125 South Prospect Avenue" 60126 "IL" -87.944164 41.8985387
+"288" "Morrison Mary Wiley Library" "Elmwood" "206 West Main Street" 61529 "IL" -89.968464 40.777755
+"289" "Elmwood Park Public Library" "Elmwood Park" "1 Conti Parkway" 60707 "IL" -87.8172683 41.9261171
+"290" "Enfield Reading Center" "Enfield" "111 E. Main St." NA "IL" -82.9963365 39.9564305
+"291" "Erie Public Library District" "Erie" "802 8th Avenue" 61250 "IL" -90.0788079 41.6559052
+"292" "Eureka Public Library District" "Eureka" "202 South Main Street" 61530 "IL" -89.273173 40.7200533
+"293" "Evanston Public Library" "Evanston" "1703 Orrington Avenue" 60201 "IL" -87.6800306 42.0483943
+"294" "North Branch" "Evanston" "2026 Central Street" NA "IL" -87.7020387 42.0641151
+"295" "South Branch" "Evanston" "949 Chicago Avenue" NA "IL" -87.6792769 42.035543
+"296" "Central Public Library District" "Evansville" "701 Oak Street A" 62242 "IL" -89.9341309 38.0913177
+"297" "Evansville Public Library" "Evansville" "602 Public Street" 62242 "IL" -89.9367024 38.0907554
+"298" "Evergreen Park Public Library" "Evergreen Park" "9400 South Troy Avenue" 60805 "IL" -87.701001 41.7222369
+"299" "Fairfield Public Library" "Fairfield" "300 South East Second Street" 62837 "IL" -88.3588443 38.3775181
+"300" "Valley District Library" "Fairview" "515 Carter Street" 61432 "IL" -90.1642649 40.6333465
+"301" "Fairview Heights Public Library" "Fairview Heights" "10017 Bunkum Road" 62208 "IL" -90.0106192 38.5981467
+"302" "Farmer City Public Library" "Farmer City" "109 East Green Street" 61842 "IL" -88.6425203 40.2433692
+"303" "Farmersville-Waggoner Public Library District" "Farmersville" "210 South Cleveland Street" 62533 "IL" -89.6515624 39.4425298
+"304" "Farmington Area Library District" "Farmington" "266 East Fort Street" 61531 "IL" -90.0024364 40.6981453
+"305" "Susie Wesley Memorial Library" "Flat Rock" "105 South Main St." NA "IL" -73.214984 44.4758308
+"306" "Flora Public Library" "Flora" "216 North Main Street" 62839 "IL" -88.4863967 38.6698288
+"307" "Flossmoor Public Library" "Flossmoor" "1000 Sterling Avenue" 60422 "IL" -87.6788215 41.544166
+"308" "Ford Heights Public Library District" "Ford Heights" "800 East 14th Street" NA "IL" -73.9733092 40.7274275
+"309" "Forest Park Public Library" "Forest Park" "7555 Jackson Boulevard" 60130 "IL" -87.8143675 41.876072
+"310" "Forrest Public Library District" "Forrest" "301 West James Street" 61741 "IL" -88.4134079 40.753258
+"311" "Forreston Public Library" "Forreston" "204 First Avenue" 61030 "IL" -89.5791485 42.1258223
+"312" "Forsyth Public Library" "Forsyth" "268 South Elwood Street" 62535 "IL" -88.9504778 39.9332126
+"313" "Fox Lake Public Library District" "Fox Lake" "255 East Grand Avenue" 60020 "IL" -88.1609536 42.3936466
+"314" "Fox River Grove Memorial Library" "Fox River Grove" "407 Lincoln Avenue" 60021 "IL" -87.7638252 42.1361961
+"315" "Frankfort Public Library District" "Frankfort" "21119 South Pfeiffer Road" 60423 "IL" -87.82798 41.5058703
+"316" "Franklin Grove Public Library" "Franklin Grove" "112 South Elm Street" 61031 "IL" -89.2994802 41.8398999
+"317" "Winifred Knox Memorial Library" "Franklin Grove" "112 S. Elm St." NA "IL" -94.3774034 42.0148695
+"318" "Franklin Park Public Library District" "Franklin Park" "10311 Grand Avenue" 60131 "IL" -87.882749 41.9296705
+"319" "Freeburg Area Library District" "Freeburg" "407 South Belleville Street" 62243 "IL" -89.911158 38.420085
+"320" "Freeport Public Library" "Freeport" "100 East Douglas Street" 61032 "IL" -89.6206453 42.3004638
+"321" "Schmaling Memorial Public Library District" "Fulton" "501 Tenth Avenue" 61252 "IL" -90.1645623 41.867169
+"322" "Galatia Public Library District" "Galatia" "217 South Main Cross Street" 62935 "IL" -88.6119872 37.839616
+"323" "Galena Public Library District" "Galena" "601 South Bench Street" 61036 "IL" -90.4318745 42.4120697
+"324" "Galesburg Public Library" "Galesburg" "40 East Simmons Street" 61401 "IL" -90.3704054 40.9461009
+"325" "Galva Public Library District" "Galva" "120 Northwest Third Avenue" 61434 "IL" -90.0458617 41.1677086
+"326" "Geneseo Public Library District" "Geneseo" "218 South State Street" 61254 "IL" -90.1553222 41.4510913
+"327" "Geneva Public Library District" "Geneva" "127 James Street" 60134 "IL" -88.3062212 41.886923
+"328" "Genoa Public Library District" "Genoa" "232 West Main Street" 60135 "IL" -88.6943622 42.0972083
+"329" "Georgetown Public Library" "Georgetown" "102 West West Street" 61846 "IL" -87.6357033 39.9753844
+"330" "Germantown Public Library District" "Germantown" "403 Munster Street" 62245 "IL" -89.5385605 38.5537304
+"331" "Moyer District Library" "Gibson City" "307 North Sangamon Avenue" 60936 "IL" -88.375361 40.4675968
+"332" "Gillespie Public Library" "Gillespie" "201 West Chestnut Street" 62033 "IL" -89.8177006 39.1257581
+"333" "Gilman-Danforth District Library" "Gilman" "715 North Maple Street" 60938 "IL" -87.9875947 40.7749771
+"334" "Gilson Branch" "Gilson" "1261 Harding Street" NA "IL" -86.1873079 39.7499541
+"335" "Girard Township Library" "Girard" "201 West Madison Street" 62640 "IL" -89.7792633 39.4454315
+"336" "Glen Carbon Centennial Library" "Glen Carbon" "198 South Main Street" 62034 "IL" -89.9839208 38.7487112
+"337" "Glen Ellyn Public Library" "Glen Ellyn" "400 Duane Street" 60137 "IL" -88.0706945 41.8756933
+"338" "Glencoe Public Library" "Glencoe" "320 Park Avenue" 60022 "IL" -87.7577095 42.1337961
+"339" "Glenside Public Library District" "Glendale Heights" "25 East Fullerton Avenue" 60139 "IL" -88.0897341 41.9167328
+"340" "Glenview Public Library" "Glenview" "1930 Glenview Road" 60025 "IL" -87.806572 42.073192
+"341" "Glenwood-Lynwood Public Library District" "Glenwood" "320 East Glenwood Lansing Road" 60425 "IL" -87.603989 41.542093
+"342" "Golconda Public Library" "Golconda" "126 West Main Street" 62938 "IL" -88.4880794 37.3676804
+"343" "Golden Branch" "Golden" "309 Quincy" NA "IL" -111.9553236 41.269739
+"344" "Grand Tower Public Library" "Grand Tower" "111 Walnut Street" 62942 "IL" -89.5020539 37.6270474
+"345" "Granite City Branch" "Granite City" "2145 Johnson Road" NA "IL" -84.0350306 37.1478725
+"346" "Six Mile Regional Library District" "Granite City" "2001 Delmar Avenue" 62040 "IL" -90.1498158 38.7024916
+"347" "Grant Park Public Library" "Grant Park" "107 West Taylor Street" 60940 "IL" -87.6454409 41.2411016
+"348" "Granville Branch Library" "Granville" "212 S. Mccoy Street" NA "IL" -80.5018532 35.6878089
+"349" "Grayslake Area Public Library District" "Grayslake" "100 Library Lane" 60030 "IL" -88.0362674 42.3466651
+"350" "Grayville Carnegie Public Library" "Grayville" "110 West Mill Street" 62844 "IL" -87.9967553 38.2587598
+"351" "Greenfield Public Library" "Greenfield" "515 Chestnut Street" 62044 "IL" -90.210954 39.3435302
+"352" "Greenup Township Public Library" "Greenup" "101 North Franklin Street" 62428 "IL" -88.166776 39.2465916
+"353" "Greenville Public Library" "Greenville" "414 West Main Street" 62246 "IL" -89.4147295 38.8919917
+"354" "Gridley Public Library District" "Gridley" "320 Center Street" 61744 "IL" -88.8811553 40.7387873
+"355" "Griggsville Public Library" "Griggsville" "119 South Corey Street" 62340 "IL" -90.7265565 39.7081481
+"356" "Warren-Newport Public Library District" "Gurnee" "224 North Oplaine Road" 60031 "IL" -87.9153047 42.3632069
+"357" "Hamilton Public Library" "Hamilton" "861 Broadway" 62341 "IL" -91.3471822 40.3931234
+"358" "Hammond Branch" "Hammond" "1st Don Ryan Street" NA "IL" NA NA
+"359" "Ella Johnson Memorial Public Library District" "Hampshire" "109 South State Street" 60140 "IL" -88.5297245 42.0988723
+"360" "Hanover Township Library" "Hanover" "204 Jefferson Street" 61041 "IL" -90.2838798 42.2567021
+"361" "Hanover Park Branch Library" "Hanover Park" "1570 Irving Park Road" NA "IL" -88.143937 42.0052772
+"362" "Poplar Creek Hanover Park" "Hanover Park" "4300 Audrey Lane" NA "IL" -88.1622865 41.9513973
+"363" "Harrisburg Public Library District" "Harrisburg" "2 West Walnut Street" NA "IL" -94.1341903 36.333763
+"364" "Hartford Public Library District" "Hartford" "143 West Hawthorne Street" 62048 "IL" -90.0975782 38.8335844
+"365" "Harvard Diggins Library" "Harvard" "900 East Mckinley Street" 60033 "IL" -88.6036164 42.4257202
+"366" "Harvey Public Library District" "Harvey" "15441 Turlington Avenue" 60426 "IL" -87.6474189 41.6085209
+"367" "Eisenhower Public Library District" "Harwood Heights" "4613 North Oketo Avenue" 60706 "IL" -87.8116205 41.9639866
+"368" "Havana Public Library District" "Havana" "201 West Adams Street" 62644 "IL" -90.0622902 40.2989437
+"369" "Grande Prairie Public Library District" "Hazel Crest" "3479 West 183rd Street" 60429 "IL" -87.7008828 41.5565227
+"370" "Hecker Public Library" "Hecker" "151 West Monroe Street" 62248 "IL" -89.993231 38.305439
+"371" "Hennepin Headquarters" "Hennepin" "214 N. Fourth Street" NA "IL" -82.9963889 39.96742
+"372" "Putnam County Public Library District" "Hennepin" "214 North Fourth Street" 61327 "IL" -89.3425735 41.2539738
+"373" "Henry Public Library" "Henry" "702 Front Street" 61537 "IL" -89.356656 41.10867
+"374" "Herrick Township Public Library" "Herrick" "303 North Broadway Street" 62431 "IL" -88.9847289 39.2150663
+"375" "Herrin City Library" "Herrin" "120 North 13th Street" 62948 "IL" -89.0249184 37.8040016
+"376" "Heyworth Public Library District" "Heyworth" "119 East Main Street" 61745 "IL" -88.97666 40.3139
+"377" "Louis Latzer Memorial Public Library" "Highland" "1001 Ninth Street" 62249 "IL" -89.6786802 38.7417596
+"378" "Highland Park Public Library" "Highland Park" "494 Laurel Avenue" 60035 "IL" -87.7967708 42.1844931
+"379" "Highwood Public Library" "Highwood" "102 Highwood Avenue" 60040 "IL" -87.8108397 42.202203
+"380" "Hillsboro Public Library" "Hillsboro" "214 School Street" 62049 "IL" -89.4926302 39.1559579
+"381" "Moore Memorial Library District" "Hillsdale" "509 Main Street" 61257 "IL" -90.1770669 41.613324
+"382" "Hillside Public Library" "Hillside" "405 North Hillside Avenue" 60162 "IL" -87.9080362 41.8770042
+"383" "Hinckley Public Library District" "Hinckley" "100 North Maple Street" 60520 "IL" -88.6393236 41.769605
+"384" "Hinsdale Public Library" "Hinsdale" "20 East Maple Street" 60521 "IL" -87.9283676 41.8043857
+"385" "Hodgkins Public Library District" "Hodgkins" "6500 Wenz Avenue" 60525 "IL" -87.8560552 41.7715371
+"386" "Hoffman Area Branch Library" "Hoffman" "100 N. Broadway" NA "IL" -108.5924416 37.3496131
+"387" "Hoffman Estates Branch Library" "Hoffman Estates" "1550 Hassell Road" NA "IL" -88.1183384 42.0631087
+"388" "Homer Community Library" "Homer" "500 East Second Street" 61849 "IL" -87.952197 40.038624
+"389" "Homer Township Public Library District" "Homer Glen" "14320 West 151st Street" 60491 "IL" -87.9674492 41.6142857
+"390" "Hometown Public Library" "Hometown" "4331 Southwest Highway" 60456 "IL" -87.7299567 41.7285433
+"391" "Homewood Public Library District" "Homewood" "17917 Dixie Highway" 60430 "IL" -87.6645186 41.5640125
+"392" "Hoopeston Public Library District" "Hoopeston" "110 North Fourth Street" 60942 "IL" -87.6652997 40.4681854
+"393" "Pembroke Public Library District" "Hopkins Park" "13795 East Central Street" 60944 "IL" -87.6035535 41.0672175
+"394" "Hudson Area Public Library District" "Hudson" "104 Pearl Street" 61748 "IL" -88.9892798 40.6041505
+"395" "Kinderhook Township Public Library District" "Hull" "665 Southwest Lee Evans Drive" 62343 "IL" -91.2061502 39.7065146
+"396" "Huntley Area Public Library District" "Huntley" "11000 Ruth Road" 60142 "IL" -88.4117046 42.1696853
+"397" "Hutsonville Public Library" "Hutsonville" "104 South Main," NA "IL" -73.2151681 44.4758496
+"398" "Illiopolis-Niantic Public Library District" "Illiopolis" "401 Sixth And Mary Street" 62539 "IL" -89.2406466 39.8533531
+"399" "Irvington Branch Library" "Irvington" "500 Superior" NA "IL" -84.7687199 44.3111333
+"400" "Itasca Community Library" "Itasca" "500 West Irving Park Road" 60143 "IL" -88.020002 41.970777
+"401" "Jacksonville Public Library" "Jacksonville" "201 West College Avenue" 62650 "IL" -90.2299792 39.7324667
+"402" "Jerseyville Public Library" "Jerseyville" "105 North Liberty Street" 62052 "IL" -90.3300978 39.1187958
+"403" "Johnsburg Public Library District" "Johnsburg" "3000 North Johnsburg Road" 60051 "IL" -88.2364051 42.3818591
+"404" "Johnston City Public Library" "Johnston City" "506 Washington Avenue" 62951 "IL" -88.9266411 37.8160052
+"405" "Black Road Branch" "Joliet" "3395 W. Black Road" NA "IL" -85.4489334 38.7673724
+"406" "Joliet Public Library" "Joliet" "150 North Ottawa Street" 60432 "IL" -88.0823566 41.5271411
+"407" "Jpl West Outlet" "Joliet" "1244 Louis Joliet Mall" NA "IL" -73.6157311 45.4305206
+"408" "Jonesboro Public Library" "Jonesboro" "412 South Main Street" 62952 "IL" -89.2681032 37.4467834
+"409" "Justice Public Library District" "Justice" "7641 South Oak Grove Avenue" 60458 "IL" -87.8400325 41.7514707
+"410" "Kaneville Public Library District" "Kaneville" "2 South 101 Harter Road" 60144 "IL" -88.5219054 41.835621
+"411" "Kankakee Public Library" "Kankakee" "201 East Merchant Street" 60901 "IL" -87.8633507 41.1190432
+"412" "Limestone Township Library" "Kankakee" "2701 West Tower Road" 60901 "IL" -87.927733 41.140721
+"413" "Kansas Community Memorial Library" "Kansas" "107 North Front Street" 61933 "IL" -87.9395511 39.5522553
+"414" "Kansas Community Memorial Library" "Kansas" "107 N. Front St." NA "IL" -78.223 40.8963729
+"415" "Kewanee Public Library District" "Kewanee" "102 South Tremont Street" 61443 "IL" -89.9259282 41.2431901
+"416" "Kinmundy Public Library" "Kinmundy" "111 South Monroe Street" 62854 "IL" -88.850249 38.7732252
+"417" "Kirkland Public Library" "Kirkland" "513 West Main Street" 60146 "IL" -88.8502309 42.0928929
+"418" "Kirkwood Branch Library" "Kirkwood" "134 South Kirk" NA "IL" -83.562495 43.4924636
+"419" "Knoxville Public Library" "Knoxville" "200 East Main Street" 61448 "IL" -90.2827336 40.9079645
+"420" "Lasalle Public Library" "La Salle" "305 Marquette Street" 61301 "IL" -89.096045 41.33047
+"421" "Lacon Public Library District" "Lacon" "205 Sixth Street" 61540 "IL" -89.4120705 41.0258246
+"422" "Ladd Public Library District" "Ladd" "125 North Main Street" 61329 "IL" -89.2191095 41.3818712
+"423" "Ladd Public Library District" "Ladd" "125 N. Main St." NA "IL" -73.2139521 44.4758756
+"424" "Ira C. Reed Public Library" "Lafayette" "302 Commercial Street" 61449 "IL" -89.9727262 41.109524
+"425" "Lagrange Public Library" "Lagrange" "10 West Cossitt Avenue" 60525 "IL" -87.8700424 41.8121886
+"426" "Lagrange Park Public Library District" "Lagrange Park" "555 North La Grange Road" 60526 "IL" -87.8712429 41.8249521
+"427" "Laharpe Carnegie Public Library District" "Laharpe" "209 East Main Street" 61450 "IL" -90.9679543 40.5834852
+"428" "Lake Bluff Public Library" "Lake Bluff" "123 East Scranton Avenue" 60044 "IL" -87.8430104 42.2794177
+"429" "Lake Forest Library" "Lake Forest" "360 East Deerpath Road" 60045 "IL" -87.838115 42.252502
+"430" "Lake Villa Public Library District" "Lake Villa" "1001 East Grand Avenue" 60046 "IL" -88.0581001 42.4141103
+"431" "Ela Area Public Library District" "Lake Zurich" "275 Mohawk Trail" 60047 "IL" -88.0886145 42.1946974
+"432" "Lamoille-Clarion Public Library District" "Lamoille" "81 Main Street" 61330 "IL" -89.2796782 41.5336058
+"433" "Lanark Public Library" "Lanark" "110 West Carroll Street" 61046 "IL" -89.8331047 42.102941
+"434" "Lanark Public Library" "Lanark" "110 W Carroll St" NA "IL" -81.4050237 28.3262214
+"435" "Lansing Public Library" "Lansing" "2750 Indiana Avenue" 60438 "IL" -87.5495843 41.5660981
+"436" "Lawrence Public Library District" "Lawrenceville" "814 Twelfth Street" 62439 "IL" -87.6829072 38.7279676
+"437" "Bertolet Memorial Library District" "Leaf River" "705 Main Street" 61047 "IL" -89.4039197 42.1193523
+"438" "Lebanon Public Library" "Lebanon" "314 West Saint Louis Street" 62254 "IL" -89.8110278 38.603791
+"439" "Lemont Public Library District" "Lemont" "50 East Wend Street" 60439 "IL" -88.00364 41.6579454
+"440" "Lena Community District Library" "Lena" "300 West Mason Street" 61048 "IL" -89.8277794 42.3788194
+"441" "Lewistown Carnegie Public Library District" "Lewistown" "321 West Lincoln Avenue" 61542 "IL" -90.1571674 40.3965533
+"442" "Lexington Public Library District" "Lexington" "207 South Cedar Street" 61753 "IL" -88.7832635 40.6405705
+"443" "Cook Memorial Public Library District" "Libertyville" "413 North Milwaukee Avenue" 60048 "IL" -87.956164 42.287088
+"444" "Lincoln Public Library" "Lincoln" "725 Pekin St." NA "IL" -89.361148 40.1468455
+"445" "Lincoln Public Library District" "Lincoln" "725 Pekin Street" 62656 "IL" -89.361148 40.1468455
+"446" "Vernon Area Public Library District" "Lincolnshire" "300 Olde Half Day Road" 60069 "IL" -87.9366437 42.1986666
+"447" "Lincolnwood Public Library District" "Lincolnwood" "4000 West Pratt Avenue" 60712 "IL" -87.7292553 42.004755
+"448" "Lisle Library District" "Lisle" "777 Front Street" 60532 "IL" -88.0669568 41.7964256
+"449" "Litchfield Carnegie Public Library" "Litchfield" "400 North State Street" 62056 "IL" -89.6553971 39.1772665
+"450" "Littleton Branch" "Littleton" "110 Center St" NA "IL" -72.523521 41.774779
+"451" "Lockport Branch Library" "Lockport" "121 East Eighth Street" 60441 "IL" -88.0560954 41.5899456
+"452" "A. Herr Smith E.E. Smith Library" "Loda" "105 East Adams" 60948 "IL" -88.070237 40.5175243
+"453" "Logan Reading Center" "Logan" "6342 Main Street" NA "IL" -78.7163276 42.9661655
+"454" "Helen M. Plum Memorial Library" "Lombard" "110 West Maple Street" 60148 "IL" -88.0202818 41.8841788
+"455" "Lostant Community Library" "Lostant" "102 West Third Street" 61334 "IL" -89.0595215 41.1417204
+"456" "North Suburban Public Library District" "Loves Park" "6340 North Second Street" 61111 "IL" -89.0585791 42.3227489
+"457" "Lovington Public Library District" "Lovington" "110 West State Street" 61937 "IL" -88.6329438 39.7157486
+"458" "Lyons Public Library" "Lyons" "4209 Joliet Avenue" 60534 "IL" -87.8204254 41.8149439
+"459" "Mackinaw District Public Library" "Mackinaw" "117 South Main Street" 61755 "IL" -89.3591851 40.5359543
+"460" "Macomb Public Library District" "Macomb" "235 South Lafayette Street" 61455 "IL" -90.6715626 40.456643
+"461" "South Macon Public Library District" "Macon" "451 West Glenn Street" 62544 "IL" -89.0051853 39.7071947
+"462" "Madison Public Library" "Madison" "1700 Fifth Street" 62060 "IL" -90.1521178 38.6809127
+"463" "Magnolia Branch" "Magnolia" "114 N. Chicago Street" NA "IL" -87.5198964 41.6284246
+"464" "Mahomet Public Library District" "Mahomet" "512 East Main Street" 61853 "IL" -88.401383 40.194803
+"465" "Malta Township Public Library" "Malta" "203 East Adams" 60150 "IL" -88.8633735 41.9298345
+"466" "Manhattan Public Library District" "Manhattan" "240 Whitson Street" 60442 "IL" -87.984128 41.421839
+"467" "Forman Valley Public Library District" "Manito" "404 1-2 South Harrison Street" 61546 "IL" -89.7802605 40.4209811
+"468" "Manito Public Library District" "Manito" "404 1-2 S. Harrison" NA "IL" -87.4082712 39.462375
+"469" "Blue Ridge Township Public Library" "Mansfield" "101 West Oliver Street" 61854 "IL" -88.5062798 40.2114601
+"470" "Manteno Public Library District" "Manteno" "50 West Division Street" 60950 "IL" -87.8360547 41.2491494
+"471" "Maple Park Public Library District" "Maple Park" "302 Willow Street" 60151 "IL" -88.5999978 41.9061756
+"472" "Maquon Public Library District" "Maquon" "210 Main Street" 61458 "IL" -90.1649848 40.798994
+"473" "Marengo Public Library District" "Marengo" "200 South State Street" 60152 "IL" -88.6086363 42.2491713
+"474" "Crab Orchard Public Library District" "Marion" "20012 Crab Orchard Road" 62959 "IL" -88.7892103 37.7308573
+"475" "Marion Carnegie Library" "Marion" "206 South Market Street" 62959 "IL" -88.9276414 37.7294981
+"476" "Marissa Area Public Library District" "Marissa" "212 North Main Street" 62257 "IL" -89.7541009 38.24691
+"477" "Bradford Anderson Oglesby Public Library" "Markham" "16640 South Kedzie Avenue" 60428 "IL" -87.6949353 41.5866984
+"478" "Maroa Public Library District" "Maroa" "305 East Garfield Street" 61756 "IL" -88.9532765 40.0339173
+"479" "Marquette Heights Public Library" "Marquette Heights" "715 Lincoln Road" 61554 "IL" -89.6027623 40.6156684
+"480" "Marseilles Public Library" "Marseilles" "155 East Bluff Street" 61341 "IL" -88.708179 41.3306954
+"481" "Marshall Public Library" "Marshall" "612 Archer Avenue" 62441 "IL" -87.6954751 39.3908129
+"482" "Martinsville Public Library District" "Martinsville" "120 East Cumberland Street" 62442 "IL" -87.8792237 39.3341285
+"483" "Maryville Community Library District" "Maryville" "8 Schiber Court" 62062 "IL" -89.9497989 38.7308704
+"484" "Mascoutah Public Library" "Mascoutah" "3 West Church Street" 62258 "IL" -89.7978979 38.4914488
+"485" "Mason City Public Library District" "Mason City" "820 West Chestnut Street" 62664 "IL" -89.7134643 40.2023853
+"486" "Matherville Branch" "Matherville" "1376 252nd Street" NA "IL" -97.3827885 43.7316938
+"487" "Matteson Public Library" "Matteson" "801 South School Avenue" 60443 "IL" -87.7251478 41.5127986
+"488" "Mattoon Public Library" "Mattoon" "1600 Charleston Avenue" 61938 "IL" -88.3742274 39.4819077
+"489" "Maywood Public Library District" "Maywood" "121 South Fifth Avenue" 60153 "IL" -87.8385126 41.887358
+"490" "Mccook Public Library District" "Mccook" "8419 West 50th Street" 60525 "IL" -87.8312511 41.8003322
+"491" "Mchenry Nunda Public Library District" "Mchenry" "813 West Il Route 120" 60051 "IL" -88.2137678 42.3346144
+"492" "Mchenry Public Library District" "Mchenry" "809 North Front Street" 60050 "IL" -88.2755992 42.3393805
+"493" "Mount Hope-Funks Grove Townships Public Library District" "Mclean" "111 South Hamilton Street" 61754 "IL" -89.1711269 40.3151774
+"494" "Mccoy Memorial Library" "Mcleansboro" "118 South Washington Street" 62859 "IL" -88.536576 38.0937684
+"495" "Mcnabb Branch Library" "Mcnabb" "322. W. Main" NA "IL" -92.9402951 35.2419585
+"496" "Melrose Park Public Library" "Melrose Park" "801 North Broadway Street" 60160 "IL" -87.8562227 41.8943532
+"497" "Melvin Public Library" "Melvin" "102 South Center Street" 60952 "IL" -88.2495051 40.5686772
+"498" "Four Star Public Library District" "Mendon" "132 West South Street" 62351 "IL" -91.284958 40.088527
+"499" "Graves-Hume Public Library District" "Mendota" "1401 West Main Street" 61342 "IL" -89.1205293 41.555249
+"500" "M-C River Valley Public Library District" "Meredosia" "304 Main Street" 62665 "IL" -90.5609985 39.8309146
+"501" "Germantown Hills Branch" "Metamora" "101 Warrior Way" NA "IL" -74.3340327 42.5904641
+"502" "Illinois Prairie District Public Library" "Metamora" "208 East Partridge Street" 61548 "IL" -89.3613095 40.79125
+"503" "Metropolis Public Library" "Metropolis" "317 Metropolis Street" 62960 "IL" -88.731687 37.149261
+"504" "Midlothian Public Library" "Midlothian" "14701 South Kenton Avenue" 60445 "IL" -87.7319451 41.624978
+"505" "Coyne Center Branch" "Milan" "11310 16th Street" NA "IL" -90.7657559 42.0473242
+"506" "Milford District Library" "Milford" "2 South Grant Avenue" 60953 "IL" -87.6931054 40.628389
+"507" "Wysox Township Public Library" "Milledgeville" "18 West Fifth Street" 61051 "IL" -89.7747945 41.9638194
+"508" "Millstadt Library" "Millstadt" "115 West Laurel Street" 62260 "IL" -90.093127 38.4589786
+"509" "Mineral-Gold Public Library District" "Mineral" "120 East Main Street" 61344 "IL" -89.8371421 41.3823207
+"510" "H.A. Peine District Library" "Minier" "202 North Main Street" 61759 "IL" -89.3146991 40.4322102
+"511" "Filger Public Library" "Minonk" "261 East Fifth Street" 61760 "IL" -89.0326299 40.9018404
+"512" "Minooka Branch" "Minooka" "109 N Wabena St" NA "IL" -88.2619735 41.4563088
+"513" "Mokena Community Public Library District" "Mokena" "11327 West 195th Street" 60448 "IL" -87.8916902 41.5344526
+"514" "Moline Public Library" "Moline" "3210 41st Street" 61265 "IL" -90.4781787 41.4810701
+"515" "Southeast Library" "Moline" "504 - 17th Street" NA "IL" -104.9892793 39.7448324
+"516" "Edward Chipman Public Library" "Momence" "126 North Locust Street" 60954 "IL" -87.66082 41.163939
+"517" "Warren County Public Library District" "Monmouth" "62 Public Square" 61462 "IL" -90.6485487 40.9114026
+"518" "Allerton Public Library" "Monticello" "201 N. State Street" NA "IL" -111.6971979 40.3009918
+"519" "Monticello Township Library" "Monticello" "201 North State Street" 61856 "IL" -88.5714942 40.0263659
+"520" "Morris Area Public Library District" "Morris" "604 Liberty Street" 60450 "IL" -88.4239172 41.3611745
+"521" "Odell Public Library" "Morrison" "307 South Madison Street" 61270 "IL" -89.9661605 41.8056862
+"522" "Kitchell Memorial Library" "Morrisonville" "300 South East 5th Street" 62546 "IL" -89.4539316 39.4175086
+"523" "Morton Public Library District" "Morton" "315 West Pershing Street" 61550 "IL" -89.4634221 40.6124981
+"524" "Morton Grove Public Library" "Morton Grove" "6140 Lincoln Avenue" 60053 "IL" -88.0707589 41.7746385
+"525" "Mound City Public Library" "Mound City" "224 High Street" 62963 "IL" -89.1658074 37.0847354
+"526" "Mounds Public Library" "Mounds" "418 First Street" 62964 "IL" -89.1978576 37.1143031
+"527" "Mount Carmel Public Library" "Mount Carmel" "727 North Mulberry Street" 62863 "IL" -87.761717 38.4141764
+"528" "Mount Carroll Township Public Library" "Mount Carroll" "208 North Main Street" 61053 "IL" -89.9788474 42.1000925
+"529" "Mount Morris Public Library" "Mount Morris" "105 South Mckendrie Avenue" 61054 "IL" -89.4319143 42.0476851
+"530" "Mount Olive Public Library" "Mount Olive" "100 North Plum Street" 62069 "IL" -89.726022 39.075998
+"531" "Mount Prospect Public Library" "Mount Prospect" "10 South Emerson Street" 60056 "IL" -87.9360653 42.0656567
+"532" "Mount Pulaski Public Library District" "Mount Pulaski" "320 North Washington Street" 62548 "IL" -89.2852096 40.0118817
+"533" "Brown County Public Library District" "Mount Sterling" "143 West Main Street" 62353 "IL" -90.765928 39.9859301
+"534" "C.E. Brehm Memorial Public Library District" "Mount Vernon" "101 South Seventh Street" 62864 "IL" -88.8994427 38.3175847
+"535" "Mount Zion Public Library District" "Mount Zion" "115 West Main Street" 62549 "IL" -88.8720971 39.7695516
+"536" "Moweaqua Public Library District" "Moweaqua" "600 North Putnam Street" 62550 "IL" -89.0146322 39.6312709
+"537" "Moweaqua Public Library District" "Moweaqua" "122 North Main St" NA "IL" -73.2142267 44.4758907
+"538" "Fremont Public Library District" "Mundelein" "1170 North Midlothian Road" 60060 "IL" -88.0201982 42.2821112
+"539" "Sallie Logan Public Library" "Murphysboro" "1808 Walnut Street" 62966 "IL" -89.3429326 37.7646457
+"540" "95th Street Library (Nsl)" "Naperville" "3015 Cedar Glade Dr." NA "IL" -92.1798665 35.1802893
+"541" "Naper Boulevard Library" "Naperville" "2035 S. Naper Blvd." NA "IL" -88.1180793 41.7297912
+"542" "Naperville Public Library" "Naperville" "200 West Jefferson Avenue" 60540 "IL" -88.1519347 41.772304
+"543" "Nichols Library" "Naperville" "200 W. Jefferson Ave." NA "IL" -83.171085 42.168684
+"544" "Nashville Public Library" "Nashville" "219 East Elm Street" 62263 "IL" -89.3815045 38.3445293
+"545" "Nauvoo Public Library" "Nauvoo" "1270 Mulholland Street" 62354 "IL" -91.3824517 40.5497048
+"546" "Neoga Public Library District" "Neoga" "550 Chestnut Avenue" 62447 "IL" -88.4527573 39.3207767
+"547" "Neponset Public Library" "Neponset" "201 West Commerical Street" 61345 "IL" -89.7908564 41.2965088
+"548" "New Athens District Library" "New Athens" "201 North Van Buren Street" 62264 "IL" -89.87806 38.32678
+"549" "New Baden Public Library" "New Baden" "210 North First Street" 62265 "IL" -89.6997033 38.5375758
+"550" "West Sangamon Public Library District" "New Berlin" "103 East Illinois Street" 62670 "IL" -89.91219 39.7248109
+"551" "New Lenox Public Library District" "New Lenox" "120 Veterans Parkway" 60451 "IL" -87.9787177 41.5137002
+"552" "New Windsor Public Library District" "New Windsor" "412 Main Street" 61465 "IL" -90.4415603 41.2023998
+"553" "Charles B. Phillips Public Library District" "Newark" "6 North Jackson Street" 60541 "IL" -88.5822972 41.5370643
+"554" "Newman Regional Library District" "Newman" "108 West Yates Street" 61942 "IL" -87.9862833 39.7976231
+"555" "Newton Public Library District" "Newton" "100 South Van Buren Street" 62448 "IL" -88.1612047 38.9908645
+"556" "Niles Public Library District" "Niles" "6960 Oakton Street" 60714 "IL" -87.8010584 42.0264488
+"557" "Nokomis Public Library" "Nokomis" "22 South Cedar Street" 62075 "IL" -89.2875886 39.3001179
+"558" "Normal Public Library" "Normal" "206 West College Avenue" 61761 "IL" -88.9866075 40.5106271
+"559" "Norris City Memorial Public Library District" "Norris City" "603 South Division Street" 62869 "IL" -88.3288567 37.9762436
+"560" "Messenger Public Library Of North Aurora" "North Aurora" "113 Oak Street" 60542 "IL" -88.3286094 41.8090875
+"561" "North Chicago Public Library" "North Chicago" "2100 Argonne Drive" 60064 "IL" -87.857754 42.3256159
+"562" "North Riverside Public Library District" "North Riverside" "2400 South Des Plaines Avenue" 60546 "IL" -87.8237382 41.8462419
+"563" "Northbrook Public Library" "Northbrook" "1201 Cedar Lane" 60062 "IL" -87.8309149 42.1305109
+"564" "Northfield Branch" "Northfield" "1785 Orchard Lane" NA "IL" -97.1058275 31.5670897
+"565" "Northlake Public Library District" "Northlake" "231 North Wolf Road" 60164 "IL" -87.9029311 41.911359
+"566" "Oak Brook Public Library" "Oak Brook" "600 Oak Brook Road" 60523 "IL" -87.9370594 41.8337423
+"567" "Acorn Public Library District" "Oak Forest" "15624 South Central Avenue" 60452 "IL" -87.7567452 41.607367
+"568" "Oak Lawn Public Library" "Oak Lawn" "9427 South Raymond Avenue" 60453 "IL" -87.7523404 41.7203713
+"569" "Dole Branch Library" "Oak Park" "255 Augusta" NA "IL" -98.6079374 29.8485133
+"570" "Maze Branch Library" "Oak Park" "845 South Gunderson" NA "IL" -124.1322271 46.9573134
+"571" "Oak Park Public Library" "Oak Park" "834 Lake Street" 60301 "IL" -87.7963412 41.8891681
+"572" "Oakwood Public Library District" "Oakwood" "110 East Finley Street" 61858 "IL" -87.7770964 40.1148183
+"573" "Odell Public Library District" "Odell" "301 East Richard Street" 60460 "IL" -88.5220445 41.0030669
+"574" "Ofallon Public Library" "Ofallon" "120 Civic Plaza" 62269 "IL" -89.9132779 38.581801
+"575" "Ogden Rose Public Library" "Ogden" "103 West Main Street" 61859 "IL" -87.956342 40.11419
+"576" "Oglesby Public Library District" "Oglesby" "111 South Woodland Avenue" 61348 "IL" -89.0625093 41.293959
+"577" "Ohio Public Library District" "Ohio" "112 North Main Street" 61349 "IL" -89.4617239 41.5581051
+"578" "Dodge Memorial Public Library District" "Olive Branch" "22440 Railroad Street" 62969 "IL" -117.1416179 47.4497694
+"579" "Olmsted Public Library" "Olmsted" "160 North Front Street" 62970 "IL" -89.0882583 37.1814701
+"580" "Olney Public Library" "Olney" "400 West Main Street" 62450 "IL" -88.0895323 38.730909
+"581" "Onarga Community Public Library District" "Onarga" "209 West Seminary Avenue" 60955 "IL" -88.0088075 40.7151759
+"582" "Greig Memorial Library" "Oneida" "110 South Joy Street" 61467 "IL" -90.22214 41.072083
+"583" "Oneida Greig Memorial Library" "Oneida" "110 S. Joy Street" NA "IL" -90.22214 41.072083
+"584" "Oreana Public Library" "Oreana" "100 South Route 48" 62554 "IL" -88.8678941 39.9363398
+"585" "Oregon Public Library District" "Oregon" "300 Jefferson Street" 61061 "IL" -89.3316929 42.0135546
+"586" "Western District Library" "Orion" "1111 Fourth Street" 61273 "IL" -90.381071 41.353121
+"587" "Orland Park Public Library" "Orland Park" "14921 South Ravinia Avenue" 60462 "IL" -87.8563805 41.6188585
+"588" "Oswego Public Library District" "Oswego" "32 West Jefferson Street" 60543 "IL" -88.3508496 41.6852048
+"589" "Reddick Public Library District" "Ottawa" "1010 Canal Street" 61350 "IL" -88.8458713 41.3500594
+"590" "Palatine Public Library District" "Palatine" "700 North North Court" 60067 "IL" -88.0368146 42.1219889
+"591" "Rand Road Branch" "Palatine" "1585 Rand Road" NA "IL" -87.88388 42.0461042
+"592" "Palestine Public Library District" "Palestine" "116 South Main Street" 62451 "IL" -87.6128048 39.002632
+"593" "Palos Heights Public Library" "Palos Heights" "12501 South 71st Avenue" 60463 "IL" -87.7938479 41.6639663
+"594" "Green Hills Public Library District" "Palos Hills" "8611 West 103rd Street" 60465 "IL" -87.8321292 41.703265
+"595" "Palos Park Public Library" "Palos Park" "12330 South Forest Glen Boulevard" 60464 "IL" -87.5816847 33.3097212
+"596" "Carnegie-Schuyler Library" "Pana" "303 East Second Street" 62557 "IL" -89.0786032 39.3886087
+"597" "Paris Carnegie Public Library" "Paris" "207 South Main Street" 61944 "IL" -87.6949452 39.6128488
+"598" "Park Forest Public Library" "Park Forest" "400 Lakewood Boulevard" 60466 "IL" -87.6847386 41.4850966
+"599" "Park Ridge Public Library" "Park Ridge" "20 South Prospect Avenue" 60068 "IL" -87.8305081 42.0106828
+"600" "Patoka Public Library" "Patoka" "210 West Bond Street" 62875 "IL" -89.0969745 38.7540562
+"601" "Paw Paw Public Library District" "Paw Paw" "362 Chicago Road" 61353 "IL" -88.9821284 41.6886263
+"602" "Pawnee Public Library" "Pawnee" "613 Douglas Street" 62558 "IL" -89.5804135 39.5918039
+"603" "Paxton Carnegie Library" "Paxton" "254 South Market Street" 60957 "IL" -88.0985488 40.4588634
+"604" "Pearl City Public Library District" "Pearl City" "221 South Main Street" 61062 "IL" -89.826186 42.2658066
+"605" "Pecatonica Public Library District" "Pecatonica" "400 West Eleventh Street" 61063 "IL" -89.3639828 42.3048441
+"606" "Pekin Public Library" "Pekin" "301 South Fourth Street" 61554 "IL" -89.6480935 40.5675863
+"607" "Lakeview Branch Library" "Peoria" "1137 W. Lake Ave." NA "IL" -89.6118772 40.7410119
+"608" "Lincoln Branch Library" "Peoria" "1312 W. Lincoln Ave" NA "IL" -96.0985434 46.2838052
+"609" "Mcclure Branch Library" "Peoria" "315 W. Mcclure Ave." NA "IL" -89.5343636 37.8723268
+"610" "Peoria Public Library" "Peoria" "107 Northeast Monroe Street" 61602 "IL" -89.5924468 40.695347
+"611" "Riverwest Library" "Peoria" "312 S. Merriman" NA "IL" -79.297147 33.370531
+"612" "South Side Library" "Peoria" "2605 W. Krause Ave." NA "IL" -89.6345437 40.6668404
+"613" "Peoria Heights Public Library" "Peoria Heights" "816 East Glen Avenue" 61616 "IL" -89.5808345 40.7459459
+"614" "Peotone Public Library District" "Peotone" "515 North First Street" 60468 "IL" -87.7919552 41.3381622
+"615" "Percy Reading Center" "Percy" "307 West Pine" NA "IL" -81.8831814 31.6093578
+"616" "Peru Public Library" "Peru" "1409 Eleventh Street" 61354 "IL" -89.1244943 41.3340405
+"617" "Petersburg Public Library" "Petersburg" "220 South Sixth Street" 62675 "IL" -89.8483373 40.0100985
+"618" "Philo Public Library District" "Philo" "115 East Washington Street" 61864 "IL" -88.156931 40.006672
+"619" "Pinckneyville Public Library" "Pinckneyville" "312 South Walnut Street" 62274 "IL" -89.3827413 38.0769812
+"620" "Piper City Public Library District" "Piper City" "39 West Main Street" 60959 "IL" -88.1915312 40.7587881
+"621" "Pittsburg Branch Library" "Pittsburg" "302 W. Avery St." NA "IL" -87.2234502 30.4300925
+"622" "Pittsfield Public Library" "Pittsfield" "205 North Memorial Street" 62363 "IL" -90.8075769 39.6079929
+"623" "Plainfield Public Library District" "Plainfield" "15025 South Illinois Street" 60544 "IL" -88.2032543 41.6090836
+"624" "Plano Community Library District" "Plano" "15 West North Street" 60545 "IL" -88.53812 41.6631518
+"625" "Pleasant Plains Branch" "Pleasant Plains" "555 Buckeye Rd" NA "IL" -82.8722215 32.5568748
+"626" "Plymouth Branch" "Plymouth" "103 Main" NA "IL" 34.1183674 -15.8802138
+"627" "Polo Public Library District" "Polo" "302 West Mason Street" 61064 "IL" -89.5802405 41.9861684
+"628" "Pontiac Public Library" "Pontiac" "211 East Madison Street" 61764 "IL" -88.6274297 40.8803544
+"629" "River Valley District Library" "Port Byron" "214 South Main Street" 61275 "IL" -90.335932 41.604877
+"630" "Matson Public Library" "Princeton" "15 Park Avenue West" NA "IL" -82.5163034 40.7585675
+"631" "Princeton Public Library" "Princeton" "698 East Peru Street" 61356 "IL" -89.4530484 41.3715197
+"632" "Lillie M. Evans Library District" "Princeville" "207 North Walnut Avenue" 61559 "IL" -89.7564454 40.931208
+"633" "Henry C. Adams Memorial Library" "Prophetstown" "209 West Third Street" 61277 "IL" -89.9375804 41.6714088
+"634" "Prospect Heights Public Library District" "Prospect Heights" "12 North Elm Street" 60070 "IL" -87.9425968 42.0967174
+"635" "Putnam (Condit) Branch" "Putnam" "105 W. Center Street" NA "IL" -79.2681185 36.096361
+"636" "Quincy Public Library" "Quincy" "526 Jersey Street" 62301 "IL" -91.4074804 39.9298907
+"637" "York Street Branch" "Quincy" "639 York Street" NA "IL" -104.9602056 39.7263829
+"638" "Ramsey Public Library" "Ramsey" "401 South Superior Street" 62080 "IL" -89.108296 39.1472815
+"639" "Rantoul Public Library" "Rantoul" "106 West Flessner Avenue" 61866 "IL" -88.159599 40.294334
+"640" "Doyle Public Library District" "Raymond" "109 South Obannon Street" 62560 "IL" -89.5744243 39.3214614
+"641" "Red Bud Public Library" "Red Bud" "925 South Main Street" 62278 "IL" -89.993971 38.2036423
+"642" "Nippersink Public Library District" "Richmond" "5418 Hill Road" 60071 "IL" -88.3043498 42.4652509
+"643" "Richton Park Public Library District" "Richton Park" "4045 Sauk Trail" 60471 "IL" -87.715659 41.483781
+"644" "Elwood Township Carnegie Library" "Ridge Farm" "104 North State Street" 61870 "IL" -87.6517087 39.8971909
+"645" "River Forest Public Library" "River Forest" "735 Lathrop Avenue" 60305 "IL" -87.8149199 41.8935074
+"646" "River Grove Public Library District" "River Grove" "8638 West Grand Avenue" 60171 "IL" -87.842035 41.9297349
+"647" "Riverdale Public Library District" "Riverdale" "208 West 144th Street" 60827 "IL" -87.6274093 41.6331869
+"648" "Riverside Public Library" "Riverside" "1 Burling Road" 60546 "IL" -87.8191342 41.8265188
+"649" "Riverton Village Library" "Riverton" "1200 East Riverton Road" 62561 "IL" -89.5386139 39.8598744
+"650" "Roanoke Branch" "Roanoke" "123 East Broad Street" NA "IL" -77.4404923 37.5444227
+"651" "William Leonard Public Library District" "Robbins" "13820 Central Park Avenue" 60472 "IL" -87.7090417 41.6413945
+"652" "Robinson Public Library District" "Robinson" "606 North Jefferson Street" 62454 "IL" -87.7382251 39.0103013
+"653" "Flagg-Rochelle Public Library District" "Rochelle" "619 Fourth Avenue" 61068 "IL" -89.06846 41.9231263
+"654" "Rochester Public Library District" "Rochester" "1 Community Drive" 62563 "IL" -89.5265713 39.7447821
+"655" "Rock Falls Public Library District" "Rock Falls" "1007 Seventh Avenue" 61071 "IL" -89.697532 41.7723898
+"656" "Rock Island 30-31 Branch" "Rock Island" "3059 30th Street" NA "IL" -117.1293127 32.7373062
+"657" "Rock Island Public Library" "Rock Island" "401 Nineteenth Street" 61201 "IL" -90.5727919 41.5085083
+"658" "Rock Island Southwest Branch" "Rock Island" "9010 Ridgewood Road" NA "IL" -90.594784 41.429262
+"659" "Lewis Lemon Branch" "Rockford" "1988 West Jefferson Street" NA "IL" -85.7841817 38.2568321
+"660" "Montague Branch" "Rockford" "1238 South Winnebago Street" NA "IL" -93.5276543 43.40781
+"661" "Northeast Branch" "Rockford" "320 North Alpine Road" NA "IL" -89.029039 42.2684729
+"662" "Rock River Branch" "Rockford" "3128 11th Street" NA "IL" -89.071004 42.2274768
+"663" "Rockford Public Library" "Rockford" "215 North Wyman Street" 61101 "IL" -89.0924467 42.2720571
+"664" "Rockton Centre Branch" "Rockford" "3114 North Rockton Avenue" NA "IL" -89.0968625 42.3060111
+"665" "Talcott Free Library District" "Rockton" "101 East Main Street" 61072 "IL" -89.0721491 42.4527869
+"666" "Biblioteca Del Centro" "Rolling Meadows" "2268 Algonquin Road" NA "IL" -88.3318746 42.1757584
+"667" "Rolling Meadows Library" "Rolling Meadows" "3110 Martin Lane" 60008 "IL" -88.0212873 42.0764648
+"668" "Romeoville Branch Library" "Romeoville" "201 West Normantown Road" NA "IL" -88.0855395 41.6541026
+"669" "Roodhouse Public Library" "Roodhouse" "220 West Franklin Street" 62082 "IL" -90.3722925 39.4823652
+"670" "North Suburban Library-Roscoe" "Roscoe" "5562 Cayton Circle" NA "IL" -95.3129515 29.6508005
+"671" "Roselle Public Library District" "Roselle" "40 South Park Street" 60172 "IL" -88.0760734 41.9826413
+"672" "Roseville Branch Library" "Roseville" "145 West Penn" NA "IL" -91.8632114 41.1468493
+"673" "Rosiclare Memorial Public Library" "Rosiclare" "po box 10" 62982 "IL" -88.372493 37.4249627
+"674" "Round Lake Area Public Library District" "Round Lake" "906 Hart Road" 60073 "IL" -88.1058118 42.3577488
+"675" "Roxana Public Library District" "Roxana" "200 North Central Avenue" 62084 "IL" -90.0792968 38.8488377
+"676" "Royalton Public Library District" "Royalton" "305 South Dean Street" 62983 "IL" -89.1154613 37.8779222
+"677" "Rushville Public Library" "Rushville" "104 North Monroe Street" 62681 "IL" -90.5651257 40.120692
+"678" "St. Elmo Public Library District" "Saint Elmo" "311 West Cumberland Road" 62458 "IL" -88.8513834 39.0229965
+"679" "St. Joseph Township-Swearingen Memorial Library" "Saint Joseph" "201 North Third Street" 61873 "IL" -88.040758 40.112502
+"680" "Bryan-Bennett Library" "Salem" "217 West Main Street" 62881 "IL" -88.946839 38.6270504
+"681" "Sandoval Branch Library" "Sandoval" "101 N. Broadway" NA "IL" -108.593004 37.349928
+"682" "Sandwich District Library" "Sandwich" "107 East Center Street" 60548 "IL" -88.620334 41.645993
+"683" "Nancy L. Mcconathy Public Library District" "Sauk Village" "21737 Jeffrey Avenue" 60411 "IL" -87.573797 41.4917018
+"684" "Savanna Public Library District" "Savanna" "326 Third Street" 61074 "IL" -90.1553165 42.0938311
+"685" "Cheneys Grove Township Library" "Saybrook" "204 South State Street" 61770 "IL" -88.5288388 40.425545
+"686" "Schaumburg Township District Library" "Schaumburg" "130 South Roselle Road" 60193 "IL" -88.083314 42.025461
+"687" "Schiller Park Public Library" "Schiller Park" "4200 Old River Road" 60176 "IL" -87.8609969 41.9555986
+"688" "Seaton Public Library District" "Seaton" "201 Maple Street" 61476 "IL" -90.8019364 41.1017667
+"689" "Seneca Public Library District" "Seneca" "210 North Main Street" 61360 "IL" -88.6099824 41.3151204
+"690" "Sesser Public Library" "Sesser" "303 West Franklin Street" 62884 "IL" -89.0526578 38.0917059
+"691" "Flewellin Memorial Library" "Shabbona" "108 West Comanche" 60550 "IL" -88.873383 41.768143
+"692" "Shawneetown Public Library" "Shawneetown" "320 North Lincoln Boulevard" 62984 "IL" -88.1867704 37.714712
+"693" "Sheffield Public Library" "Sheffield" "136 East Cook Street" 61361 "IL" -89.7367627 41.3564543
+"694" "Shelbyville Public Library" "Shelbyville" "154 North Broadway Street" 62565 "IL" -88.7937261 39.4072796
+"695" "Sheldon Public Library District" "Sheldon" "125 North Fifth Street" 60966 "IL" -87.5623872 40.7711615
+"696" "Robert W. Rowe Public Library District" "Sheridan" "120 East Si Johnson Avenue" 60551 "IL" -88.6816693 41.5299655
+"697" "Sherman Public Library District" "Sherman" "2100 East Andrew Road" 62684 "IL" -89.6158465 39.8959572
+"698" "Sherrard Public Library District" "Sherrard" "200 Fifth Avenue" 61281 "IL" -90.5072585 41.320098
+"699" "Shorewood-Troy Public Library District" "Shorewood" "650 Deerwood Drive" 60404 "IL" -88.204941 41.524076
+"700" "Sidell District Library" "Sidell" "101 East Market Street" 61876 "IL" -87.8213919 39.9107257
+"701" "Sidney Community Library" "Sidney" "221 South David Street" 61877 "IL" -88.0733601 40.0241196
+"702" "Silvis Public Library" "Silvis" "105 Eighth Street" 61282 "IL" -90.4167806 41.5122014
+"703" "Skokie Public Library" "Skokie" "5215 Oakton Street" 60077 "IL" -87.7576986 42.0257291
+"704" "Smithton Public Library District" "Smithton" "109 South Main Street" 62285 "IL" -89.9925729 38.407637
+"705" "Somonauk Public Library District" "Somonauk" "115 East Dekalb Street" 60552 "IL" -88.6840484 41.632777
+"706" "South Beloit Public Library" "South Beloit" "630 Blackhawk Boulevard" 61080 "IL" -89.039657 42.4881242
+"707" "South Holland Public Library" "South Holland" "16250 Wausau Avenue" 60473 "IL" -87.6106657 41.5994358
+"708" "South Pekin Library" "South Pekin" "208 Main Street" 61564 "IL" -89.6478772 40.4946438
+"709" "Sparta Public Library" "Sparta" "211 West Broadway" 62286 "IL" -89.7041339 38.1226672
+"710" "Richard A. Mautino Memorial Library" "Spring Valley" "215 East Cleveland Street" 61362 "IL" -89.197886 41.3266348
+"711" "Lincoln Library" "Springfield" "326 South Seventh Street" 62701 "IL" -89.646486 39.7986186
+"712" "St. Charles Public Library District" "St. Charles" "1 South Sixth Ave." NA "IL" -95.9019949 40.7989379
+"713" "Standard Branch" "Standard" "128 First Street" NA "IL" -90.5671922 41.4528368
+"714" "Allin Township Library" "Stanford" "116 West Main Street" 61774 "IL" -89.2190416 40.4346364
+"715" "Staunton Public Library" "Staunton" "306 West Main Street" 62088 "IL" -89.7891424 39.0120732
+"716" "Steeleville Area Public Library District" "Steeleville" "625 South Sparta Street" 62288 "IL" -89.6586641 38.0026678
+"717" "Steger-South Chicago Heights Public Library District" "Steger" "54 East 31st Street" 60475 "IL" -87.6339194 41.4750034
+"718" "Stickney-Forest View Public Library District" "Stickney" "6800 West 43rd Street" 60402 "IL" -87.7926806 41.8144138
+"719" "Stockton Township Public Library" "Stockton" "140 West Benton Avenue" 61085 "IL" -90.0082204 42.3508552
+"720" "Stonington Township Public Library" "Stonington" "500 East North Street" 62567 "IL" -89.1836769 39.6405538
+"721" "Poplar Creek Public Library District" "Streamwood" "1405 South Park Avenue" 60107 "IL" -88.1744921 42.0086374
+"722" "Streator Public Library" "Streator" "130 South Park Street" 61364 "IL" -88.8341874 41.1204119
+"723" "Sugar Grove Public Library District" "Sugar Grove" "54 Snow Street" 60554 "IL" -88.4442718 41.761044
+"724" "Elizabeth Titus Memorial Library" "Sullivan" "2 West Water Street" 61951 "IL" -88.6074383 39.5971271
+"725" "Summit Public Library District" "Summit" "6233 South Archer Road" 60501 "IL" -87.8135935 41.7779876
+"726" "Sycamore Public Library" "Sycamore" "103 East State Street" 60178 "IL" -88.6838826 41.9886963
+"727" "Taylorville Public Library" "Taylorville" "121 West Vine Street" 62568 "IL" -89.2958199 39.5505837
+"728" "York Township Public Library" "Thomson" "1005 West Main Street" 61285 "IL" -90.1025388 41.9586891
+"729" "Thornton Public Library" "Thornton" "115 East Margaret Street" 60476 "IL" -87.6117085 41.5678731
+"730" "Tilden Public Library" "Tilden" "540 Pine Street" 62292 "IL" -89.6813341 38.2104151
+"731" "Tinley Park Public Library" "Tinley Park" "7851 Timber Drive" 60477 "IL" -87.8104221 41.5617163
+"732" "Sumpter Township Library" "Toledo" "408 Courthouse Square" 62468 "IL" -87.7747281 30.8821922
+"733" "Tolono Public Library District" "Tolono" "111 East Main Street" 61880 "IL" -88.260346 39.985231
+"734" "Toluca Public Library District" "Toluca" "102 North Main Street" 61369 "IL" -89.1339958 41.0031166
+"735" "Toulon Public Library District" "Toulon" "306 West Jefferson Street" 61483 "IL" -89.861232 41.0928585
+"736" "Towanda District Library" "Towanda" "301 South Taylor Street" 61776 "IL" -88.8947753 40.5632214
+"737" "Tremont District Library" "Tremont" "215 South Sampson Street" 61568 "IL" -89.4911337 40.5254765
+"738" "Trenton Public Library" "Trenton" "118 East Indiana Street" 62293 "IL" -89.680351 38.603094
+"739" "Tri-Township Public Library District" "Troy" "209 South Main Street" 62294 "IL" -89.8841619 38.7274635
+"740" "Tuscola Public Library" "Tuscola" "112 East Sale Street" 61953 "IL" -88.2874785 39.7998392
+"741" "University Park Public Library District" "University Park" "1100 Blackhawk Drive" 60466 "IL" -87.6948992 41.4740243
+"742" "Urbana Free Library" "Urbana" "210 West Green Street" 61801 "IL" -88.2094983 40.1113033
+"743" "Utica Public Library District" "Utica" "po box 367" 61373 "IL" -88.9988098 41.4168873
+"744" "Valmeyer Public Library District" "Valmeyer" "300 South Cedar Bluff Drive" 62295 "IL" -90.277925 38.310295
+"745" "Evans Public Library District" "Vandalia" "215 South Fifth Street" 62471 "IL" -89.0961007 38.9605445
+"746" "Venice Public Library" "Venice" "325 Broadway Avenue" 62090 "IL" -90.1707113 38.6718645
+"747" "Potomac Public Library" "Vermilion" "110 East State Street" 61865 "IL" -87.8006499 40.3053362
+"748" "Vermont Public Library" "Vermont" "po box 199" 61484 "IL" -90.4219444 40.297885
+"749" "Evergreen Interim Library" "Vernon Hills" "290 Evergreen Dr." NA "IL" -88.3152589 44.3011136
+"750" "Versailles Branch Library" "Versailles" "112 West 2nd Street" NA "IL" -104.5320373 33.3940529
+"751" "Victoria Public Library District" "Victoria" "227 East Main Street" 61485 "IL" -90.0966976 41.0337924
+"752" "Vienna Carnegie Public Library" "Vienna" "401 Poplar Street" 62995 "IL" -88.8960402 37.4140139
+"753" "Camargo Township District Library" "Villa Grove" "14 North Main Street" 61956 "IL" -88.1615337 39.8621282
+"754" "Villa Park Public Library" "Villa Park" "305 South Ardmore Avenue" 60181 "IL" -87.9785137 41.8846891
+"755" "Viola Public Library District" "Viola" "1705 Fourteenth Street" 61486 "IL" -90.5858922 41.2025868
+"756" "Grand Prairie Of The West Public Library District" "Virden" "142 West Jackson Street" 62690 "IL" -89.7684479 39.5018048
+"757" "Virginia Memorial Public Library" "Virginia" "100 North Main Street" 62691 "IL" -90.2094282 39.9510007
+"758" "Walnut Public Library District" "Walnut" "101 Heaton" 61376 "IL" -89.594288 41.556548
+"759" "Warren Township Public Library" "Warren" "210 Burnett Avenue" 61087 "IL" -89.9867228 42.496349
+"760" "Barclay Public Library District" "Warrensburg" "220 South Main Street" 62573 "IL" -89.0623191 39.927129
+"761" "Warrenville Public Library District" "Warrenville" "28w751 Stafford Place" 60555 "IL" -88.1826598 41.8230846
+"762" "Warsaw Public Library" "Warsaw" "1025 Webster Street" 62379 "IL" -91.4300333 40.3559777
+"763" "Washburn Branch" "Washburn" "102 West Magnolia" NA "IL" -81.2604639 40.6675096
+"764" "Sunnyland Branch" "Washington" "1 Sunnyland Plaza" NA "IL" -89.4810855 40.6934806
+"765" "Washington District Library" "Washington" "380 North Wilmor Road" 61571 "IL" -89.4231485 40.7071846
+"766" "Washington Park Public Library" "Washington Park" "5103 Bunkum Road 2" 62204 "IL" -90.095763 38.623375
+"767" "Morrison-Talbott Library" "Waterloo" "215 Park Street" 62298 "IL" -90.1523722 38.332933
+"768" "Clinton Township Public Library" "Waterman" "110 South Elm Street" 60556 "IL" -88.7738321 41.7682532
+"769" "Watseka Public Library" "Watseka" "201 South 4th Street" 60970 "IL" -87.7327574 40.7751186
+"770" "Wauconda Area Public Library District" "Wauconda" "801 North Main Street" 60084 "IL" -88.1449512 42.2706052
+"771" "Waukegan Public Library" "Waukegan" "128 North County Street" 60085 "IL" -87.8329016 42.3620699
+"772" "Waverly Public Library" "Waverly" "291 North Pearl Street" 62692 "IL" -89.9534489 39.5934664
+"773" "Wayne City Public Library" "Wayne City" "103 East Mill Street" 62895 "IL" -88.5856596 38.3454135
+"774" "Weldon Public Library District" "Weldon" "505 Maple Street" 61882 "IL" -88.7478159 40.1210716
+"775" "Bond Public Library" "Wenona" "208 South Chestnut Street" 61377 "IL" -89.0501202 41.0541257
+"776" "West Chicago Public Library District" "West Chicago" "118 West Washington Street" 60185 "IL" -88.2055009 41.8840145
+"777" "West Frankfort Public Library" "West Frankfort" "402 East Poplar Street" 62896 "IL" -88.9236684 37.8988552
+"778" "West Salem Public Library" "West Salem" "112 West South Street" 62476 "IL" -88.0053815 38.5201287
+"779" "West Union District Library" "West Union" "209 West Union Street" 62477 "IL" -87.668669 39.215946
+"780" "Westchester Public Library" "Westchester" "10700 Canterbury Street" 60154 "IL" -87.889992 41.8555191
+"781" "Thomas Ford Memorial Library" "Western Springs" "800 Chestnut Street" 60558 "IL" -87.8991989 41.8127342
+"782" "Westmont Public Library" "Westmont" "428 North Cass Avenue" 60559 "IL" -87.976159 41.8062094
+"783" "Westville Public Library District" "Westville" "233 South State Street" 61883 "IL" -87.6378273 40.0408307
+"784" "Wheaton Public Library" "Wheaton" "225 North Cross Street" 60187 "IL" -88.10459 41.86676
+"785" "Indian Trails Public Library District" "Wheeling" "355 South Schoenbeck Road" 60090 "IL" -87.9451988 42.1329076
+"786" "White Hall Township Library" "White Hall" "119 East Sherman Street" 62092 "IL" -90.4034251 39.4368491
+"787" "Williamsfield Public Library District" "Williamsfield" "111 West Gale Street" 61489 "IL" -90.0196592 40.9235298
+"788" "Williamsville Public Library" "Williamsville" "141 West Main Street" 62693 "IL" -89.5489672 39.9542668
+"789" "Willisville Village Library" "Willisville" "803 Broadway Street" 62997 "IL" -89.5897109 37.9832788
+"790" "Wilmette Public Library District" "Wilmette" "1242 Wilmette Avenue" 60091 "IL" -87.7094595 42.0749165
+"791" "Wilmington Public Library District" "Wilmington" "201 South Kankakee Street" 60481 "IL" -88.143747 41.307604
+"792" "Winchester Public Library" "Winchester" "215 North Main Street" 62694 "IL" -90.4562381 39.633294
+"793" "Windsor Storm Memorial Public Library District" "Windsor" "102 South Maple Street" 61957 "IL" -88.5936051 39.4381876
+"794" "Winnebago Public Library District" "Winnebago" "210 North Elida Street" 61088 "IL" -89.241839 42.268222
+"795" "Winnetka-Northfield Public Library District" "Winnetka" "768 Oak Street" 60093 "IL" -87.7330524 42.1042139
+"796" "Witt Township Memorial Library" "Witt" "18 North Second Street" 62094 "IL" -89.3517638 39.2544518
+"797" "Wolf Lake Branch Library" "Wolf Lake" "4720 State Rt. 3 North" NA "IL" -89.4431562 37.512572
+"798" "Wood Dale Public Library District" "Wood Dale" "520 North Wood Dale Road" 60191 "IL" -87.9800124 41.9708283
+"799" "Wood River Public Library" "Wood River" "326 East Ferguson Avenue" 62095 "IL" -90.0907997 38.8608301
+"800" "Clover Public Library District" "Woodhull" "440 North Division Street" 61490 "IL" -90.3155989 41.1805657
+"801" "Woodridge Public Library" "Woodridge" "3 Plaza Drive" 60517 "IL" -88.0451849 41.7556657
+"802" "Woodstock Public Library" "Woodstock" "414 West Judd Street" 60098 "IL" -88.4522774 42.3160071
+"803" "Worden Public Library District" "Worden" "111 East Wall Street" 62097 "IL" -89.8387902 38.9315768
+"804" "Worth Public Library District" "Worth" "6917 West 111th Street" 60482 "IL" -87.7923365 41.6897273
+"805" "Raymond A. Sapp Memorial Township Library" "Wyanet" "103 East Main Street" 61379 "IL" -89.5832517 41.3652783
+"806" "Wyoming Public Library District" "Wyoming" "119 North Seventh Street" 61491 "IL" -89.7730996 41.0620283
+"807" "Yorkville Public Library" "Yorkville" "902 Game Farm Road" 60560 "IL" -88.4503753 41.6526023
+"808" "Zeigler Public Library" "Zeigler" "102 East Maryland Street" 62999 "IL" -89.0512059 37.8988052
+"809" "Zion-Benton Public Library District" "Zion" "2400 Gabriel Avenue" 60099 "IL" -87.8395927 42.4510349

@@ -68,7 +68,7 @@ libsData <- function(state = NULL, geocode = TRUE,...) {
   xml7 <- matrix(unlist(xml6),ncol = 2, byrow = T)
 
   xml8 <- data.frame(xml3,rep(lib.state,nrow(xml7)),xml7)
-  colnames(xml8) <- c('Library Name','Address','City','State','Latitude','Longitude')
+  colnames(xml8) <- c('Library Name','Address','City','State','ZIP Code','Latitude','Longitude')
 
   txt.name <-  paste(c('inst/','extdata/',lib.state,'_Libs.txt'),collapse = '')
 
