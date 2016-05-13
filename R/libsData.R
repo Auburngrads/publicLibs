@@ -53,7 +53,6 @@ libsData <- function(state = NULL,...) {
   }
 
   xml5 <- data.frame(unlist(xml4), stringsAsFactors = F)
-  xml5 <- data.frame(xml3[,1:2],xml5, stringsAsFactors = F)
 
   xml6 <- list()
   for(i in 1:nrow(xml5))  {
@@ -64,7 +63,7 @@ libsData <- function(state = NULL,...) {
 
   xml7 <- matrix(unlist(xml6),ncol = 2, byrow = T)
 
-  xml8 <- data.frame(xml5,rep(lib.state,nrow(xml7)),xml7)
+  xml8 <- data.frame(xml3,rep(lib.state,nrow(xml7)),xml7)
   colnames(xml8) <- c('Library Name','Address','City','State','Latitude','Longitude')
 
   txt.name <-  paste(c('inst/','extdata/',lib.state,'_Libs.txt'),collapse = '')
