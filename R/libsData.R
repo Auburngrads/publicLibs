@@ -23,7 +23,7 @@ libsData <- function(state = NULL, geocode = TRUE,...) {
   }
 
   URL <- paste(c('http://www.publiclibraries.com/',
-                 tolower(state.name[match(tolower(lib.state),tolower(state.abb))]),
+                 gsub(' ', '',tolower(state.name[match(tolower(lib.state),tolower(state.abb))])),
                  '.htm'),
                collapse = '')
 
