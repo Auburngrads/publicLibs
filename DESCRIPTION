@@ -9,7 +9,7 @@ Description: Really awesome stuff for smart people who like libraries.  If you d
 License: GPL-2
 LazyData: TRUE
 Depends: R (>= 3.2.0)
-Imports: XML,ggmap,stats,plyr
+Imports: XML,ggmap,stats,plyr,datasets,utils
 NeedsCompilation: no
 Archs: i386, x64
 Suggests:

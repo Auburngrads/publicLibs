@@ -68,11 +68,11 @@ jkf.geocode <-
       message(paste("Reminder", s, sep = " : "))
     if (output == "latlon" || output == "latlona" || output ==
         "more") {
-      return(ldply(as.list(location), geocode, output = output,
+      return(plyr::ldply(as.list(location), geocode, output = output,
                    source = source, messaging = messaging))
     }
     else {
-      return(llply(as.list(location), geocode, output = output,
+      return(plyr::llply(as.list(location), geocode, output = output,
                    source = source, messaging = messaging))
     }
   }
