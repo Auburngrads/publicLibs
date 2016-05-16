@@ -1,6 +1,6 @@
 exportPattern("^[[:alpha:]]+")
 import(stats)
-importFrom(datasets)
+importFrom(datasets, 'state.abb','state.name')
 importFrom(XML,htmlParse,readHTMLTable)
 importFrom(ggmap,geocode)
 importFrom(plyr, join,llply,ldply)
