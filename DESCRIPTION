@@ -6,7 +6,7 @@ Date: 2016-05-12
 Author: Jason K. Freels (cre), Corey Degroot (cre)
 Maintainer: Jason K. Freels <jason.freels@afit.edu>
 Description: Really awesome stuff for smart people who like libraries.  If you don't like libraries, you may not like this package
-License: GPL-2
+License: MIT + file LICENSE
 LazyData: TRUE
 Depends: R (>= 3.2.0)
 Imports: XML,ggmap,stats,plyr,datasets,utils,digest,rjson
