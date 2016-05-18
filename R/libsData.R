@@ -6,7 +6,14 @@
 #'
 #'
 #' @param state Which state
+#' @param geocode Should geocode data be provided?
 #' @param ... more options for ggmap::geocode
+#'
+#' @importFrom XML htmlParse
+#' @importFrom XML readHTMLTable
+#' @import datasets
+#' @importFrom utils write.table
+#' @export
 
 
 libsData <- function(state = NULL, geocode = TRUE,...) {
@@ -62,7 +69,7 @@ libsData <- function(state = NULL, geocode = TRUE,...) {
   xml6 <- list()
   for(i in 1:nrow(xml5))  {
 
-    xml6[[i]] <- publicLibs::jkf.geocode(xml5[i,1], source = 'google',...)
+    xml6[[i]] <- geocode(xml5[i,1], source = 'google',...)
 
   }
 

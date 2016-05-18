@@ -1,4 +1,13 @@
-mergeLibs <- function(...) {
+#' Megre state datasets together
+#'
+#'
+#' @export
+#' @description This function uses plyr::join to combine the public library data sets for each state into a single dataset for the entire U.S.
+#' @importFrom plyr join
+#' @import datasets
+
+
+mergeLibs <- function() {
 
   which(state.abb==state.name)
 
