@@ -60,7 +60,7 @@
 "White Mountain Branch Library" "2935 Sweetwater Drive" "Rock Springs" "WY" "82901" -109.269542 41.5858736
 "Saratoga Library" "503 West Elm Street" "Saratoga" "WY" "82331" -106.8133217 41.4529698
 "Sheridan County Library" "335 West Alger St" "Sheridan" "WY" "82801" -106.9575665 44.8012161
-"Sinclair Library" "7th And Lincoln Hwy" "Sinclair" "WY" "82334" -107.113103 41.7749592
+"Sinclair Library" "7th And Lincoln Hwy" "Sinclair" "WY" "82334" -107.0447974 41.768608
 "Sheridan County Public Library - Story" "20 N. Piney" "Story" "WY" "82842" -106.891473 44.5746916
 "Crook County Library" "414 Main Street" "Sundance" "WY" "82729" -104.3779328 44.4061376
 "Superior Branch Library" "3 North Main" "Superior" "WY" "82945" -108.9686028 41.7656906
