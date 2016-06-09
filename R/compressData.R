@@ -10,7 +10,7 @@ for(i in 1:50) {
 
   lib.state <- state.abb[i]
 
-file <- read.table(paste(c('inst/','extdata/',lib.state,'_Libs.txt'),collapse = ''))
+file <- read.table(paste(c('inst/','extdata/',lib.state,'_Libs.txt'),collapse = ''), header = T)
 
 rda.name <- paste(c(lib.state,'_Libs'),collapse = '')
 
