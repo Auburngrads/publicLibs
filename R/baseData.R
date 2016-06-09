@@ -37,9 +37,20 @@ for(i in 1:nrow(bases))  {
 
 xml7 <- matrix(unlist(base.list),ncol = 2, byrow = T)
 
-bases <- data.frame(bases, xml7)
+bases <- data.frame(bases, xml7, stringsAsFactors = F)
 
-colnames(bases) <- c('Base','Longitude','Latitude')
+basenames_l <- gsub('\n', ' ', bases[,1])
+basenames_l <- gsub('United States Air Force Academy', 'Air Force Academy',basenames_l)
+basenames_l <- gsub('Air Force Base', 'AFB',basenames_l)
+basenames_l <- gsub('\\.', '', basenames_l)
+
+basenames_s <- gsub(' AFB', '', basenames_l)
+basenames_s <- gsub('Air Force Academy', 'USAFA', basenames_s)
+baseabbr    <- abbreviate(basenames_s)
+
+bases <- data.frame(basenames_l, basenames_s, baseabbr, xml7, stringsAsFactors = F)
+
+colnames(bases) <- c('Base (Long Name)','Base (Short Name)','Base (Abbreviation)','Longitude','Latitude')
 
 txt.name <-  paste(c('inst/','extdata/','Base_Locations.txt'),collapse = '')
 
@@ -49,7 +60,8 @@ txt.name <-  paste(c('inst/','extdata/','Base_Locations.txt'),collapse = '')
 
   assign(rda.name, bases, envir = environment())
 
-  save(list = rda.name, file = paste(c("data/",tolower(rda.name),'.rda'), collapse = ''))
-
+  save(list = rda.name, file = paste(c("data/",tolower(rda.name),'.rda'), collapse = ''),
+       compress = 'xz',
+       compression_level = 9)
 
 }

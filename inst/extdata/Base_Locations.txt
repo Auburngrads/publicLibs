@@ -1,88 +1,70 @@
-"Base" "Longitude" "Latitude"
-"Altus Air Force Base" -99.285251 34.651461
-"Andersen Air Force Base" 144.924438 13.5875
-"Andrews Air Force Base" -76.8836261 38.7965203
-"Arnold Air Force Base" -86.0494122 35.3788236
-"Barksdale Air Force Base" -93.6571416 32.5018595
-"Beale Air Force Base" -121.3598812 39.111504
-"Bolling Air Force Base" -77.0144498 38.8451309
-"Brooks
-City-Base" -98.4458421 29.3417239
-"Buckley Air Force Base" -104.7579278 39.7025365
-"Cannon Air Force Base" -103.3183038 34.3897838
-"Charleston Air Force
-Base" -80.0690944 32.8940204
-"Columbus Air Force Base" -88.4355422 33.6356982
-"Creech Air Force Base" -115.673355 36.587181
-"Davis-Monthan Air Force
-Base" -110.8605934 32.155285
-"Dover Air Force Base" -75.4865456 39.1317247
-"Dyess Air Force Base" -99.8418696 32.422379
-"Edwards Air Force Base" -117.8912085 34.9240314
-"Eglin Air Force Base" -86.5533382 30.4635583
-"Eielson Air Force Base" -147.0638234 64.6430952
-"Ellsworth Air Force Base" -103.0748767 44.1463938
-"Elmendorf Air Force Base" -149.8112528 61.2536352
-"F.E. Warren
-Air Force Base" -104.8629746 41.1446846
-"Fairchild Air Force Base" -117.6438555 47.6182629
-"Goodfellow Air Force
-Base" -100.4003209 31.4346088
-"Grand Forks Air Force
-Base" -97.3824492 47.9525204
-"Gunter Air Force Base" -86.2521159 32.4107172
-"Hanscom Air Force Base" -71.2766852 42.457231
-"Hickam Air Force Base" -157.9584246 21.3393308
-"Hill
-Air Force Base" -111.9939817 41.1321102
-"Holloman Air Force Base" -106.099291 32.8440404
-"Hurlburt
-Field" -86.6949711 30.4236556
-"Keesler Air Force Base" -86.1603656 40.6734385
-"Kirtland Air Force Base" -106.5112712 35.0128396
-"Lackland Air Force Base" -98.6205193 29.3877765
-"Langley Air Force Base" -76.3592241 37.0835074
-"Laughlin Air Force Base" -100.7830826 29.3565576
-"Little Rock Air Force
-Base" -92.1446849 34.8964136
-"Los Angeles Air Force
-Base" -118.381147 33.91903
-"Luke
-Air Force Base" -112.3585753 33.544783
-"MacDill Air Force Base" -82.487858 27.8569134
-"Malmstrom Air Force Base" -111.1790622 47.5042584
-"Maxwell Air Force Base" -86.3625491 32.3791554
-"McChord Air Force Base" -122.4857321 47.1342432
-"McConnell Air Force Base" -97.2514246 37.631893
-"McGuire Air Force Base" -74.5844061 40.0351776
-"Minot Air Force Base" -101.3386723 48.4157509
-"Moody Air Force Base" -83.193054 30.968611
-"Mountain Home Air Force
-Base" -115.8619784 43.0444129
-"Nellis Air Force Base" -115.0508066 36.2414162
-"Offutt Air Force Base" -95.9145568 41.1242718
-"Otis Air Force Base" -71.2808866 42.4877714
-"Patrick Air Force Base" -80.6075172 28.2394645
-"Peterson Air Force Base" -104.6995991 38.8256561
-"Pope
-Air Force Base" -79.0145008 35.1708796
-"Randolph Air Force Base" -98.2802362 29.5324181
-"Robins Air Force Base" -83.591719 32.6400014
-"Schriever Air Force Base" -104.5130967 38.7981865
-"Scott Air Force Base" -89.8551818 38.5426987
-"Seymour Johnson Air Force
-Base" -77.9615323 35.340096
-"Shaw
-Air Force Base" -80.4692433 33.9738685
-"Sheppard Air Force Base" -98.5068511 33.9720185
-"Tinker Air Force Base" -97.3874164 35.4175229
-"Travis Air Force Base" -121.9398577 38.2721187
-"Tyndall Air Force Base" -85.6075064 30.0800072
-"United States Air Force
-Academy" -104.8617533 38.9983573
-"Vance Air Force Base" 101.7148929 3.0830612
-"Vandenberg Air Force
-Base" -120.5163949 34.7582101
-"Whiteman Air Force Base" -93.5605515 38.7289955
-"Wright-Patterson Air Force
-Base" -84.0537448 39.8137298
+"Base (Long Name)" "Base (Short Name)" "Base (Abbreviation)" "Longitude" "Latitude"
+"Altus AFB" "Altus" "Alts" -99.285251 34.651461
+"Andersen AFB" "Andersen" "Andrs" 144.924438 13.5875
+"Andrews AFB" "Andrews" "Andrw" -76.8836261 38.7965203
+"Arnold AFB" "Arnold" "Arnl" -86.0494122 35.3788236
+"Barksdale AFB" "Barksdale" "Brks" -93.6571416 32.5018595
+"Beale AFB" "Beale" "Beal" -121.3598812 39.111504
+"Bolling AFB" "Bolling" "Blln" -77.0144498 38.8451309
+"Brooks City-Base" "Brooks City-Base" "BC-B" -98.4458421 29.3417239
+"Buckley AFB" "Buckley" "Bckl" -104.7579278 39.7025365
+"Cannon AFB" "Cannon" "Cnnn" -103.3183038 34.3897838
+"Charleston AFB" "Charleston" "Chrl" -80.0690944 32.8940204
+"Columbus AFB" "Columbus" "Clmb" -88.4355422 33.6356982
+"Creech AFB" "Creech" "Crch" -115.673355 36.587181
+"Davis-Monthan AFB" "Davis-Monthan" "Dv-M" -110.8605934 32.155285
+"Dover AFB" "Dover" "Dovr" -75.4865456 39.1317247
+"Dyess AFB" "Dyess" "Dyss" -99.8418696 32.422379
+"Edwards AFB" "Edwards" "Edwr" -117.8912085 34.9240314
+"Eglin AFB" "Eglin" "Egln" -86.5533382 30.4635583
+"Eielson AFB" "Eielson" "Elsn" -147.0638234 64.6430952
+"Ellsworth AFB" "Ellsworth" "Ells" -103.0748767 44.1463938
+"Elmendorf AFB" "Elmendorf" "Elmn" -149.8112528 61.2536352
+"FE Warren AFB" "FE Warren" "FEWr" -104.8629746 41.1446846
+"Fairchild AFB" "Fairchild" "Frch" -117.6438555 47.6182629
+"Goodfellow AFB" "Goodfellow" "Gdfl" -100.4003209 31.4346088
+"Grand Forks AFB" "Grand Forks" "GrnF" -97.3824492 47.9525204
+"Gunter AFB" "Gunter" "Gntr" -86.2521159 32.4107172
+"Hanscom AFB" "Hanscom" "Hnsc" -71.2766852 42.457231
+"Hickam AFB" "Hickam" "Hckm" -157.9584246 21.3393308
+"Hill AFB" "Hill" "Hill" -111.9939817 41.1321102
+"Holloman AFB" "Holloman" "Hllm" -106.099291 32.8440404
+"Hurlburt Field" "Hurlburt Field" "HrlF" -86.6949711 30.4236556
+"Keesler AFB" "Keesler" "Kslr" -86.1603656 40.6734385
+"Kirtland AFB" "Kirtland" "Krtl" -106.5112712 35.0128396
+"Lackland AFB" "Lackland" "Lckl" -98.6205193 29.3877765
+"Langley AFB" "Langley" "Lngl" -76.3592241 37.0835074
+"Laughlin AFB" "Laughlin" "Lghl" -100.7830826 29.3565576
+"Little Rock AFB" "Little Rock" "LttR" -92.1446849 34.8964136
+"Los Angeles AFB" "Los Angeles" "LsAn" -118.381147 33.91903
+"Luke AFB" "Luke" "Luke" -112.3585753 33.544783
+"MacDill AFB" "MacDill" "McDl" -82.487858 27.8569134
+"Malmstrom AFB" "Malmstrom" "Mlms" -111.1790622 47.5042584
+"Maxwell AFB" "Maxwell" "Mxwl" -86.3625491 32.3791554
+"McChord AFB" "McChord" "McCh" -122.4857321 47.1342432
+"McConnell AFB" "McConnell" "McCn" -97.2514246 37.631893
+"McGuire AFB" "McGuire" "McGr" -74.5844061 40.0351776
+"Minot AFB" "Minot" "Mint" -101.3386723 48.4157509
+"Moody AFB" "Moody" "Mody" -83.193054 30.968611
+"Mountain Home AFB" "Mountain Home" "MntH" -115.8619784 43.0444129
+"Nellis AFB" "Nellis" "Nlls" -115.0508066 36.2414162
+"Offutt AFB" "Offutt" "Offt" -95.9145568 41.1242718
+"Otis AFB" "Otis" "Otis" -71.2808866 42.4877714
+"Patrick AFB" "Patrick" "Ptrc" -80.6075172 28.2394645
+"Peterson AFB" "Peterson" "Ptrs" -104.6995991 38.8256561
+"Pope AFB" "Pope" "Pope" -79.0145008 35.1708796
+"Randolph AFB" "Randolph" "Rndl" -98.2802362 29.5324181
+"Robins AFB" "Robins" "Rbns" -83.591719 32.6400014
+"Schriever AFB" "Schriever" "Schr" -104.5130967 38.7981865
+"Scott AFB" "Scott" "Sctt" -89.8551818 38.5426987
+"Seymour Johnson AFB" "Seymour Johnson" "SymJ" -77.9615323 35.340096
+"Shaw AFB" "Shaw" "Shaw" -80.4692433 33.9738685
+"Sheppard AFB" "Sheppard" "Shpp" -98.5068511 33.9720185
+"Tinker AFB" "Tinker" "Tnkr" -97.3874164 35.4175229
+"Travis AFB" "Travis" "Trvs" -121.9398577 38.2721187
+"Tyndall AFB" "Tyndall" "Tynd" -85.6075064 30.0800072
+"Air Force Academy" "USAFA" "USAF" -104.8617533 38.9983573
+"Vance AFB" "Vance" "Vanc" 101.7148929 3.0830612
+"Vandenberg AFB" "Vandenberg" "Vndn" -120.5163949 34.7582101
+"Whiteman AFB" "Whiteman" "Whtm" -93.5605515 38.7289955
+"Wright-Patterson AFB" "Wright-Patterson" "Wr-P" -84.0537448 39.8137298
