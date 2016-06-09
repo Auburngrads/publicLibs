@@ -46,10 +46,16 @@ basenames_l <- gsub('\\.', '', basenames_l)
 
 basenames_s <- gsub(' AFB', '', basenames_l)
 basenames_s <- gsub('Air Force Academy', 'USAFA', basenames_s)
-baseabbr    <- abbreviate(basenames_s)
+basenames_s <- gsub(' City-Base', '', basenames_s)
+basenames_s <- gsub('-', ' ', basenames_s)
+baseabbr    <- abbreviate(basenames_s, minlength = 4L, strict = T, method = 'both.sides')
 
-bases <- data.frame(basenames_l, basenames_s, baseabbr, xml7, stringsAsFactors = F)
-
+bases <- data.frame(basenames_l,
+                    tolower(basenames_s),
+                    tolower(baseabbr),
+                    xml7,
+                    stringsAsFactors = F)
+bases[3,3] <- 'andw'
 colnames(bases) <- c('Base (Long Name)','Base (Short Name)','Base (Abbreviation)','Longitude','Latitude')
 
 txt.name <-  paste(c('inst/','extdata/','Base_Locations.txt'),collapse = '')
