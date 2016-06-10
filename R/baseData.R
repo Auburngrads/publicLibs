@@ -56,7 +56,11 @@ bases <- data.frame(basenames_l,
                     xml7,
                     stringsAsFactors = F)
 bases[3,3] <- 'andw'
+bases[5,3] <- 'brkd'
+bases[which(bases[,1]%in%'Keesler AFB'),4:5] <- c(-88.923611,30.411389)
+bases[which(bases[,1]%in%'Vance AFB'),  4:5] <- c(-97.917222,36.339444)
 colnames(bases) <- c('Base (Long Name)','Base (Short Name)','Base (Abbreviation)','Longitude','Latitude')
+
 
 txt.name <-  paste(c('inst/','extdata/','Base_Locations.txt'),collapse = '')
 
