@@ -35,4 +35,3 @@ mergeLibs <- function() {
        compression_level = 9)
 }
 
-j = which(Base_Locations[,1]%in%'Hill AFB')
