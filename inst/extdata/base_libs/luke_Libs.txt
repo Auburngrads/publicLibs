@@ -1,0 +1,649 @@
+"location" "miles" "latitude" "longitude"
+"Chowchilla Branch Library
+300 Kings St.
+Chowchilla, CA" 4.61007565757114 -120.2618712 37.1229014
+"Chula Vista Public Library
+365 F St.
+Chula Vista, CA" 4.61007565757114 -117.0833577 32.6410364
+"Lakeside Library
+32593 Riverside Dr.
+Lake Elsinore, CA" 4.6733940879451 -117.3806008 33.6701224
+"El Toro Branch Library
+24672 Raymond Way
+Lake Forest, CA" 4.6733940879451 -117.6998332 33.6195602
+"Chevy Chase Branch Library
+3301 E. Chevy Chase Dr.
+Glendale, CA" 4.75766924647905 -118.2000549 34.1739475
+"Glendale Public Library
+222 E. Harvard St.
+Glendale, CA" 4.75766924647905 -118.253502 34.1441907
+"Bay Point
+205 Pacifica Ave.
+Bay Point, CA" 4.96385747261762 -121.967148 38.0336258
+"Bear Valley Library Station
+367 Creekside Dr.
+Bear Valley, CA" 4.96385747261762 -120.0389445 38.465895
+"Library Literacy Services
+714 W. Main Street
+Grass Valley, CA" 5.9764167369254 -121.067727 39.220705
+"Mariposa County Library - Greeley Hill
+10332 C Fiske Road
+Greeley Hill, CA" 5.9764167369254 -119.4179324 36.778261
+"Bear River High School Library Station
+11130 Magnolia Road
+Grass Valley, CA" 6.01712791454363 -121.0747976 39.0468815
+"Grass Valley Library
+207 Mill Street
+Grass Valley, CA" 6.01712791454363 -121.0633044 39.2168943
+"Calabasas City Library
+200 Civic Center Way
+Calabasas, CA" 6.60449302656546 -118.6466626 34.1525469
+"Camarena Memorial Library Station
+1202 Kloke Rd.
+Calexico, CA" 6.60449302656546 -115.515071 32.681877
+"John D. Daly Library
+6351 Mission St.
+Daly City, CA" 7.11651625401718 -122.4616732 37.7052315
+"Westlake Library
+275 Southgate Ave.
+Daly City, CA" 7.11651625401718 -122.4854045 37.697223
+"Wilson Public Library
+1 Park Street
+Wilson, AR" 7.5427779490036 -90.0428666 35.5694845
+"Winslow Public Library
+124 Main Street
+Winslow, AR" 7.5427779490036 -94.1347922 35.8004734
+"White Hall Public Library
+300 Anderson Street
+White Hall, AR" 7.61462986993788 -92.0946869 34.27607
+"Williford Public Library
+232 W Main St
+Williford, AR" 7.61462986993788 -91.4842437 36.3155874
+"Winthrop Public Library
+720 High Street
+Winthrop, AR" 7.6252119474233 -94.351799 33.832142
+"East Central Arkansas Regional Library
+410 East Merriman
+Wynne, AR" 7.6252119474233 -90.788849 35.224203
+"Grandview Branch Library
+1535 Fifth St.
+Glendale, CA" 7.97179372365062 -118.2855885 34.1704757
+"Glendora Library Cultural Center
+140 South Glendora Ave.
+Glendora, CA" 7.97179372365062 -117.8652849 34.1350655
+"Kerman Neighborhood Library
+15081 W. Kearney Plaza
+Kerman, CA" 8.17055450416106 -120.0612806 36.7273755
+"Kern County Library - Kernville
+48 Tobias Street
+Kernville, CA" 8.17055450416106 -118.4254183 35.755874
+"Gridley Branch
+299 Spruce St.
+Gridley, CA" 8.46046026737323 -121.690994 39.3668243
+"Grimes Branch
+240 Main
+Grimes, CA" 8.46046026737323 -121.8942986 39.0741961
+"Diamond Bar Library
+1061 S. Grand Ave.
+Diamond Bar, CA" 9.19935423579589 -117.8139609 34.0017036
+"Dinuba Branch Library
+150 South I St.
+Dinuba, CA" 9.19935423579589 -119.3862951 36.5426748
+"Buena Vista Branch
+300 N. Buena Vista Street
+Burbank, CA" 10.0518606019882 -118.3303637 34.1641363
+"Burbank Public Library
+110 N. Glenoaks Blvd.
+Burbank, CA" 10.0518606019882 -118.30641 34.183866
+"Buellton Branch Library
+140 W. Hwy 246
+Buellton, CA" 10.1377641288382 -120.1962412 34.6140812
+"Buena Park Library District
+7150 La Palma Ave.
+Buena Park, CA" 10.1377641288382 -118.0084448 33.8460883
+"Fletcher Hills Library
+576 Garfield Ave.
+El Cajon, CA" 11.3215012395593 -116.9977696 32.801883
+"Rancho San Diego Library
+11555 Via Rancho San Diego
+El Cajon, CA" 11.3215012395593 -116.9291121 32.7493523
+"Dana Point Branch Library
+33841 Niguel Road
+Dana Point, CA" 11.4920280034807 -117.7160862 33.4769342
+"Danville Library
+400 Front St.
+Danville, CA" 11.4920280034807 -121.9959106 37.8208817
+"Bridgeport Library
+94 N. School St.
+Bridgeport, CA" 12.9957930761676 -119.2286821 38.254819
+"Brisbane Library
+250 Visitacion Ave.
+Brisbane, CA" 12.9957930761676 -122.4037719 37.6828146
+"Desert Hot Springs Library
+11691 West Drive
+Desert Hot Springs, CA" 14.0153266969802 -116.5106379 33.9631112
+"Desert Shores Library
+801 N. Palm
+Desert Shores, CA" 14.0153266969802 -116.0399666 33.397404
+"Mariposa County Library - El Portal
+9670 Rancheria Flat Road
+El Portal, CA" 15.4880228059648 -119.806634 37.673256
+"Center Street School Branch Library
+700 Center St.
+El Segundo, CA" 15.4880228059648 -118.4047072 33.9247466
+"Brea Branch Library
+1 Civic Center Cir.
+Brea, CA" 16.5255362996575 -117.8888547 33.9170744
+"Brentwood Library
+751 Third St.
+Brentwood, CA" 16.5255362996575 -121.6925807 37.9338485
+"Chino Branch Library
+13180 Central Ave.
+Chino, CA" 16.7914147593852 -117.6896887 34.0139443
+"James S. Thalman Chino Hills Branch
+14020 City Center Drive
+Chino Hills, CA" 16.7914147593852 -117.7306552 33.9979957
+"Dunsmuir Branch Library
+5714 Dunsmuir Ave.
+Dunsmuir, CA" 16.7957462228803 -122.2714405 41.2117248
+"Durham Branch
+2545 Durham Dayton Hwy
+Durham, CA" 16.7957462228803 -121.8094268 39.6490431
+"Earlimart Library
+780 E. Washington St.
+Earlimart, CA" 17.0358820289538 -119.268037 35.8847148
+"East Palo Alto Library
+2415 University Ave.
+East Palo Alto, CA" 17.0358820289538 -122.1400444 37.4723434
+"Davis Branch Library
+315 E. 14th St.
+Davis, CA" 17.0986463041692 -121.7470866 38.5568902
+"Davis Creek Library
+1325 County Road 133b
+Davis Creek, CA" 17.0986463041692 -120.3732109 41.7340686
+"Descanso Library
+9545 River Drive
+Descanso, CA" 17.2115945467323 -116.6145554 32.8591775
+"Lake Tamarisk Library
+43-880 Tamarisk Drive
+Desert Center, CA" 17.2115945467323 -115.3947171 33.7392094
+"Del Mar Library
+1309 Camino Del Mar
+Del Mar, CA" 17.4255957433363 -117.26427 32.9578153
+"Kern County Library - Delano
+925 Tenth Avenue
+Delano, CA" 17.4255957433363 -119.2446257 35.7694501
+"El Centro Public Library
+539 State St.
+El Centro, CA" 17.4255957433363 -115.555822 32.791495
+"Imperial County Library
+1331 S. Clark, Bldg 24
+El Centro, CA" 17.4255957433363 -115.560449 32.7474567
+"Bob Lucas Memorial Library And Literacy Center
+2159 N. Lincoln
+Altadena, CA" 17.5928776246295 -118.1597385 34.1826353
+"Modoc County Library
+212 W. 3rd St.
+Alturas, CA" 17.5928776246295 -120.5442747 41.4862992
+"County Of Los Angeles Public Library
+7400 E. Imperial Highway
+Downey, CA" 17.7582736033836 -118.1615609 33.9278737
+"Downey City Library
+11121 Brookshire Ave.
+Downey, CA" 17.7582736033836 -118.1289275 33.9397337
+"Delhi Educational Park Community Library
+16114 Schendal Road
+Delhi, CA" 18.3705934666862 -120.7791395 37.427921
+"Denair Library
+4801 Kersey Rd.
+Denair, CA" 18.3705934666862 -120.7939384 37.5272195
+"Crest Library
+105 Juanita Lane
+El Cajon, CA" 19.4720331784964 -116.8675185 32.80399
+"El Cajon Library
+201 E. Douglas
+El Cajon, CA" 19.4720331784964 -116.9607234 32.7930744
+"Dixon Public Library
+230 North First St.
+Dixon, CA" 21.2362979132741 -121.8220331 38.4468614
+"Dos Palos Branch Library
+2002 Almond
+Dos Palos, CA" 21.2362979132741 -120.6278334 36.9848942
+"East Rancho Dominguez Library
+4205 East Compton Blvd.
+East Rancho Domingue, CA" 22.0140185496748 -118.1976017 33.8963747
+"Easton Neighborhood Library
+25 E. Fantz Ave.
+Easton, CA" 22.0140185496748 -119.7903697 36.6523698
+"El Monte Library
+3224 Tyler Ave.
+El Monte, CA" 22.0158154611581 -118.0356702 34.0670977
+"Norwood Library
+4550 North Peck Rd.
+El Monte, CA" 22.0158154611581 -118.0159366 34.0870074
+"El Cerrito Library
+6510 Stockton Ave.
+El Cerrito, CA" 22.1436858045303 -122.3040007 37.9083848
+"Oak Ridge Joint-Use Library
+1120 Harvard Way
+El Dorado Hills, CA" 22.1436858045303 -121.070664 38.6798659
+"Trumann Public Library
+1300 West Main
+Trumann, AR" 24.7533632260648 -90.525046 35.671339
+"Tuckerman Branch Library
+200 West Main
+Tuckerman, AR" 24.7533632260648 -91.2014176 35.73183
+"Fowler Neighborhood Library
+119 E. Merced St.
+Fowler, CA" 25.5250620236766 -119.6793349 36.6301619
+"Kern County Library - Frazier Park
+3015 Mt. Pinos Way
+Frazier Park, CA" 25.5250620236766 -118.9376211 34.8205379
+"Cedar Clinton Neighborhood Library
+4150 E. Clinton Ave.
+Fresno, CA" 25.5250620236766 -119.7550493 36.7719001
+"Central Library
+2420 Mariposa St.
+Fresno, CA" 25.5250620236766 -119.7863103 36.7378522
+"Sunkist Library
+901 S. Sunkist
+Anaheim, CA" 25.5945592255773 -117.880963 33.8281128
+"Anderson Library
+3200 West Center St.
+Anderson, CA" 25.5945592255773 -122.3039021 40.4514373
+"Camarillo Library
+3100 Ponderosa Dr.
+Camarillo, CA" 26.0971408578472 -119.0285826 34.2305829
+"Cambria Library
+900 Main St.
+Cambria, CA" 26.0971408578472 -121.0979294 35.5658151
+"Duarte Library
+1301 Buena Vista St.
+Duarte, CA" 26.9845142658578 -117.9779512 34.138155
+"Dublin Library
+200 Civic Plaza
+Dublin, CA" 26.9845142658578 -121.9189394 37.7028822
+"Greenfield Branch Library
+315 El Camino Real
+Greenfield, CA" 27.0530127170513 -121.2451961 36.3228522
+"Greenville Branch Library
+204 Ann St.
+Greenville, CA" 27.0530127170513 -120.9517989 40.1404036
+"Freedom Branch Library
+2021 Freedom Blvd.
+Freedom, CA" 27.4193993460744 -121.7777761 36.9379571
+"Alameda County Library
+2450 Stevenson Blvd.
+Fremont, CA" 27.4193993460744 -121.9709969 37.5507904
+"Irvington Library
+41825 Greenpark Dr.
+Fremont, CA" 28.8572624878014 -121.964774 37.5219557
+"Niles Library
+150 I St.
+Fremont, CA" 28.8572624878014 -121.9781345 37.576051
+"Foster City Library
+1000 E. Hillsdale Blvd.
+Foster City, CA" 29.1052338487593 -122.270268 37.55878
+"Fountain Valley Branch Library
+17635 Los Alamos St.
+Fountain Valley, CA" 29.1052338487593 -117.9511857 33.7070481
+"Aptos Branch Library
+7695 Soquel Dr.
+Aptos, CA" 29.405876069707 -121.9088211 36.980994
+"Arbuckle Branch
+610 King St.
+Arbuckle, CA" 29.405876069707 -122.0605096 39.0142593
+"Luque Branch Library
+294 E. O St.
+Colton, CA" 30.1698363511684 -117.3221294 34.0592302
+"Colusa County Free Library
+738 Market St.
+Colusa, CA" 30.1698363511684 -122.0112245 39.2148494
+"Angels Camp Branch
+426 N. Main Street
+Angels Camp, CA" 31.2336571569049 -120.5664764 38.0861282
+"North Highlands-Antelope Library
+4235 Antelope Road
+Antelope, CA" 31.2336571569049 -121.3648542 38.7046752
+"City Of Commerce Public Library
+5655 Jillson St.
+Commerce, CA" 31.7516291781773 -118.1566919 34.0003287
+"Greenwood Branch
+6134 S. Greenwood Ave.
+Commerce, CA" 31.7516291781773 -118.1305227 33.9734801
+"Centerville Library
+3801 Nicolet Ave.
+Fremont, CA" 31.7999156202884 -122.0222203 37.5680343
+"Fremont Main Library
+2400 Stevenson Blvd.
+Fremont, CA" 31.7999156202884 -121.9718987 37.5512036
+"Antioch Library
+501 W. 18th St.
+Antioch, CA" 34.3717206795016 -121.8126178 38.0047261
+"Anza Library
+57430 Mitchell Rd
+Anza, CA" 34.3717206795016 -116.6598153 33.5698329
+"Bayliss Branch Library
+7830 Road 39
+Glenn, CA" 35.6201990521709 -122.0469919 39.5825365
+"Goleta Library
+500 N. Fairview Ave.
+Goleta, CA" 35.6201990521709 -119.8300863 34.4475671
+"Apple Valley Branch Library
+15001 Wakita Rd
+Apple Valley, CA" 36.0044352091463 -117.212918 34.5237866
+"Applegate Library
+18018 Applegate Road
+Applegate, CA" 36.0044352091463 -120.9902242 39.0009587
+"Kingsburg Neighborhood Library
+1399 Draper
+Kingsburg, CA" 36.3789257243172 -119.553326 36.5147707
+"Knights Landing Branch Library
+42351 Third St.
+Knights Landing, CA" 36.3789257243172 -121.7179227 38.8002973
+"Beverly Hills Public Library
+444 N. Rexford Dr.
+Beverly Hills, CA" 36.9229807047088 -118.3993382 34.0731812
+"Roxbury Park Senior Adult Library
+401 S. Roxbury Dr.
+Beverly Hills, CA" 36.9229807047088 -118.4056621 34.0596648
+"Alleghany Station Library
+123 Main Street
+Alleghany, CA" 37.8503305752111 -120.8434883 39.4693436
+"Alpaugh Branch Library
+3816 Ave. 54
+Alpaugh, CA" 37.8503305752111 -119.4868783 35.8878281
+"Boulder Creek Branch Library
+13390 W. Park Ave.
+Boulder Creek, CA" 37.9488473904101 -122.1238339 37.1275224
+"Brawley Public Library
+400 Main St.
+Brawley, CA" 37.9488473904101 -115.5348127 32.9784255
+"Clarksburg Branch Library
+52915 Netherlands Ave.
+Clarksburg, CA" 38.4632028774424 -121.5264263 38.4164646
+"Clayton Community Library
+6125 Clayton Rd
+Clayton, CA" 38.4632028774424 -121.9352925 37.942646
+"Bishop Branch Library
+210 Academy Ave.
+Bishop, CA" 39.3659145191574 -118.3964021 37.3629467
+"Bloomington Branch Library
+10145 Orchard St.
+Bloomington, CA" 39.3659145191574 -117.3985921 34.0693105
+"Atlantic Branch
+2269 S. Atlantic Blvd
+Commerce, CA" 39.7730525089364 -118.1649845 34.0051609
+"Bristow Park Library
+1466 S. Mcdonnell Ave.
+Commerce, CA" 39.7730525089364 -118.1692298 34.0130966
+"Kern County Library - Boron
+26967 Twenty Mule Team Road
+Boron, CA" 40.3066206709724 -117.6504183 34.999667
+"Borrego Springs Library
+500 Palm Canyon Rd
+Borrego Springs, CA" 40.3066206709724 -116.3788717 33.256556
+"Palo Verde Valley Library District
+125 West Riverside Drive
+Blythe, CA" 45.2625460565405 -114.5976503 33.6177869
+"Bonita-Sunnyside Library
+5047 Central Ave.
+Bonita, CA" 45.2625460565405 -117.0216385 32.6690757
+"Lake Arrowhead Branch Library
+27235 Highway 189
+Blue Jay, CA" 46.2195058359955 -117.209192 34.246404
+"Humboldt County Library - Blue Lake Library
+111 Greenwood Ave.
+Blue Lake, CA" 46.2195058359955 -123.9920675 40.8825324
+"Eureka Main Library
+1313 Third St.
+Eureka, CA" 46.7106788634644 -124.1572521 40.8058769
+"Exeter Library
+230 E. Chestnut
+Exeter, CA" 46.7106788634644 -119.1386163 36.2939822
+"Kern County Library - Eleanor Wilson
+1901 Wilson Road
+Bakersfield, CA" 46.8015574634326 -119.0238012 35.331867
+"Kern County Library - Holloway-Gonzales
+506 East Brundage Lane
+Bakersfield, CA" 46.8015574634326 -118.9984013 35.3542255
+"Twin Groves Branch Library
+10 Twin Groves
+Twin Groves, AR" 47.6071801839105 -92.433761 35.320538
+"Crawford County Library System
+1409 Main Street
+Van Buren, AR" 47.6071801839105 -94.3438075 35.4372705
+"Law Library
+600 Union Avenue
+Fairfield, CA" 48.0811199765735 -122.0397823 38.2484277
+"Fallbrook Library
+124 S. Mission Rd.
+Fallbrook, CA" 48.0811199765735 -117.2532524 33.3814089
+"Avalon Library
+215 Sumner Ave.
+Avalon, CA" 51.0598158669667 -118.327168 33.34311
+"Kings County Library - Avenal
+501 E. Kings St.
+Avenal, CA" 51.0598158669667 -120.1307642 36.0028729
+"Laguna Beach Branch Library
+363 Glenneyre St.
+Laguna Beach, CA" 52.0878556097249 -117.7823319 33.5421182
+"Laguna Hills Technology Branch
+25555 Alicia Parkway
+Laguna Hills, CA" 52.0878556097249 -117.7004472 33.5917389
+"Stephens Public Library
+108 W. Ruby
+Stephens, AR" 54.3191100387125 -93.0711837 33.412116
+"Strong Public Library
+246 West 2nd Street
+Strong, AR" 54.3191100387125 -92.3583402 33.109548
+"Redbud Library
+14785 Burns Valley Rd.
+Clearlake, CA" 54.9488062491991 -122.6341775 38.9649433
+"Cloverdale Regional Library
+401 N. Cloverdale Blvd.
+Cloverdale, CA" 54.9488062491991 -123.0200419 38.8087167
+"Canyon Hills Library
+400 Scout Trail
+Anaheim, CA" 57.6929130694485 -117.7853407 33.8451419
+"East Anaheim Branch Library
+8201 E. Santa Ana Canyon Rd.
+Anaheim, CA" 57.6929130694485 -117.7463798 33.8687745
+"Clovis Regional Library
+1155 Fifth St.
+Clovis, CA" 59.3989218514322 -119.694831 36.824317
+"Coachella Library
+1538 7th Street
+Coachella, CA" 59.3989218514322 -116.1755617 33.6780573
+"La Canada Flintridge Library
+4545 North Oakwood Ave.
+La Canada Flintridge, CA" 61.6460164983905 -118.1940125 34.2028437
+"La Crescenta Library
+4521 La Crescenta Ave.
+La Crescenta, CA" 61.6460164983905 -118.240216 34.224941
+"Azusa City Library
+729 N. Dalton Ave.
+Azusa, CA" 62.4879671234854 -117.9053753 34.1348288
+"Beale Memorial Library
+701 Truxtun Avenue
+Bakersfield, CA" 62.4879671234854 -119.0100491 35.3727752
+"Guerneville Regional Library
+14107 Armstrong Woods Rd.
+Guerneville, CA" 64.1776522221257 -122.9973195 38.5037779
+"Gustine Branch Library
+205 Sixth St.
+Gustine, CA" 64.1776522221257 -121.0021023 37.2578722
+"Claremont Branch Library
+2940 Benvenue Ave.
+Berkeley, CA" 66.3985031484217 -122.2543607 37.8566036
+"North Branch Library
+1170 The Alameda
+Berkeley, CA" 66.3985031484217 -122.2753781 37.8858474
+"Benton Library
+25553 Highway 6
+Benton, CA" 66.6112972661516 -118.4763385 37.8165181
+"Berkeley Public Library
+2090 Kittredge St.
+Berkeley, CA" 66.6112972661516 -122.2686679 37.8679631
+"Southeast Arkansas Regional Library - Warren
+115 Cypress
+Warren, AR" 67.3032923087549 -92.0641035 33.6138769
+"West Fork Public Library
+266 West Main
+West Fork, AR" 67.3032923087549 -94.1855955 35.9258659
+"Empire Library
+18 S. Abbie
+Empire, CA" 69.0945127244548 -120.8984236 37.6375325
+"Cardiff Library
+2081 Newcastle
+Encinitas, CA" 69.0945127244548 -117.2814221 33.0219879
+"Elk Grove Library
+8962 Elk Grove Blvd.
+Elk Grove, CA" 69.4358762908177 -121.368682 38.4086939
+"Franklin Library
+10055 Franklin High Road
+Elk Grove, CA" 69.4358762908177 -121.4314533 38.3920464
+"Encinitas Library
+540 Cornish Dr.
+Encinitas, CA" 70.1521305318821 -117.2908461 33.0457157
+"Escalon Library
+1540 Second St.
+Escalon, CA" 70.1521305318821 -120.992625 37.7945839
+"Beaumont Library District
+125 E. Eighth St.
+Beaumont, CA" 71.7172330051036 -116.9810652 33.9320854
+"Bell Library
+4411 East Gage Ave.
+Bell, CA" 71.7172330051036 -118.1886333 33.9782153
+"East Valley Branch Library
+2245 E. Valley Parkway
+Escondido, CA" 72.6761066351852 -117.0459503 33.138586
+"Escondido Pioneer Room And Computer Center
+247 South Kalmia Street
+Escondido, CA" 72.6761066351852 -117.0792461 33.1206042
+"Folsom Public Library
+411 Stafford St
+Folsom, CA" 73.8775326630478 -121.1666214 38.6811902
+"Fontana Branch Library
+8334 Emerald St.
+Fontana, CA" 73.8775326630478 -117.4328996 34.1023169
+"Grand Terrace Branch Library
+22795 Barton Rd.
+Grand Terrace, CA" 74.8241337167115 -117.3068902 34.0352776
+"Granite Bay Library
+6475 Douglas Blvd
+Granite Bay, CA" 74.8241337167115 -121.1806527 38.7442701
+"Creston Library
+6285 Adams
+Creston, CA" 75.9856334250857 -120.5235306 35.518531
+"Crockett Library
+991 Loring
+Crockett, CA" 75.9856334250857 -122.2207527 38.0554056
+"American Canyon
+300 Crawford Way
+American Canyon, CA" 76.631503431692 -122.2557832 38.1686237
+"Anaheim Public Library
+500 W. Broadway
+Anaheim, CA" 76.631503431692 -117.9192692 33.8315112
+"Middle School Branch Library
+332 Center Street
+El Segundo, CA" 78.0270509348452 -118.4047468 33.9201933
+"Richmond Street Elementary School Library
+615 Richmond St.
+El Segundo, CA" 78.0270509348452 -118.4175801 33.9242879
+"Camarena Memorial Public Library
+850 Encinas Ave.
+Calexico, CA" 80.6381979895037 -115.4876792 32.6753085
+"Kern County Library - California City
+9507 California City Boulevard
+California City, CA" 80.6381979895037 -117.9583813 35.1264802
+"Carpinteria Library
+5141 Carpinteria Ave.
+Carpinteria, CA" 84.3930438943593 -119.5170445 34.3974403
+"Carson Library
+151 East Carson St.
+Carson, CA" 84.3930438943593 -118.2763641 33.8321058
+"Kern County Library - Baker
+1400 Baker Street
+Bakersfield, CA" 84.7103372656622 -118.9909019 35.3834614
+"Kern County Library - Bryce C. Rathbun
+200 West China Grade Loop
+Bakersfield, CA" 84.7103372656622 -119.0241173 35.4273617
+"Arcadia Public Library
+20 W. Duarte Road
+Arcadia, CA" 85.2397571245271 -118.031958 34.1285163
+"Live Oak Library
+4153-55 East Live Oak Ave.
+Arcadia, CA" 85.2397571245271 -118.028365 34.108055
+"Marion County Library
+319 Highway 14 South
+Yellville, AR" 85.252871231061 -92.6812091 36.2258398
+"Adelanto Branch Library
+11497 Bartlett
+Adelanto, CA" 85.252871231061 -117.4144837 34.5783596
+"Arkansas County Library
+2002 S. Buerkle Street
+Stuttgart, AR" 86.1598829182297 -91.558945 34.482662
+"Taylor Public Library
+101 West Pope
+Taylor, AR" 86.1598829182297 -93.4629505 33.1012526
+"Compton Library
+240 West Compton Blvd.
+Compton, CA" 86.5282234512008 -118.2258158 33.8955143
+"Concord Library
+2900 Salvio St.
+Concord, CA" 86.5282234512008 -122.0251918 37.9816051
+"South County Library
+800 W. Branch St.
+Arroyo Grande, CA" 86.6168192486756 -120.5897351 35.1245368
+"Artesia Library
+18722 S. Clarkdale Ave.
+Artesia, CA" 86.6168192486756 -118.0788484 33.8603966
+"June Lake Library
+90 W. Granite Ave.
+June Lake, CA" 87.2786406042021 -119.0803999 37.7784472
+"Kensington Library
+61 Arlington Ave.
+Kensington, CA" 87.2786406042021 -122.2810871 37.9130941
+"Laguna Niguel Branch Library
+30341 Crown Valley Parkway
+Laguna Niguel, CA" 88.9241018638109 -117.7169899 33.5224906
+"Lake Elsinore Library
+600 W. Graham
+Lake Elsinore, CA" 88.9241018638109 -117.3342343 33.6696003
+"Castro Valley Library
+20055 Redwood Rd.
+Castro Valley, CA" 90.0784975723652 -122.074704 37.699695
+"Castroville Branch Library
+11266 Merritt St.
+Castroville, CA" 90.0784975723652 -121.7532321 36.7621543
+"Easton Branch
+1800 Easton Drive
+Burlingame, CA" 91.358313826264 -122.3715906 37.5839342
+"Burney Library
+37038 Siskiyou Street
+Burney, CA" 91.358313826264 -121.66983 40.8845011
+"Northwest Branch
+3323 W. Victory Blvd.
+Burbank, CA" 92.163654315095 -118.3474949 34.1850999
+"Burlingame Public Library
+480 Primrose Rd.
+Burlingame, CA" 92.163654315095 -122.3492204 37.5792568
+"Fig Garden Regional Library
+3071 W. Bullard
+Fresno, CA" 96.2609071710331 -119.8464346 36.8223804
+"Gillis Neighborhood Library
+629 W. Dakota
+Fresno, CA" 96.2609071710331 -119.818998 36.786313
+"Campo-Morena Village Library
+31466 Highway 94
+Campo, CA" 98.4105358389535 -116.4731472 32.6283446
+"Canoga Park Branch
+7260 Owensmouth Ave.
+Canoga Park, CA" 98.4105358389535 -118.6012469 34.2026794
+"Cameron Park Branch
+2500 Country Club Dr.
+Cameron Park, CA" 99.4428875941112 -121.0057152 38.6599955
+"Campbell Library
+77 Harrison Ave.
+Campbell, CA" 99.4428875941112 -121.9432203 37.2882179

@@ -1,0 +1,709 @@
+"location" "miles" "latitude" "longitude"
+"Thomas - Hazel Cross Library
+115 W Broadway
+Thomas, OK" 1.54305631581966 -98.748416 35.744242
+"Union Library Company Of Hatborough
+243 South York Rd
+Hatboro, PA" 3.70830509695789 -75.1072346 40.1733752
+"Tahlequah Public Library
+120 South College
+Tahlequah, OK" 3.82622019545247 -94.9731984 35.9132147
+"Mt. Angel Public Library
+290 E Charles St
+Mount Angel, OR" 4.63254717687396 -122.797794 45.0680644
+"Chartiers-Houston Com Library
+730 West Grant St
+Houston, PA" 5.45780507760072 -80.2148791 40.2420318
+"Tri Valley Free Public Library
+633 East Main St
+Hegins, PA" 5.66111802715984 -76.4995307 40.6512329
+"Grove Family Library
+101 Ragged Edge Rd South
+Chambersburg, PA" 6.88299724048938 -77.5927888 39.918467
+"J. Lewis Crozer Library
+620 Engle St
+Chester, PA" 6.88299724048938 -75.3876369 39.837908
+"Hawley Library
+103 Main St
+Hawley, PA" 7.0936451043209 -75.183695 41.477984
+"William H. Marion C. Alexander Family Library
+200 West Second Street
+Hummelstown, PA" 7.14276501827248 -76.7124623 40.2664023
+"Hellertown Area Library
+409 Constitution Ave
+Hellertown, PA" 7.37799254382006 -75.3313427 40.5773828
+"Penn Area Library
+2001 Municipal Court
+Harrison City, PA" 8.33171283400264 -79.651058 40.357427
+"Dora Public Library
+56125 Goldbrick Rd
+Myrtle Point, OR" 9.11238602355166 -123.9555117 43.154538
+"Newberg Public Library
+503 E Hancock St
+Newberg, OR" 9.17947419639026 -122.9747297 45.3015465
+"Somerset County Library - Conemaugh Township Branch
+120 Whistler Street
+Hollsopple, PA" 9.41452198753483 -78.9285274 40.2083458
+"Hershey Public Library
+701 Cocoa Ave.
+Hershey, PA" 10.624441230119 -76.6468451 40.2764969
+"Honey Brook Community Library
+687 Compass Road
+Honey Brook, PA" 10.7728476485898 -75.916758 40.088192
+"Huntingdon Valley Library
+625 Red Lion Rd
+Huntingdon Valley, PA" 12.5042591669134 -75.0612049 40.1249398
+"Shawnee Public Library
+101 N. Philadelphia
+Shawnee, OK" 14.3337107536437 -96.9191279 35.3277111
+"Blanchester Public Library
+110 N. Broadway
+Blanchester, OH" 14.3768440693312 -83.9886102 39.2937105
+"Stigler Public Library
+402 Ne 6th
+Stigler, OK" 14.5836867013342 -95.1186295 35.2555901
+"Illinois Valley Branch Library
+209 W Palmer St
+Cave Junction, OR" 14.604373143734 -123.6480958 42.1683722
+"Valliant - Mattie Terry Library
+311 N Johnson
+Valliant, OK" 14.9462986330223 -95.0894889 34.0045748
+"Pequea Valley Public Library
+31 Center Street
+Intercourse, PA" 16.9490211602266 -76.108247 40.036179
+"Potter-Tioga Library System
+502 Park Avenue
+Coudersport, PA" 18.5732263257189 -78.0142413 41.7722986
+"Bucks County Free Library - Langhorne Branch
+301 S. Pine Street
+Langhorne, PA" 18.9397776754116 -74.9159159 40.1744377
+"Lake County Library District
+513 Center St
+Lakeview, OR" 18.9546065033846 -120.3450157 42.1894789
+"Bartlett-Carnegie Sapulpa Public Library
+27 W Dewey
+Sapulpa, OK" 19.9330098833217 -96.115244 35.9988518
+"Ludington Library
+5. S. Bryn Mawr Avenue
+Bryn Mawr, PA" 21.8231193684986 -75.3176323 40.0207672
+"Woodburn Public Library
+280 Garfield St
+Woodburn, OR" 22.4319843192975 -122.8585067 45.1427953
+"Shaker Heights Public Library
+16500 Van Aken Boulevard
+Shaker Heights, OH" 22.6365028576514 -81.5664832 41.4658937
+"Bly Branch Library
+366 Elder
+Bly, OR" 22.7565199343782 -121.0428654 42.3979851
+"North Bend Public Library
+1800 Sherman
+North Bend, OR" 23.1533375801316 -124.2246046 43.4087817
+"Blue Ridge Summit Free Library
+P.O. Box 34
+Blue Ridge Summit, PA" 23.4158672405825 -77.4713782 39.7242616
+"Lansdowne Public Library
+55 South Lansdowne Ave
+Lansdowne, PA" 23.5520136407373 -75.2715769 39.9365002
+"Central Point Branch Library
+226 E Pine St
+Central Point, OR" 24.150075132392 -122.9156173 42.3747172
+"Cheltenham Township Library System
+215 S Keswick Ave
+Glenside, PA" 24.6226584501846 -75.1539109 40.096882
+"Dubois Public Library
+31 S Brady St
+Dubois, PA" 24.9752827716996 -78.7627449 41.1178349
+"Jacksonville Branch Library
+170 S Oregon St
+Jacksonville, OR" 25.0105487920569 -122.9689442 42.3142615
+"Mabel C. Fry Public Library
+500 W. Main
+Yukon, OK" 25.9890219368344 -97.7509223 35.5076353
+"Satre Memorial Library
+528 5th Street
+Milnor, ND" 26.1761446333443 -97.4551035 46.2600559
+"Sweet Home Public Library
+1101 13th Ave
+Sweet Home, OR" 26.4027238443316 -122.7287595 44.3964525
+"Ontario Community Library
+388 Sw 2nd Ave
+Ontario, OR" 29.837290576635 -116.9683095 44.0253004
+"Okeene Public Library
+215 N Main
+Okeene, OK" 29.9606454759126 -98.3171125 36.1176649
+"Hubbard Public Library
+436 W. Liberty St.
+Hubbard, OH" 31.0737313048936 -80.5773967 41.1567155
+"Carnegie Regional Library
+49 West 7th Street
+Grafton, ND" 31.3453162087576 -97.4118996 48.4175586
+"Northern Dauphin Library
+683 Main Street
+Lykens, PA" 32.1172814967172 -76.6983543 40.5670369
+"Bangor Public Library
+39 South Main St
+Bangor, PA" 32.2544254291037 -75.2042061 40.8659374
+"Newcastle Public Library
+705 Nw 10th
+Newcastle, OR" 32.5915968618336 NA NA
+"Darby Library
+1001 Main St
+Darby, PA" 33.5055648852834 -75.2630932 39.9202416
+"Johnston County Library
+116 West Main
+Tishomingo, OK" 34.4332915224886 -96.6783633 34.2350142
+"Happy Hill Mini Library
+920 Mock Street
+Winston-Salem, NC" 35.7728120164084 -80.2325222 36.0793559
+"Union Township Public Library
+27 Main
+Ripley, OH" 35.8551555722817 -83.845514 38.745223
+"Pembina School City Library
+155 South Third Street
+Pembina, ND" 36.5817258689627 -97.2477825 48.9673923
+"Highland Community Library
+330 Schoolhouse Rd
+Johnstown, PA" 36.6135153787752 -78.8396461 40.269196
+"Albina Branch Library
+3605 Ne 15th Ave
+Portland, OR" 37.3952461086535 -122.6513616 45.5488591
+"Lilian S. Besore Memorial Library
+305 East Baltimore Street
+Greencastle, PA" 37.9610477492583 -77.7217328 39.7884322
+"Albany Public Library
+1390 Waverly Dr Se
+Albany, OR" 38.3503042379248 -123.0736429 44.6289178
+"Lisbon Public Library
+409 Forest Street
+Lisbon, ND" 39.3849685518582 -97.6840623 46.4424432
+"Hominy Public Library
+121 West Main
+Hominy, OK" 39.8014789041883 -96.3950857 36.4159122
+"Oak Lodge Library
+16201 Se Mcloughlin Blvd
+Oak Grove, OR" 39.8311899341708 -122.6249227 45.4054944
+"Clatskanie Library District
+11 Lillich St
+Clatskanie, OR" 41.2573373207571 -123.2017217 46.1050331
+"Nyssa Public Library
+319 Main St.
+Nyssa, OR" 41.3410244947557 -116.997331 43.876523
+"Oakridge Public Library
+48318 E 1st
+Oakridge, OR" 41.3410244947557 -122.45698 43.747408
+"Yoncalla Branch Library
+194 Birch
+Yoncalla, OR" 41.6053911319127 -123.2845749 43.599854
+"Norman Public Library
+225 N Webster
+Norman, OK" 42.8985479897991 -97.4471961 35.2204313
+"Colonial Heights Library
+4799 Stockton Blvd.
+Sacramento, CA" 42.9718869089834 -121.4455578 38.5321957
+"Elizabethtown Public Library
+10 South Market Street
+Elizabethtown, PA" 43.0687492035886 -76.6059922 40.1509426
+"Okmulgee Public Library
+218 S Okmulgee
+Okmulgee, OK" 43.6299206211423 -95.9756273 35.621786
+"Muskogee Public Library
+801 West Okmulgee
+Muskogee, OK" 43.8766041826762 -95.3792489 35.7510163
+"Noble Public Library
+204 N. 5th Street
+Noble, OR" 44.1623218656448 NA NA
+"Downtown Branch Library
+131 Dean A Mcgee
+Oklahoma City, OK" 45.724209065184 -97.51606 35.471175
+"Edgecombe County Memorial Library
+909 Main Street
+Tarboro, NC" 46.1946833048953 -77.5371862 35.9020678
+"Thomasville Public Library
+14 Randolph Street
+Thomasville, NC" 46.1946833048953 -80.0812123 35.8813751
+"Guthrie Memorial Library - Hanovers Public Library
+2 Library Place
+Hanover, PA" 46.2447087843748 -76.9859568 39.8041633
+"Mayville Public Library
+52 Center Avenue North
+Mayville, ND" 46.8667914498385 -97.3264271 47.5007064
+"Ridley Township Public Library
+100 E Macdade Blvd
+Folsom, PA" 47.8770063236376 -75.3293095 39.8863533
+"Cochranton Area Public Library
+107 Pine St
+Cochranton, PA" 48.6942344965267 -80.0494971 41.5186734
+"Everett Free Library
+137 East Main St
+Everett, PA" 49.1281134914615 -78.3709844 40.0118461
+"Albion Area Public Library
+111 East Pearl Street
+Albion, PA" 49.6514873396471 -80.361212 41.891895
+"Wynnewood Public Library
+108 N. Dean A Mcgee
+Wynnewood, OK" 49.8204681838246 -97.1703955 34.6428061
+"Richland
+37986 Hwy 86
+Richland, OR" 49.950558653431 -117.231431 44.7844539
+"Media-Upper Providence Library
+1 E. Front St.
+Media, PA" 50.1204246011229 -75.3888984 39.9190305
+"Pauls Valley-Nora Sparks Warren Mem Library
+210 N Willow St
+Pauls Valley, OK" 51.0474760498346 -97.2214228 34.7406302
+"Bellaire Public Library
+330 32nd Street
+Bellaire, OH" 51.4076809096105 -80.7434577 40.0141042
+"Princeton Public Library
+101 Dr. Donnie H. Jones, Jr Blvd
+Princeton, NC" 51.7031010728686 -78.1583702 35.467104
+"Lawrence Memorial Library
+204 E Dundee Street
+Windsor, NC" 52.8165846545749 -76.944978 35.997788
+"Beaverton City Library
+12375 Se 5th St
+Beaverton, OR" 53.2725598359243 -122.804052 45.4841472
+"Cleve J. Fredricksen Library
+100 North 19th Street
+Camp Hill, PA" 54.3984451213971 -76.9169945 40.2416644
+"Sayre Public Library
+113 E Poplar
+Sayre, OK" 56.3651380150442 -99.6398295 35.2935122
+"New Rockford Public Library
+10 8th Street N.
+New Rockford, ND" 57.3233940417744 -99.1379092 47.6802102
+"Rainier City Library
+106 B St
+Rainier, OR" 57.9692764923354 -122.9362061 46.0891745
+"Literacy Learning Center
+321 N. Nevada St
+Oceanside, CA" 59.3550724511286 -117.3787259 33.1986178
+"Salem Public Library
+518 Easton Tpk
+Hamlin, PA" 59.4753783068273 -75.397288 41.3989509
+"Palm Desert Library
+73300 Fred Waring Drive
+Palm Desert, CA" 59.4851766443127 -116.386226 33.729777
+"Yukon - Mabel C. Fry Public Library
+1200 Lakeshore Drive
+Yukon, OK" 59.7163349055145 -97.7236784 35.5064168
+"Rosemead Library
+8800 Valley Blvd.
+Rosemead, CA" 60.1819125773518 -118.0771998 34.080261
+"Pike County Public Library - Dingman Township Branch
+100 Bond Court
+Milford, PA" 60.1920134388257 -74.9583225 41.2987785
+"Apache Public Library
+111 E. Evans
+Apache, OK" 60.9032402490177 -98.3653748 34.8935279
+"Catasauqua Public Library
+PO Box 127
+Catasauqua, PA" 61.2125156760334 -75.4746273 40.6548191
+"Fossil Public Library
+401 Main St
+Fossil, OR" 61.2134239912331 -120.2137488 44.9998827
+"Bosler Free Library
+158 West High St
+Carlisle, PA" 61.6015154919736 -77.193362 40.2015629
+"Monroeton Public Library
+110 College Avenue
+Monroeton, PA" 62.1027826892006 -76.4461556 41.7613036
+"Dover Public Library
+525 N. Walnut St.
+Dover, OH" 62.2820881749866 -81.4808174 40.5242865
+"Leetonia Community Public Library
+24 Walnut St.
+Leetonia, OH" 62.6720362086154 -80.7575954 40.8777219
+"Flasher Public Library
+104 5th Avenue East
+Flasher, ND" 62.7999665898911 -101.2304798 46.4574698
+"Kreutz Creek Valley Library Center
+66 Walnut Springs Rd.
+Hellam, PA" 63.1528005483699 -76.5826199 40.0135456
+"Peggy V. Helmerich Library
+5131 E. 91st St.
+Tulsa, OK" 63.2244264868014 -95.9187073 36.0323537
+"Albany Public Library
+1390 Waverly Dr Se
+Albany, OR" 63.3827249044609 -123.0736429 44.6289178
+"Kent Free Library
+312 W. Main St.
+Kent, OH" 63.7219091614198 -81.3612789 41.1533443
+"Buckley Public Library
+408 Dewey
+Poteau, OK" 64.3783404195314 -94.6200426 35.0508535
+"Dimond Branch Library
+3565 Fruitvale Ave.
+Oakland, CA" 64.8177885907785 -122.2160653 37.8014778
+"Newkirk Public Library
+116 N Maple Ave
+Newkirk, OK" 65.0574171442487 -97.054537 36.883498
+"Butte Falls Branch Library
+626 Fir Street
+Butte Falls, OR" 65.3238835459831 -122.5676148 42.5418263
+"Beaverdale Public Library
+506 Jefferson Ave
+Beaverdale, PA" 65.40641053897 -78.6993342 40.3206304
+"Wagner Community Library
+111 N Main St
+Falls City, OR" 66.8662043953539 -123.4284004 44.8658104
+"Madeline L. Olewine Memorial Library
+2410 North Third St.
+Harrisburg, PA" 67.4953455432496 -76.8986563 40.284518
+"Ella K. Mcclatchy Library
+2112 - 22nd St.
+Sacramento, CA" 67.5654744326311 -121.48292 38.563512
+"Village Library
+35 C N. Main St.
+Jacobus, PA" 67.8362918235893 -76.7095182 39.8829126
+"Columbia Township Library
+6643 Merry Street
+Unionville, MI" 68.5527895515217 -83.4651273 43.6537736
+"East Shore Area Library
+4501 Ethel Street
+Harrisburg, PA" 69.0886588297864 -76.8180633 40.3036352
+"Ritter Public Library
+5680 Liberty Ave.
+Vermilion, OH" 69.5190243058076 -82.3672034 41.4224749
+"Bedford County Library
+240 South Wood Street
+Bedford, PA" 69.652189263911 -78.4958587 40.0168549
+"Mary Gilkey Public Library
+416 Ferry St
+Dayton, OR" 69.8917336542562 -123.0773353 45.2196922
+"Reidsville Branch Library
+204 W. Morehead St
+Reidsville, NC" 70.2071207108729 -79.6646046 36.3618333
+"Mansfield Free Public Library
+71 North Main St
+Mansfield, PA" 70.2557988965756 -77.079154 41.80903
+"Frederick Public Library
+200 East Grand
+Frederick, OK" 70.990793336071 -99.0157154 34.3896345
+"Rowan Public Library
+201 W. Fisher St
+Salisbury, NC" 71.2280992413454 -80.472949 35.6676629
+"Prague Public Library
+1619 W Main Street
+Prague, OK" 71.2457691173328 -96.657168 35.4917586
+"Running Springs Branch Library
+31976 Hill Top Blvd.
+Running Springs, CA" 71.5631248285778 -117.1056686 34.2044465
+"Joseph T. Simpson Public Library
+16 N Walnut St
+Mechanicsburg, PA" 71.6157718525952 -77.0029068 40.2157679
+"Hardin Northern Public Library
+153 N. Main St.
+Dunkirk, OH" 71.8608260873031 -83.6435769 40.788867
+"Robersonville Public Library
+119 South Main Street
+Robersonville, NC" 71.960944344774 -77.253568 35.822935
+"Rourk Branch Library
+5068 Main Street
+Shallotte, NC" 72.1829771268212 -78.3953084 33.9660154
+"Chester Springs Library
+1685a Art School Road
+Chester Springs, PA" 72.2027303513528 -75.6221908 40.1002579
+"Okemah Public Library
+301 South 2nd
+Okemah, OK" 72.4152469967218 -96.3022128 35.4290214
+"Willard Memorial Library
+6 W. Emerald St.
+Willard, OH" 72.5130242634116 -82.7263608 41.0552919
+"Grafton-Midview Public Library
+983 Main St.
+Grafton, OH" 72.6815380957789 -82.0553347 41.2727489
+"Shuts Environmental Library
+3 Natures Way
+Lancaster, PA" 73.2704030973933 -76.2773151 40.0130075
+"Walnut Cove Public Library
+106 West Fifth Street
+Walnut Cove, NC" 73.4374126463693 -80.142489 36.298678
+"Forest Grove City Library
+2114 Pacific Ave
+Forest Grove, OR" 73.9970206678908 -123.1091406 45.5194367
+"Hyde Park Public Library
+700 Main St.
+Hyde Park, PA" 74.3029217853383 -79.5892154 40.6328445
+"Tryon Public Library
+25 S Main St
+Tryon, OK" 74.5796852516348 -96.9638486 35.8688222
+"Peoples Library - Lower Burrell
+3052 Wachter Ave.
+Lower Burrell, PA" 74.889143833061 -79.7113819 40.5832085
+"Greene County Public Library
+229 Kingold Blvd
+Snow Hill, NC" 74.9608610809974 -77.6840043 35.4527435
+"Youngstown And Mahoning County, Pl Of
+305 Wick Ave.
+Youngstown, OH" 75.2281493501778 -80.6462104 41.1028552
+"Wallowa County Library
+207 Nw Logan
+Enterprise, OR" 75.3114388726458 -117.279558 45.427588
+"Seagrove Public Library
+354 Old Plank Road
+Seagrove, NC" 75.773633358684 -79.775237 35.543491
+"Hulbert Community Library
+210 North Broadway
+Hulbert, OK" 76.1943175006565 -95.1438145 35.9327417
+"Santa Clara County Library
+14600 Winchester Blvd.
+Los Gatos, CA" 76.3439885626725 -121.9652505 37.2551489
+"Public Library Of Johnston County Smithfield
+305 Market Street
+Smithfield, NC" 76.5670019664817 -78.3527374 35.5143215
+"Green Road Library
+4101 Green Road
+Raleigh, NC" 76.8055948715024 -78.5918724 35.8392837
+"Randleman Public Library
+122 Commerce Square
+Randleman, NC" 76.8055948715024 -79.80457 35.817344
+"Olivia Raney Local History Library
+4016 Carya Drive
+Raleigh, NC" 76.8329257436367 -78.5696841 35.7686345
+"Molalla Public Library
+201 E Fifth St
+Molalla, OR" 77.0039022287293 -122.5772464 45.144114
+"Worthington Public Library
+820 High St
+Worthington, OH" 77.0153884223871 -83.0169259 40.0906089
+"Carnegie Library Of Mckeesport - Elizabeth Forward
+401 Rock Run Road
+Elizabeth, PA" 77.2279293320434 -79.8258168 40.2762391
+"Elizabethville Area Library
+80 North Market Street
+Elizabethville, PA" 77.2279293320434 -76.8132583 40.551544
+"West Popular Lending Library
+5800 Duraleigh Road
+Raleigh, NC" 77.351180519395 -78.7121104 35.8573224
+"South Raleigh Library
+1601-14 Crosslink Road
+Raleigh, NC" 77.4354619474249 -78.6147494 35.7551408
+"Warren County Memorial Library
+117 S. Main Street
+Warrenton, NC" 77.5112193802243 -78.1554375 36.3977175
+"East Columbus Branch Library
+p.o. box 27
+Riegelwood, NC" 77.6836555135343 -78.2252766 34.3398905
+"Monessen Public Library District Center
+326 Donner Avenue
+Monessen, PA" 78.2130138835487 -79.8828867 40.1610487
+"Roseboro Public Library
+300 West Roseboro Street
+Roseboro, NC" 78.4536950058513 -78.5127266 34.9521508
+"Cleveland Public Library
+325 Superior Ave.
+Cleveland, OH" 78.8368040826186 -81.691775 41.501174
+"Anadarko Community Library
+215 W Broadway
+Anadarko, OK" 79.0344550731099 -98.2460605 35.0750952
+"Stanley Branch Library
+205 Peterson Street
+Stanley, NC" 79.1494521935394 -81.095307 35.361432
+"Dora Public Library
+56125 Goldbrick Rd
+Myrtle Point, OR" 79.5946881127801 -123.9555117 43.154538
+"Spruce Pine Public Library
+142 Walnut Avenue
+Spruce Pine, NC" 80.0128071346069 -82.065848 35.9165052
+"Jonesboro Branch Library
+309 West Main Street
+Sanford, NC" 80.2688990355821 -79.1538379 35.455261
+"Nipomo Library
+918 W. Tefft
+Nipomo, CA" 80.5330520112567 -120.4970467 35.0289231
+"Ray D. Prueter - Port Hueneme Library
+510 Park Ave.
+Port Hueneme, CA" 80.6356450300026 -119.1930028 34.1567247
+"Rocklin Library
+4890 Granite Drive
+Rocklin, CA" 80.9406734695529 -121.2269559 38.7890731
+"Rutherford County Library
+255 Callahan Koon Rd.
+Spindale, NC" 80.9784488052247 -81.9107061 35.3479086
+"Enid-Public Library Of Enid And Garfield Co
+120 West Maine
+Enid, OK" 81.0870735062169 -97.8791617 36.395798
+"Person County Public Library
+319 South Main St
+Roxboro, NC" 81.3055644633839 -78.986036 36.3901081
+"Brunswick County Library
+109 W. Moore Street
+Southport, NC" 81.6139873603805 -78.0199314 33.9177491
+"Stillwater Public Library
+1107 S. Duck
+Stillwater, OK" 81.6395357835497 -97.061954 36.1098834
+"Greene County Library System
+107 Hatfield St.
+Jefferson, PA" 81.6553194068239 -80.0603918 39.9339496
+"Wren Memorial Library
+502 North 2nd Avenue
+Siler City, NC" 82.0784918075642 -79.4644129 35.727713
+"Mcclure Community Library
+P.O. Box 370
+Mcclure, PA" 82.3336529790527 -77.3144337 40.7070206
+"Ronda Branch Library
+123 Chatham St
+Ronda, NC" 82.6081802622184 -80.9433959 36.2183291
+"Suburban Acres Library
+4606 N Garrison
+Tulsa, OK" 83.5518913016276 -95.98678 36.2205707
+"Robbins Area Branch
+161 East Magnolia Drive
+Robbins, NC" 83.6865906325707 -79.5872119 35.431562
+"Silver Falls Library District
+410 S Water St
+Silverton, OR" 84.245270094834 -122.7815636 45.0029107
+"Milton-Freewater Public Library
+8 Sw Eighth Ave
+Milton-Freewater, OR" 84.7666101355102 -118.3858327 45.9274829
+"Noble Public Library
+204 North 5th
+Noble, OK" 85.5687794398489 -97.3924152 35.1415344
+"Kings County Library - Lemoore
+457 C St.
+Lemoore, CA" 85.6076568759823 -119.7875249 36.2999852
+"Sherrills Ford Branch
+8456 Sherrills Ford Road
+Sherrils Ford, NC" 85.6362351530539 -80.9861343 35.6114905
+"J. Hoyt Hayes Memorial Troutman Branch Library
+215 W. Church Street
+Troutman, NC" 86.0039059860263 -80.891699 35.700136
+"Arcade Community Library
+2443 Marconi Ave.
+Sacramento, CA" 86.4241739375478 -121.4040801 38.6184892
+"East Branch Library
+p.o. box 550
+Rockwell, NC" 86.6181832510097 -80.4064485 35.5512508
+"Martinsburg Community Library
+201 South Walnut St
+Martinsburg, PA" 87.4260211415969 -78.3210488 40.3090695
+"Latimer County Public Library
+301 W. Ada Ave
+Wilburton, OK" 87.8213315833788 -95.3134631 34.9197305
+"Sherwood Public Library
+22560 Sw Pine St
+Sherwood, OR" 88.5854406777033 -122.840105 45.3567048
+"Lyons Public Library
+448 Cedar St
+Lyons, OR" 88.7792887335392 -122.613473 44.77501
+"Arroyo Secco Regional Branch
+6145 N. Figueroa St.
+Los Angeles, CA" 88.9287419420746 -118.1864583 34.1137928
+"Honey Brook Community Library
+687 Compass Road
+Honey Brook, PA" 89.0474225609453 -75.916758 40.088192
+"Star Branch
+222 South Main St
+Star, NC" 89.2501301095628 -79.78358 35.397942
+"German-Masontown Public Library
+9 South Washington St
+Masontown, PA" 89.2548542338671 -79.900631 39.845928
+"Mohall Public Library
+115 Main Street West
+Mohall, ND" 89.555902052393 -101.5123966 48.763477
+"Factoryville Public Library
+163 College Avenue
+Factoryville, PA" 90.1590076386481 -75.7871765 41.5677846
+"Mengle Memorial Library
+324 Main Street
+Brockway, PA" 90.3627447454019 -78.8004695 41.2493254
+"Drumright Public Library
+104 East Broadway
+Drumright, OK" 90.4412473816355 -96.6012371 35.9884947
+"Washington County Cooperative Library Services
+111 Ne Lincoln St., Ms 58
+Hillsboro, OR" 90.4742164367692 -122.989827 45.5228939
+"Scio Public Library
+38957 Nw 1st
+Scio, OR" 90.5382621398892 -122.8497873 44.7049592
+"Jay C. Byers Memorial Library
+215 E. Wichita
+Cleveland, OK" 91.1643855660522 -96.4620167 36.3111535
+"Zarrow Regional Library
+2224 W. 51st St.
+Tulsa, OK" 91.2375460343074 -96.0177797 36.0894155
+"Richmond Public Library
+325 Civic Center Plaza
+Richmond, CA" 91.4364488725274 -122.3440588 37.9358756
+"Bridgeville Public Library
+441 Station St
+Bridgeville, PA" 91.6818592782729 -80.110759 40.3580759
+"Braddock Carnegie Library
+419 Library Street
+Braddock, PA" 91.7597611107415 -79.8655137 40.4018615
+"Clatskanie Library District
+11 Lillich St
+Clatskanie, OR" 92.034632401954 -123.2017217 46.1050331
+"Mckinley Library
+601 Alhambra Blvd.
+Sacramento, CA" 92.3232308278038 -121.4627632 38.5768537
+"Brownsville Free Public Library
+100 Seneca St
+Brownsville, PA" 92.9924374177047 -79.887052 40.02135
+"Martinsburg Community Library
+201 South Walnut St
+Martinsburg, PA" 93.2961704459534 -78.3210488 40.3090695
+"Maxwell Branch
+34 Oak St.
+Maxwell, CA" 94.6878156642695 -122.192154 39.2763986
+"Laceyville Public Library
+p o box 68
+Laceyville, PA" 94.8083976249335 -76.1613189 41.6459089
+"Dallas Public Library
+950 Main St
+Dallas, OR" 94.9053969656723 -123.3163178 44.9199952
+"Oberlin Public Library
+65 S. Main St.
+Oberlin, OH" 94.9860366590107 -82.216432 41.289989
+"Delta Public Library
+402 Main St.
+Delta, OH" 95.3866333034703 -84.00585 41.57355
+"Barrett Paradise Friendly Library
+box 1010
+Cresco, PA" 95.7915880729082 -75.2804597 41.1539795
+"Hoodland Branch Library
+68236 E Highway 26
+Welches, OR" 96.1488704680002 -121.9632649 45.3481183
+"Penryn Library
+2215 Rippey Road.
+Penryn, CA" 96.1748250475134 -121.1697739 38.8509758
+"Brookside Public Library
+1207 E 45th Place
+Tulsa, OK" 96.3156660740022 -95.9766337 36.098617
+"Lompoc Public Library
+501 E. North Ave.
+Lompoc, CA" 96.5172959040135 -120.4520083 34.6537187
+"Maxwell Park Library
+1313 N Canton
+Tulsa, OK" 96.5463759409602 -95.9189098 36.1737781
+"Hyde Park Public Library
+700 Main St.
+Hyde Park, PA" 96.5987364948582 -79.5892154 40.6328445
+"Weston Public Library
+108 E Main St
+Weston, OR" 96.6117541745087 -118.4251094 45.8135762
+"Lakota City Library
+116 West B Avenue
+Lakota, ND" 96.9708920485316 -98.3442344 48.0414429
+"Weatherford Public Library
+219 E Franklin
+Weatherford, OK" 97.0113291273748 -98.7056287 35.5273032
+"Yale Public Library
+213 N Main
+Yale, OK" 98.4524951120368 -96.6990795 36.1157214
+"Adams County Library
+103 N 6th Street
+Hettinger, ND" 98.8167136213494 -102.6353683 46.0012136
+"Locust Grove Public Library
+715 E. Harold Andrews Blvd
+Locust Grove, OK" 99.0074647904986 -95.1651513 36.1999798
+"Murphys Branch
+480 Park Lane
+Murphys, CA" 99.3147922591875 -120.463123 38.136566
+"Susquehanna County Library - Forest City Branch Library
+531 Main St.
+Forest City, PA" 99.7625790531339 -75.4663432 41.6496187
+"Kellyville Public Library
+230 E Buffalo
+Kellyville, OK" 99.9358116986648 -96.213669 35.943391

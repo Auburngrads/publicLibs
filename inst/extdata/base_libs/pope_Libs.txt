@@ -1,0 +1,1453 @@
+"location" "miles" "latitude" "longitude"
+"Woods Memorial Library
+19 Pleasant St.
+Barre, MA" 1.7618349303399 -72.10664 42.422977
+"Becket Athenaeum
+3367 Main Street, Route 8
+Becket, MA" 1.7618349303399 -73.0837442 42.3316015
+"Hope Library
+443 Camden Road
+Hope, ME" 7.25352139006241 -69.1575765 44.2645818
+"Cary Library-Houlton
+107 Main Street
+Houlton, ME" 7.25352139006241 -67.837499 46.1254822
+"Cundys Harbor Library
+935 Cundys Harbor Road
+Harpswell, ME" 7.68081815753882 -69.892994 43.791491
+"Gallison Memorial Library
+1292 Main Street
+Harrington, ME" 7.68081815753882 -67.8069516 44.6199255
+"Rayne Branch
+109 West Perrodin Street
+Rayne, LA" 9.42752659860004 -92.26886 30.2329488
+"Richland Parish Library
+1410 Louisa Street
+Rayville, LA" 9.42752659860004 -91.7585549 32.4691753
+"Hubbard Free Library
+115 Second Street
+Hallowell, ME" 10.8435451613618 -69.7912049 44.2860844
+"Edythe Dyer Community Library
+269 Main Road North
+Hampden, ME" 10.8435451613618 -68.819429 44.7509109
+"Bolsters Mills Village Library
+659 Bolsters Mills Road
+Harrison, ME" 10.9797289711178 -70.598213 44.11594
+"Harrison Village Library
+4 Front Street
+Harrison, ME" 10.9797289711178 -70.6795762 44.108606
+"Hollis Center Public Library
+14 Little Falls Road
+Hollis, ME" 11.404249073759 -70.5955101 43.6000842
+"Salmon Falls Library
+322 Old Alfred Road
+Hollis, ME" 11.404249073759 -70.5632085 43.5937951
+"Princeton Public Library
+40 Main Street
+Princeton, ME" 13.9503987595671 -67.5184297 45.2009086
+"Rangeley Public Library
+7 Lake Street
+Rangeley, ME" 13.9503987595671 -70.6434776 44.9642256
+"Eldredge Public Library
+564 Main St.
+Chatham, MA" 16.2285576035728 -69.9582867 41.6814121
+"Chelmsford Public Library
+25 Boston Rd.
+Chelmsford, MA" 16.2285576035728 -71.3516266 42.5945374
+"Hartland Public Library
+16 Mill Street
+Hartland, ME" 17.1068668809911 -69.451555 44.8829436
+"Soldiers Memorial Library
+85 Main Street
+Hiram, ME" 17.1068668809911 -70.7976844 43.8821666
+"Kitzmiller Branch Library
+288 W. Main Street
+Kitzmiller, MD" 17.6056275804384 -79.188041 39.386955
+"Charles County Public Library
+2 Garrett Avenue
+La Plata, MD" 17.6056275804384 -76.9709593 38.5302124
+"Warren Memorial Library
+479 Main Street
+Westbrook, ME" 19.4542666857538 -70.351515 43.6816771
+"Whitneyville Public Library
+51 School Street
+Whitneyville, ME" 19.4542666857538 -67.5219863 44.7220209
+"West Baton Rouge Parish
+830 North Alexander Avenue
+Port Allen, LA" 19.7932197138641 -91.2101615 30.4595163
+"Port Sulphur Branch
+138 Civic Drive Route 2
+Port Sulphur, LA" 19.7932197138641 -89.6952889 29.4790319
+"Walkersville Branch Library
+57 West Frederick Street
+Walkersville, MD" 21.1856104225338 -77.3550667 39.4789879
+"Westernport Library
+66 Main Street
+Westernport, MD" 21.1856104225338 -79.0447309 39.48554
+"Guilford H. Hathaway Library
+6 North Main Street
+Assonet, MA" 21.262993459844 -71.0677732 41.7953095
+"Athol Public Library
+568 Main St.
+Athol, MA" 21.262993459844 -72.2285143 42.5941277
+"Freeport Community Library
+10 Library Drive
+Freeport, ME" 21.8824825951718 -70.1017236 43.8633594
+"Friendship Public Library
+3 Main Street
+Friendship, ME" 21.8824825951718 -69.333841 43.983787
+"Bookmobile Services
+50 East Main Street
+Westminster, MD" 23.4427648543891 -76.9956484 39.5742544
+"Carroll County Public Library
+115 Airport Drive
+Westminster, MD" 23.4427648543891 -76.9991362 39.6053627
+"St. Tammany Parish Library Business Resource Center
+3505 Highway 190
+Mandeville, LA" 23.5653478413907 -90.0833833 30.3919539
+"Mangham Branch
+302 Hixon Street
+Mangham, LA" 23.5653478413907 -91.7854825 32.3111892
+"Carrabassett Valley Public Library
+1234 Carrabassett Drive
+Carrabassett, ME" 24.6284036514235 -70.2206088 45.0874067
+"Casco Public Library
+5 Leach Hill Road
+Casco, ME" 24.6284036514235 -70.5227726 44.0040277
+"Belgrade Public Library
+1 Center Drive
+Belgrade, ME" 25.1968414330618 -69.7190134 44.5470018
+"Bass Harbor Memorial Library
+89 Main Street
+Bernard, ME" 25.1968414330618 -68.3281852 44.2860284
+"Bellingham Public Library
+100 Blackstone Street
+Bellingham, MA" 25.2965376659257 -71.4702445 42.0756584
+"Belmont Public Library
+336 Concord Ave.
+Belmont, MA" 25.2965376659257 -71.172377 42.3945806
+"Sikes Branch
+125 Fifth Street
+Sikes, LA" 25.7755943220102 -92.488539 32.0800362
+"Simmesport Branch
+461 Main Street
+Simmesport, LA" 25.7755943220102 -91.8110578 30.9885269
+"North County Area Library
+1010 Eastway
+Glen Burnie, MD" 26.025939174413 -76.6133711 39.1533867
+"Prince Georges County Memorial Library - Glenarden
+8724 Glenarden Pkwy.
+Glenarden, MD" 26.025939174413 -76.8602162 38.930723
+"Hamilton Memorial Library
+195 Route 20
+Chester, MA" 27.9250260157963 -72.9820087 42.2791995
+"Chesterfield Public Library
+408 Main Road
+Chesterfield, MA" 27.9250260157963 -72.8414699 42.3918647
+"Avoyelles Parish
+104 N Washington Street
+Marksville, LA" 27.9556297181782 -92.0689031 31.1234022
+"Belle Terre Branch
+5550 Belle Terre Road
+Marrero, LA" 27.9556297181782 -90.113143 29.880125
+"Norco Branch
+197 Good Hope Street
+Norco, LA" 30.1151561550188 -90.4105776 30.0018991
+"West Carroll Parish
+101 Marietta Street
+Oak Grove, LA" 30.1151561550188 -91.3863344 32.8599302
+"Webster Free Library
+22 Depot Street
+Kingfield, ME" 31.0124695203625 -70.1570374 44.9579878
+"Rice Public Library
+8 Wentworth Street
+Kittery, ME" 31.0124695203625 -70.7425464 43.0867713
+"St. Michaels Branch Library
+106 Fremont St.
+St. Michaels, MD" 32.18845916691 -76.2257039 38.785814
+"Kent Island Branch
+200 Library Circle
+Stevensville, MD" 32.18845916691 -76.305639 38.979183
+"Lewis Dana Hill Memorial Library
+2079 Main Street
+Lovell, ME" 34.2736469222493 -70.873396 44.244312
+"Lubec Memorial Library
+55 Water Street
+Lubec, ME" 34.2736469222493 -66.9830744 44.8597886
+"Pennsylvania Avenue Branch
+1531 W. North Avenue
+Baltimore, MD" 35.3699009972488 -76.6418446 39.3098603
+"Perry Hall Library
+9440 Belair Rd.
+Baltimore, MD" 35.3699009972488 -76.469891 39.4078779
+"Finksburg Branch
+2265 Old Westminster Pike
+Finksburg, MD" 35.6896255758442 -76.917107 39.517941
+"C.Burr Artz Public Library
+110 East Patrick Street
+Frederick, MD" 35.6896255758442 -77.4087116 39.4134518
+"Somerset County Library
+11767 Beechwood Street
+Princess Anne, MD" 37.0203542726024 -75.692147 38.2044523
+"Randallstown Library
+8604 Liberty Rd.
+Randallstown, MD" 37.0203542726024 -76.7789865 39.3619948
+"Thomaston Public Library
+60 Main Street
+Thomaston, ME" 37.4589481582172 -69.180127 44.0793742
+"Topsham Public Library
+25 Foreside Road
+Topsham, ME" 37.4589481582172 -69.9486223 43.9241066
+"South Cumberland Library
+100 Seymour Street
+Cumberland, MD" 37.589522476487 -78.7594116 39.6372226
+"Washington Street Library
+31 Washington Street
+Cumberland, MD" 37.589522476487 -78.7662805 39.6508049
+"Anne Arundel County Public Library Headquarters
+5 Harry S. Truman Parkway
+Annapolis, MD" 38.2789093598453 -76.5661912 38.9815315
+"Broadneck Branch
+1275 Green Holly Drive
+Annapolis, MD" 38.2789093598453 -76.4542905 39.0366323
+"Hurlock Branch Library
+222 S. Main St.
+Hurlock, MD" 39.1580976168347 -75.862296 38.631107
+"Prince Georges County Memorial Library - Hyattsville
+6530 Adelphi Rd.
+Hyattsville, MD" 39.1580976168347 -76.949652 38.969253
+"Washington County Free Library
+100 S. Potomac St
+Hagerstown, MD" 39.4906360968577 -77.7212201 39.6402815
+"Havre De Grace Branch Library
+120 N. Union Ave.
+Havre De Grace, MD" 39.4906360968577 -76.0921428 39.5484996
+"Patten Free Library
+33 Summer Street
+Bath, ME" 40.9811033420173 -69.8148726 43.9157178
+"Belfast Free Library
+106 High Street
+Belfast, ME" 40.9811033420173 -69.0051865 44.4252263
+"Maurice Branch
+100 East Joseph Street
+Maurice, LA" 41.0055966552486 -92.1246037 30.106003
+"Mer Rouge Branch
+107 South 16th Street
+Mer Rouge, LA" 41.0055966552486 -91.7937522 32.7748022
+"David Raines Branch
+2855 Martin Luther King, Jr. Drive
+Shreveport, LA" 42.2230840538771 -93.7501789 32.5251516
+"Extension Center Branch
+5802 Union Street
+Shreveport, LA" 42.2230840538771 -93.7715369 32.4564333
+"Cole Memorial Library
+789 Hammett Road
+Enfield, ME" 42.8928254644875 -68.5893476 45.2482172
+"Lawrence Public Library
+33 Lawrence Avenue
+Fairfield, ME" 42.8928254644875 -69.596121 44.587756
+"Lewiston Public Library
+200 Lisbon Street
+Lewiston, ME" 43.1487267574994 -70.2161981 44.0954589
+"Ivan O. Davis-Liberty Library
+59 Main Street
+Liberty, ME" 43.1487267574994 -69.3072001 44.3925485
+"Norridgewock Free Public Library
+86 Sophie May Lane
+Norridgewcock, ME" 43.740957635705 -69.8007973 44.7185073
+"Stewart Public Library
+37 Elm Street
+North Anson, ME" 43.740957635705 -69.8748804 44.8030434
+"Vassalboro Public Library
+930 Bog Road
+East Vassalboro, ME" 44.1009793184713 -69.6205644 44.44986
+"Peavey Memorial Library
+26 Water Street
+Eastport, ME" 44.1009793184713 -66.9852138 44.9036613
+"Lebanon Town Library
+649 Center Road
+Lebanon, ME" 44.1352490421658 -70.903195 43.4027843
+"Levant Heritage Library
+3519 Union Street
+Levant, ME" 44.1352490421658 -68.9339818 44.8695145
+"Edith M. Fox Library
+175 Massachusetts Avenue
+Arlington, MA" 44.2568286338433 -71.1415957 42.4056745
+"Robbins Library
+700 Massachusetts Avenue
+Arlington, MA" 44.2568286338433 -71.1550859 42.4156522
+"Singer South Centralbranch
+9130 Highway 27
+Singer, LA" 44.4077202057989 -93.4125492 30.6553158
+"Pontchartrain Branch
+4002 Pontchartrain, 2
+Slidell, LA" 44.4077202057989 -89.7922427 30.2502735
+"Lansdowne Branch
+500 Third Avenue
+Lansdowne, MD" 44.7383735389936 -76.653667 39.2437113
+"Prince Georges County Memorial Library - Largo-Kettering
+9601 Capital Lane
+Largo, MD" 44.7383735389936 -76.8386632 38.8914619
+"Pearl River Branch
+64580 Highway 41
+Pearl River, LA" 45.2316343958513 -89.762247 30.370647
+"Pelican Branch
+139 Jackson Ave.
+Pelican, LA" 45.2316343958513 -93.5863346 31.8821289
+"Slidell Branch
+555 Robert Boulevard
+Slidell, LA" 45.3260050383756 -89.7599033 30.2990193
+"Killian Branch
+28278 Highway 22
+Springfield, LA" 45.3260050383756 -90.5858342 30.3312453
+"Pitkin Branch
+7277 Highway 463
+Pitkin, LA" 45.6354533879698 -92.9328569 30.9429595
+"Bayou Pigeon Branch
+36625 Highway 75
+Plaquemine, LA" 45.6354533879698 -91.2869966 30.1171494
+"Montgomery County Public Libraries
+21 Maryland Ave., Suite 310
+Rockville, MD" 45.6977961396749 -77.1512366 39.0866536
+"Rockville Branch Library
+21 Maryland Ave.
+Rockville, MD" 45.6977961396749 -77.1512366 39.0866536
+"Woodland Public Library
+169 Main Street
+Baileyville, ME" 45.6992657970009 -67.4078268 45.1579945
+"Bangor Public Library
+145 Harlow Street
+Bangor, ME" 45.6992657970009 -68.7715852 44.8044323
+"Honan-Allston Branch
+300 North Harvard St.
+Allston, MA" 46.1120448616379 -71.1279858 42.3601156
+"Amesbury Public Library
+149 Main St.
+Amesbury, MA" 46.1120448616379 -70.9328577 42.8553612
+"Jones Library, Inc.
+43 Amity Street
+Amherst, MA" 46.112792854785 -72.52084 42.376317
+"Munson Memorial Library
+1046 South East Street
+Amherst, MA" 46.112792854785 -72.503409 42.340719
+"Cushman Library
+28 Church St.
+Bernardston, MA" 46.179665836243 -72.5513691 42.6712537
+"Beverly Farms Branch Library
+24 Vine Street
+Beverly, MA" 46.179665836243 -70.813781 42.562861
+"Prince Georges County Memorial Library - Mount Rainier
+3409 Rhode Island Ave.
+Mount Rainier, MD" 46.2670781603937 -76.9595488 38.9367645
+"Prince Georges County Memorial Library - New Carrollton
+7414 Riverdale Rd..
+New Carrollton, MD" 46.2670781603937 -76.8826328 38.9622982
+"Takoma Park Maryland Library
+101 Philadelphia Avenue
+Takoma Park, MD" 46.6137953346111 -77.0107628 38.9811501
+"Taneytown Branch
+10 Grand Drive
+Taneytown, MD" 46.6137953346111 -77.1608412 39.6493928
+"Savage Branch Library
+9525 Durness Lane
+Laurel, MD" 46.8811371794955 -76.8358136 39.1322739
+"Allegany County Bookmobile
+815 National Highway
+Lavale, MD" 46.8811371794955 -78.818447 39.6488949
+"Glenburn Library
+991 Hudson Road
+Glenburn, ME" 46.9206454623239 -68.8461778 44.9171705
+"Baxter Memorial Library
+71 South Street
+Gorham, ME" 46.9206454623239 -70.442031 43.677112
+"Maryland City At Russett Branch
+3501 Russett Common
+Laurel, MD" 47.277076381845 -76.8040104 39.1021202
+"Prince Georges County Memorial Library - Laurel
+507 7th Street
+Laurel, MD" 47.277076381845 -76.8562203 39.1032798
+"Hereford Library
+16940 York Rd.
+Monkton, MD" 47.7018516783251 -76.6637913 39.589787
+"Mount Airy Branch
+705 Ridge Avenue
+Mount Airy, MD" 47.7018516783251 -77.1545806 39.3691832
+"Southern Branch
+20 Appeal Lane
+Lusby, MD" 48.3494448239932 -76.438029 38.380249
+"Middletown Branch Library
+101 Prospect Street
+Middletown, MD" 48.3494448239932 -77.5423782 39.4423222
+"Cecil County Public Library - North East
+106 West Cecil Avenue
+North East, MD" 48.357448317832 -75.9444611 39.6009725
+"Oakland Branch Library
+6 N. Second Street
+Oakland, MD" 48.357448317832 -79.407098 39.4112269
+"Whiteford Branch Library
+2407 Whiteford Road
+Whiteford, MD" 48.4593640623569 -76.34643 39.710303
+"Abington Public Library
+600 Gliniewicz Way
+Abington, MA" 48.4593640623569 -70.9576436 42.1177626
+"Gray Public Library
+5 Hancock Street
+Gray, ME" 49.639814773561 -70.3270812 43.8844686
+"Julia Adams Morse Memorial Library
+105 Main Street
+Greene, ME" 49.639814773561 -70.1434406 44.1893258
+"Wheaton Branch Library
+11701 Georgia Ave.
+Wheaton, MD" 50.0617500906252 -77.0513794 39.0475671
+"Norrisville Branch Library
+5310 Norrisville Road
+White Hall, MD" 50.0617500906252 -76.534414 39.7018506
+"Atkins Memorial Library
+360 Main Street
+Corinth, ME" 50.3715240441669 -69.0218853 45.0001111
+"Bonney Memorial Library
+36 Main Street
+Cornish, ME" 50.3715240441669 -70.8007551 43.805124
+"Ruth Enlow Library Of Garrett County
+6 North Second Street
+Oakland, MD" 50.4437012924181 -79.407098 39.4112269
+"Worcester County Library - Ocean City
+10003 Coastal Highway
+Ocean City, MD" 50.4437012924181 -75.0582955 38.4135291
+"Auburn Public Library
+49 Spring Street
+Auburn, ME" 51.4145407669496 -70.2292564 44.0981429
+"Lithgow Public Library
+45 Winthrop Street
+Augusta, ME" 51.4145407669496 -69.7777833 44.3155899
+"Cambridge Public Library - Collins
+64 Aberdeen Avenue
+Cambridge, MA" 51.4337386291939 -71.1469152 42.3769136
+"Cambridge Public Library - Oconnell
+48 Sixth Street
+Cambridge, MA" 51.4337386291939 -71.0848331 42.3704451
+"Leonardtown Branch Library
+23250 Hollywood Road
+Leonardtown, MD" 52.0010732259436 -76.631222 38.3067719
+"Lexington Park Branch Library
+21677 Fdr Blvd.
+Lexington Park, MD" 52.0010732259436 -76.4572249 38.2616159
+"Kensington Park Branch Library
+4201 Knowles Ave.
+Kensington, MD" 52.4862931960625 -77.0813193 39.0290776
+"Noyes Library For Young Children
+10237 Carroll Place
+Kensington, MD" 52.4862931960625 -77.0729734 39.0245656
+"Wallette Lakeside Branch
+363 Hearne Avenue
+Shreveport, LA" 52.6641547878709 -93.7793921 32.5075937
+"West Shreveport Branch
+6723 Pines Road, Suite 110
+Shreveport, LA" 52.6641547878709 -93.8613543 32.4471209
+"East Iberville Branch
+5715 Monticello Street
+St. Gabriel, LA" 52.6718576838774 -91.1034004 30.2584911
+"Tensas Parish
+135 Plank Road
+St. Joseph, LA" 52.6718576838774 -91.2334139 31.9183269
+"Steep Falls Library
+1128 Pequawket Trail
+Steep Falls, ME" 52.8598018316816 -70.6500137 43.7925497
+"Stetson Public Library
+70 Village Road
+Stetson, ME" 52.8598018316816 -69.1330208 44.8934247
+"Worcester County Library - Ocean Pines
+11107 Cathell Rd.
+Ocean Pines, MD" 53.0686318984053 -75.1663133 38.3798894
+"West County Area Library
+1325 Annapolis Road
+Odenton, MD" 53.0686318984053 -76.7001832 39.0872527
+"Linthicum Branch
+400 Shipley Road
+Linthicum, MD" 53.4519209936356 -76.657929 39.2017869
+"Georges Creek Library
+76 Main Street
+Lonaconing, MD" 53.4519209936356 -78.9797877 39.566886
+"Prince Georges County Memorial Library - Baden
+13603 Baden-Westwood Road
+Brandywine, MD" 53.551216982714 -76.7715707 38.6605015
+"Brunswick Branch Library
+915 North Maple Avenue
+Brunswick, MD" 53.551216982714 -77.62431 39.320955
+"Argyle Free Library
+21 Sheridan Street
+Argyle, NY" 53.5855342143325 -73.4894347 43.2383609
+"North Castle Public Library
+19 Whippoorwill Road East
+Armonk, NY" 53.5855342143325 -73.715125 41.126301
+"Paul Pratt Memorial Library
+35 Ripley Rd.
+Cohasset, MA" 53.5870999223229 -70.809519 42.242022
+"Griswold Memorial Library
+14 Main Rd.
+Colrain, MA" 53.5870999223229 -72.699929 42.672187
+"Arcade Free Library
+365 West Main Street
+Arcade, NY" 53.9355327189073 -78.4275569 42.533863
+"Ardsley Public Library
+9 American Legion Drive
+Ardsley, NY" 53.9355327189073 -73.8445045 41.0122845
+"Great Cranberry Library
+13 Main Road
+Cranberry Isles, ME" 54.6170123717647 -68.2368929 44.2616921
+"Prince Memorial Library
+266 Main Street
+Cumberland, ME" 54.6170123717647 -70.2590913 43.7935686
+"Peabody Memorial Library
+162 Main Street
+Jonesport, ME" 55.1214277999392 -67.6048901 44.5315356
+"Case Memorial Library
+911 Stetson Road
+Kenduskeag, ME" 55.1214277999392 -68.9328368 44.9193012
+"Adams Street Branch Library
+690 Adams Street
+Dorchester, MA" 55.6977630319345 -71.0543819 42.2862895
+"Codman Square Branch Library
+690 Washington Street
+Dorchester, MA" 55.6977630319345 -71.0708456 42.2876358
+"Little Falls Branch Library
+5501 Massachusetts Ave.
+Bethesda, MD" 55.9462070954549 -77.1101676 38.9589012
+"Prince Georges County Memorial Library - Bladensburg
+4820 Annapolis Rd.
+Bladensburg, MD" 55.9462070954549 -76.9346228 38.9396818
+"Baychester Library
+2049 Asch Loop North
+Bronx, NY" 56.0262504751487 -73.829224 40.8706527
+"Belmont Library And Enrico Fermi Cultural Center
+610 E. 186th Street
+Bronx, NY" 56.0262504751487 -73.8878989 40.854344
+"Cliff Island Library
+119 Sunset Avenue
+Cliff Island, ME" 56.040063559765 -70.1037548 43.7000145
+"Brown Memorial Library - Clinton
+53 Railroad Street
+Clinton, ME" 56.040063559765 -69.5049862 44.6408597
+"West Paris Public Library
+226 Main Street
+West Paris, ME" 56.3759297015435 -70.5729927 44.3255014
+"Walker Memorial Library
+800 Main Street
+Westbrook, ME" 56.3759297015435 -70.3636139 43.67593
+"Cushing Public Library
+39 Cross Road
+Cushing, ME" 56.5240223358216 -69.2498687 44.0210606
+"Louise Clements Library
+2655 Cutler Road
+Cutler, ME" 56.5240223358216 -67.2103509 44.6581179
+"Cherryfield Public Library
+35 Main Street
+Cherryfield, ME" 57.0506754695301 -67.9264825 44.6070792
+"Albert Church Brown Memorial Library
+37 Main Street
+China Village, ME" 57.0506754695301 -69.5171287 44.4805768
+"Cumberland - Chebeague Island Library
+25 South Road, Rr 1
+Chebeague, ME" 57.397841293733 -70.1009702 43.7544407
+"Chebeague Island Library
+247 South Road, Unit 3
+Chebeague Island, ME" 57.397841293733 -70.1076274 43.7400287
+"Brooklyn Branch
+300 E. Patapsco Ave.
+Baltimore, MD" 57.5199685100029 -76.6066064 39.237934
+"Brooklyn Park Branch
+1 East 11th Avenue
+Baltimore, MD" 57.5199685100029 -76.6118302 39.2230511
+"East Clinton Branch Library
+1929 Clinton Street
+Buffalo, NY" 57.7995933242988 -78.8051425 42.8716058
+"East Delavan Branch Library
+1187 E. Delavan Avenue
+Buffalo, NY" 57.7995933242988 -78.812873 42.9224588
+"Skowhegan Public Library
+9 Elm Street
+Skowhegan, ME" 58.0371491634492 -69.720652 44.766031
+"Coolidge Library
+17 South Main Street
+Solon, ME" 58.0371491634492 -69.858747 44.9490347
+"Jefferson Parish Library
+4747 W. Napoleon Ave.
+Metairie, LA" 58.2095011204382 -90.185906 29.9956301
+"Lakeshore Branch
+1000 West Esplanade
+Metairie, LA" 58.2095011204382 -90.2532105 30.0221843
+"Lyndon Oak Memorial Library
+5 Dexter Road
+Garland, ME" 59.3219316367847 -69.1601377 45.0387689
+"Laura E. Richards Library
+863 Five Islands Road
+Georgetown, ME" 59.3219316367847 -69.7492899 43.803655
+"Ducros Museum Branch
+1345 Bayou Road
+St. Bernard, LA" 59.5010918583417 -89.8603207 29.8674985
+"West Feliciana Parish Library
+11865 Ferdinand Street
+St. Francisville, LA" 59.5010918583417 -91.3789863 30.7788209
+"Belleville Free Library
+8086 County Route 75
+Belleville, NY" 59.5608984286059 -76.119277 43.784035
+"Bellmore Memorial Library
+2288 Bedford Avenue
+Bellmore, NY" 59.5608984286059 -73.5271739 40.6677031
+"Charlotte Hobbs Memorial Library
+227 Main Street
+Lovell, ME" 60.1994323092999 -70.891645 44.126708
+"Hill Memorial Library
+box 470
+Lovell, ME" 60.1994323092999 -70.8930466 44.1255995
+"Mason Library
+231 Main St.
+Great Barrington, MA" 60.4174140106049 -73.3605915 42.1959855
+"Greenfield Public Library
+402 Main St.
+Greenfield, MA" 60.4174140106049 -72.5989496 42.5880423
+"Witherle Memorial Library
+41 School Street
+Castine, ME" 60.5094127036727 -68.7983716 44.3899697
+"Charleston Public Library
+13 Atkinson Road
+Charleston, ME" 60.5094127036727 -69.0403793 45.086446
+"Shapleigh Community Library
+607 Shapleigh Corner Road
+Shapleigh, ME" 61.1375601751195 -70.8506214 43.5434684
+"Sherman Public Library
+9 Church Street
+Sherman, ME" 61.1375601751195 -68.3850172 45.8724957
+"White Oak Branch Library
+11701 New Hampshire Ave.
+Silver Spring, MD" 61.158061115796 -76.9920951 39.0480914
+"Worcester County Library - Snow Hill
+307 N Washington Street
+Snow Hill, MD" 61.158061115796 -75.3942951 38.178164
+"Chelsea Public Library
+569 Broadway
+Chelsea, MA" 61.8069979006631 -71.0320242 42.3935914
+"Cheshire Public Library
+23 Depot Street
+Cheshire, MA" 61.8069979006631 -73.1626372 42.5616751
+"Queens Borough Public Library - Cambria Heights
+218-13 Linden Boulevard
+Cambria Heights, NY" 62.3145836537191 -73.741113 40.6957312
+"Cambridge Public Library
+21 West Main Street
+Cambridge, NY" 62.3145836537191 -73.3839969 43.027685
+"Urbana Regional Library
+9020 Amelung Street
+Frederick, MD" 62.3578391594078 -77.3540128 39.3313924
+"Friendsville Branch Library
+315 Chestnut Street
+Friendsville, MD" 62.3578391594078 -79.404763 39.662334
+"South County Branch
+5940 Deale-Churchton Road
+Deale, MD" 62.556568976024 -76.5532496 38.7836519
+"Caroline County Public Library
+100 Market Street
+Denton, MD" 62.556568976024 -75.8338676 38.8864785
+"Portland Public Library
+467 Congress Street
+Portland, ME" 62.9097334729096 -70.2594617 43.657465
+"Reiche Branch Library
+166 Brackett Street
+Portland, ME" 62.9097334729096 -70.267431 43.6509663
+"Riverton Branch Library
+1600 Forest Avenue
+Portland, ME" 62.9097334729096 -70.3077295 43.6969851
+"Mark And Emily Turner Memorial Library
+39 Second Street
+Presque Isle, ME" 62.9097334729096 -68.013757 46.680756
+"Olney Branch Library
+3500 Olney-Laytonsville Road
+Olney, MD" 63.083636283888 -77.0690173 39.1537104
+"Fairview Branch
+8120 Southern Maryland Boulevard
+Owings, MD" 63.083636283888 -76.640617 38.691248
+"Clinton - Brown Memorial Library
+14 Railroad Street
+Clinton, ME" 63.6585354215007 -69.5032059 44.6384297
+"Stewart Free Library
+8 Levi Stewart Drive
+Corinna, ME" 63.6585354215007 -69.2629038 44.9209096
+"Iberia Parish Library
+445 E. Main St.
+New Iberia, LA" 64.1332836660581 -91.8133751 30.0031952
+"Lydia Branch
+4800 Freyou Road
+New Iberia, LA" 64.1332836660581 -91.7901526 29.9256526
+"Kennebunk Free Library
+112 Main Street
+Kennebunk, ME" 64.1781577054382 -70.537885 43.3878563
+"Graves Memorial Library
+18 Maine Street
+Kennebunkport, ME" 64.1781577054382 -70.4747738 43.3617123
+"Clayville Library Association
+2265 Oneida Street
+Clayville, NY" 65.1382485153024 -75.249244 42.97227
+"Clifton-Park Halfmoon Public Library
+475 Moe Road
+Clifton Park, NY" 65.1382485153024 -73.7932489 42.8581709
+"Prince Georges County Memorial Library - Accokeek
+15773 Livingston Rd.
+Accokeek, MD" 65.4590001974505 -77.0061573 38.6710564
+"Annapolis Area Library
+1410 West Street
+Annapolis, MD" 65.4590001974505 -76.5151597 38.9787464
+"Southeast Anchor Library
+3601 Eastern Avenue
+Baltimore, MD" 65.499494328895 -76.5667424 39.2862705
+"Walbrook Branch
+3203 W. North Avenue
+Baltimore, MD" 65.499494328895 -76.6716155 39.3086097
+"Lyman Community Library
+10 John Street
+Lyman, ME" 65.6886938768455 -70.5825657 43.5076599
+"Machias - Porter Memorial Library
+52 Court Street
+Machias, ME" 65.6886938768455 -67.4564662 44.7168995
+"Strong Public Library
+14 South Main St.
+Strong, ME" 65.7807122732704 -70.2202158 44.8084271
+"Frenchmans Bay Library
+1776 Us Highway 1
+Sullivan, ME" 65.7807122732704 -68.224023 44.530439
+"Queens Borough Public Library - East Elmhurst
+95-06 Astoria Boulevard
+East Elmhurst, NY" 66.4190408755744 -73.8738709 40.762427
+"East Greenbush Community Library
+10 Community Way
+East Greenbush, NY" 66.4190408755744 -73.6955367 42.6192131
+"Grafton Public Library
+35 Grafton Common
+Grafton, MA" 66.4255893106557 -71.6846116 42.2059613
+"Granville Public Library
+2 Granby Road
+Granville, MA" 66.4255893106557 -72.8611185 42.0670675
+"Byron-Bergen Public Library
+13 S. Lake Street
+Bergen, NY" 67.9115598784345 -77.9423761 43.0831509
+"Berkshire Free Library
+12519 State Route 38
+Berkshire, NY" 67.9115598784345 -76.1857531 42.3067473
+"Rodessa Branch
+10093 Main Street
+Rodessa, LA" 68.0408397149779 -93.9955946 32.9710191
+"Rosedale Branch
+15695 Rosedale Rd
+Rosedale, LA" 68.0408397149779 -91.4529169 30.4416443
+"Chatham Public Library
+11 Woodbridge Avenue
+Chatham, NY" 68.0702661666311 -73.6025537 42.3618026
+"Lyme Free Library
+12165 Main Street
+Chaumont, NY" 68.0702661666311 -76.1280139 44.066037
+"Pierre Part Branch
+3103 Highway 70 (Lee Drive)
+Pierre Part, LA" 68.8548210175397 -91.1984274 29.9845498
+"Pine Prairie Branch
+1111walnut Street
+Pine Prairie, LA" 68.8548210175397 -92.4242595 30.7827568
+"Julian Poydras Branch
+4985 Julian Poydras Lane
+Rougon, LA" 69.0398611225354 -91.3681029 30.605955
+"Lincoln Parish Library
+910 North Trenton Street
+Ruston, LA" 69.0398611225354 -92.6383209 32.5372219
+"Whitman Memorial Library
+28 South Main Street
+Bryant Pond, ME" 69.1676313115371 -70.6441275 44.3795874
+"Zadoc Long Free Library
+5 Turner Street
+Buckfield, ME" 69.1676313115371 -70.3647345 44.2894556
+"Raceland Branch
+104 Mississippi St
+Raceland, LA" 69.276032406236 -90.5978627 29.7292873
+"Ragley South Branch
+6715 Highway 12
+Ragley, LA" 69.276032406236 -93.26387 30.5073125
+"Henry D. Moore Library
+22 Village Road
+Steuben, ME" 69.9305295146462 -67.9620124 44.5106352
+"Stockton Springs Community Library
+6 Station Street
+Stockton Springs, ME" 69.9305295146462 -68.8552003 44.4886707
+"Canaan Public Library
+288 Main Street
+Canaan, ME" 70.0301829868288 -69.5608282 44.7624258
+"Cape Elizabeth - Thomas Memorial Library
+6 Scott Dyer Road
+Cape Elizabeth, ME" 70.0301829868288 -70.2292477 43.5956214
+"Brewster Ladies Library Assoc.
+1822 Main Street
+Brewster, MA" 70.774391666815 -70.0854995 41.7585241
+"Bridgewater Public Library
+15 South St.
+Bridgewater, MA" 70.774391666815 -70.9772734 41.9884534
+"Brower Park Library
+725 St. Marks Ave. At Nostrand Ave.
+Brooklyn, NY" 70.8796019812167 -73.9485709 40.6753677
+"Brownsville Library
+61 Glenmore Ave. At Watkins St.
+Brooklyn, NY" 70.8796019812167 -73.9083882 40.6713447
+"Jackman Public Library
+604 Main Street
+Jackman, ME" 71.7069722021207 -70.3365276 45.7753117
+"Jefferson Public Library
+48 Washington Road
+Jefferson, ME" 71.7069722021207 -69.4546915 44.2041022
+"Castleton Public Library
+85 South Main Street
+Castleton, NY" 72.0736686156596 -73.2646076 43.5800841
+"Stewart B. Lang Memorial Library
+2577 East Main Street
+Cato, NY" 72.0736686156596 -76.570059 43.16913
+"Mermentau Branch
+107 Second St.
+Mermentau, LA" 72.0965054462001 -92.5860951 30.1907134
+"Merryville West Branch
+120 Heard Street
+Merryville, LA" 72.0965054462001 -93.5414927 30.7578531
+"North Carroll Branch
+2255 Hanover Pike
+Greenmount, MD" 72.2237898931606 -76.8648035 39.6376695
+"North County Branch
+101 Cedar Lane
+Greensboro, MD" 72.2237898931606 -75.8190187 38.9975908
+"East Brookfield Public Library
+122 Connie Mack Drive
+East Brookfield, MA" 72.6635849190649 -72.0518644 42.2253003
+"Jacob Sears Memorial Library
+23 Center St.
+East Dennis, MA" 72.6635849190649 -70.1532677 41.6701704
+"Parks Branch
+1012 Martin Street
+Parks, LA" 72.8091193010034 -91.8330254 30.2138
+"Patterson Branch
+1108 First Street
+Patterson, LA" 72.8091193010034 -91.3036267 29.693483
+"Poolesville Branch Library
+19633 Fisher Ave.
+Poolesville, MD" 72.9105618673894 -77.410304 39.1435391
+"Cecil County Public Library - Port Deposit
+13 South Main Street
+Port Deposit, MD" 72.9105618673894 -76.1149309 39.6043998
+"East Falmouth Branch Library
+310 East Falmouth Highway
+East Falmouth, MA" 72.9813884645811 -70.5623507 41.5793211
+"James White Memorial Library
+5 Washburn Road
+East Freetown, MA" 72.9813884645811 -70.9593585 41.7744533
+"Berkley Public Library
+3 North Main Street
+Berkley, MA" 73.5788955167663 -71.0824392 41.8469347
+"Berlin Public Library
+23 Carter Street
+Berlin, MA" 73.5788955167663 -71.6357649 42.3829378
+"Edgewater Branch
+25 Stepneys Lane
+Edgewater, MD" 74.2348026177105 -76.5582571 38.9301374
+"Edgewood Branch Library
+629 Edgewood Road
+Edgewood, MD" 74.2348026177105 -76.2988348 39.4265616
+"Monson Public Library
+10 Tenney Hill Road
+Monson, ME" 75.0270748857378 -69.5017143 45.2814971
+"Somesville Library Association
+116 Main Street
+Mount Desert, ME" 75.0270748857378 -68.2408655 44.3019243
+"Milbridge Public Library
+22 School Street
+Milbridge, ME" 75.0779603258074 -67.881761 44.5388839
+"Millinocket Memorial Library
+5 Maine Avenue
+Millinocket, ME" 75.0779603258074 -68.711386 45.6562185
+"Reserve Branch
+170 West 10th Street
+Reserve, LA" 75.2692533518635 -90.5637487 30.058037
+"South Bienville Ringold Branch
+2078 Hall Street
+Ringgold, LA" 75.2692533518635 -93.2884254 32.3291757
+"Mattawamkeag Public Library
+327 Main Street
+Mattawamkeag, ME" 75.9662736988575 -68.3540379 45.5174935
+"Mechanic Falls Public Library
+15 Elm Street
+Mechanic Falls, ME" 75.9662736988575 -70.390764 44.1108092
+"Cumston Public Library
+796 Main Street
+Monmouth, ME" 75.9805772178557 -70.0340128 44.2410194
+"Monroe Community Library
+8 Swan Lake Avenue
+Monroe, ME" 75.9805772178557 -69.0181309 44.6148724
+"Shaw Public Library - Mercer
+77 Main Street
+Mercer, ME" 76.1301485742129 -69.9369535 44.6776932
+"Mexico Free Public Library
+134 Main Street
+Mexico, ME" 76.1301485742129 -70.5411162 44.5559869
+"Wiscasset Public Library
+21 High Street
+Wiscasset, ME" 76.4817454500503 -69.6679577 44.0032503
+"Merrill Memorial Library
+215 Main Street
+Yarmouth, ME" 76.4817454500503 -70.1871571 43.8012694
+"Queens Borough Public Library - Broad Channel
+16-26 Cross Bay Boulevard
+Broad Channel, NY" 77.1979151351518 -73.8200546 40.6007441
+"Seymour Library
+161 East Ave
+Brockport, NY" 77.1979151351518 -77.9294635 43.2207349
+"Wimodaughsian Free Library
+19 West Main Street
+Canisteo, NY" 77.5438471407809 -77.606746 42.270969
+"Canton Free Library
+8 Park Street
+Canton, NY" 77.5438471407809 -75.169149 44.594969
+"Belding Memorial Library
+244 Main St.
+Ashfield, MA" 77.5910559772705 -72.797847 42.526898
+"Ashland Public Library
+66 Front St.
+Ashland, MA" 77.5910559772705 -71.463236 42.260802
+"East Branch Library
+54 Kingman Street
+Brockton, MA" 77.5989691331446 -71.0012961 42.082409
+"West Branch Library
+540 Forest Avenue
+Brockton, MA" 77.5989691331446 -71.0428913 42.0710435
+"Northwood Branch
+4420 Loch Raven Boulevard
+Baltimore, MD" 77.7680014891159 -76.5925919 39.3455169
+"Orleans Street Branch
+1303 Orleans Street
+Baltimore, MD" 77.7680014891159 -76.5991795 39.2946989
+"Phillips Public Library
+96 Main Street
+Phillips, ME" 78.6306966391172 -70.3446854 44.8244481
+"Albert F. Totman Library
+28 Parker Head Road
+Phippsburg, ME" 78.6306966391172 -69.812728 43.8202489
+"Madison Public Library
+12 Old Point Avenue
+Madison, ME" 79.147695808285 -69.8800157 44.7966781
+"Walter T. A. Hansen Memorial Library
+10 Hansen Street
+Mars Hill, ME" 79.147695808285 -67.8687588 46.5133676
+"Sabine Parish
+705 Main Street
+Many, LA" 79.8110400390895 -93.4840844 31.5677655
+"Toledo Branch
+12224 Texas Highway
+Many, LA" 79.8110400390895 -93.6596038 31.4949391
+"Pelham Bay Library
+3060 Middletown Road
+Bronx, NY" 80.2269556398164 -73.8278998 40.8442803
+"Riverdale Library
+5540 Mosholu Avenue
+Bronx, NY" 80.2269556398164 -73.9028283 40.9037238
+"Winterport Memorial Library
+229 Main Street
+Winterport, ME" 80.6636424371219 -68.847258 44.6346991
+"Bailey Public Library
+39 Bowdoin Street
+Winthrop, ME" 80.6636424371219 -69.9729319 44.3080273
+"Milo Free Public Library
+4 Pleasant Street
+Milo, ME" 80.8459409785478 -68.9858034 45.2535841
+"Monhegan Memorial Library
+1 Library Lane
+Monhegan Island, ME" 80.8459409785478 -69.3182507 43.7649924
+"Kent County Public Library
+408 High Street
+Chestertown, MD" 80.9861053912243 -76.0690761 39.2110727
+"Chevy Chase Branch Library
+8005 Connecticut Ave.
+Chevy Chase, MD" 80.9861053912243 -77.0765884 38.9911721
+"Southwest Harbor Public Library
+338 Main Street
+Southwest Harbor, ME" 81.2469302642831 -68.3264909 44.2800548
+"Springvale Public Library
+443 Main Street
+Springvale, ME" 81.2469302642831 -70.7986679 43.4668666
+"Long Lake Public Library
+384 Main Street
+St. Agatha, ME" 81.2469302642831 -68.3129651 47.2423119
+"Standish - Richville Library
+743 Richville Road
+Standish, ME" 81.2469302642831 -70.5695886 43.7984646
+"Homecrest Library
+2525 Coney Island Ave. At Ave. V
+Brooklyn, NY" 81.6844040251639 -73.9605949 40.595231
+"Jamaica Bay Library
+9727 Seaview Ave. At E. 98th St.
+Brooklyn, NY" 81.6844040251639 -73.889304 40.6344877
+"Marilyn J. Praisner Library (Fairland)
+14910 Old Columbia Pik
+Burtonsville, MD" 81.6929728564459 -76.9407277 39.1022296
+"Dorchester County Public Library
+303 Gay Street
+Cambridge, MD" 81.6929728564459 -76.0760586 38.5711822
+"Altamont Free Library
+105 Park Street
+Altamont, NY" 81.7942929187862 -74.0318502 42.7013037
+"Altona Reading Center
+3124 Rt. 191
+Altona, NY" 81.7942929187862 -73.5494112 44.895915
+"Ewell School
+20910 Caleb Jones Road
+Ewell, MD" 82.3288238608215 -76.03091 37.99518
+"Prince Georges County Memorial Library - Fairmount Heights
+5904 Kolb St.
+Fairmount Heights, MD" 82.3288238608215 -76.9146738 38.90317
+"Fallston Branch Library
+1461 Fallston Road
+Fallston, MD" 82.3288238608215 -76.4267402 39.5253409
+"Federalsburg Branch
+123 Morris Avenue
+Federalsburg, MD" 82.3288238608215 -75.7763684 38.6950457
+"Twinbrook Branch Library
+202 Meadow Hall Drive
+Rockville, MD" 82.8130476001368 -77.1134829 39.0751326
+"Wicomico Public Library
+122 South Division Street
+Salisbury, MD" 82.8130476001368 -75.6025363 38.3636232
+"Emmitsburg Branch Library
+300 South Seton Avenue
+Emmitsburg, MD" 82.8509021690905 -77.3285457 39.7016481
+"Essex Library
+1110 Eastern Blvd.
+Essex, MD" 82.8509021690905 -76.463317 39.3152394
+"Corinth Free Library
+89 Main Street
+Corinth, NY" 82.8641910934646 -73.834009 43.248254
+"Southeast Steuben County Library
+300 Civic Center Plaza Suite 101
+Corning, NY" 82.8641910934646 -77.0471363 42.1422215
+"Waterville Public Library
+73 Elm Street
+Waterville, ME" 83.2249829478431 -69.6319408 44.5512877
+"Cary Memorial Library-Wayne
+17 Old Winthrop Road
+Wayne, ME" 83.2249829478431 -70.065804 44.3472124
+"Prince Georges County Memorial Library - Hillcrest Heights
+2398 Iverson St.
+Temple Hills, MD" 84.3532228154174 -76.9572023 38.8352344
+"Thurmont Branch Library
+11 Water Street
+Thurmont, MD" 84.3532228154174 -77.411847 39.6234207
+"Coolidge Corner Branch Library
+31 Pleasant Street
+Brookline, MA" 84.8601690080365 -71.1191813 42.3435468
+"Buckland Public Library
+30 Upper St.
+Buckland, MA" 84.8601690080365 -72.7911684 42.5921846
+"Worcester County Library - Pocomoke City
+301 Market St.
+Pocomoke City, MD" 85.3049574260807 -75.5662444 38.0741289
+"Edward F. Fry Memorial Library At Point Of Rocks
+1635 Ballenger Creek Pike
+Point Of Rocks, MD" 85.3049574260807 -77.5383288 39.2778792
+"Catskill Public Library
+1 Franklin Street
+Catskill, NY" 85.6538808637471 -73.8643357 42.2178806
+"Cattaraugus Free Library
+21 Main Street
+Cattaraugus, NY" 85.6538808637471 -78.868947 42.329659
+"Falmouth Memorial Library
+5 Lunt Road
+Falmouth, ME" 85.6969002623732 -70.2360144 43.7233212
+"Farmington Public Library
+117 Academy Street
+Farmington, ME" 85.6969002623732 -70.1482166 44.6694082
+"Shaw Public Library - Greenville
+9 Lily Bay Road
+Greenville, ME" 85.7140486584294 -69.5913795 45.4594991
+"Guilford Memorial Library
+4 Library Street
+Guilford, ME" 85.7140486584294 -69.3830878 45.1706531
+"Saratoga Library
+8 Thomas S. Boyland St. At Macon St.
+Brooklyn, NY" 85.962570501889 -73.9151493 40.6848011
+"Sheepshead Bay Library
+2636 E.14th St. At Ave. Z
+Brooklyn, NY" 85.962570501889 -73.9554271 40.5869957
+"Vinalhaven Public Library
+6 Carver Street
+Vinalhaven, ME" 86.151873256918 -68.8308415 44.0494231
+"Waldoboro Public Library
+958 Main Street
+Waldoboro, ME" 86.151873256918 -69.374191 44.0968469
+"Dedham Public Library
+43 Church St.
+Dedham, MA" 86.7955280498518 -71.1762307 42.2478174
+"Endicott Branch Library
+257 Mount Vernon Street
+Dedham, MA" 86.7955280498518 -71.1608237 42.2399589
+"Ogunquit Memorial Library
+166 Shore Road
+Ogunquit, ME" 87.0185539147017 -70.5966739 43.243953
+"Libby Memorial Library
+27 Staples Street
+Old Orchard Beach, ME" 87.0185539147017 -70.3766643 43.5156919
+"Gloucester Lyceum Sawyer Free Lib
+2 Dale Ave.
+Gloucester, MA" 87.1589846273829 -70.663459 42.613696
+"Goshen Free Public Library
+42 Main Street
+Goshen, MA" 87.1589846273829 -72.7999198 42.4414486
+"Provinces Branch
+2624 Annapolis Road
+Severn, MD" 87.1638495081172 -76.737116 39.13104
+"Severna Park Area Branch
+45 Mckinsey Road
+Severna Park, MD" 87.1638495081172 -76.5403536 39.0760866
+"Cornwall Public Library
+395 Hudson Street
+Cornwall, NY" 87.2238045933557 -74.0259704 41.4418178
+"Queens Borough Public Library - Corona
+38-23 104 Street
+Corona, NY" 87.2238045933557 -73.8621719 40.7508253
+"White Marsh Library
+8133 Sandpiper Circle
+Baltimore, MD" 87.67606319074 -76.4705353 39.3718839
+"Woodlawn Library
+1811 Woodlawn Dr.
+Baltimore, MD" 87.67606319074 -76.7366155 39.3166938
+"Weld Public Library
+25 Church Street
+Weld, ME" 88.5451056804769 -70.4229253 44.6999189
+"Wells Public Library
+1434 Post Road
+Wells, ME" 88.5451056804769 -70.5833807 43.3184116
+"South Berwick Public Library
+37 Portland St.
+South Berwick, ME" 88.550431515215 -70.8086223 43.234965
+"Rutherford Library
+2000 State Route 129
+South Bristol, ME" 88.550431515215 -69.5590782 43.8674556
+"Grantsville Branch Library
+102 Parkside Dr.
+Grantsville, MD" 88.5766114286047 -79.1560499 39.700376
+"Prince Georges County Memorial Library - Greenbelt
+11 Crescent Road
+Greenbelt, MD" 88.5766114286047 -76.8793572 39.0007782
+"Duxbury Free Library
+77 Alden Street
+Duxbury, MA" 88.5906420868758 -70.6831176 42.0467518
+"East Boston Branch Library
+276 Meridian Street
+East Boston, MA" 88.5906420868758 -71.0391542 42.3764452
+"Loch Raven Mini Library
+1046 Taylor Avenue
+Towson, MD" 89.1066098220384 -76.5731998 39.3843812
+"Towson Library
+320 York Rd.
+Towson, MD" 89.1066098220384 -76.6024626 39.39889
+"Fayetteville Free Library
+300 Orchard Street
+Fayetteville, NY" 89.3111089377899 -76.0068632 43.025735
+"Wide Awake Club Library
+46 West Main St.
+Fillmore, NY" 89.3111089377899 -78.1135869 42.4660025
+"Blue Hill Library
+5 Parker Point Road
+Blue Hill, ME" 90.0611400903977 -68.5900689 44.4118843
+"Boothbay Harbor Memorial Library
+4 Oak Street
+Boothbay Harbor, ME" 90.0611400903977 -69.6284555 43.8516839
+"Riviera Beach Branch
+1130 Duvall Highway
+Pasadena, MD" 90.1007322108401 -76.526109 39.145152
+"Cecil County Public Library - Perryville
+500 Coudon Blvd.
+Perryville, MD" 90.1007322108401 -76.065001 39.569079
+"Prince Georges County Memorial Library - Oxon Hill
+6200 Oxon Hill Rd.
+Oxon Hill, MD" 90.1159854127447 -76.9838447 38.803491
+"Mountain Road Branch
+4730 Mountain Road
+Pasadena, MD" 90.1159854127447 -76.4774294 39.1058942
+"Acton Memorial Library
+486 Main St.
+Acton, MA" 90.4993551026764 -71.4333826 42.4866239
+"W. Acton Citizens Library
+21 Windsor Ave.
+Acton, MA" 90.4993551026764 -71.4736029 42.475311
+"Wood Library Association
+134 North Main Street
+Canandaigua, NY" 90.8293130125404 -77.2852406 42.891726
+"Essential Club Free Library
+11 Pratt Street
+Canaseraga, NY" 90.8293130125404 -77.776193 42.461932
+"North Park Branch Library
+975 Hertel Avenue
+Buffalo, NY" 91.436382443716 -78.8720757 42.9473424
+"Riverside Branch Library
+820 Tonawanda Street
+Buffalo, NY" 91.436382443716 -78.9047865 42.9508785
+"Bolton Public Library
+738 Main St.
+Bolton, MA" 91.6678880295047 -71.611832 42.434637
+"Boston Public Library
+700 Boylston Street
+Boston, MA" 91.6678880295047 -71.0788285 42.3494163
+"Horticultural Alliance Library
+843 Sag Harbor Tpke
+Bridgehampton, NY" 91.9903643823135 -72.298687 40.95998
+"The Hampton Library
+2478 Main Street
+Bridgehampton, NY" 91.9903643823135 -72.3021696 40.9374016
+"Queens Borough Public Library - Arverne
+312 Beach 54 Street
+Arverne, NY" 92.0510319318773 -73.7840725 40.5931314
+"Ashville Free Library
+2200 North Maple Street
+Ashville, NY" 92.0510319318773 -79.374839 42.095529
+"East End Branch Library
+1386 Pleasant Street
+Fall River, MA" 92.1306238939537 -71.1344708 41.6910546
+"Fall River Public Library
+104 North Main St.
+Fall River, MA" 92.1306238939537 -71.1555122 41.7034394
+"Brentwood Public Library
+34 Second Avenue
+Brentwood, NY" 92.2442382643353 -73.2482044 40.7778547
+"Brewster Public Library
+79 Main Street
+Brewster, NY" 92.2442382643353 -73.6170243 41.3942138
+"South Branch Library
+1310 South Main Street
+Fall River, MA" 92.6660534795968 -71.1694511 41.687936
+"Falmouth Public Library
+15 Carlson Lane
+Falmouth, MA" 92.6660534795968 -70.6201878 41.5702703
+"T.O.H.P. Burnham Free Library
+30 Martin St.
+Essex, MA" 92.9471754575732 -70.7863297 42.6294761
+"Parlin Memorial Library
+410 Broadway
+Everett, MA" 92.9471754575732 -71.0568033 42.4060122
+"North Caddo Branch
+615 N. Pine Street
+Vivian, LA" 92.9809132374136 -93.9851724 32.8751664
+"Live Oak Branch
+125 Acadia Drive
+Waggaman, LA" 92.9809132374136 -90.236886 29.955659
+"North Haven Public Library
+33 Main Street
+North Haven, ME" 93.4559944779026 -68.8723933 44.1276606
+"Jay-Niles Memorial Library
+983 Main Street
+North Jay, ME" 93.4559944779026 -70.2378556 44.5479554
+"Town Square Library
+1 Sabattus Mall
+Sabattus, ME" 93.5941588671993 -70.1157783 44.109568
+"Dyer Library
+371 Main Street
+Saco, ME" 93.5941588671993 -70.4417365 43.5013048
+"Orient Heights Branch Library
+18 Barnes Avenue
+East Boston, MA" 93.6032928852098 -71.0059729 42.3860571
+"East Bridgewater Public Library
+32 Union St.
+East Bridgewater, MA" 93.6032928852098 -70.959048 42.0338132
+"Swans Island Public Library
+451 Atlantic Road
+Swans Island, ME" 93.642669700803 -68.4087776 44.1684885
+"Jackson Memorial Library
+38 Main Street
+Tenants Harbor, ME" 93.642669700803 -69.2106573 43.9659047
+"Five Corners Library
+670 Depot Street
+Easton, MA" 93.9704101772379 -71.1165577 42.0265303
+"Edgartown Free Public Library
+58 North Water St.
+Edgartown, MA" 93.9704101772379 -70.510931 41.3902619
+"Putterham Branch Library
+959 West Roxbury Parkway
+Chestnut Hill, MA" 94.1022729906334 -71.1501187 42.3025015
+"Aldenville Branch Library
+527 Grattan Street
+Chicopee, MA" 94.1022729906334 -72.5961409 42.170236
+"Sargentville Library Assn
+653 Reach Road
+Sargentville, ME" 94.3335267732358 -68.6696818 44.3004065
+"Scarborough Public Library
+48 Gorham Road
+Scarborough, ME" 94.3335267732358 -70.3372825 43.5969591
+"Florida Free Public Library
+56 North County Road
+Florida, MA" 94.3396622217102 -73.0322656 42.6929587
+"Boyden Library
+10 Bird St.
+Foxborough, MA" 94.3396622217102 -71.2505411 42.0660746
+"Burlington Public Library
+22 Sears Street
+Burlington, MA" 94.3590956193857 -71.1922734 42.5059752
+"Cambridge Public Library
+449 Broadway
+Cambridge, MA" 94.3590956193857 -71.1115872 42.3735163
+"Spaulding Memorial Library
+282 Sebago Road
+Sebago, ME" 94.3606677604002 -70.6388176 43.8547516
+"Sedgwick Library Assn
+45 Main Street
+Sedgwick, ME" 94.3606677604002 -68.6160082 44.303913
+"Fitchburg Public Library
+610 Main St.
+Fitchburg, MA" 94.5381672370425 -71.8019467 42.5832687
+"Lilly Library
+19 Meadow St.
+Florence, MA" 94.5381672370425 -72.6741526 42.3355654
+"Erving Center Branch
+12 E. Main St.
+Erving, MA" 94.6777031615745 -72.3953223 42.5995396
+"Erving Public Library
+17 Moore St.
+Erving, MA" 94.6777031615745 -72.491006 42.583804
+"Queens Borough Public Library - Poppenhusen
+121-23 14 Avenue
+College Point, NY" 94.7920088639632 -73.845983 40.7862393
+"Collins Public Library
+2341 Main Street
+Collins, NY" 94.7920088639632 -78.919258 42.496057
+"Pearle L. Crawford Memorial Library
+1 Village Street
+Dudley, MA" 95.4328265060062 -71.890429 42.0478973
+"Dunstable Free Public Library
+588 Main St.
+Dunstable, MA" 95.4328265060062 -71.487463 42.674469
+"Eastham Public Library
+190 Samoset Road
+Eastham, MA" 95.5288018575083 -69.9777887 41.8303334
+"Emily Williston Memorial Library
+9 Park St.
+Easthampton, MA" 95.5288018575083 -72.674346 42.268443
+"Brownville Public Library
+27 Church Street
+Brownville, ME" 95.8074584144067 -69.0332 45.306642
+"Curtis Memorial Library
+23 Pleasant Street
+Brunswick, ME" 95.8074584144067 -69.9671948 43.9135043
+"Queens Borough Public Library - Astoria
+14-01 Astoria Boulevard
+Astoria, NY" 96.1957953130571 -73.928729 40.772379
+"Queens Borough Public Library - Steinway
+21-45 31 Street
+Astoria, NY" 96.1957953130571 -73.9096802 40.7769984
+"Jesup Memorial Library
+34 Mount Desert Street
+Bar Harbor, ME" 96.6376602044171 -68.2066178 44.3867797
+"Berry Memorial Library
+93 Main Street
+Bar Mills, ME" 96.6376602044171 -70.543089 43.612614
+"Dr.Shaw Memorial Library
+344 Pond Road
+Mount Vernon, ME" 96.6616782664068 -69.9875817 44.5020032
+"Naples Public Library
+940 Roosevelt Trail
+Naples, ME" 96.6616782664068 -70.6069671 43.969953
+"Parkville-Carney Library
+9509 Harford Rd.
+Baltimore, MD" 96.7078002741284 -76.5251194 39.3934414
+"Patterson Park Branch
+158 N. Linwood Avenue
+Baltimore, MD" 96.7078002741284 -76.5767264 39.294847
+"Sunset Park Library
+5108 4th Ave. At 51st St.
+Brooklyn, NY" 96.9096946065579 -74.0136641 40.6459186
+"Ulmer Park Library
+2602 Bath Ave At 26th Ave
+Brooklyn, NY" 96.9096946065579 -73.9886539 40.5926353
+"Bremen Public Library
+204 Waldoboro Rd
+Bremen, ME" 97.3180116561509 -69.4153042 44.0367226
+"Brewer Public Library
+100 South Main Street
+Brewer, ME" 97.3180116561509 -68.7673128 44.7925328
+"Brighton Branch Library
+40 Academy Hill Road
+Brighton, MA" 97.3292207812543 -71.1527074 42.34759
+"Faneuil Branch Library
+419 Faneuil Street
+Brighton, MA" 97.3292207812543 -71.1678814 42.3513618
+"Jim Ditzler Memorial Library
+37 Library Road
+New Sharon, ME" 97.3642801355253 -70.0154885 44.6393784
+"New Vineyard Public Library
+20 Lake Street
+New Vineyard, ME" 97.3642801355253 -70.1470463 44.8023082
+"Fairview Branch Library
+373 Britton Street
+Chicopee, MA" 97.5299875547723 -72.5745039 42.2086552
+"Chilmark Free Public Library
+522 South Rd.
+Chilmark, MA" 97.5299875547723 -70.743523 41.342424
+"Clarksburg Town Library
+711 West Cross Road
+Clarksburg, MA" 97.5991420370399 -73.097623 42.7202847
+"Bigelow Free Public Library
+54 Walnut St.
+Clinton, MA" 97.5991420370399 -71.6833831 42.41741
+"Mayhew Library Assn
+290 Water Street
+Addison, ME" 98.2857592717783 -67.742258 44.6229337
+"Albion Public Library
+18 Main Street
+Albion, ME" 98.2857592717783 -69.4406589 44.5324276
+"Williamsburgh Library
+240 Division Ave. At Marcy Ave.
+Brooklyn, NY" 98.3943302149932 -73.9575752 40.7069161
+"Windsor Terrace Library
+160 E. 5th St. At Ft. Hamilton Pkwy.
+Brooklyn, NY" 98.3943302149932 -73.9767736 40.6487139
+"Evangeline Parish
+242 West Main Street
+Ville Platte, LA" 98.4230051038966 -92.2765108 30.6892487
+"Fontenot Memorial Branch
+1402 Center Street
+Vinton, LA" 98.4230051038966 -93.5799831 30.1909087
+"Shute Memorial Library
+781 Broadway
+Everett, MA" 98.6015801026253 -71.0465397 42.4166969
+"Millicent Library
+45 Center St.
+Fairhaven, MA" 98.6015801026253 -70.9033893 41.635698
+"New Gloucester Public Library
+379 Intervale Road
+New Gloucester, ME" 98.6446149899134 -70.2826795 43.964225
+"New Portland Community Library
+899 River Road
+New Portland, ME" 98.6446149899134 -70.0941229 44.8851832
+"Crane Branch Library
+633 Elmwood Avenue
+Buffalo, NY" 99.2363901826653 -78.8767231 42.9143765
+"Dudley Branch Library
+2010 South Park Avenue
+Buffalo, NY" 99.2363901826653 -78.8234187 42.8439741
+"Cuttyhunk Public Library
+19 Tower Hill Road
+Cuttyhunk, MA" 99.2605851275294 -70.9324581 41.4210339
+"Dalton Free Public Library
+462 Main Street
+Dalton, MA" 99.2605851275294 -73.169636 42.4729079
+"Eastport-Annapolis Neck Branch
+269 Hillsmere Drive
+Annapolis, MD" 99.4201779375987 -76.4930899 38.9478308
+"Arbutus Library
+1581 Sulphur Spring Rd., Suite 105
+Baltimore, MD" 99.4201779375987 -76.6866024 39.2481167
+"Franklin Parish Library
+705 Prairie Street
+Winnsboro, LA" 99.7676362330565 -91.7186345 32.164362
+"Wisner Branch
+129 Fort Scott St.
+Wisner, LA" 99.7676362330565 -91.6556797 31.9804487
+"Hepburn Library
+84 Main Street
+Colton, NY" 99.9212462676078 -74.938913 44.552947
+"Commack Public Library District
+18 Hauppauge Road
+Commack, NY" 99.9212462676078 -73.2937473 40.8289636

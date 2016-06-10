@@ -1,0 +1,5599 @@
+"location" "miles" "latitude" "longitude"
+"Oliver Springs Public Library
+610 Walker Avenue.
+Oliver Springs, TN" 0.32814960135249 -84.345135 36.044876
+"Oneida Public Library
+290 South Main St.
+Oneida, TN" 0.32814960135249 -84.5133828 36.5044549
+"Hillsboro City Library
+118 S Waco St
+Hillsboro, TX" 3.78575243461905 -97.13042 32.0098089
+"Genevieve Miller Hitchcock Public Library
+8005 Barry Ave
+Hitchcock, TX" 3.78575243461905 -95.0202 29.347453
+"Benbrook Public Library
+1065 Mercedes St
+Benbrook, TX" 4.1908543307948 -97.4511692 32.6792141
+"Reagan County Library
+300 Courthouse Sq
+Big Lake, TX" 4.1908543307948 -101.4611676 31.1925565
+"Austin Public Library - Carver Branch
+1161 Angelina St., 78702
+Austin, TX" 4.4521508342962 -97.7240278 30.2695584
+"Austin Public Library - Cepeda Branch
+651 N. Pleasant Valley Rd.
+Austin, TX" 4.4521508342962 -97.7088905 30.2590471
+"Stella Hill Memorial Library
+200 W San Antonio St
+Alto, TX" 4.69163545715892 -95.0718025 31.6510051
+"Alvarado Public Library
+210 N Baugh St
+Alvarado, TX" 4.69163545715892 -97.2082102 32.4085864
+"Sharon Public Library
+133 Main St.
+Sharon, TN" 4.91778299861015 -88.8257496 36.2337066
+"Argie Cooper Public Library
+100 S. Main Street
+Shelbyville, TN" 4.91778299861015 -86.460377 35.482029
+"Bj Hill Library
+402 W Travis St
+Holland, TX" 5.52845564624984 -97.4069742 30.8799218
+"Hondo Public Library
+1011 19th St
+Hondo, TX" 5.52845564624984 -99.1058772 29.3491959
+"Howard County Library
+500 S Main St
+Big Spring, TX" 6.26785657316217 -101.4759302 32.2500205
+"Bishop Public Library
+115 S. Ash Streeet
+Bishop, TX" 6.26785657316217 -97.8001454 27.5840112
+"Cornwall Free Public
+2629 Rte. 30
+Cornwall, VT" 6.47120379095776 -73.2094614 43.9612813
+"Craftsbury Public
+12 Church Lane
+Craftsbury Common, VT" 6.47120379095776 -72.3835158 44.6543934
+"Mary L. Blood Memorial
+41 Brownsville Hartland Rd.
+Brownsville, VT" 7.66804686875796 -72.471428 43.468433
+"Fletcher Free
+235 College St.
+Burlington, VT" 7.66804686875796 -73.2103291 44.4768628
+"Cherokee Branch Library
+3300 Sharpe
+Memphis, TN" 7.77928147949943 -89.9530419 35.0870734
+"Cornelia Crenshaw Branch
+531 Vance Avenue
+Memphis, TN" 7.77928147949943 -90.0443338 35.1343568
+"Castleton Free
+p.o. box 296
+Castleton, VT" 7.88057010457476 -73.179832 43.6106223
+"Charlotte
+115 Ferry Rd.
+Charlotte, VT" 7.88057010457476 -73.249382 44.310692
+"Monroe Public Library
+55 North Main Street
+Monroe, UT" 7.97118648472489 -112.1214006 38.6328366
+"San Juan County Bookmobile Library
+835 E Highway 666
+Monticello, UT" 7.97118648472489 -109.3428948 37.8713829
+"Mt. Carmel Library
+100 1-2 Main Street
+Mt. Carmel (In), TN" 8.13103700230249 -82.6549251 36.5454237
+"Mt. Juliet-Harvey Freeman Public Library
+2765 N. Mt. Juliet Rd.
+Mt. Juliet, TN" 8.13103700230249 -86.5159003 36.2083916
+"Austin Public Library - Recycled Reads Bookstore
+5335 Burnet Rd.
+Austin, TX" 8.21840289543749 -97.7393012 30.3270694
+"Austin Public Library - Ruiz Branch
+1600 Grove Blvd.
+Austin, TX" 8.21840289543749 -97.7070109 30.2298616
+"Portland Public Library
+301 Portland Boulevard
+Portland, TN" 8.44685628862593 -86.5090536 36.582416
+"Giles County Public Library
+122 South Second Street
+Pulaski, TN" 8.44685628862593 -87.0320598 35.1987092
+"Petros Public Library
+208 Main Street
+Petros, TN" 8.49926845934836 -84.443362 36.095473
+"Philadelphia Public Library
+714 Thompson St.
+Philadelphia, TN" 8.49926845934836 -84.4040048 35.678304
+"Garland Public Library
+86 West Factory Rd
+Garland, UT" 8.7025748386463 -112.161525 41.7410778
+"Tooele County Bookmobile Library
+429 East Main Street
+Grantsville, UT" 8.7025748386463 -112.4462697 40.6000785
+"Albany Town
+530 Main St.
+Albany, VT" 8.77455941542759 -72.3786052 44.735318
+"Alburgh Pubilc Library
+16 S. Main St.
+Alburgh, VT" 8.77455941542759 -73.301184 44.975271
+"Weber County Library - North Branch
+475 E 2600 N
+Ogden, UT" 8.99739585932472 -111.965529 41.3051935
+"Weber County Library - Pleasant Valley Branch
+5568 S Adams Ave.
+Ogden, UT" 8.99739585932472 -111.9694892 41.1666058
+"Sachse Public Library
+3815 Sachse Rd Bldg C
+Sachse, TX" 9.09541538823169 -96.5847726 32.9740705
+"John Ed Keeter Public Library
+355 W Mcleroy Blvd
+Saginaw, TX" 9.09541538823169 -97.370565 32.8580248
+"Johnson County Public Library
+219 N. Church Street
+Mountain City, TN" 9.099471615307 -81.803882 36.4758039
+"Mt. Pleasant Branch Library
+200 Hay Long Avenue
+Mt Pleasant, TN" 9.099471615307 -87.2080468 35.5348937
+"Davis County Library - South Branch (Bountiful)
+725 S Main St.
+Bountiful, UT" 9.21836744376006 -111.8800895 40.8818611
+"Brigham City Library
+26 East Forest Street
+Brigham City, UT" 9.21836744376006 -112.0146386 41.5106896
+"Pigeon Forge Public Library
+2449 Library Drive
+Pigeon Forge, TN" 9.34690226731364 -83.5809106 35.8070769
+"Bledsoe County Library
+478 Cumberland Avenue
+Pikeville, TN" 9.34690226731364 -85.1885266 35.6052506
+"Garfield County-Panguitch City Library
+25 South 200 East
+Panguitch, UT" 9.41585990441825 -112.4316854 37.8212322
+"Park City Library
+1255 Park Avenue
+Park City, UT" 9.41585990441825 -111.5031987 40.6507278
+"La Joya Municipal Library
+925 S Leo Ave
+La Joya, TX" 9.4872758438927 -98.4812656 26.2378856
+"La Marque Public Library
+1011 Bayou Rd
+La Marque, TX" 9.4872758438927 -94.9717591 29.3707331
+"Emery County Library - Orangeville Branch
+125 South Main
+Orangeville, UT" 9.60093961162687 -111.0531235 39.2259614
+"Orem Public Library
+58 North State Street
+Orem, UT" 9.60093961162687 -111.6946877 40.2986056
+"Boyce Ditto Public Library
+2300 Se Martin Luther King Jr St
+Mineral Wells, TX" 9.66717886677502 -98.0907167 32.8033327
+"Speer Memorial Library
+801 E 12th St
+Mission, TX" 9.66717886677502 -98.3163088 26.2174013
+"Lake Cities Library
+302 S Shady Shores Dr
+Lake Dallas, TX" 9.75272749761845 -97.0300292 33.1264021
+"Mary Lou Reddick Public Library
+3801 Adam Grubb
+Lake Worth, TX" 9.75272749761845 -97.4364249 32.8115886
+"East Shelby Branch
+7200 East Shelby Drive
+Memphis, TN" 9.86912723644528 -89.823277 35.02129
+"Frayser Branch
+3712 Argonne
+Memphis, TN" 9.86912723644528 -90.0014279 35.2267751
+"Richland Park Branch Library
+4711 Charlotte Avenue
+Nashville, TN" 9.90589286877407 -86.8436347 36.1521224
+"Thompson Lane Branch Library
+380 Thompson Lane
+Nashville, TN" 9.90589286877407 -86.7432676 36.1111019
+"Weber County Library
+2464 Jefferson Avenue
+Ogden, UT" 10.0737141053026 -111.9648366 41.2212961
+"Weber County Library - Law Library
+2464 Jefferson Ave.
+Ogden, UT" 10.0737141053026 -111.9648366 41.2212961
+"Swisher County Library
+127 Sw 2nd St
+Tulia, TX" 10.2199241349092 -101.765459 34.5353888
+"Turkey Public Library
+602 Lyles
+Turkey, TX" 10.2199241349092 -100.8938056 34.3906919
+"Stonewall County Library
+516 S Washington Ave
+Aspermont, TX" 10.2372785465534 -100.2288545 33.1386789
+"Henderson Cnty Clint W Murchison Memorial Library
+121 S Prairieville St
+Athens, TX" 10.2372785465534 -95.8547381 32.2035522
+"Anson Public Library
+1137 12th St
+Anson, TX" 10.2756441017839 -99.896841 32.755895
+"Ed And Hazel Richmond Public Library
+110 N Lamont St
+Aransas Pass, TX" 10.2756441017839 -97.1488901 27.9089728
+"Carbon County Bookmobile Library
+150 West Main Street (Rear)
+Wellington, UT" 10.3404436859726 -75.4618937 40.643846
+"Salt Lake County Library - Bingham Creek Library
+4834 West 9000 South
+West Jordan, UT" 10.3404436859726 -112.0060171 40.5885373
+"Cochran County Love Memorial Library
+318 S Main St
+Morton, TX" 10.3974348260507 -102.7592544 33.7230825
+"Mount Calm Public Library
+222 Allyn Ave
+Mount Calm, TX" 10.3974348260507 -96.8803323 31.7573461
+"Harrington Library Consortium
+413 E. Fourth Avenue
+Amarillo, TX" 10.462628040912 -101.8290725 35.2087347
+"Chambers County Library System
+202 Cummings St
+Anahuac, TX" 10.462628040912 -94.6852541 29.7708523
+"Harris County Public Library
+8080 El Rio St
+Houston, TX" 10.857363414984 -95.387936 29.688556
+"Houston Area Library System
+500 Mckinney Street Suite 400
+Houston, TX" 10.857363414984 -95.369953 29.759431
+"Hurst Public Library
+901 Precinct Line Rd
+Hurst, TX" 10.9597438996526 -97.187113 32.8262048
+"Hutchins-Atwell Public Library
+300 N Denton St
+Hutchins, TX" 10.9597438996526 -96.7163947 32.6480251
+"White Pine Public Library
+1708 Main St
+White Pine, TN" 11.0605990630582 -83.285821 36.108134
+"Lee Ola Roberts Library
+140 W. Main St.
+Whiteville, TN" 11.0605990630582 -89.1584026 35.3216952
+"Delta City Library
+76 North 200 West
+Delta, UT" 11.0610886158986 -112.5786985 39.3535899
+"Millard County Bookmobile Library
+90 North 200 West
+Delta, UT" 11.0610886158986 -112.5792057 39.3539176
+"Mcmullen Memorial Library
+900 N Main St
+Huntington, TX" 11.0848374724998 -94.5731416 31.2843153
+"Huntsville Public Library
+1216 14th St
+Huntsville, TX" 11.0848374724998 -95.5520143 30.7203724
+"Dawson County Public Library
+511 N 3rd St
+Lamesa, TX" 11.1300837956049 -101.9537542 32.7349907
+"Lampasas Public Library
+201 S Main St
+Lampasas, TX" 11.1300837956049 -98.1807159 31.0668934
+"Ward County Library
+409 S Dwight St
+Monahans, TX" 11.1495836458155 -102.8878356 31.5930195
+"Moody Community Library
+108 5th St
+Moody, TX" 11.1495836458155 -97.361512 31.309728
+"Tiptonville Public Library
+126 Tipton Street
+Tiptonville, TN" 11.3503058816002 -89.477671 36.379214
+"Mary E. Tippitt Memorial Library
+120 Tiger Drive
+Townsend, TN" 11.3503058816002 -83.7550809 35.6742461
+"Manti City Library
+02 South Main Street
+Manti, UT" 11.4015658004926 -111.6370285 39.2654151
+"Utah County Bookmobile Library
+125 West 400 North
+Mapleton, UT" 11.4015658004926 -111.5796215 40.1330602
+"New Braunfels Public Library
+700 E Common St
+New Braunfels, TX" 11.6139638165986 -98.1125179 29.7130354
+"New Waverly Public Library
+9372 State Hwy 75 S
+New Waverly, TX" 11.6139638165986 -95.485493 30.5332369
+"Westmoreland Public Library
+2305 Epperson Springs Road
+Westmoreland, TN" 11.6993465290593 -86.246746 36.563086
+"White House Inn Library
+412 Highway 76
+White House, TN" 11.6993465290593 -86.6611036 36.4688206
+"Alvord Public Library
+117 N Wickham St
+Alvord, TX" 11.7123646629644 -97.6948236 33.3590032
+"Amarillo Public Library
+413 E 4th Ave
+Amarillo, TX" 11.7123646629644 -101.8290725 35.2087347
+"Johnson City Library
+501 Nugent St
+Johnson City, TX" 11.7579586547993 -98.4116275 30.2817538
+"Jonestown Community Library
+18649 Fm 1431 Ste 10a
+Jonestown, TX" 11.7579586547993 -97.9233387 30.4928684
+"Raleigh Branch
+3157 Powers Road
+Memphis, TN" 11.786902951237 -89.9214377 35.2119526
+"Randolph Branch
+3752 Given
+Memphis, TN" 11.786902951237 -89.9352446 35.1563345
+"Blanche K Werner Public Library
+203 Prospect Dr
+Trinity, TX" 11.8492221817298 -95.3822539 30.9573191
+"Cameron-J Jarvis Troup Municipal Library
+102 S Georgia St
+Troup, TX" 11.8492221817298 -95.120434 32.1439
+"Davis County Library - Centerville Branch
+45 S. 400 W.
+Centerville, UT" 11.9518384187585 -111.8851026 40.9168345
+"Davis County Library - North Branch (Clearfield)
+562 S 1000 E
+Clearfield, UT" 11.9518384187585 -112.0075147 41.1056028
+"Price City Library
+159 East Main Street
+Price, UT" 11.9804043238947 -110.8080465 39.5999582
+"Cache County Bookmobile Library
+15 North Main Street
+Providence, UT" 11.9804043238947 -111.8177551 41.7084282
+"Olney Community Library And Arts Center
+807 W Hamilton St
+Olney, TX" 12.0396519219707 -98.7626781 33.3693929
+"Olton Area Library
+701 Main St
+Olton, TX" 12.0396519219707 -102.1349392 34.1821709
+"Depot Public Library
+120 E Chestnut St
+Throckmorton, TX" 12.2126770430794 -99.176964 33.1786418
+"Lucile Teague Library
+201 S Britton St Ste 2
+Tom Bean, TX" 12.2126770430794 -96.4845915 33.5192876
+"Jacksonville Public Library
+502 S Jackson St
+Jacksonville, TX" 12.4091317791438 -95.269153 31.961696
+"Jasper Public Library
+175 E Water St
+Jasper, TX" 12.4091317791438 -93.9996958 30.9196985
+"Andrews County Library
+109 Nw 1st St
+Andrews, TX" 12.4479058892149 -102.5482923 32.3190158
+"Brazoria County Library System
+451 N Velasco St Ste 250
+Angleton, TX" 12.4479058892149 -95.4329689 29.1679937
+"Atlanta Public Library
+101 W Hiram St
+Atlanta, TX" 12.5975760091702 -94.1655962 33.1150866
+"Aubrey Area Library
+226 Countryside
+Aubrey, TX" 12.5975760091702 -96.98913 33.290116
+"Castroville Public Library
+802 London St
+Castroville, TX" 12.6561281493738 -98.8797731 29.353134
+"Zula Bryant Wylie Library
+225 Cedar St
+Cedar Hill, TX" 12.6561281493738 -96.9501731 32.5890769
+"Mickey Reily Public Library
+604 S Mathews St
+Corrigan, TX" 12.7597612680307 -94.8246683 30.9898757
+"Corsicana Public Library
+100 N 12th St
+Corsicana, TX" 12.7597612680307 -96.4665975 32.09257
+"Payson City Library
+66 South Main Street
+Payson, UT" 12.7727402389557 -111.7325907 40.0430229
+"Pleasant Grove Public Library
+30 East Center Street
+Pleasant Grove, UT" 12.7727402389557 -111.7402038 40.3639048
+"Grace Grebing Public-School Library
+110 N Main
+Dell City, TX" 12.7944639713792 -105.201229 31.938282
+"Denison Public Library
+300 W Gandy St
+Denison, TX" 12.7944639713792 -96.538799 33.757153
+"Archer Public Library
+105 N Center
+Archer City, TX" 12.8867312395764 -98.6255685 33.5960586
+"Arlington Public Library System
+101 E Abram St
+Arlington, TX" 12.8867312395764 -97.1063497 32.7360371
+"Alexander Memorial Library
+201 Center St
+Cotulla, TX" 12.9318288240322 -99.2349507 28.4353163
+"Crandall-Combine Community Library
+13385 Fm 3039
+Crandall, TX" 12.9318288240322 -96.4615284 32.6149398
+"East Parker County Library
+201 N Fm 1187
+Aledo, TX" 12.9509118404198 -97.6037068 32.6989467
+"Alice Public Library
+401 E 3rd St
+Alice, TX" 12.9509118404198 -98.0733234 27.7531453
+"Provo City Library
+550 North University Avenue
+Provo, UT" 13.2327574634675 -111.6586231 40.2412942
+"Rich County Bookmobile Library
+5 North Main Street
+Randolph, UT" 13.2327574634675 -111.3228204 41.825689
+"Sergeant Fernando De La Rosa Memorial Library
+416 North Tower Road
+Alamo, TX" 13.3645515378656 -98.1100378 26.1862124
+"Shackelford County Library
+402 N 2nd St
+Albany, TX" 13.3645515378656 -99.296051 32.7274339
+"Kent County Library
+156 W 4th St
+Jayton, TX" 13.3921747031524 -100.574914 33.2480314
+"Jefferson Carnegie Library
+301 W Lafayette St
+Jefferson, TX" 13.3921747031524 -94.3472432 32.7559386
+"Springlake-Earth Community Library
+472 Farm To Market Road 302
+Springlake, TX" 13.8981127330905 -102.3579109 34.2614143
+"Springtown Public Library
+626 N Main St
+Springtown, TX" 13.8981127330905 -97.684934 32.9741335
+"Mcallen Memorial Library
+601 N Main St
+Mcallen, TX" 14.0367539944514 -98.2337442 26.2097252
+"Mcallen Memorial Library - Lark Branch Library And Community Center
+2601 Lark Ave.
+Mcallen, TX" 14.0367539944514 -98.2418672 26.2616747
+"Sweetwater Public Library
+210 Mayes Avenue
+Sweetwater, TN" 14.0631846373985 -84.461221 35.602617
+"Barbara Reynolds Carr Memorial Library
+1304 Old Knoxville Road
+Tazewell, TN" 14.0631846373985 -83.581273 36.449093
+"White County Public Library
+11 N. Church Street
+Sparta, TN" 14.0734632360931 -85.465368 35.926666
+"Burritt Memorial Library
+424 College Street
+Spencer, TN" 14.0734632360931 -85.4631405 35.7462516
+"Shepherd Public Library
+30 N Liberty St
+Shepherd, TX" 14.2011007152429 -94.997168 30.498498
+"Sheridan Memorial Library
+5805 S Logan Park Dr
+Sheridan, TX" 14.2011007152429 -96.670537 29.4935162
+"Austin Public Library - Southeast Austin Community Branch
+5803 Nuckols Crossing Rd.
+Austin, TX" 14.2770178873622 -97.7419319 30.1876256
+"Austin Public Library - Spicewood Springs Branch
+8637 Spicewood Springs Rd.
+Austin, TX" 14.2770178873622 -97.7730809 30.4337083
+"Gorham Macbane Public Library
+405 White Street
+Springfield, TN" 14.3635870681238 -86.89033 36.5108
+"Parrott-Wood Memorial Library
+3133 W. Old Andrew Johnson Hwy.
+Strawberry Plains, TN" 14.3635870681238 -83.685869 36.063007
+"Mathis Public Library
+103 Lamar St
+Mathis, TX" 14.4468563174876 -97.8165249 28.0856333
+"Maud Public Library
+132 Main St
+Maud, TX" 14.4468563174876 -94.3420675 33.3327074
+"W Walworth Harrison Public Library
+1 Lou Finney Blvd
+Greenville, TX" 14.4519728209775 -96.1075212 33.1223199
+"Maffett Memorial Library
+601 W Yeagua St
+Groesbeck, TX" 14.4519728209775 -96.5249308 31.5158203
+"Central Texas Library System, Inc
+1005 West 41st Street
+Austin, TX" 14.4523260069978 -97.7415032 30.3091326
+"Wells Branch Community Library
+15001 Wells Port Dr
+Austin, TX" 14.4523260069978 -97.6755865 30.4457273
+"Audrey Pack Memorial Library
+169 West Rhea Avenue
+Spring City, TN" 14.454499857821 -84.8618517 35.6942468
+"Spring Hill Public Library
+144 Kedron Parkway
+Spring Hill, TN" 14.454499857821 -86.9378254 35.7495784
+"Sunbright Public Library
+142 Melton Drive
+Sunbright, TN" 14.5252204136175 -84.6699442 36.2434093
+"Surgoinsville Public Library
+120 Old Stage Road
+Surgoinsville, TN" 14.5252204136175 -82.8533095 36.4699855
+"Childress Public Library
+117 Ave B Ne
+Childress, TX" 14.5471643981177 -100.2063632 34.4225704
+"Cisco Public Library
+600 Ave G
+Cisco, TX" 14.5471643981177 -98.9831854 32.3883866
+"Alamo Area Library System
+600 Soledad Street
+San Antonio, TX" 14.9254045106367 -98.4928305 29.4324141
+"San Antonio Public Library
+600 Soledad St
+San Antonio, TX" 14.9254045106367 -98.4928305 29.4324141
+"Seguin-Guadalupe County Public Library
+707 E College St
+Seguin, TX" 14.9512323797913 -97.957749 29.5741002
+"Gaines County Library
+704 Hobbs Hwy
+Seminole, TX" 14.9512323797913 -102.6561707 32.7202908
+"The Library At Cedar Creek Lake
+410 E Cedar Creek Pkwy
+Seven Points, TX" 14.9512323797913 -96.2060175 32.3232412
+"Baylor County Free Library
+101 S Washington St
+Seymour, TX" 14.9512323797913 -99.2610544 33.5873289
+"Groves Public Library
+5600 W Washington St
+Groves, TX" 15.0148083628917 -93.9244519 29.9429732
+"Groveton Public Library
+126 W First St
+Groveton, TX" 15.0148083628917 -95.1266741 31.0553424
+"Collingsworth Public Library
+711 15th St
+Wellington, TX" 15.0201481217816 -100.21612 34.84905
+"Rube Sessions Memorial Library
+298 Rusk Ave
+Wells, TX" 15.0201481217816 -94.9421291 31.489367
+"Shallowater School County Library
+1202 Ave L
+Shallowater, TX" 15.2908336625479 -101.992094 33.690356
+"Shamrock Public Library
+712 N Main St
+Shamrock, TX" 15.2908336625479 -100.2491503 35.2208328
+"Hyrum Library
+50 West Main Street
+Hyrum, UT" 15.2988511810955 -111.8565203 41.6344713
+"Summit County Library - Kamas Branch Library
+110 N. Main St
+Kamas, UT" 15.2988511810955 -111.2798954 40.6451852
+"City Of Presidio Library
+1200 E Oreilly St
+Presidio, TX" 15.3074828441071 -104.3563845 29.5607627
+"Princeton Community Library
+319 Mckinney Ave
+Princeton, TX" 15.3074828441071 -96.4973942 33.1809053
+"Leonard Public Library
+102 S Main St
+Leonard, TX" 15.3894416843626 -96.2475079 33.379951
+"Hockley County Memorial Library
+811 Austin St
+Levelland, TX" 15.3894416843626 -102.3767539 33.5862849
+"Ennis Public Library
+501 W Ennis Ave
+Ennis, TX" 15.4667727213365 -96.6311538 32.325361
+"Euless Public Library
+201 N Ector Dr
+Euless, TX" 15.4667727213365 -97.0931614 32.8391145
+"Salt Lake County Library - Columbus Library
+2530 South 500 East
+South Salt Lake City, UT" 15.4780702504752 -111.8780858 40.7154705
+"Spanish Fork Public Library
+49 South Main Street
+Spanish Fork, UT" 15.4780702504752 -111.6547228 40.1091547
+"Burton Memorial Library
+217 S Kearney
+Clarendon, TX" 15.6995876288441 -100.8891957 34.9364842
+"Red River County Public Library
+307 N Walnut St
+Clarksville, TX" 15.6995876288441 -95.0510216 33.6137008
+"Allen Memorial Public Library
+121 E Blackbourn St
+Hawkins, TX" 15.7578345317168 -95.2047801 32.5882842
+"Smith-Welch Memorial Library
+105 W 5th St
+Hearne, TX" 15.7578345317168 -96.5963032 30.8820874
+"Val Verde County Library
+300 Spring St
+Del Rio, TX" 15.833800937161 -100.8956445 29.3615654
+"East Travis Gateway Library District
+13512 Fm 812
+Del Valle, TX" 15.833800937161 -97.638337 30.124251
+"Camp Wood Public Library
+106 Nueces St
+Camp Wood, TX" 15.8534444146493 -100.0121797 29.6687036
+"Hemphill County Library
+500 Main St
+Canadian, TX" 15.8534444146493 -100.3778663 35.9096554
+"Santa Anna Library
+606 Wallis Ave
+Santa Anna, TX" 15.9933904924246 -99.3226309 31.7422991
+"Mae S Bruce Library
+13302 W 6th St
+Santa Fe, TX" 15.9933904924246 -95.1052256 29.3849725
+"El Progreso Memorial Library
+301 W Main St
+Uvalde, TX" 16.0619462606592 -99.7902979 29.2071166
+"Valley Mills Public Library
+405 5th St
+Valley Mills, TX" 16.0619462606592 -97.4390645 31.5345287
+"Newbern City Library
+220 E. Main Street
+Newbern, TN" 16.150085676543 -89.2622385 36.1131169
+"Stokely Memorial Library
+383 East Broadway
+Newport, TN" 16.150085676543 -83.182238 35.966115
+"Upshur County Library
+702 W Tyler St
+Gilmer, TX" 16.2164646178345 -94.9512195 32.7287495
+"Lee Public Library
+312 W Pacific Ave
+Gladewater, TX" 16.2164646178345 -94.946247 32.536398
+"Universal City Public Library
+100 Northview Dr
+Universal City, TX" 16.2309320977202 -98.2970501 29.5496838
+"Utopia Memorial Library
+800 Main St
+Utopia, TX" 16.2309320977202 -99.5270464 29.6170849
+"Munday City-County Library
+121 E B St
+Munday, TX" 16.4349666191798 -99.6239941 33.4523402
+"Nacogdoches Public Library
+1112 North St
+Nacogdoches, TX" 16.4349666191798 -94.6521276 31.6127045
+"Haskell County Library
+300 N Ave E
+Haskell, TX" 16.5639330023206 -99.7338955 33.1597721
+"Haslet Public Library
+100 Gammill St
+Haslet, TX" 16.5639330023206 -97.3488406 32.9741041
+"Fannie Brown Booth Memorial Library
+619 Tenaha St
+Center, TX" 16.6580318232529 -94.1878738 31.8055559
+"Elmer P Jewel Ward Memorial Library
+207 E St Marys
+Centerville, TX" 16.6580318232529 -95.978707 31.2599918
+"Carrollton Public Library
+1700 Keller Springs Rd
+Carrollton, TX" 16.6589406866063 -96.8934191 32.9708379
+"Sammy Brown Library
+522 W College St
+Carthage, TX" 16.6589406866063 -94.3478947 32.1578106
+"El Paso Public Library
+501 N Oregon St
+El Paso, TX" 16.7456954812198 -106.4906893 31.7605019
+"El Paso Public Library - Armijo Branch Library
+620 E. 7th Ave
+El Paso, TX" 16.7456954812198 -106.4804692 31.7518768
+"Irving Public Library
+801 W Irving Blvd
+Irving, TX" 16.7742575385163 -96.9539556 32.814243
+"Gladys Johnson Ritchie Public Library
+626 W College St
+Jacksboro, TX" 16.7742575385163 -98.1677573 33.2202632
+"Chittenden Public
+p.o. box 90
+Chittenden, VT" 16.9569900581258 -72.9428417 43.7271064
+"Burnham Memorial
+898 Main St.
+Colchester, VT" 16.9569900581258 -73.1497446 44.5440121
+"Emmie Nelson Library
+108 Covered Bridge Road
+Cartersville, GA" 17.0593098741854 -84.9264829 34.1131023
+"Cave Spring Library
+10-B Cedartown Street
+Cave Spring, GA" 17.0593098741854 -85.336952 34.103795
+"Butt-Holdsworth Memorial Library
+505 Water St
+Kerrville, TX" 17.0731614689375 -99.1434747 30.0480683
+"Kilgore Public Library
+301 N Henderson Blvd
+Kilgore, TX" 17.0731614689375 -94.8694828 32.3833908
+"Pottsboro Area Public Library
+104 N Main St
+Pottsboro, TX" 17.1380727941925 -96.667759 33.76017
+"Tri-Community Library
+6910 Hwy 80
+Prairie Lea, TX" 17.1380727941925 -97.7523822 29.7305639
+"Harrie P Woodson Memorial Library
+704 W Hwy 21
+Caldwell, TX" 17.2563463448075 -96.702265 30.5310881
+"Cameron Public Library
+304 E 3rd St
+Cameron, TX" 17.2563463448075 -96.9741354 30.8517386
+"Somerville-Fayette County Library
+216 W. Market Street
+Somerville, TN" 17.2839696423789 -89.3518798 35.2443429
+"Beene-Pearson Public Library
+208 Elm Avenue
+South Pittsburg, TN" 17.2839696423789 -85.706132 35.013269
+"Krum Public Library
+803 E Mccart St
+Krum, TX" 17.3381169120234 -97.2308419 33.2594426
+"Kyle Community Library
+409 W Blanco St
+Kyle, TX" 17.3381169120234 -97.8786221 29.9906049
+"Laredo Public Library - Bruni Plaza Branch
+1120 San Bernardo
+Laredo, TX" 17.4230148750714 -99.5051452 27.5092657
+"Laredo Public Library - Santo Nino Branch
+2200 Zacateras
+Laredo, TX" 17.4230148750714 -99.4735905 27.474949
+"Brownsville Public Library - Southmost Branch Library
+4320 Southmost Boulevard
+Brownsville, TX" 17.4389240582318 -97.451642 25.8952191
+"Brownsville Public Library System
+2600 Central Blvd
+Brownsville, TX" 17.4389240582318 -97.5086845 25.9408643
+"Burleson Public Library
+248 Sw Johnson Ave
+Burleson, TX" 17.5162161057848 -97.3281043 32.5403457
+"Burnet County Library System
+100 E Washington St
+Burnet, TX" 17.5162161057848 -98.2273778 30.7576916
+"City County Library
+1717 Main St
+Tahoka, TX" 17.7618838963249 -101.7964545 33.1669494
+"Taylor Public Library
+801 Vance St
+Taylor, TX" 17.7618838963249 -97.4127591 30.5744083
+"White Oak School Community Library
+200 S White Oak Rd
+White Oak, TX" 17.8806666981071 -94.8611578 32.5294052
+"White Settlement Public Library
+8215 White Settlement Rd
+White Settlement, TX" 17.8806666981071 -97.4603342 32.7593425
+"Hood County Public Library
+222 N Travis St
+Granbury, TX" 17.9089388309477 -97.7891819 32.4444582
+"Grand Prairie Public Library System
+901 Conover Dr
+Grand Prairie, TX" 17.9089388309477 -97.0174017 32.7375285
+"Kinney County Public Library
+510 S Ellen
+Brackettville, TX" 18.0870940497455 -100.4167468 29.3101652
+"Fm Buck Richards Memorial Library
+1106 S Blackburn St
+Brady, TX" 18.0870940497455 -99.334291 31.126482
+"Buna Public Library
+1042 Hwy 62 S
+Buna, TX" 18.1154270204677 -93.9600773 30.4304838
+"Burkburnett Library
+215 E 4th St
+Burkburnett, TX" 18.1154270204677 -98.5734919 34.0981497
+"Brownwood Public Library
+600 Carnegie St
+Brownwood, TX" 18.2072874440218 -98.9811941 31.7175631
+"Bryancollege Station Public Library System
+201 E 26th St
+Bryan, TX" 18.2072874440218 -96.3722499 30.673107
+"Edgehill Branch Library
+1409 12th Avenue, South
+Nashville, TN" 18.2573516045301 -86.7880374 36.1394278
+"Edmondson Pike Branch Library
+5501 Edmondson Pike
+Nashville, TN" 18.2573516045301 -86.745315 36.0449439
+"Van Zandt County Library
+317 1st Monday Ln
+Canton, TX" 18.3708716160574 -95.8725357 32.5610405
+"Canyon Area Library
+1501 3rd Ave
+Canyon, TX" 18.3708716160574 -101.9283222 34.9812528
+"Post Public Library
+105 E Main St
+Post, TX" 18.3710188372497 -101.3781789 33.1908418
+"Poteet Public Library
+500 Ave H
+Poteet, TX" 18.3710188372497 -98.5739434 29.037331
+"Barnet Public
+147 Church St.
+Barnet, VT" 18.3964661822223 -72.052856 44.295952
+"Aldrich Public
+6 Washington St.
+Barre, VT" 18.3964661822223 -72.5008176 44.1976656
+"Emery County Library - Emery Branch
+100 North Center
+Emery, UT" 18.5036499376768 -111.2486502 38.9246294
+"Iron County Bookmobile Library
+4763 North Santa Fe Trail
+Enoch, UT" 18.5036499376768 -113.0433978 37.764104
+"Hamilton Parks Public Library
+74 Parks Plaza
+Trimble, TN" 18.6705986333287 -89.1914791 36.2045121
+"Trimble Public Library
+86 Main Street
+Trimble, TN" 18.6705986333287 -89.1928294 36.2021537
+"Teague Public Library
+400 Main St
+Teague, TX" 18.8104419230622 -96.2840978 31.6271477
+"Temple Public Library
+100 W Adams Ave
+Temple, TX" 18.8104419230622 -97.3421791 31.0983784
+"Tracy City Public Library
+217 Shook Street
+Tracy City, TN" 18.8443523605392 -85.731667 35.257042
+"Gibson County Memorial Library
+303 High Street
+Trenton, TN" 18.8443523605392 -88.942615 35.978631
+"H. F. Brigham Free
+104 Main St.
+Bakersfield, VT" 19.1677359091367 -72.800781 44.783466
+"Charles B. Danforth
+6208 Vt Rte 12
+Barnard, VT" 19.1677359091367 -72.619637 43.729179
+"West Texas Library System
+1306 Ninth Street
+Lubbock, TX" 19.2346101629906 -101.8490726 33.5880382
+"Kurth Memorial Library
+706 S Raguet St
+Lufkin, TX" 19.2346101629906 -94.731643 31.3306978
+"Marshall Public Library
+300 S Alamo Blvd
+Marshall, TX" 19.2867346894057 -94.362823 32.5429621
+"Nancy Nail Memorial Library
+124 S Pearl St
+Mart, TX" 19.2867346894057 -96.833006 31.541183
+"Slaton City Library
+200 W Lynn St
+Slaton, TX" 19.3913483387152 -101.6444226 33.4390164
+"Stella Hart Memorial Library
+P.O. Box 88
+Smiley, TX" 19.3913483387152 -97.6358283 29.2677433
+"Lauderdale County Library
+120 Lafayette Street
+Ripley, TN" 19.5148374137595 -89.5280136 35.7472998
+"Rockwood Public Library
+117 North Front Street
+Rockwood, TN" 19.5148374137595 -84.6864062 35.8679232
+"Rotan Public Library
+404 E Sammy Baugh Ave
+Rotan, TX" 19.6937393559174 -100.4622159 32.8527363
+"Round Rock Public Library System
+216 E Main Ave
+Round Rock, TX" 19.6937393559174 -97.6771794 30.5094074
+"Wasatch County Library
+465 East 1200 South
+Heber City, UT" 19.9270059406416 -111.405796 40.493677
+"Helper City Library
+19 South Main Street
+Helper, UT" 19.9270059406416 -110.854168 39.687456
+"Ethel L Whipple Memorial Library
+402 W Ocean Blvd
+Los Fresnos, TX" 20.0376766810192 -97.4811483 26.0720355
+"Lubbock Public Library
+1306 9th St
+Lubbock, TX" 20.0376766810192 -101.8490726 33.5880382
+"Haltom City Public Library
+4809 Haltom Rd
+Haltom City, TX" 20.1108077911986 -97.2729061 32.8334874
+"Hamilton Public Library
+201 N Pecan St
+Hamilton, TX" 20.1108077911986 -98.1207565 31.7039042
+"Quitman Public Library
+202 E Goode St
+Quitman, TX" 20.2904594147914 -95.45042 32.795572
+"Ranger City Library
+718 Pine St
+Ranger, TX" 20.2904594147914 -98.6892838 32.473147
+"Cf Goodwin Public Library
+309 N Arch St
+Royse City, TX" 20.3514002210391 -96.3317193 32.9766499
+"Runge Public Library
+311 N Helena St
+Runge, TX" 20.3514002210391 -97.7132492 28.8847825
+"Peachtree Branch
+1315 Peachtree Street, N.E.
+Atlanta, GA" 20.7805483478771 -84.3846492 33.7906557
+"Perry Homes Branch
+2121 Hollywood Rd Nw
+Atlanta, GA" 20.7805483478771 -84.4683901 33.813602
+"Kinchafoonee Regional Library System
+913 Forrester Drive, Se
+Dawson, GA" 20.8176540739479 -84.4371905 31.7613811
+"Chestatee Regional Library System
+342 Allen Street
+Dawsonville, GA" 20.8176540739479 -84.108363 34.4187696
+"Lago Vista Public Library
+5803 Thunderbird Ste 40
+Lago Vista, TX" 20.8686760694097 -97.987362 30.4530039
+"Laguna Vista Public Library
+1300 Palm Blvd
+Laguna Vista, TX" 20.8686760694097 -97.2978958 26.1066414
+"Pflugerville Community Library
+102 S 10th St
+Pflugerville, TX" 20.8823572810451 -97.628432 30.442151
+"Pharr Memorial Library
+121 E Cherokee Ave
+Pharr, TX" 20.8823572810451 -98.1850299 26.192441
+"Sevier County Public Library System
+321 Court Ave
+Sevierville, TN" 21.0579253985175 -83.5667261 35.8644206
+"Seymour Branch Library
+11560 Chapman Highway
+Seymour, TN" 21.0579253985175 -83.7516194 35.8678886
+"Bee Cave Public Library
+4000 Galleria Pkwy
+Bee Cave, TX" 21.1115302724088 -97.9398921 30.3083838
+"Joe Barnhart Bee County Library
+110 W Corpus Christi St
+Beeville, TX" 21.1115302724088 -97.7490806 28.4018684
+"Ponce De Leon Branch
+980 Ponce De Leon Avenue Ne
+Atlanta, GA" 21.2168996195816 -84.3551243 33.7741745
+"Sandy Springs Branch
+395 Mount Vernon Hwy Ne
+Atlanta, GA" 21.2168996195816 -84.3742842 33.9239692
+"Duval County Public Library - Freer Branch
+608 Carolyn
+Freer, TX" 21.275954562248 -98.6144256 27.8837685
+"Friendswood Public Library
+416 S Friendswood Dr
+Friendswood, TX" 21.275954562248 -95.2006341 29.5284929
+"Kenedy Public Library
+303 W Main St
+Kenedy, TX" 21.3114100626901 -97.8502025 28.8186368
+"Kennedale Public Library
+316 W 3rd St
+Kennedale, TX" 21.3114100626901 -97.2257896 32.6474763
+"Nicholson Memorial Library System
+625 Austin St
+Garland, TX" 21.6759268095015 -96.6383666 32.9148597
+"Northeast Texas Library System
+4845 Broadway Blvd.
+Garland, TX" 21.6759268095015 -96.6025127 32.8552507
+"Round Top Family Library
+206 W Mill St
+Round Top, TX" 21.7322755612393 -96.6979529 30.0662643
+"Rowlett Public Library
+3900 Main St
+Rowlett, TX" 21.7322755612393 -96.5646261 32.9023763
+"Palestine Public Library
+1101 N Cedar St
+Palestine, TX" 21.748707654517 -95.6307266 31.7704419
+"Lovett Memorial Library Pampa
+111 N Houston St
+Pampa, TX" 21.748707654517 -100.9580392 35.537509
+"Lilburn
+788 Hillcrest Rd. Nw
+Lilburn, GA" 21.8502421231895 -84.1456186 33.9017059
+"Mountain Park
+1210 Pounds Rd. Sw
+Lilburn, GA" 21.8502421231895 -84.1203325 33.8472774
+"Starr County Public Library- Roma Branch
+1705 North Athens
+Roma, TX" 22.0153646739338 -99.0142857 26.4186478
+"D Brown Memorial Library
+203 N 2nd St
+Rosebud, TX" 22.0153646739338 -96.9766646 31.0754843
+"Weatherford Public Library
+1014 Charles St
+Weatherford, TX" 22.1690046844639 -97.8133374 32.745339
+"Weimar Public Library
+1 Jackson Sq
+Weimar, TX" 22.1690046844639 -96.7807814 29.7017651
+"West Gate Branch Library
+7609 Paula Dr.
+Tampa, FL" 22.4919050231342 -82.5661172 27.9991848
+"West Tampa Branch Library
+2312 W. Union St.
+Tampa, FL" 22.4919050231342 -82.4832724 27.9577322
+"Dr Eugene Clark Library
+217 S Main St
+Lockhart, TX" 22.6833873223881 -97.6724251 29.8831567
+"Lone Oak Area Public Library
+102 Jones St
+Lone Oak, TX" 22.6833873223881 -95.9422912 32.9994635
+"Tooele City Public Library
+128 West Vine Street
+Tooele, UT" 22.8864435830534 -112.3023212 40.5306348
+"Tremonton City Library
+210 North Tremont Street
+Tremonton, UT" 22.8864435830534 -112.164914 41.715078
+"Somervell County Library
+108 Allen Dr
+Glen Rose, TX" 23.0334626099787 -97.761433 32.228362
+"Jennie Trent Dew Library
+1101 Hutchings St
+Goldthwaite, TX" 23.0334626099787 -98.5723372 31.449535
+"El Paso Public Library - Clardy Fox
+5515 Robert Alva
+El Paso, TX" 23.3056898603788 -106.4242933 31.7641528
+"El Paso Public Library - Dorris Van Doren
+551 Redd Road
+El Paso, TX" 23.3056898603788 -106.5644329 31.8613746
+"Port Tampa Branch Library
+8611 Interbay Blvd.
+Tampa, FL" 23.4705048924447 -82.526589 27.866165
+"Robert W. Saunders, Sr. Branch Library
+1505 N. Nebraska Ave.
+Tampa, FL" 23.4705048924447 -82.4507628 27.9582221
+"Imperial Public Library
+223 W Farm To Market Rd 11
+Imperial, TX" 23.7208354933399 -95.4317785 30.0204094
+"Ingleside Public Library
+2775 Waco St
+Ingleside, TX" 23.7208354933399 -97.2160531 27.8781392
+"Tom Burnett Memorial Library
+400 W Alameda St
+Iowa Park, TX" 23.7208354933399 -98.6717351 33.9553885
+"Iraan Public Library
+120 W 5th St
+Iraan, TX" 23.7208354933399 -101.8982929 30.9130331
+"Austin Public Library
+800 Guadalupe St
+Austin, TX" 23.7893216254927 -97.7460168 30.2713021
+"Austin Public Library - Austin History Center
+810 Guadalupe St.
+Austin, TX" 23.7893216254927 -97.7458906 30.2717033
+"Minersville Public Library
+40 West Main Street
+Minersville, UT" 23.9283408965076 -112.9247013 38.2156991
+"Grand County Public Library
+257 East Center St
+Moab, UT" 23.9283408965076 -109.5455618 38.5736277
+"Vonore Public Library
+611 Church Street
+Vonore, TN" 24.1091634817254 -84.2449589 35.5909537
+"Wartburg Public Library
+514 Spring St.
+Wartburg, TN" 24.1091634817254 -84.594877 36.103406
+"Orange Grove School- Public Library
+P.O. Box 534
+Orange Grove, TX" 24.2045830982538 -97.9369447 27.9566843
+"Crockett County Public Library
+1201 Ave G
+Ozona, TX" 24.2045830982538 -101.2032028 30.7088234
+"Hardin County Library
+1365 Pickwick Street
+Savannah, TN" 24.372585258037 -88.244966 35.207519
+"Jack Mcconnico Memorial Library
+225 Oak Grove Rd.
+Selmer, TN" 24.372585258037 -88.5731371 35.1634145
+"Hewitt Public Library
+100 Zuni Dr
+Hewitt, TX" 24.6796253092955 -97.1993088 31.4660966
+"Hidalgo Public Library
+710 E Texano Dr
+Hidalgo, TX" 24.6796253092955 -98.2539931 26.1035467
+"American Fork City Library
+64 South 100 East
+American Fork, UT" 24.7465082713086 -111.796341 40.37554
+"Beaver Public Library
+55 West Center Street
+Beaver, UT" 24.7465082713086 -112.6415952 38.2741781
+"Barton Public
+100 Church St.
+Barton, VT" 24.7888782086828 -72.1806023 44.7496538
+"Rockingham Free Public
+65 Westminster St.
+Bellows Falls, VT" 24.7888782086828 -72.4446371 43.1307552
+"Coffee County Lannom Memorial Public Library
+312 North Collins Street
+Tullahoma, TN" 24.9513604879736 -86.2192941 35.3615479
+"Obion County Public Library
+1221 East Reelfoot Avenue
+Union City, TN" 24.9513604879736 -89.0458143 36.4135676
+"Lakehills Area Library
+7200 Fm 1283
+Lakehills, TX" 24.9760363244387 -98.9301812 29.60629
+"Lake Travis Community Library
+2300 Lohmans Spur Ste 100
+Lakeway, TX" 24.9760363244387 -97.9711762 30.3381703
+"Salt Lake County Library - Herriman Library
+5380 West Herriman Main Street
+Herriman, UT" 25.0464627454169 -112.0186969 40.5162738
+"Emery County Library - Huntington Branch
+92 South Main
+Huntington, UT" 25.0464627454169 -110.964568 39.3247473
+"Grapeland Heights Branch
+1400 Nw 37th Avenue
+Miami, FL" 25.2022843354207 -80.2559105 25.7864212
+"Hispanic Branch Library
+2190 West Flagler St.
+Miami, FL" 25.2022843354207 -80.230592 25.772267
+"Tessie W. Norris Cochran-Bleckley County Pl
+315 Third Street Se
+Cochran, GA" 25.4362473495529 -83.3536082 32.3875251
+"James W. Merritt, Jr. Memorial Library
+259 East Main Street
+Colquitt, GA" 25.4362473495529 -84.7313096 31.1721778
+"Mount Pleasant Public Library
+213 N Madison Ave
+Mt Pleasant, TX" 25.6097972392384 -94.9697804 33.1581074
+"Franklin County Library
+100 E Main St
+Mt Vernon, TX" 25.6097972392384 -95.2214646 33.1885572
+"W.T.Bland Public Library
+1995 N Donnelly St.
+Mount Dora, FL" 25.6754714402276 -81.6456627 28.8138761
+"Dr. C.C. Pearce Municipal Library
+103 E Canal Street
+Mulberry, FL" 25.6754714402276 -81.9729997 27.8945855
+"Sulphur Springs Public Library
+611 Davis St N
+Sulphur Springs, TX" 25.6987191765937 -95.6029143 33.1431724
+"Sunnyvale Public Library
+402 Tower Pl
+Sunnyvale, TX" 25.6987191765937 -96.5920559 32.8139361
+"Riter C Hulsey Public Library
+301 N Rockwall St
+Terrell, TX" 25.7098879832132 -96.280809 32.7392266
+"Texarkana Public Library
+600 W 3rd St
+Texarkana, TX" 25.7098879832132 -94.0488963 33.420574
+"Seagoville Public Library
+702 N Hwy 175
+Seagoville, TX" 25.7830798195175 -96.5412994 32.6492852
+"Virgil Josephine Gordon Memorial Library
+917 N Circle Dr
+Sealy, TX" 25.7830798195175 -96.158883 29.773994
+"Wildwood Public Library
+702 Webster Street
+Wildwood, FL" 26.1558363631411 -82.037634 28.866272
+"Williston Public Library
+10 S.E. First Street
+Williston, FL" 26.1558363631411 -82.4462627 29.3875268
+"Comanche Public Library
+311 N Austin St
+Comanche, TX" 26.2408445875802 -98.6038912 31.8996357
+"Comfort Public Library
+701 High St
+Comfort, TX" 26.2408445875802 -98.9079089 29.9670776
+"Grapeland Public Library
+212 N Oak St
+Grapeland, TX" 26.2969582906084 -95.479778 31.489162
+"Grapevine Public Library
+1201 Municipal Way
+Grapevine, TX" 26.2969582906084 -97.0766965 32.9296984
+"South Branch Library
+2300 Roy Hanna Dr. South
+St. Petersburg, FL" 26.4201503729168 -82.6649771 27.7109546
+"St. Petersburg Public Library
+3745 Ninth Ave. No.
+St. Petersburg, FL" 26.4201503729168 -82.6844132 27.7816559
+"Kimble County Library
+208 N 10th St
+Junction, TX" 26.6627166515884 -99.7708619 30.4893898
+"Justin Community Library
+408 Pafford St
+Justin, TX" 26.6627166515884 -97.3041371 33.0884259
+"Windermere Library
+530 Main Street
+Windermere, FL" 26.7270526198852 -81.5347988 28.4952108
+"Winter Haven Public Library - Kathryn L. Smith Memorial
+325 Avenue A, Nw
+Winter Haven, FL" 26.7270526198852 -81.7309638 28.0234695
+"Smithfield Library
+25 North Main Street
+Smithfield, UT" 26.7400844406035 -111.8330947 41.8370552
+"Salt Lake County Library - South Jordan Library
+10673 South Redwood Road
+South Jordan, UT" 26.7400844406035 -111.9365603 40.5572855
+"Lewisville Public Library
+1197 W Main St
+Lewisville, TX" 26.8450966637131 -97.0233096 33.0429208
+"Liberty Municipal Library
+1710 Sam Houston St
+Liberty, TX" 26.8450966637131 -94.7993711 30.0586902
+"Emery County Library - Castle Dale Branch
+115 North 100 East
+Castle Dale, UT" 26.9074681761698 -111.0178475 39.2133558
+"Cedar City Public Library
+303 North 100 East
+Cedar City, UT" 26.9074681761698 -113.0601409 37.6827301
+"Fort Hancock Isd-Public Library
+101 School Dr
+Fort Hancock, TX" 26.9230410113895 -105.8517582 31.2911283
+"Fort Stockton Public Library
+500 N Water St
+Fort Stockton, TX" 26.9230410113895 -102.878048 30.8891148
+"Salt Lake City Public Library
+210 East 400 South
+Salt Lake City, UT" 27.0205211042201 -111.884841 40.760082
+"Salt Lake City Public Library - Anderson-Foothill
+1135 South 2100 East
+Salt Lake City, UT" 27.0205211042201 -111.830171 40.744448
+"La Retama Central Library - Northwest Branch Library
+3202 Mckinzie Rd.
+Corpus Christi, TX" 27.0380235941635 -97.572647 27.8417604
+"South Texas Library System
+805 Comanche
+Corpus Christi, TX" 27.0380235941635 -97.3990879 27.7927313
+"Floyd County Library
+111 S Wall St
+Floydada, TX" 27.1542038126521 -101.3333945 33.9854259
+"Forest Hill Public Library
+6962 Forest Hill Dr
+Forest Hill, TX" 27.1542038126521 -97.2706507 32.6532594
+"Lancaster Veterans Memorial Library
+1600 Veterans Memorial Pkwy
+Lancaster, TX" 27.1620759722882 -96.7574117 32.6090015
+"Laredo Public Library
+1120 E Calton Rd
+Laredo, TX" 27.1620759722882 -99.4826071 27.5416154
+"Cockrell Hill Public Library
+4125 W Clarendon Dr
+Dallas, TX" 27.3680710843088 -96.8882524 32.7354326
+"Dallas Public Library
+1515 Young St
+Dallas, TX" 27.3680710843088 -96.7968466 32.7781689
+"Weslaco Public Library
+525 S Kansas Ave
+Weslaco, TX" 27.45119823546 -97.9892888 26.1561034
+"West Public Library
+209 Tokio Rd
+West, TX" 27.45119823546 -97.0955431 31.7913429
+"Franklin T. Degroodt Memorial Library
+6475 Minton Rd. Sw
+Palm Bay, FL" 27.4567075404342 -80.6704871 27.996261
+"Palm Bay Public Library
+1520 Port Malablar Blvd. Ne
+Palm Bay, FL" 27.4567075404342 -80.6039447 28.0165741
+"Watkins Park Community Library
+612 17th Avenue North
+Nashville, TN" 27.6665430226587 -86.8001381 36.1624355
+"Z. Alexander Looby Branch Library
+2301 Metro Center Boulevard
+Nashville, TN" 27.6665430226587 -86.7980849 36.1847678
+"Nocona Public Library
+10 Cooke St
+Nocona, TX" 27.7932434938412 -97.7251316 33.7873058
+"North Richland Hills Public Library
+9015 Grand Ave
+North Richland Hills, TX" 27.7932434938412 -97.192581 32.8549572
+"Big Read Wagon (Nclc)
+101 Junior High Dr.
+Derby, VT" 27.9160953060576 -72.132398 44.9489033
+"Haskell Free
+93 Caswell Ave.
+Derby Line, VT" 27.9160953060576 -72.097669 45.0057339
+"Cooke County Library
+200 S Weaver St
+Gainesville, TX" 28.0938659556083 -97.147601 33.6232228
+"Rosenberg Library
+2310 Sealy Ave
+Galveston, TX" 28.0938659556083 -94.7924372 29.3010499
+"Pembroke Pines Branch
+955 Nw 129 Avenue
+Pembroke Pines, FL" 28.1106528003101 -80.3230116 26.0142083
+"South Regional-Bc Library
+7300 Pines Boulevard
+Pembroke Pines, FL" 28.1106528003101 -80.2360114 26.0068452
+"Adams Park Branch
+2231 Campbellton Road Sw
+Atlanta, GA" 28.3788638924829 -84.4616745 33.7056691
+"Adamsville-Collier Heights Branch
+3424 Martin Luther King Jr., Dr.
+Atlanta, GA" 28.3788638924829 -84.5001855 33.7550563
+"Duncanville Public Library
+201 James Collins Blvd
+Duncanville, TX" 28.3905653990424 -96.9072033 32.6492948
+"Eula David Wintermann Library
+101 N Walnut Ave
+Eagle Lake, TX" 28.3905653990424 -96.33548 29.590094
+"Denton Public Library
+502 Oakland St
+Denton, TX" 28.491715518743 -97.1299265 33.2184206
+"Yoakum County-Cecil Bickley Library
+205 W 4th St
+Denver City, TX" 28.491715518743 -102.8306111 32.96788
+"Warren P. Sewell Memorial Library-Bowdon
+450 West Avenue
+Bowdon, GA" 29.0617405395918 -85.2570221 33.5441236
+"Bowman Branch
+1 Prince Avenue
+Bowman, GA" 29.0617405395918 -83.032151 34.2052671
+"Decatur Public Library
+1700 S Fm 51
+Decatur, TX" 29.2114901410813 -97.5960722 33.2212287
+"Deer Park Public Library
+3009 Center St
+Deer Park, TX" 29.2114901410813 -95.122663 29.6838449
+"S. L. Griffith Memorial Library
+74 S. Main St.
+Danby, VT" 29.2615220697107 -72.9773964 43.4705636
+"Pope Memorial
+121 Park St.
+Danville, VT" 29.2615220697107 -72.140977 44.411084
+"Bellaire City Library
+5111 Jessamine St
+Bellaire, TX" 29.4851913707418 -95.4693376 29.7017729
+"Bellville Public Library
+12 W Palm St
+Bellville, TX" 29.4851913707418 -96.257394 29.951846
+"Sarah Partridge Community Library
+431 E. Main St.
+East Middlebury, VT" 29.6379867214505 -73.1745752 44.0076461
+"Enosburg Public
+241 Main St.
+Enosburg Falls, VT" 29.6379867214505 -72.806358 44.906235
+"Newark Public Library
+209 Hudson St
+Newark, TX" 29.8682821474685 -97.4808574 33.0018398
+"Newton County Public Library
+212 High St
+Newton, TX" 29.8682821474685 -93.7603892 30.8495394
+"Parrottsville Community Library
+2060 Canary Drive
+Parrottsville, TN" 30.109365748402 -83.0930666 36.0094608
+"Parsons Public Library
+535 Tn Ave S.
+Parsons, TN" 30.109365748402 -88.1230451 35.6419604
+"Bellevue Branch Library
+650 Colice Jeanne Road
+Nashville, TN" 30.3968456934931 -86.9336061 36.0724476
+"Bordeaux Branch Library
+4000 Clarksville Pike
+Nashville, TN" 30.3968456934931 -86.8383548 36.2113434
+"Bowen Homes Branch
+2880 Yates Drive, N.W.
+Atlanta, GA" 30.4367560657898 -84.4827385 33.782299
+"Buckhead Branch
+269 Buckhead Avenue
+Atlanta, GA" 30.4367560657898 -84.379144 33.837746
+"Ah Meadows Library
+923 S 9th St
+Midlothian, TX" 30.4655896471102 -96.9955645 32.4717449
+"Mineola Memorial Library
+301 N Pacific St
+Mineola, TX" 30.4655896471102 -95.4875172 32.6652587
+"Mckenzie Memorial Library
+15 N. Broadway
+Mckenzie, TN" 30.4724230958728 -88.5187234 36.1314055
+"Magness Community House Library
+118 West Main Street
+Mcminnville, TN" 30.4724230958728 -85.774229 35.68156
+"East Branch Library
+310 Division Street
+Oviedo, FL" 30.4757477938629 -81.2037035 28.6753249
+"Pace Library
+4750 Pace Patriot Blvd.
+Pace, FL" 30.4757477938629 -87.1544978 30.6104686
+"Ambrose Public Library
+1070 Cypress Avenue
+Ambrose, GA" 30.5203745054691 -83.0139181 31.5957813
+"Lake Blackshear Regional Library System
+307 East Lamar Street
+Americus, GA" 30.5203745054691 -84.2272286 32.071418
+"Lucy Hill Patterson Memorial Library
+201 Ackerman St
+Rockdale, TX" 30.5646877790416 -97.000373 30.6560837
+"Aransas County Public Library
+701 E Mimosa St
+Rockport, TX" 30.5646877790416 -97.0540413 28.0260637
+"Wesley Chapel-William C. Brown Branch
+2861 Wesley Chapel Road
+Decatur, GA" 30.6157919186955 -84.2211535 33.7043247
+"Monroe Memorial Library
+232 Broad Street
+Doerun, GA" 30.6157919186955 -83.9194841 31.3213279
+"Gibbs Memorial Library
+305 E Rusk St
+Mexia, TX" 30.7128346628517 -96.482556 31.685386
+"Midland County Public Library
+301 W Missouri Ave
+Midland, TX" 30.7128346628517 -102.0771363 31.9959874
+"Dorset Village Public
+p.o. box 38
+Dorset, VT" 30.8532167627356 -73.0987801 43.2548074
+"Blake Memorial
+676 Village Rd.
+E. Corinth, VT" 30.8532167627356 -72.221765 44.063728
+"San Marcos Public Library
+625 E Hopkins St
+San Marcos, TX" 30.8558080299039 -97.9315523 29.8854452
+"Rylander Memorial Library
+103 S Live Oak St
+San Saba, TX" 30.8558080299039 -98.7165137 31.195788
+"South Branch
+1929 South Third Street
+Memphis, TN" 30.9816501615302 -90.0558252 35.0958243
+"Whitehaven Branch
+4122 Barton Drive
+Memphis, TN" 30.9816501615302 -90.021916 35.036359
+"Fort Worth Library
+500 W 3rd St
+Fort Worth, TX" 31.0988390859044 -97.3348947 32.7539831
+"North Texas Library Partners
+6320 Southwest Blvd. Suite 101
+Fort Worth, TX" 31.0988390859044 -97.4176889 32.6922351
+"Winfield Public Library
+24961 Scott Highway
+Winfield, TN" 31.2593800493835 -84.4487377 36.5653968
+"Adams Memorial Library
+212 College Street
+Woodbury, TN" 31.2593800493835 -86.075761 35.825758
+"Abilene Public Library
+202 Cedar St
+Abilene, TX" 31.2941887280708 -99.7357361 32.4509175
+"Big Country Library System
+202 Cedar Street
+Abilene, TX" 31.2941887280708 -99.7357361 32.4509175
+"Civic Center Station Branch Library
+1501 N.W. 12th Ave.
+Miami, FL" 31.3465766631923 -80.214907 25.7893678
+"Coconut Grove Branch
+2875 Mcfarlane Road
+Miami, FL" 31.3465766631923 -80.2403968 25.7268138
+"Abernathy Public Library
+811 Avenue D
+Abernathy, TX" 31.4797153205405 -101.8435785 33.8319618
+"Abilene Library Consortium
+3305 N. 3rd St.
+Abilene, TX" 31.4797153205405 -99.762436 32.45272
+"Keller Public Library
+640 Johnson Rd
+Keller, TX" 31.60574400112 -97.2388963 32.9409431
+"Kendalia Public Library
+2610b Hwy 473
+Kendalia, TX" 31.60574400112 -98.5225082 29.9689286
+"Douglas County Public Library
+6810 Selman Drive
+Douglasville, GA" 31.6425387119886 -84.7523374 33.7431225
+"Laurens County Library
+801 Bellevue Avenue
+Dublin, GA" 31.6425387119886 -82.9163239 32.5377907
+"Waco-Mclennan County Library
+1717 Austin Ave
+Waco, TX" 31.8236473856643 -97.1437399 31.5467586
+"Waelder Public Library
+310 N Ave E
+Waelder, TX" 31.8236473856643 -97.2983384 29.6950917
+"Little Elm Public Library
+100 W Eldorado Pkwy
+Little Elm, TX" 32.1109683324694 -96.9399545 33.1578685
+"Lamb County Library
+110 E 6th St
+Littlefield, TX" 32.1109683324694 -102.3300446 33.9203183
+"Smithville Public Library
+507 Main St
+Smithville, TX" 32.3702039251142 -97.1583524 30.0106987
+"Scurry County Library
+1916 23rd St
+Snyder, TX" 32.3702039251142 -100.9186482 32.7191703
+"Salt Lake County Library - West Valley Library
+2880 West 3650 South
+West Valley City, UT" 32.4495317784942 -111.961504 40.693378
+"Box Elder County Bookmobile Library
+80 West 50 South
+Willard, UT" 32.4495317784942 -112.038344 41.408788
+"Perry Memorial Library
+22 Se 5th Ave
+Perryton, TX" 32.4878022470555 -100.8024325 36.3953595
+"Petersburg Public Library
+1614 Main St
+Petersburg, TX" 32.4878022470555 -101.5977621 33.8697965
+"North Miami Beach Public Library
+1601 Northeast 164 Street
+North Miami Beach, FL" 32.4885845583667 -80.167757 25.927529
+"North Palm Beach Public Library
+303 Anchorage Drive
+North Palm Beach, FL" 32.4885845583667 -80.0577168 26.8106179
+"Benson Public
+2724 Stage Rd.
+Benson, VT" 32.5825186964164 -73.309822 43.7083439
+"Bethel Public
+106 Main St.
+Bethel, VT" 32.5825186964164 -72.6319397 43.8298315
+"Donna Public Library
+301 S Main St
+Donna, TX" 32.6466279056925 -98.0551081 26.1677201
+"Dripping Springs Community Library
+501 Sportsplex Dr
+Dripping Springs, TX" 32.6466279056925 -98.0987847 30.1961882
+"William T Cozby Public Library
+177 N Heartz Rd
+Coppell, TX" 32.9961738802191 -96.9896096 32.9735474
+"Copperas Cove Public Library
+501 S Main St
+Copperas Cove, TX" 32.9961738802191 -97.9026735 31.1203792
+"Umatilla Public Library
+412 Hatfield Drive
+Umatilla, FL" 33.1417444842406 -81.666195 28.9326885
+"Valparaiso Community Library
+459 Valparaiso Pkwy
+Valparaiso, FL" 33.1417444842406 -86.4997423 30.5098088
+"Southwest Regional Library
+16835 Sheridan Street
+Pembroke Pines, FL" 33.144683549158 -80.3731382 26.0309582
+"Lucia M. Tryon Branch
+5740 North Ninth Ave.
+Pensacola, FL" 33.144683549158 -87.2043282 30.4815025
+"Rio Hondo Public Library
+121 W Arroyo Blvd
+Rio Hondo, TX" 33.1947553196791 -97.5832989 26.2345913
+"River Oaks Public Library
+4900 River Oaks Blvd
+River Oaks, TX" 33.1947553196791 -97.393768 32.77875
+"Narcoossee Library
+2700 N Narcoossee Road
+St. Cloud, FL" 33.2333891928944 -81.235803 28.327641
+"Veterans Memorial Library
+810 13th Street
+St. Cloud, FL" 33.2333891928944 -81.2786126 28.2468016
+"Martin County Library
+200 N St Mary
+Stanton, TX" 33.2871187817907 -101.788769 32.1309229
+"Stephenville Public Library
+174 N Columbia St
+Stephenville, TX" 33.2871187817907 -98.2039341 32.2203682
+"Winhall Memorial
+2 Lower Taylor Hill Rd.
+Bondville, VT" 33.3392791054283 -72.8969016 43.1460182
+"Bradford Public
+21 S. Main St.
+Bradford, VT" 33.3392791054283 -72.128535 43.9929834
+"Salt Lake County Library - Kearns Library
+5350 South 4220 West
+Kearns, UT" 33.5380777483649 -111.992424 40.653782
+"Davis County Library - Central Branch (Layton)
+155 N. Wasatch Dr.
+Layton, UT" 33.5380777483649 -111.9618027 41.0624014
+"Munford-Tipton Memorial Public Library
+87 College Street
+Munford, TN" 33.6639390709919 -89.8139246 35.4461984
+"Linebaugh Public Library
+105 West Vine Street
+Murfreesboro, TN" 33.6639390709919 -86.3921044 35.844191
+"North Central Branch
+9590 N.W. 27 Avenue
+Miami, FL" 33.8851935225671 -80.2427768 25.8616772
+"North Dade Regional
+2455 Nw 183rd Street
+Miami, FL" 33.8851935225671 -80.2426745 25.9417584
+"Gwinnett County Public Library System
+1001 Lawrenceville Highway
+Lawrenceville, GA" 33.964251908273 -84.0147313 33.9424062
+"Lee County Public Library System
+245 Walnut Avenue, South
+Leesburg, GA" 33.964251908273 -84.1717355 31.722149
+"Salt Lake County Library - East Millcreek Library
+2250 Evergreen Avenue
+East Millcreek, UT" 33.9842846574345 -111.8257521 40.6966961
+"Emery County Library - Elmo Branch
+15 South 100 East
+Elmo, UT" 33.9842846574345 -110.851882 39.347198
+"Texas Trans-Pecos Library System
+501 North Oregon
+El Paso, TX" 34.075246999871 -106.4906893 31.7605019
+"Schleicher County Public Library
+201 Sw Main St
+Eldorado, TX" 34.075246999871 -100.6016646 30.8584126
+"Metropolitan Archives Of Davidson County
+1113 Elm Hill Pike
+Nashville, TN" 34.4429164596072 -86.733886 36.143014
+"North Branch Library
+1001 Monroe Street
+Nashville, TN" 34.4429164596072 -86.7959057 36.1741182
+"Kirkwood Branch
+11 Kirkwood Road, Se
+Atlanta, GA" 34.5621143789896 -84.3162086 33.7507904
+"Martin Luther King Jr., Branch
+409 John Wesley Dobbs Ave
+Atlanta, GA" 34.5621143789896 -84.373977 33.758569
+"Wallace Branch
+1237 Laney Walker Blvd.
+Augusta, GA" 34.6026984045411 -81.9803565 33.4662832
+"Sweetwater Valley Library
+2773 Sweetwater Street
+Austell, GA" 34.6026984045411 -84.6331892 33.8151348
+"Seminole County Public Library
+104 West Fourth Street
+Donalsonville, GA" 34.7912793665599 -84.8793633 31.0389933
+"Doraville Branch
+3748 Central Ave
+Doraville, GA" 34.7912793665599 -84.2783348 33.9015004
+"Naples Public Library
+101 Walnut St
+Naples, TX" 34.8585140976128 -94.685028 33.2044482
+"Navasota Public Library
+1411 E Washington Ave
+Navasota, TX" 34.8585140976128 -96.0775106 30.3945474
+"Signal Mountain Public Library
+1114 James Boulevard
+Signal Mountain, TN" 34.9090840170869 -85.3356355 35.1333454
+"Justin Potter Library
+101 South First Street
+Smithville, TN" 34.9090840170869 -85.811934 35.960537
+"Riviera Beach Public Library
+600 W. Blue Heron Blvd.
+Riviera Beach, FL" 34.9653291862173 -80.0649398 26.7840464
+"Royal Palm Beach Branch Library
+500 Civic Center Way
+Royal Palm Beach, FL" 34.9653291862173 -80.232575 26.7053222
+"North Brevard Public Library
+2121 South Hopkins Avenue
+Titusville, FL" 34.9707412464197 -80.806515 28.5909887
+"Gilchrist County Library
+105 N.E. 11th Street
+Trenton, FL" 34.9707412464197 -82.818019 29.621048
+"Salt Lake City Public Library - Chapman
+577 South 900 West
+Salt Lake City, UT" 35.1483544416687 -111.9077343 40.74974
+"Salt Lake City Public Library - Corinne And Jack Sweet
+455 F Street (9th Avenue)
+Salt Lake City, UT" 35.1483544416687 -111.875858 40.779641
+"Calhoun County Public Library - Seadrift Branch Library
+103 W. Dallas
+Port Oconnor, TX" 35.1646533334629 -99.9018131 31.9685988
+"Bell-Whittington Public Library
+2400 Memorial Pkwy
+Portland, TX" 35.1646533334629 -97.3148083 27.900576
+"Longview Public Library
+222 W Cotton St
+Longview, TX" 35.3306333179592 -94.7435228 32.4945233
+"Cameron County Library System
+402 W. Ocean Blvd.
+Los Fresnos, TX" 35.3306333179592 -97.4811483 26.0720355
+"Afton Free Library
+105 A Main Street
+Afton, NY" 35.3388001814268 -75.5281428 42.2252174
+"Newstead Public Library
+33 Main Street
+Akron, NY" 35.3388001814268 -78.501521 43.019712
+"San Patricio County Library System
+313 N. Rachal Ave., Room 226
+Sinton, TX" 35.3738191362154 -97.5104739 28.0390947
+"Sinton Public Library
+100 N Pirate Blvd
+Sinton, TX" 35.3738191362154 -97.497686 28.03663
+"Claude Public Library
+100 Trice St
+Claude, TX" 35.4618034439482 -101.3597096 35.1091949
+"Cleburne Public Library
+302 W Henderson St
+Cleburne, TX" 35.4618034439482 -97.3886035 32.3474364
+"Terrell County Public Library
+108 Hackberry
+Sanderson, TX" 35.766020227695 -102.3943277 30.1425838
+"Sanger Public Library
+501 Bolivar St
+Sanger, TX" 35.766020227695 -97.1736921 33.3622396
+"Southside Branch Library
+2114 Habersham
+Albany, GA" 35.7704759398879 -84.1715499 31.5504492
+"Tallulah Massey Branch
+2004 Stratford Drive
+Albany, GA" 35.7704759398879 -84.0991632 31.5712809
+"Middleburg Branch Library
+2245 Aster St.
+Middleburg, FL" 35.8647944559598 -81.8812292 30.0625208
+"Milton Library
+5541 Alabama Street
+Milton, FL" 35.8647944559598 -87.0407233 30.6355856
+"Kendall Branch Library
+9101 Sw 97th Ave.
+Miami, FL" 36.0064080342648 -80.3505825 25.6854423
+"Key Biscayne Branch
+299 Crandon Blvd
+Miami, FL" 36.0064080342648 -80.1626582 25.6962589
+"Central Library
+300 Pine Avenue
+Albany, GA" 36.0565389012005 -84.1539749 31.5781483
+"Northwest Branch Library
+2215 Barnesdale Way
+Albany, GA" 36.0565389012005 -84.2008324 31.6090979
+"Reeves County Library
+505 S Park St
+Pecos, TX" 36.1395170694626 -103.5043313 31.4201478
+"Penitas Public Library
+1111 S. Main Street
+Peitas, TX" 36.1395170694626 -98.4449725 26.2305234
+"Joshua School Public Library
+907 S Broadway St
+Joshua, TX" 36.2245707709588 -97.3838646 32.4507524
+"Jourdanton Community Library
+1101 Campbell Ave
+Jourdanton, TX" 36.2245707709588 -98.5440416 28.9171788
+"Tye Preston Memorial Library
+16311 South Access Road
+Canyon Lake, TX" 36.2669167864924 -98.1905313 29.8660352
+"Dimmit County Public Library
+200 N 9th St
+Carrizo Springs, TX" 36.2669167864924 -99.863502 28.523908
+"Adams Center Free Library
+18267 State Route 177
+Adams Center, NY" 36.342152087188 -76.0063766 43.8609647
+"Addison Public Library
+6 South Street
+Addison, NY" 36.342152087188 -77.233874 42.104562
+"Waller County Library
+2331 11th St
+Hempstead, TX" 36.3429999621637 -96.0803905 30.0833214
+"Rusk County Library System
+106 E Main St
+Henderson, TX" 36.3429999621637 -94.7994483 32.153238
+"Law Library Branch
+100 E Ocean Blvd.
+Stuart, FL" 36.365266346296 -80.2508805 27.1972149
+"Robert Morgade Branch
+5851 Se Community Drive
+Stuart, FL" 36.365266346296 -80.2211603 27.133887
+"Electra Public Library
+401 N Waggoner St
+Electra, TX" 36.5566251845419 -98.9177492 34.0329014
+"Elgin Public Library
+404 N Main St
+Elgin, TX" 36.5566251845419 -97.3720138 30.3507394
+"Driscoll Public Library
+202 E Hondo Ave
+Devine, TX" 36.8325604268932 -98.9052641 29.1390196
+"Tll Temple Memorial Library Archives
+300 Park St
+Diboll, TX" 36.8325604268932 -94.7820739 31.1880277
+"Greene County Library
+610 South Main Street
+Greensboro, GA" 36.9900270114578 -83.1830279 33.568723
+"Greenville Area Public Library
+10 Gilbert Street
+Greenville, GA" 36.9900270114578 -84.7102795 33.0266601
+"Reserve Public Library
+15 Jake Scott St.
+Reserve, NM" 37.0748277847031 -108.7628907 33.7080735
+"Rio Rancho Public Library
+755 Loma Colorado Dr. Se
+Rio Rancho, NM" 37.0748277847031 -106.6609613 35.2696759
+"Georgetown Public Library
+402 W 8th St
+Georgetown, TX" 37.0921849058793 -97.6799401 30.6362124
+"Giddings Public Library
+276 N Orange St
+Giddings, TX" 37.0921849058793 -96.929327 30.182851
+"Wilcox County Public Library
+104 North Broad
+Abbeville, GA" 37.1787567542273 -83.3068997 31.9925503
+"Acworth Library
+4569 Dallas Street
+Acworth, GA" 37.1787567542273 -84.6784411 34.0651938
+"Madison Branch Library
+610 Gallatin Pike South
+Nashville, TN" 37.4999148538702 -86.7152057 36.2575207
+"Mary Charles W. Pruitt Library
+117 Charles E Davis Boulevard
+Nashville, TN" 37.4999148538702 -86.7616844 36.151731
+"Quemado Public Library
+19791 Us Highway 277
+Quemado, TX" 37.6998689666058 -100.62319 28.9457281
+"Caprock Public Library
+104 N 1st St
+Quitaque, TX" 37.6998689666058 -101.0578511 34.3681532
+"Humphreys County Public Library
+201 Pavo Avenue
+Waverly, TN" 37.8779678791948 -87.795434 36.084773
+"Wayne County Public Library
+525 Highway 64 East
+Waynesboro, TN" 37.8779678791948 -87.731076 35.3302404
+"Ponte Vedra Beach Branch Library
+101 Library Blvd.
+Ponte Vedra Beach, FL" 38.2200371411643 -81.3852899 30.2249017
+"Charlotte-Glades Library System
+2050 Forrest Nelson Blvd.
+Port Charlotte, FL" 38.2200371411643 -82.1224864 27.0014858
+"Conyers-Rockdale Library System
+864 Green Street
+Conyers, GA" 38.3215359216087 -84.0181108 33.6649281
+"Cordele-Crisp Carnegie Library
+115 East Eleventh Avenue
+Cordele, GA" 38.3215359216087 -83.7810959 31.9691477
+"Bradford County Public Library
+105 E. Jackson St.
+Starke, FL" 38.5469537352168 -82.108423 29.9453174
+"Blake Library
+2351 Se Monterey Road
+Stuart, FL" 38.5469537352168 -80.2235536 27.1947008
+"Erna Fergusson Library
+3401-A Monroe Ne
+Albuquerque, NM" 38.8180294746593 -106.5909166 35.1217394
+"Ernie Pyle Library
+900 Girard Blvd. Se
+Albuquerque, NM" 38.8180294746593 -106.6131332 35.0702243
+"Columbus Village Library
+112 W. Broadway
+Columbus, NM" 39.0357854503175 -107.6395155 31.8305064
+"Village Of Corona Public Library
+521 Main Street
+Corona, NM" 39.0357854503175 -105.5949114 34.2489861
+"Port Isabel Public Library
+213 N Yturria St
+Port Isabel, TX" 39.3169458983969 -97.212337 26.0764413
+"Calhoun County Public Library
+200 W Mahan St
+Port Lavaca, TX" 39.3169458983969 -96.628465 28.615415
+"Noonday Community Library
+16662 Cr 196
+Tyler, TX" 39.3479365712413 -95.4065408 32.237805
+"Tyler Public Library
+201 S College Ave
+Tyler, TX" 39.3479365712413 -95.301719 32.3496328
+"Bruton Memorial Library
+302 Mclendon Street
+Plant City, FL" 39.5816360203615 -82.1128641 28.0186323
+"West Regional Library
+8601 West Broward Blvd.
+Plantation, FL" 39.5816360203615 -80.2617246 26.1215938
+"Naples Branch Library
+650 Central Avenue
+Naples, FL" 39.7058312997109 -81.7989348 26.1464449
+"Vanderbilt Beach Branch Library
+788 Vanderbilt Beach Road
+Naples, FL" 39.7058312997109 -81.8049303 26.2503938
+"Thomasville Heights Branch
+1700 Thomasville Drive Se
+Atlanta, GA" 39.7308045732909 -84.356266 33.7037685
+"Washington Park-Annie L. Mcpheeters Branch
+1116 Martin Luther King, Jr., Dr.
+Atlanta, GA" 39.7308045732909 -84.4240721 33.7543161
+"Pittsburg-Camp County Public Library
+613 Quitman St
+Pittsburg, TX" 39.9990515152306 -94.978196 33.0007246
+"Yoakum County Library
+910 Ave E
+Plains, TX" 39.9990515152306 -102.8304458 33.1890335
+"Wichita Falls Public Library
+600 11th St
+Wichita Falls, TX" 40.1741932817478 -98.48859 33.9106141
+"Wildwood Civic Library
+94 Cypress Bend Dr
+Wildwood, TX" 40.1741932817478 -94.4387943 30.5171201
+"Selby Public Library
+1331 First Street
+Sarasota, FL" 40.26285648529 -82.5431663 27.3376748
+"Satellite Beach Public Library
+751 Jamaica Boulevard
+Satellite Beach, FL" 40.26285648529 -80.595525 28.1596381
+"Emery County Library - Ferron Branch
+55 North 200 West
+Ferron, UT" 40.4468688965521 -111.1363661 39.0908878
+"President Millard Fillmore Library
+25 South 100 West
+Fillmore, UT" 40.4468688965521 -112.3264722 38.9683053
+"El Paso Public Library - Judge Marquez
+610 N. Yarbrough
+El Paso, TX" 40.5740220470099 -106.3457191 31.742329
+"El Paso Public Library - Memorial Park
+3200 Copper
+El Paso, TX" 40.5740220470099 -106.4553256 31.7901123
+"Broxton Public Library
+105 Church Street
+Broxton, GA" 40.6301424089394 -82.8862569 31.6125919
+"Brunswick Glynn County Regional Library
+208 Gloucester Street
+Brunswick, GA" 40.6301424089394 -81.4959606 31.1484145
+"Gibbs Memorial Library
+326 Belair Road
+Evans, GA" 40.6444025773493 -82.140771 33.524287
+"Fairburn-Hobgood-Palmer Branch
+60 Valley View Drive
+Fairburn, GA" 40.6444025773493 -84.5849522 33.5667996
+"Singletary Memorial Library
+207 E 6th St
+Rusk, TX" 40.7872229232552 -95.1494291 31.7959482
+"Sabinal Public Library
+412 N Center St
+Sabinal, TX" 40.7872229232552 -99.4670719 29.3213376
+"Taliaferro County Library
+117 Askin Street
+Crawfordville, GA" 40.9822590987726 -82.8955219 33.5514613
+"Forsyth County Public Library System
+585 Dahlonega Road
+Cumming, GA" 40.9822590987726 -84.1317717 34.2205957
+"Cabot Public
+3084 Main St.
+Cabot, VT" 41.3710915741931 -72.310997 44.402111
+"Alice M. Ward Memorial
+27 Park St.
+Canaan, VT" 41.3710915741931 -71.539427 44.995766
+"West Orange Free Public Library
+46 Mt. Pleasant Avenue
+West Orange, NJ" 41.4041035882028 -74.2402907 40.7788707
+"Burlington County Library
+5 Pioneer Blvd
+Westampton, NJ" 41.4041035882028 -74.8206963 40.0146573
+"Sanpete County Bookmobile Library
+75 South State Street
+Fairview, UT" 41.5135353684589 -111.4392374 39.6264857
+"Davis County Library - Headquarters (Farmington)
+38 South 100 East
+Farmington, UT" 41.5135353684589 -111.8854707 40.9800418
+"Berlin Community Library
+285 Langford Street
+Berlin, GA" 41.6715308673272 -83.6238012 31.0690876
+"Blackshear Memorial Library
+600 South Main Street
+Blackshear, GA" 41.6715308673272 -82.238126 31.3021896
+"Westfield Memorial Library
+550 E. Broad Street
+Westfield, NJ" 41.9940688930169 -74.3422603 40.6564004
+"Westville Public Library
+1035 Broadway
+Westville, NJ" 41.9940688930169 -75.133969 39.861448
+"Norris Community Library
+p. o. box 1110
+Norris, TN" 42.3809037677477 -84.067974 36.1956343
+"Oak Ridge Public Library
+1401 Oak Ridge Turnpike
+Oak Ridge (In), TN" 42.3809037677477 -84.2567163 36.0145175
+"Hatch Public Library
+530 E. Hall
+Hatch, NM" 42.4650142827694 -107.1411171 32.6599268
+"Hillsboro Community Library
+316 Elenora Street
+Hillsboro, NM" 42.4650142827694 -107.566974 32.9209072
+"Glenwood Community Library
+14 Menges Lane
+Glenwood, NM" 42.6430686952741 -108.8836106 33.3129137
+"Mother Whiteside Memorial Library
+525 W. High St
+Grants, NM" 42.6430686952741 -107.8538697 35.1537199
+"Science Library At Mosi-Museum Of Science And
+4801 E Fowler Avenue
+Tampa, FL" 42.8397244196016 -82.4039417 28.0535966
+"Seminole Heights Branch Library
+4711 Central Ave.
+Tampa, FL" 42.8397244196016 -82.4550403 27.9884436
+"Austin Public Library - North Village Branch
+2505 Steck Ave.
+Austin, TX" 42.9260464719035 -97.7305032 30.362144
+"Austin Public Library - Oak Springs Branch
+3101 Oak Springs Dr.
+Austin, TX" 42.9260464719035 -97.699748 30.2729762
+"Summit County Library
+6505 North Landmark Drive 100
+Park City, UT" 43.0920607566289 -111.5471518 40.7258351
+"Parowan Public Library
+16 South Main Street
+Parowan, UT" 43.0920607566289 -112.8280774 37.8417169
+"Charlotte Public Library
+77 Yule St
+Charlotte, TX" 43.2084246803228 -98.7062689 28.8643391
+"Chico Public Library Inc
+106 W Jacksboro St
+Chico, TX" 43.2084246803228 -97.7982559 33.2946779
+"Chamblee Branch
+4115 Clairmont Rd
+Chamblee, GA" 43.3398763086649 -84.3089233 33.8823001
+"Embry Hills Branch
+3733 Chamblee-Tucker Road
+Chamblee, GA" 43.3398763086649 -84.2415226 33.8833991
+"Austin Memorial Library
+220 S Bonham Ave
+Cleveland, TX" 43.3907938963938 -95.0875582 30.3400353
+"Tarkington Community Library Inc
+3032 Fm 163 Rd
+Cleveland, TX" 43.3907938963938 -94.966036 30.310543
+"Rhome Public Library
+106b N Main St
+Rhome, TX" 43.5627846598533 -97.4721056 33.0532545
+"Richardson Public Library
+900 Civic Center Dr
+Richardson, TX" 43.5627846598533 -96.7320575 32.9601744
+"Cedar Park Public Library
+550 Discovery Blvd
+Cedar Park, TX" 43.5817294491824 -97.8239849 30.518893
+"Celina Public Library
+142 N Ohio Dr
+Celina, TX" 43.5817294491824 -96.7864928 33.3235445
+"Springfield Branch
+408 School Avenue
+Springfield, FL" 43.7833700244723 -85.6160148 30.1554552
+"Southeast Branch Library
+6670 Us 1 South
+St. Augustine, FL" 43.7833700244723 -81.3116671 29.758935
+"Keach Family Library
+1000 Terry Shamsie Blvd.
+Robstown, TX" 43.7915497028811 -97.6688843 27.7903032
+"Nueces County Keach Family Library
+1000 Terry Shamsie Blvd
+Robstown, TX" 43.7915497028811 -97.6688843 27.7903032
+"Marion Ed Hughes Public Library
+2712 Nederland Ave
+Nederland, TX" 43.8107315051539 -94.0012068 29.9643618
+"New Boston Public Library
+127 N Ellis St
+New Boston, TX" 43.8107315051539 -94.4158864 33.46047
+"Sterling County Public Library
+301 Main
+Sterling City, TX" 43.9589132198759 -100.987287 31.83553
+"Sherman County Public Library
+719 N Main
+Stratford, TX" 43.9589132198759 -102.076151 36.3403426
+"Roswell Public Library
+301 N. Pennsylvania Ave
+Roswell, NM" 43.9644926345582 -104.5260093 33.3954376
+"Ruidoso Public Library
+107 Kansas City Road
+Ruidoso, NM" 43.9644926345582 -105.6611967 33.3502238
+"Port St. Joe Branch
+110 Library Drive
+Port St. Joe, FL" 43.9832460226625 -85.2894693 29.8157469
+"Port St. John Public Library
+6500 Carole Ave.
+Port St. John, FL" 43.9832460226625 -80.780835 28.471752
+"Lake County Library System
+2401 Woodlea Rd.
+Tavares, FL" 44.1273040318551 -81.7530523 28.7886124
+"Tavares Public Library
+314 North New Hampshire Ave.
+Tavares, FL" 44.1273040318551 -81.7275087 28.8046398
+"St. Johns County Public Library
+1960 N. Ponce De Leon Blvd
+St. Augustine, FL" 44.1845866014054 -81.321386 29.909663
+"Anastasia Island Branch Library
+124 Seagrove Main St
+St. Augustine Beach, FL" 44.1845866014054 -81.2783354 29.8458803
+"Gruver City Library
+504 King St
+Gruver, TX" 44.2146453795621 -101.4055539 36.2634865
+"Guthrie CSD King County Consolidated Library
+301 Jaguar Ln
+Guthrie, TX" 44.2146453795621 -100.3243304 33.6234376
+"Octavia Fellin Public Library
+115 West Hill
+Gallup, NM" 44.2757134115913 -108.7411655 35.5252135
+"Gila Valley Library
+400 Highway 211
+Gila, NM" 44.2757134115913 -108.5774353 32.9636184
+"Madison County Library
+1315 Hwy 98 W
+Danielsville, GA" 44.4740307103434 -83.2001186 34.1182119
+"Ida Hilton Public Library
+1105 Northway
+Darien, GA" 44.4740307103434 -81.4333892 31.3806518
+"Desoto Trail Regional Library System
+145 East Broad Street
+Camilla, GA" 44.4791885144071 -84.2034894 31.2310358
+"Hickory Flat Public Library
+2740 East Cherokee Drive
+Canton, GA" 44.4791885144071 -84.4214352 34.1704298
+"Bayard Public Library
+1120 Central Ave.
+Bayard, NM" 44.4831851282767 -108.1389731 32.7577229
+"Belen Public Library
+333 Becker Avenue
+Belen, NM" 44.4831851282767 -106.7710303 34.6599415
+"Artesia Public Library
+306 W. Richardson Ave.
+Artesia, NM" 44.5187463317873 -104.399965 32.8400177
+"Aztec Public Library
+319 S. Ash
+Aztec, NM" 44.5187463317873 -107.9995867 36.8202549
+"Meridian Public Library
+118 N Main St
+Meridian, TX" 44.5714552833237 -97.6575495 31.9235475
+"Merkel Public Library
+100 Kent
+Merkel, TX" 44.5714552833237 -100.0124548 32.4709261
+"Lucy Maddox Memorial Library
+628 Columbia Road
+Blakely, GA" 44.6485238969248 -84.9525729 31.3713898
+"Fannin County Public Library
+400 West Main Street
+Blue Ridge, GA" 44.6485238969248 -84.3268084 34.864311
+"Loula V. York Branch Library
+525 Bacom Point Road
+Pahokee, FL" 44.6508992314987 -80.669869 26.821509
+"Paisley Library
+24954 Cr 42
+Paisley, FL" 44.6508992314987 -81.5422313 28.982741
+"David F. Cargo Public Library
+p.o. box 638
+Mora, NM" 44.7130742689538 -105.3300057 35.9742227
+"Moriarty Community Library
+202 South Broadway
+Moriarty, NM" 44.7130742689538 -106.0500836 35.0036146
+"Salado Public Library District
+1151 N Main St
+Salado, TX" 44.7464227214862 -97.533704 30.9565523
+"Tom Green County Library System
+113 W Beauregard Ave
+San Angelo, TX" 44.7464227214862 -100.4395376 31.4614493
+"Los Alamos County Library System
+2400 Central Avenue
+Los Alamos, NM" 44.769140845052 -106.304119 35.882861
+"White Rock Branch Library
+133 Longview Drive
+Los Alamos, NM" 44.769140845052 -106.2063501 35.8259612
+"Pueblo Of San Felipe Community Library
+24 Black Mesa Rd
+San Felipe, NM" 44.8192302714047 -106.5033811 35.3194504
+"Sandia Pueblo Learning Resource Center
+236 Sandia Day School Road
+Sandia Pueblo, NM" 44.8192302714047 -106.5713701 35.2591151
+"Peach County Public Libraries System
+315 Martin Luther King Jr. Drive
+Fort Valley, GA" 45.1603462323306 -83.8840346 32.5514125
+"Thomas Public Library
+213 Persons Street
+Fort Valley, GA" 45.1603462323306 -83.8877098 32.5559767
+"Portales Public Library
+218 S. Ave. B
+Portales, NM" 45.2658251446888 -103.3402993 34.1864581
+"Acoma Learning Center
+17a Knots Landing Road
+Pueblo Of Acoma, NM" 45.2658251446888 -107.6158203 35.0359556
+"Helen Hall Library
+100 W Walker St
+League City, TX" 45.3196791065458 -95.0930454 29.5043781
+"Real County Public Library
+225 Main St
+Leakey, TX" 45.3196791065458 -99.7617547 29.7265632
+"Red Boiling Springs Branch Library
+335 E Main Street
+Red Boiling Springs, TN" 45.481420074415 -85.8472064 36.5305213
+"Ridgely Public Library
+134 N. Main Street
+Ridgely, TN" 45.481420074415 -89.4874682 36.264416
+"Los Lunas Public Library
+460 Main St. Ne
+Los Lunas, NM" 45.7068806304281 -106.7396394 34.8097266
+"Lovington Public Library
+115 South Main St.
+Lovington, NM" 45.7068806304281 -103.3175852 33.2557444
+"Palmetto Branch Library
+923 6th Street West
+Palmetto, FL" 45.780486084624 -82.5753072 27.5159979
+"Bay County Public Library
+25 West Government Street
+Panama City, FL" 45.780486084624 -85.6631897 30.1534504
+"Pueblo Of Laguna Library
+p.o. box 194
+Laguna, NM" 46.0303217125428 -107.3828231 35.0367105
+"Thomas Branigan Memorial Library
+200 E. Picacho Ave.
+Las Cruces, NM" 46.0303217125428 -106.7783912 32.3156679
+"Alamo Public Library
+416 N Tower Rd
+Alamo, TX" 46.0485287723397 -98.1100378 26.1862124
+"Fernando De La Rosa Memorial Library
+416 N. Tower Rd.
+Alamo, TX" 46.0485287723397 -98.1100378 26.1862124
+"Welaka Womans Club Library
+644 Cr 309
+Welaka, FL" 46.1816361939012 -81.6713556 29.4769419
+"Wellington Branch Library
+1951 Royal Fern Drive
+Wellington, FL" 46.1816361939012 -80.2257201 26.6522962
+"Red Oak Public Library
+200 Lakeview Pkwy
+Red Oak, TX" 46.2318148125953 -96.8263508 32.5140678
+"Dennis M Oconnor Public Library
+815 Commerce St
+Refugio, TX" 46.2318148125953 -97.2756134 28.2960032
+"Jemez Pueblo Community Library
+020 Mission Rd
+Jemez Pueblo, NM" 46.4999290817092 -106.7247496 35.6124916
+"Jemez Springs Public Library
+030 Jemez Plaza, Hwy. 4
+Jemez Springs, NM" 46.4999290817092 -106.606042 35.814056
+"Lomas Tramway Library
+908 Eastridge Ne
+Albuquerque, NM" 46.5503324722073 -106.4979318 35.0857184
+"Los Griegos Library
+1000 Griegos Rd Nw
+Albuquerque, NM" 46.5503324722073 -106.6493603 35.1322928
+"Carnegie Public Library
+500 National Avenue
+Las Vegas, NM" 46.5833801683701 -105.215299 35.5974656
+"Lordsburg-Hidalgo Library
+208 East Third St.
+Lordsburg, NM" 46.5833801683701 -108.7076973 32.3481115
+"Cedartown Library
+245 East Avenue
+Cedartown, GA" 46.7287600671544 -85.2517998 34.0148876
+"Centerville Branch Library
+310 E Church Street
+Centerville, GA" 46.7287600671544 -83.681986 32.623398
+"Clovis Carver Public Library
+701 Main
+Clovis, NM" 46.8609814863947 -103.2045342 34.4051993
+"Irene S. Sweetkind Public Library
+6515 Hoochaneetsa Blvd.
+Cochiti Lake, NM" 46.8609814863947 -106.3365128 35.6465578
+"Remington-Carpenter Township Public Library
+105 North Ohio Street
+Remington, IN" 47.0893866190069 -87.150656 40.761629
+"Jasper County Public Library
+208 West Susan Street
+Rensselaer, IN" 47.0893866190069 -87.15409 40.93848
+"Bullard Community Library
+211 W Main St
+Bullard, TX" 47.171082451181 -95.3220531 32.1387101
+"Bulverde-Spring Branch Library
+131 Bulverde Crossing
+Bulverde, TX" 47.171082451181 -98.422018 29.7943915
+"Salt Lake City Public Library - Day-Riverside
+1575 West 1000 North
+Salt Lake City, UT" 47.4293928586811 -111.9360222 40.7905146
+"Salt Lake City Public Library - Sprague
+2131 South 1100 East
+Salt Lake City, UT" 47.4293928586811 -111.8593456 40.7245799
+"Hale Center Public Library Inc
+609 Main St
+Hale Center, TX" 47.4859004886569 -101.845705 34.063676
+"Friench Simpson Memorial Library
+705 E 4th St
+Hallettsville, TX" 47.4859004886569 -96.9378222 29.4446597
+"North Valley Library
+7704 2nd St. Nw
+Albuquerque, NM" 47.4917934173877 -106.6281215 35.1673382
+"San Pedro Library
+5600 Trumbull Se
+Albuquerque, NM" 47.4917934173877 -106.5778395 35.0688593
+"Twiggs County Public Library
+151 Ash Street
+Jeffersonville, GA" 47.7951504986965 -83.3424114 32.6893165
+"Wayne County Library
+759 Sunset Boulevard
+Jesup, GA" 47.7951504986965 -81.9043666 31.6119501
+"Rio Abajo Community Library
+28 South Calle De Centro
+La Joya, NM" 47.8085889634442 -106.8466737 34.3424892
+"Laguna Public Library
+29 Rodeo Drive
+Laguna, NM" 47.8085889634442 -107.3719713 35.0434993
+"Elsa Public Library
+711 N Hidalgo St
+Elsa, TX" 47.8600661142059 -98.001741 26.2994558
+"Rains County Public Library
+150 Doris Briggs Pkwy
+Emory, TX" 47.8600661142059 -95.7767123 32.8807645
+"Arthur Johnson Memorial Library
+244 Cook Avenue
+Raton, NM" 47.8844630248912 -104.4404049 36.901294
+"Red River Public Library
+702 E. Main St.
+Red River, NM" 47.8844630248912 -105.4010982 36.7049671
+"Whitehouse Community Library
+107 Bascom Rd
+Whitehouse, TX" 47.9159150249327 -95.2206316 32.2278239
+"Whitesboro Public Library
+308 W Main St
+Whitesboro, TX" 47.9159150249327 -96.9095987 33.6558801
+"Magdalena Public Library
+108 N. Main Street
+Magdalena, NM" 47.9256075985465 -107.244053 34.1183129
+"Mescalero Community Library
+148 Cottonwood Drive
+Mescalero, NM" 47.9256075985465 -105.7824891 33.1568438
+"Marian Anderson Public Library
+424 Lee Street
+Blackshear, GA" 47.9404947865092 -82.2474251 31.300149
+"Union County Public Library
+194 Hospital Street
+Blairsville, GA" 47.9404947865092 -83.961924 34.872183
+"Sherman Public Library
+421 N Travis St
+Sherman, TX" 47.9628496767466 -96.6099079 33.6401513
+"Hoffie And Lank Wolters Shiner Public Library
+115 E. Wolters-2nd. St.
+Shiner, TX" 47.9628496767466 -97.1682844 29.4268303
+"Northwest Regional Library System
+898 West 11th Street
+Panama City, FL" 48.1212825328035 -85.672728 30.1685939
+"Panama City Beach Library
+116 South Arnold Road
+Panama City Beach, FL" 48.1212825328035 -85.8884018 30.228512
+"South Dade Regional
+10750 Sw 211 Street
+Miami, FL" 48.2241393816503 -80.3945485 25.5703129
+"Tamiami Branch Library
+13250-52 S.W. Eighth St.
+Miami, FL" 48.2241393816503 -80.1926576 25.7664115
+"Port Orange Library
+1000 City Center Circle
+Port Orange, FL" 48.2693175317468 -81.0207249 29.1265173
+"Saint Lucie West Library
+520 Nw California Blvd
+Port Saint Lucie, FL" 48.2693175317468 -80.3982428 27.318101
+"North Columbus Branch Library
+5689 Armour Road
+Columbus, GA" 48.3030863903877 -84.9543614 32.5258517
+"South Columbus Branch Library
+2034 S Lumpkin Road
+Columbus, GA" 48.3030863903877 -84.9517372 32.4151038
+"Monroe Twp Public Library-Gloucester
+306 S. Main Street
+Williamstown, NJ" 48.5194583103576 -74.992215 39.684099
+"Willingboro Public Library
+220 Willingboro Parkway
+Willingboro, NJ" 48.5194583103576 -74.8697532 40.0379717
+"Emery County Library - Cleveland Branch
+45 West Main
+Cleveland, UT" 48.5947387491414 -110.8524432 39.3487135
+"Summit County Library - Coalville Branch Library
+10 North Main
+Coalville, UT" 48.5947387491414 -111.3984244 40.9168709
+"Mountainair Public Library
+109 N. Roosevelt
+Mountainair, NM" 48.6226631519029 -106.2434752 34.5212655
+"Poe Tsawa Community Library
+232 Popay Avenue
+Ohkay Owingeh, NM" 48.6226631519029 -106.071038 36.0532295
+"Inglewood Branch Library
+4312 Gallatin Road
+Nashville, TN" 48.8541364661587 -86.7248365 36.2257292
+"Library Service For Deaf And Hard Of Hearing
+615 Church Street
+Nashville, TN" 48.8541364661587 -86.7815583 36.1617302
+"Austin Public Library - Faulk Central Library
+800 Guadalupe St.
+Austin, TX" 48.9761872741551 -97.7460168 30.2713021
+"Austin Public Library - Hampton Branch At Oak Hill
+5125 Convict Hill Rd.
+Austin, TX" 48.9761872741551 -97.8550267 30.2176045
+"Miami Lakes-Palm Springs North
+6699 Windmill Gate Road
+Miami Lakes, FL" 49.0362784070831 -80.3088965 25.9234876
+"Brockway Memorial Library
+10021 Northeast Second Avenue
+Miami Shores, FL" 49.0362784070831 -80.1932038 25.867456
+"Flagler County Public Library
+2500 Palm Coast Parkway Nw
+Palm Coast, FL" 49.0777077176714 -81.2381667 29.5541683
+"East Lake Community Library
+4125 East Lake Road
+Palm Harbor, FL" 49.0777077176714 -82.6936977 28.1111518
+"Dickinson Public Library
+4411 Hwy 3
+Dickinson, TX" 49.0788412966152 -95.0494801 29.4597382
+"Dilley Public Library
+231 W Fm 117
+Dilley, TX" 49.0788412966152 -99.1599087 28.6645372
+"Clark Maxwell, Jr. Library
+1405 Cr 526-A
+Sumterville, FL" 49.118804937065 -82.0672845 28.7414348
+"Sunrise Dan Pearl Branch
+10500 W. Oakland Park Blvd.
+Sunrise, FL" 49.118804937065 -80.289339 26.168873
+"Green Hills Branch Library
+3701 Benham Avenue
+Nashville, TN" 49.131241132101 -86.8091029 36.109904
+"Hadley Park Branch Library
+1038 28th Avenue, North
+Nashville, TN" 49.131241132101 -86.8203359 36.1670606
+"West End Branch
+525 Peeples Street, S.W.
+Atlanta, GA" 49.1329012707337 -84.4208876 33.7403112
+"Auburn Library
+7 Seventh Street
+Auburn, GA" 49.1329012707337 -83.824385 34.011302
+"Roddenbery Memorial Library System
+320 North Broad Street
+Cairo, GA" 49.2874360194625 -84.2081565 30.87941
+"Calhoun-Gordon County Library
+100 N. Park Street
+Calhoun, GA" 49.2874360194625 -84.9524155 34.5032269
+"Roanoke Public Library
+308 S Walnut St
+Roanoke, TX" 49.4200402316983 -97.2277269 32.9955809
+"Coke County Library
+706 Austin St
+Robert Lee, TX" 49.4200402316983 -100.4857276 31.8933197
+"Odem Public Library
+516 Voss Ave
+Odem, TX" 49.5195154525608 -97.582715 27.949696
+"Ector County Library
+321 W 5th St
+Odessa, TX" 49.5195154525608 -102.3718908 31.8471695
+"Taylor Community Library
+710 South Main Street
+Taylor, PA" 49.6354946766028 -75.7178398 41.3792757
+"Indian Valley Public Library
+100 East Church Ave
+Telford, PA" 49.6354946766028 -75.332972 40.329805
+"Albuquerque-Bernalillo County Library System
+501 Copper Ave. Nw
+Albuquerque, NM" 49.6504704905527 -106.6531118 35.0861328
+"Cherry Hills Library
+6901 Barstow Ne
+Albuquerque, NM" 49.6504704905527 -106.5563423 35.1589489
+"Bostwick Community Library
+125 Tillman St.
+Palatka, FL" 49.6877890831234 -81.6334438 29.7711428
+"Putnam County Library System
+601 College Rd.
+Palatka, FL" 49.6877890831234 -81.683618 29.642982
+"Woodbury Public Library
+33 Delaware Street
+Woodbury, NJ" 49.8142748270701 -75.1545964 39.8382224
+"Alfred H. Baumann Library-West Paterso
+7 Brophy Lane
+Woodland Park, NJ" 49.8142748270701 -74.1993902 40.8963727
+"Melton Public Library
+8496 West College Street
+French Lick, IN" 49.8362208104234 -86.617472 38.5489839
+"Galveston Branch Library
+304 East Jackson
+Galveston, IN" 49.8362208104234 -86.187185 40.579151
+"Wyckoff Free Public Library
+200 Woodland Avenue
+Wyckoff, NJ" 49.9663266973527 -74.1671984 41.0079054
+"El Pueblo De Abiquiu Library And Community Center
+p.o. box 838
+Abiquiu, NM" 49.9663266973527 -106.3186397 36.207241
+"Adairsville Branch Library
+202 North Main Street
+Adairsville, GA" 50.0513919164612 -84.934105 34.370976
+"Cook County Library
+213 East Second Street
+Adel, GA" 50.0513919164612 -83.422477 31.140451
+"Country Walk Branch Library
+15433 S.W. 137th Ave.
+Miami, FL" 50.0943225518695 -80.4144079 25.6240901
+"Culmer-Overtown Branch
+350 Nw 13th Street
+Miami, FL" 50.0943225518695 -80.201065 25.786305
+"South Broadway-Frances Parrish Library
+1025 Broadway Se
+Albuquerque, NM" 50.1346817696879 -106.6461001 35.0728412
+"South Valley Library
+3904 Isleta Blvd Sw
+Albuquerque, NM" 50.1346817696879 -106.6824074 35.0187712
+"Cedar Rapids Public Library
+7600 Edgewood Rd Sw
+Cedar Rapids, IA" 50.1550856147198 -91.7152645 41.9056229
+"East Central Library Services
+222 3rd St., Suite 402
+Cedar Rapids, IA" 50.1550856147198 -91.677313 41.976785
+"Nephi Public Library
+21 East 100 North
+Nephi, UT" 50.4038636549552 -111.8357351 39.7100147
+"Washington County Library - New Harmony Branch
+34 South 2900 East
+New Harmony, UT" 50.4038636549552 -113.242777 37.481442
+"Wilkinsburg Public Library - Eastridge Branch
+1900 Graham Blvd.
+Pittsburgh, PA" 50.6373599614369 -79.8566584 40.4566328
+"William E. Anderson Library Of Penn Hills
+1037 Stotler Road
+Pittsburgh, PA" 50.6373599614369 -79.8104986 40.4827185
+"Swayzee Public Library
+301 South Washington Street
+Swayzee, IN" 50.8943101579406 -85.8255482 40.5064251
+"Syracuse-Turkey Creek Township Public Library
+115 East Main Street
+Syracuse, IN" 50.8943101579406 -85.7516625 41.4279752
+"Poinciana Library
+33 Doverplum Road
+Poinciana, FL" 50.9865191750438 -81.4533216 28.1482772
+"Polk City Library
+215 S. Bougainvillea Street
+Polk City, FL" 50.9865191750438 -81.8236565 28.1802843
+"Lakes Of The Meadow Branch Library
+4284 S.W. 152nd Ave
+Miami, FL" 51.2461745207565 -80.4402573 25.7265638
+"Lemon City Branch
+430 Ne 61st Street
+Miami, FL" 51.2461745207565 -80.1871689 25.8322894
+"Washington County Library - Enterprise Branch
+393 South 200 East
+Enterprise, UT" 51.3121909739344 -113.716546 37.5670414
+"Ephraim Public Library
+30 South Main Street
+Ephraim, UT" 51.3121909739344 -111.5871415 39.3591316
+"Taos Public Library
+402 Camino De La Placita
+Taos, NM" 51.3145704718418 -105.5744716 36.4096609
+"Tatum Community Library
+323 E. Broadway
+Tatum, NM" 51.3145704718418 -103.3142588 33.2567692
+"Duncan Memorial Library
+610 Antique Country Drive
+Casey, IA" 51.3641541918689 -94.5192546 41.5057408
+"Cedar Falls Public Library
+524 Main St
+Cedar Falls, IA" 51.3641541918689 -92.4447928 42.5336326
+"The Colony Public Library
+6800 Main St
+The Colony, TX" 51.3666607511523 -96.891477 33.0971577
+"Live Oak County Library - Three Rivers Branch Library
+102 E. Leroy
+Three Rivers, TX" 51.3666607511523 -98.1826458 28.4583138
+"Slater Hahira Library
+220 East Main Street
+Hahira, GA" 51.3884577039876 -83.3686425 30.9915667
+"Harris County Public Library
+138 North College Street
+Hamilton, GA" 51.3884577039876 -84.874306 32.760913
+"Oldsmar Public Library
+101 State St. W
+Oldsmar, FL" 51.4413300652207 -82.6636086 28.0372341
+"Orange City Dickinson Memorial Library
+148 Albertus Way
+Orange City, FL" 51.4413300652207 -81.298418 28.947881
+"Orange Park Branch Library
+2054 Plainfield Avenue
+Orange Park, FL" 51.4690780818405 -81.7071508 30.1645369
+"Alafaya Library
+12000 East Colonial Drive
+Orlando, FL" 51.4690780818405 -81.2024188 28.5655823
+"San Juan County Library - Monticello Branch Library
+80 N Main
+Monticello, UT" 51.474435519541 -109.3424243 37.8734934
+"Morgan County Library
+50 North 100 West
+Morgan, UT" 51.474435519541 -111.679244 41.0371659
+"Wood-Ridge Memorial Library
+231 Hackensack Street
+Wood-Ridge, NJ" 51.5279136035769 -74.0818308 40.8481887
+"Woodstown-Pilesgrove Library
+14 School Lane
+Woodstown, NJ" 51.5279136035769 -75.321509 39.651752
+"West Deptford Free Public Library
+420 Crown Point Road
+West Deptford, NJ" 51.7098104048716 -75.1314257 39.8702239
+"West Long Branch Public Library
+95 Poplar Avenue
+West Long Branch, NJ" 51.7098104048716 -74.0164825 40.290714
+"Coleman Public Library
+402 S Commercial Ave
+Coleman, TX" 52.0263495064696 -99.423045 31.8280375
+"Colleyville Public Library
+110 Main St
+Colleyville, TX" 52.0263495064696 -97.1570404 32.8850726
+"Fort Braden Branch Library
+16327 Blountstown Highway
+Tallahassee, FL" 52.1119835835496 -84.532779 30.426426
+"Lake Jackson Branch Library
+3840-302 North Monroe St.
+Tallahassee, FL" 52.1119835835496 -84.281161 30.444908
+"Alamogordo Public Library
+920 Oregon Avenue
+Alamogordo, NM" 52.1332382669107 -105.944516 32.8990858
+"Alamosa-Robert L. Murphy Memorial Library
+6900 Gonzales Rd. Sw
+Albuquerque, NM" 52.1332382669107 -106.7103233 35.071366
+"Moise Memorial Library
+208 5th St.
+Santa Rosa, NM" 52.5230385972326 -104.6851229 34.9415913
+"Santo Domingo Pueblo Library
+p.o. box 160
+Santo Domingo Pueblo, NM" 52.5230385972326 -106.3658588 35.5147562
+"Washington County Library - Santa Clara Branch
+1099 North Lava Flow Drive
+St. George, UT" 52.7804974039865 -113.6367574 37.1273108
+"Washington County Library - St. George Main Branch
+88 West 100 South
+St. George, UT" 52.7804974039865 -113.5850737 37.1068497
+"Unger Memorial Library
+825 N Austin St
+Plainview, TX" 52.7977762144839 -101.704538 34.189405
+"Plano Public Library System
+2501 Coit Rd
+Plano, TX" 52.7977762144839 -96.770871 33.0322804
+"North County Regional Library
+11303 Campus Dr.
+Palm Beach Garden, FL" 52.9157270754603 -80.0833336 26.842048
+"Peter Julie Cummings Library
+2551 S.W. Matheson
+Palm City, FL" 52.9157270754603 -80.2768559 27.1733665
+"Fred Macaron Library
+600 Colbert Avenue
+Springer, NM" 53.0918503437674 -104.5971808 36.3633692
+"Sunland Park Community Library
+984 Mcnutt Rd
+Sunland Park, NM" 53.0918503437674 -106.5555596 31.7958434
+"Oakland Park Library
+1298 N.E. 37 Street
+Oakland Park, FL" 53.1489119875224 -80.1299571 26.1729247
+"Freedom Public Library
+5870 S.W. 95th Street
+Ocala, FL" 53.1489119875224 -82.2168918 29.0840353
+"East Mountain Library
+p.o. box 1570
+Tijeras, NM" 53.3744179901558 -106.3878905 35.0795244
+"Truchas Community Library
+60 County Road 75
+Truchas, NM" 53.3744179901558 -105.808267 36.0427872
+"Orena Humphreys Public Library
+900 Main Street, Suite 1
+Whitwell, TN" 53.4000975191582 -85.519439 35.200752
+"Franklin County Public Library
+105 South Porter Street
+Winchester, TN" 53.4000975191582 -86.1103525 35.1868814
+"Egypt Lake Partnership Library
+3403 West Lambright Street
+Tampa, FL" 53.5299308196515 -82.4987959 28.0071263
+"Hillsborough County Public Library Cooperative
+900 North Ashley Drive
+Tampa, FL" 53.5299308196515 -82.4623379 27.9509263
+"Irion County Library
+111 W Fayette Ave
+Mertzon, TX" 53.5794901288558 -100.8230245 31.2594605
+"Mesquite Public Library
+300 W Grubb Dr
+Mesquite, TX" 53.5794901288558 -96.6016042 32.7750271
+"Frankston Depot Library
+159 W Railroad Ave
+Frankston, TX" 53.6866319404013 -95.5038626 32.0491786
+"Pioneer Memorial Library
+115 W Main St
+Fredericksburg, TX" 53.6866319404013 -98.8732864 30.2757836
+"Cornelia-Habersham Co. Lib.
+301 North Main
+Cornelia, GA" 53.7734246103236 -83.528659 34.513909
+"Newton County Library System
+7116 Floyd Street
+Covington, GA" 53.7734246103236 -83.8392981 33.599275
+"Center Point Public Library
+720 Main St
+Center Point, IA" 53.8071258146646 -91.785026 42.190654
+"Drake Public Library
+115 Drake Ave
+Centerville, IA" 53.8071258146646 -92.8726552 40.7323142
+"Questa Public Library
+6 1-2 Municipal Park Road
+Questa, NM" 53.9610675487748 -105.59242 36.72524
+"Talpa Community Center Library
+4 Archuleta Rd
+Ranchos De Taos, NM" 53.9610675487748 -105.5962096 36.3420704
+"Truth Or Consequences Public Library
+325 Library Lane
+Truth Or Consequence, NM" 54.1121345899765 -107.2532992 33.1333537
+"Schlientz Memorial Library
+602 S. Second St.
+Tucumcari, NM" 54.1121345899765 -103.7261267 35.1737906
+"South Whitley-Cleveland Township Public Library
+201 East Front Street
+South Whitley, IN" 54.1885993421186 -85.6261509 41.084801
+"Speedway Public Library
+5633 West 25th Street
+Speedway, IN" 54.1885993421186 -86.25986 39.801384
+"Karnes City Public Library
+302 S Panna Maria Ave
+Karnes City, TX" 54.2768338752578 -97.9011669 28.8829338
+"Kaufman County Library
+3790 S Houston St
+Kaufman, TX" 54.2768338752578 -96.316999 32.5649137
+"Westgate Library
+1300 Delgado Sw
+Albuquerque, NM" 54.5411331095286 -106.7515645 35.0511771
+"Wyoming Library
+8205 Apache Ne
+Albuquerque, NM" 54.5411331095286 -106.5526815 35.1078527
+"East Point Branch
+2757 Main Street
+East Point, GA" 54.5902615398774 -84.4406947 33.6803507
+"Murrell Memorial-Dodge County Public Library
+505 Second Avenue Sw
+Eastman, GA" 54.5902615398774 -83.1798609 32.192918
+"Foard County Library
+110 E California
+Crowell, TX" 54.6351555093418 -99.7202123 33.9829702
+"Crowley Public Library
+409 S Oak St
+Crowley, TX" 54.6351555093418 -97.366281 32.5746613
+"Southwest Regional
+3665 Cascade Road, S.W.
+Atlanta, GA" 54.802562849025 -84.5068224 33.7245501
+"Stewart-Lakewood
+2893 Lakewood Avenue
+Atlanta, GA" 54.802562849025 -84.4019745 33.6971678
+"Westtown Branch Library
+2124 Waddell Avenue
+Albany, GA" 55.0341872814063 -84.200708 31.5664845
+"Alma-Bacon County Public Library
+217 North Pierce Street
+Alma, GA" 55.0341872814063 -82.46208 31.5424165
+"Weed Community Library
+p.o. box 511
+Weed, NM" 55.0929898581581 -105.517031 32.8021809
+"Zia Enrichment Library
+162b Zia Blvd.
+Zia Pueblo, NM" 55.0929898581581 -106.7298883 35.5000461
+"Tamarac Popular Branch
+8601 West Mcnab Road
+Tamarac, FL" 55.1990235608994 -80.266678 26.208673
+"78th Street Community Library
+7625 Palm River Road
+Tampa, FL" 55.1990235608994 -82.3716056 27.9403865
+"The Public Library
+515 West College Avenue
+Silver City, NM" 55.2973751763177 -108.279187 32.774709
+"Socorro Public Library
+401 Park Street
+Socorro, NM" 55.2973751763177 -106.8939984 34.0550747
+"Edgewater Library
+5049 Edgewater Drive
+Orlando, FL" 55.5105747659929 -81.4085692 28.6053557
+"Herndon Library
+4324 East Colonial Drive
+Orlando, FL" 55.5105747659929 -81.3314182 28.5523373
+"Newton Town Library
+51 South Center Street
+Newton, UT" 55.5393702535548 -111.989029 41.8612798
+"North Logan City Library
+475 East 2500 North
+North Logan, UT" 55.5393702535548 -111.8206049 41.7782437
+"Orangeburg County Library - North Branch Library
+9316 North Road
+North, SC" 55.5644602110943 -81.1041717 33.6156186
+"Aiken County Library - North Augusta Branch Library (Nancy Carson Library)
+135 Edgefield Rd.
+North Augusta, SC" 55.5644602110943 -81.9524734 33.5229852
+"Crosby County Library
+114 W Aspen St
+Crosbyton, TX" 55.6216798136249 -101.2382534 33.6588803
+"Cross Plains Public Library
+149 N Main St
+Cross Plains, TX" 55.6216798136249 -99.1657409 32.1259568
+"Crystal City Memorial Library
+101 E Dimmit St
+Crystal City, TX" 55.6222111655712 -99.8283746 28.6786245
+"Cuero Public Library
+207 E Main St
+Cuero, TX" 55.6222111655712 -97.5009197 28.981432
+"Salt Lake County Library - Ruth Vine Tyler Library
+8041 S. Wood Street(55 W)
+Midvale, UT" 55.7959881062931 -111.8926753 40.6050211
+"Milford Public Library
+400 South 100 West
+Milford, UT" 55.7959881062931 -113.0123145 38.3951736
+"Calhoun County Branch Library
+227 East Hartford Street
+Edison, GA" 56.0369091323638 -84.7435391 31.558071
+"Elbert County Public Library System
+345 Heard Street
+Elberton, GA" 56.0369091323638 -82.859526 34.107382
+"Oaklyn Branch
+3001 Oaklyn Drive
+Evansville, IN" 56.0622673753759 -87.5115526 38.0107178
+"Red Bank Branch
+120 S Red Bank Rd
+Evansville, IN" 56.0622673753759 -87.6364085 37.977988
+"Winter Park Public Library
+460 E. New England Avenue
+Winter Park, FL" 56.1487429048879 -81.3462982 28.5956179
+"A.F. Knotts Public Library
+11 56th Street
+Yankeetown, FL" 56.1487429048879 -82.7094844 29.0333061
+"West Milford Township Library
+1490 Union Valley Road
+West Milford, NJ" 56.4812206760286 -74.368828 41.1304582
+"West New York Free Public Library
+425 60th Street
+West New York, NJ" 56.4812206760286 -74.0154681 40.7881182
+"Southwest Branch Library
+12385 Sorrento Road A-2
+Pensacola, FL" 56.6107634261656 -87.4026046 30.3404308
+"Subregional Talking Book Library
+200 W Gregory St.
+Pensacola, FL" 56.6107634261656 -87.219436 30.415144
+"Alta Community Library
+1009 Main St
+Alta, IA" 56.6322711130113 -95.3040361 42.6645924
+"Alta Vista Public Library
+203 S White Ave
+Alta Vista, IA" 56.6322711130113 -92.4169007 43.1964159
+"Morris County Library
+30 E. Hanover Avenue
+Whippany, NJ" 56.7854475134725 -74.4140416 40.8205773
+"Whippanong Library-Hanover Township
+1000 Route 10
+Whippany, NJ" 56.7854475134725 -74.433382 40.8306327
+"Lumpkin County Library
+342 Courthouse Hill
+Dahlonega, GA" 56.814787557119 -83.9808798 34.5357058
+"New Georgia Public Library
+94 Ridge Road
+Dallas, GA" 56.814787557119 -84.8879518 33.8079734
+"Spartanburg County Public Library - Chesnee Branch Library
+100 Pickens Avenue
+Chesnee, SC" 56.9631332739581 -81.8602786 35.138556
+"Chester County Library
+100 Center Street
+Chester, SC" 56.9631332739581 -81.2150005 34.7050242
+"Salt Lake County Library - Riverton Library
+12877 South 1830 West
+Riverton, UT" 57.1033622998434 -111.9401788 40.5172425
+"Duchesne County Library - Roosevelt Branch Library
+70 W Lagoon
+Roosevelt, UT" 57.1033622998434 -109.992909 40.2994517
+"Borden Library
+117 West Main Street
+Borden, IN" 57.3029645588612 -85.947676 38.468312
+"Boswell-Grant Township Public Library
+101 East Main Street
+Boswell, IN" 57.3029645588612 -87.38154 40.518458
+"Dr. Clotilde P. Garcia Public Library
+5930 Brockhampton
+Corpus Christi, TX" 57.3198065603302 -97.3808616 27.669204
+"La Retama Central Library
+805 Comanche St.
+Corpus Christi, TX" 57.3198065603302 -97.3990879 27.7927313
+"Shuter Library Of Angel Fire
+11 South Angel Fire Road
+Angel Fire, NM" 57.348073302658 -105.278266 36.389591
+"Valley Public Library
+635 Church Street
+Anthony, NM" 57.348073302658 -106.600689 32.0029955
+"Duval County-San Diego Public Library
+315 S Dr E E Dunlap St
+San Diego, TX" 57.3853710007398 -98.2396917 27.7613186
+"San Juan Public Library
+1010 S Standard Ave
+San Juan, TX" 57.3853710007398 -98.1595991 26.1844931
+"Glascock County
+738 Railroad Street
+Gibson, GA" 57.4715019792767 -82.5929014 33.2305922
+"Glennville Public Library
+408 East Barnard Street
+Glennville, GA" 57.4715019792767 -81.9241227 31.9349372
+"Garrett Public Library
+107 West Houston
+Garrett, IN" 57.6320087407189 -85.135994 41.3482709
+"Black Oak Branch
+5921 W 25th Avenue
+Gary, IN" 57.6320087407189 -87.4103498 41.5731033
+"Moore Memorial Public Library
+1701 9th Ave N
+Texas City, TX" 57.6407917959008 -94.9201254 29.3923504
+"Texline Public Library
+517 S 2nd St
+Texline, TX" 57.6407917959008 -103.0152792 36.3715494
+"North Shore Branch
+7501 Collins Ave
+Miami Beach, FL" 57.8079062017335 -80.1207026 25.8609307
+"South Shore Branch
+225 Washington Ave.
+Miami Beach, FL" 57.8079062017335 -80.134457 25.771489
+"Esperanza Branch
+5600 Esperanza Dr., Nw
+Albuquerque, NM" 57.8271578500013 -106.7003834 35.083153
+"Juan Tabo Library
+3407 Juan Tabo Blvd. Ne
+Albuquerque, NM" 57.8271578500013 -106.5165625 35.1206525
+"Mt. Pleasant Public Library
+24 East Main Street
+Mt. Pleasant, UT" 57.9242313842333 -111.4546717 39.5465161
+"Murray Public Library
+166 East 5300 South
+Murray, UT" 57.9242313842333 -111.8863943 40.6556811
+"Effie Wilton Hebert Public Library
+2025 Merriman St
+Port Neches, TX" 58.3095107984501 -93.95507 29.9800301
+"Calhoun County Public Library - Port Oconnor Branch Library
+P. O. Box 424
+Port Oconnor, TX" 58.3095107984501 -96.4053596 28.4475898
+"Sharon Forks Library
+2820 Old Atlanta Road
+Cumming, GA" 58.4592047574291 -84.1565526 34.1187797
+"Randolph County Branch Library
+200 East Pearl Street
+Cuthbert, GA" 58.4592047574291 -84.7901575 31.7718586
+"New Brighton Public Library
+1021 3rd Ave
+New Brighton, PA" 58.6383472609809 -80.311644 40.7327926
+"New Castle Public Library
+207 East North Street
+New Castle, PA" 58.6383472609809 -80.3439037 41.0017047
+"Gaston Park Branch
+1040 South Third Street
+Memphis, TN" 58.8289237963935 -90.0550895 35.1190629
+"Highland Branch
+460 South Highland
+Memphis, TN" 58.8289237963935 -89.9451365 35.1189378
+"Charlton County Public Library
+701 North Cross Street
+Folkston, GA" 58.8497187646321 -81.99411 30.8398443
+"Forest Park Branch Library
+696 Main Street
+Forest Park, GA" 58.8497187646321 -84.367292 33.622231
+"New Port Richey Public Library
+5939 Main Street
+New Port Richey, FL" 58.9345288774622 -82.7158375 28.2504379
+"Regency Park Branch Library
+9701 Little Road
+New Port Richey, FL" 58.9345288774622 -82.6728793 28.2984069
+"Ooltewah-Collegedale Branch Library
+9318 Apison Pike
+Ooltewah, TN" 59.0186690745184 -85.0706695 35.0608714
+"W. G. Rhea Public Library
+400 West Washington Street
+Paris, TN" 59.0186690745184 -88.32873 36.3030864
+"Menard Public Library
+105 E Mission St
+Menard, TX" 59.232225070961 -99.7838714 30.9146649
+"Mercedes Memorial Library
+434 S Ohio St
+Mercedes, TX" 59.232225070961 -97.9118358 26.1472276
+"Camden County Public Library
+1410 Highway 40 East
+Kingsland, GA" 59.3091688640511 -81.6456403 30.787004
+"Cherokee Regional Library System
+305 South Duke Street
+Lafayette, GA" 59.3091688640511 -85.280923 34.702476
+"Dillsboro Public Library
+10151 Library Lane
+Dillsboro, IN" 59.3590960281938 -85.055496 39.0194044
+"Dublin Public Library
+2249 East Cumberland
+Dublin, IN" 59.3590960281938 -85.20819 39.811668
+"Lytle Public Library
+19325 W Fm 2790 S
+Lytle, TX" 59.4393835750785 -98.8049024 29.2409143
+"Tri-County Library
+132 E Market St
+Mabank, TX" 59.4393835750785 -96.09977 32.365834
+"The Villages Public Library
+3010 Saddlebrook Lane
+The Villages, FL" 59.4729193300229 -82.0009587 28.9314005
+"Thonotosassa Branch Library
+10715 Main St.
+Thonotosassa, FL" 59.4729193300229 -82.2948444 28.0576409
+"Oliver La Farge Library
+1730 Llano Street
+Santa Fe, NM" 59.5757401409688 -105.9721478 35.6542354
+"Pojoaque Pueblo Library
+box 71
+Santa Fe, NM" 59.5757401409688 -106.2177633 35.404657
+"Redbone Library
+104 Thundering Springs Road
+Leesburg, GA" 59.6008351656469 -84.0694331 31.6741164
+"Oglethorpe County Library
+858 Athens Rd.
+Lexington, GA" 59.6008351656469 -83.131993 33.888869
+"Town Of Bernalillo Public Library
+124 Calle Malinche
+Bernalillo, NM" 60.3213057923873 -106.5500558 35.304135
+"Bloomfield Public Library
+333 South First Street
+Bloomfield, NM" 60.3213057923873 -107.979827 36.708754
+"Kerens Library
+121 S Colket St
+Kerens, TX" 60.3476664938294 -96.2275912 32.1311378
+"Winkler County Library
+307 S Poplar St
+Kermit, TX" 60.3476664938294 -103.0925128 31.8557325
+"Navarre Library
+8484 James M. Harrell Road
+Navarre, FL" 60.642569303963 -86.9123217 30.4109342
+"Beaches Regional Library
+600 Third Street
+Neptune Beach, FL" 60.642569303963 -81.3981043 30.3197825
+"Nancy Carol Roberts Memorial Library
+100 Martin Luther King Jr Pkwy
+Brenham, TX" 60.7435266168116 -96.3994976 30.1706472
+"Bridge City Public Library
+101 Parkside Place Dr
+Bridge City, TX" 60.7435266168116 -93.8440987 30.0341083
+"Martha Canfield Memorial
+528 E. Arlington Rd.
+Arlington, VT" 60.9678323567763 -73.1526 43.0650369
+"Weathersfield Proctor Library
+5181 Rte. 5
+Ascutney, VT" 60.9678323567763 -72.4072621 43.407094
+"Prosper Community Library
+300 Eagle Ln
+Prosper, TX" 61.090920440854 -96.798681 33.2588375
+"Thompson Sawyer Public Library
+403 W 3rd St
+Quanah, TX" 61.090920440854 -99.742894 34.2983314
+"Espanola Public Library
+313 North Paseo De Onate
+Espanola, NM" 61.0956704955716 -106.0830049 35.9943536
+"Santa Clara Pueblo Community Library
+1 Kee St. Los Alamos Hwy.
+Espanola, NM" 61.0956704955716 -106.0805044 35.9871872
+"Hogansville Public Library
+600 East Main Street
+Hogansville, GA" 61.1396758580241 -84.909822 33.172113
+"Banks County Public Library
+226 Hwy 51 S,
+Homer, GA" 61.1396758580241 -83.4775229 34.3450254
+"Shelburn Library
+17 W Griffith
+Shelburn, IN" 61.2722190675499 -87.3942711 39.178975
+"Shelby Branch
+23323 Shelby Rd
+Shelby, IN" 61.2722190675499 -87.347424 41.19385
+"Munster Branch
+8701 Calumet Avenue
+Munster, IN" 61.2787483835862 -87.5085388 41.5548559
+"Nappanee Public Library
+157 North Main Street
+Nappanee, IN" 61.2787483835862 -86.000894 41.4433533
+"Pasadena Public Library
+1201 Jeff Ginn Memorial Dr
+Pasadena, TX" 61.282655872821 -95.1967027 29.6926464
+"Pearsall Public Library
+200 E Trinity St
+Pearsall, TX" 61.282655872821 -99.0953709 28.8951188
+"Pueblo Of Isleta Library
+p.o. box 610
+Isleta, NM" 61.2889663502765 -106.6930811 34.9078296
+"Woolworth Community Library
+3rd And Utah St.
+Jal, NM" 61.2889663502765 -103.1933621 32.1126214
+"Clayton County Library System
+865 Battle Creek Road
+Jonesboro, GA" 61.2959526260375 -84.3633345 33.5532549
+"Jonesboro Branch Library
+124 Smith Street
+Jonesboro, GA" 61.2959526260375 -84.356684 33.5229069
+"Carson County Public Library
+401 Main St
+Panhandle, TX" 61.4910345295257 -101.3804547 35.3451216
+"Paris Public Library
+326 S Main St
+Paris, TX" 61.4910345295257 -95.5567699 33.6583037
+"Mcginley Memorial Public Library
+317 S Main St
+Mcgregor, TX" 61.5105202821252 -97.4059699 31.4390519
+"Roy And Helen Hall Memorial Library
+101 E Hunt St
+Mckinney, TX" 61.5105202821252 -96.6153558 33.1997252
+"Edison Center Branch Library
+531 Nw 62nd Street
+Miami, FL" 61.5519963561977 -80.2052034 25.8325884
+"Fairlawn Branch Library
+6869 Sw 8th Street
+Miami, FL" 61.5519963561977 -80.3068039 25.7633093
+"Melissa Public Library
+1713 Cooper St
+Melissa, TX" 61.7177618119908 -96.572042 33.286032
+"Memphis Public Library
+303 S 8th St
+Memphis, TX" 61.7177618119908 -100.5396627 34.7278838
+"La Retama Central Library - Greenwood Branch Library
+4044 Greenwood
+Corpus Christi, TX" 62.0368058969482 -97.4311446 27.7586562
+"La Retama Central Library - Janet F. Harte Branch
+2629 Waldron Rd.
+Corpus Christi, TX" 62.0368058969482 -97.296803 27.6439852
+"Crane County Library
+701 S Alford St
+Crane, TX" 62.0470226222826 -102.3511815 31.3963814
+"Jh Wootters Crockett Public Library
+709 E Houston Ave
+Crockett, TX" 62.0470226222826 -95.4539056 31.3184605
+"Higgins Public Library
+201 N Main
+Higgins, TX" 62.1406413000354 -100.0260097 36.1216652
+"Highland Park Library
+4700 Drexel Dr
+Highland Park, TX" 62.1406413000354 -96.7964732 32.8284814
+"Bailey H Dunlap Memorial Library
+400 S Main St
+La Feria, TX" 62.1507753175923 -97.8240104 26.1548519
+"Fayette Public Library
+855 S Jefferson St
+La Grange, TX" 62.1507753175923 -96.871793 29.899443
+"Murphy Memorial Library
+601 W Church St
+Livingston, TX" 62.16504195473 -94.9379581 30.7106265
+"Llano County Library System
+102 E Haynie St
+Llano, TX" 62.16504195473 -98.6756328 30.7510296
+"Tularosa Public Library
+515 Fresno St.
+Tularosa, NM" 62.2334579029081 -106.019661 33.072389
+"Virden Public Library
+209 Church Street
+Virden, NM" 62.2334579029081 -109.0016146 32.6878608
+"Tellico Plains Public Library
+209 Highway 165
+Tellico Plains, TN" 62.3468530398503 -84.29941 35.367305
+"Bethesda Public Library
+4905 Bethesda Road
+Thompsons Station, TN" 62.3468530398503 -86.7989599 35.766666
+"Bristol-Washington Township Public Library
+505 West Vistula Street
+Bristol, IN" 62.5294266986045 -85.8233669 41.7202504
+"Brook-Iroquois-Washington Public Library
+100 West Main Street
+Brook, IN" 62.5294266986045 -87.363814 40.865892
+"Shoals Public Library
+404 High Street
+Shoals, IN" 62.602536718276 -86.790046 38.66593
+"Centre Township Branch
+1150 East Kern Road
+South Bend, IN" 62.602536718276 -86.2339245 41.6071586
+"Mcallen Memorial Library - Palm View Branch Library And Community Center
+P.O. Box 220
+Mcallen, TX" 62.6133532863126 -98.2300124 26.2034071
+"Upton County Public Library
+212 W 7th St
+Mccamey, TX" 62.6133532863126 -102.2243384 31.1312086
+"Coventry Public Library
+1672 Flat River Road
+Coventry, RI" 62.7646869651362 -71.5929287 41.7001867
+"Arlington Branch
+1064 Cranston St., Cranston, Ri 02920
+Cranston, RI" 62.7646869651362 -71.4480209 41.7973868
+"Jasper-Dubois County Contractual Public Library
+1116 Main Street
+Jasper, IN" 62.7845369345014 -86.9301359 38.3953807
+"Jeffersonville Township Public Library
+211 East Court Avenue
+Jeffersonville, IN" 62.7845369345014 -85.7405599 38.2757035
+"Black Bridge Library
+1079 Sf Austin Blvd
+Dime Box, TX" 62.9726679286412 -96.826939 30.357065
+"Rhoads Memorial Library
+103 Sw 2nd St
+Dimmitt, TX" 62.9726679286412 -102.313779 34.5509585
+"North Sarasota Library
+2801 Newtown Blvd.
+Sarasota, FL" 62.9932476492829 -82.525187 27.360443
+"Sarasota County Public Libraries
+1660 Ringling Blvd.
+Sarasota, FL" 62.9932476492829 -82.5367586 27.3343691
+"East Wilkinson County Library
+154 E. Main Street
+Irwinton, GA" 63.042529297092 -83.1694739 32.8156367
+"Jackson-Butts County Public Library
+436 East College Street
+Jackson, GA" 63.042529297092 -83.9628893 33.2928663
+"Loiza Public Library
+po box 508
+Loiza, PA" 63.0494535946443 -77.1945247 41.2033216
+"Morovis Electronic Municipal Library
+po box 655
+Morovis, PA" 63.0494535946443 -77.1945247 41.2033216
+"Dr. Robert E. Fulton Regional At Ocee
+5090 Abbotts Bridge Rd.
+Alpharetta, GA" 63.0537361865376 -84.2096254 34.0646054
+"Northeast-Spruill Oaks Regional
+9560 Spruill Road
+Alpharetta, GA" 63.0537361865376 -84.2242155 34.01417
+"Lovett Memorial Library Mclean
+302 N Main
+Mclean, TX" 63.094934446263 -100.5996879 35.233257
+"Medina Community Library
+13948 State Hwy 16 N
+Medina, TX" 63.094934446263 -99.2792752 29.849583
+"Murdock Public Library
+18400 Murdock Circle
+Port Charlotte, FL" 63.1296422891406 -82.1419312 27.0078985
+"Port Charlotte Public Library
+2280 Aaron Street
+Port Charlotte, FL" 63.1296422891406 -82.0990255 26.9929082
+"Millington Public Library
+4858 Navy Road
+Millington, TN" 63.2566272945349 -89.90141 35.3417848
+"Minor Hill Public Library
+108 Pickett Drive
+Minor Hill, TN" 63.2566272945349 -87.1593067 35.051391
+"Pueblo Of Tesuque Educational Resource Center
+box 360-t
+Santa Fe, NM" 63.4557099338 -106.2172728 35.4035486
+"Santa Fe Public Library
+145 Washington Avenue
+Santa Fe, NM" 63.4557099338 -105.9368047 35.6886954
+"Wheatfield Library
+350 S. Bierma Street
+Wheatfield, IN" 63.5314081421861 -87.0548753 41.1872182
+"Whiting Public Library
+1735 Oliver Street
+Whiting, IN" 63.5314081421861 -87.493946 41.6816425
+"Claud H Gilmer Memorial Library
+201 N Hwy 377
+Rocksprings, TX" 63.6612250870502 -100.2064768 30.0154764
+"Rockwall County Library
+1215 Yellow Jacket Ln
+Rockwall, TX" 63.6612250870502 -96.449103 32.914324
+"Middleton Community Library
+110 Bolton Ave
+Middleton, TN" 63.7733557673482 -88.8899417 35.0598444
+"Mildred G. Fields Memorial Library
+1075a E. Van Hook Street
+Milan, TN" 63.7733557673482 -88.7504115 35.9185989
+"Breckenridge Library
+209 N Breckenridge Ave
+Breckenridge, TX" 63.8966515308434 -98.9026023 32.7563927
+"Bremond Public Library
+115 S Main St
+Bremond, TX" 63.8966515308434 -96.675746 31.1658247
+"Madison County Library
+605 S May St
+Madisonville, TX" 63.9352052183718 -95.9089861 30.9465741
+"Red Waller Community Library
+109 Melton St
+Malakoff, TX" 63.9352052183718 -96.0141528 32.1705732
+"May Justus Memorial Library
+24 Dixie Lee Avenue
+Monteagle, TN" 64.029472171064 -85.826115 35.23959
+"Monterey Branch Library
+401 E Commercial Avenue
+Monterey, TN" 64.029472171064 -85.2652697 36.145326
+"Estancia Public Library
+600 South Tenth Street
+Estancia, NM" 64.1132415555984 -106.0633237 34.7557355
+"Eunice Public Library
+10th St. Avenue N.
+Eunice, NM" 64.1132415555984 -103.1557524 32.4383499
+"Miami Springs Branch
+401 Westward Dr.
+Miami Springs, FL" 64.1399867922303 -80.2877107 25.8215034
+"South Mainland Public Library
+7921 Ron Beatty Blvd.
+Micco, FL" 64.1399867922303 -80.5058094 27.8823297
+"Fruitville Public Library
+100 Coburn Road
+Sarasota, FL" 64.3077785133092 -82.436005 27.338359
+"Gulf Gate Library
+7112 Curtiss Ave.
+Sarasota, FL" 64.3077785133092 -82.4997173 27.2531342
+"East Chicago Public Library
+2401 East Columbus Drive
+East Chicago, IN" 64.4155541821917 -87.4418291 41.6373785
+"Heritage Hall
+4506 Tod Ave
+East Chicago, IN" 64.4155541821917 -87.4785568 41.6318418
+"Heard County Public Library
+564 Main Street
+Franklin, GA" 64.4446558067264 -85.0950507 33.277656
+"Blackshear Place Library
+2927 Atlanta Highway
+Gainesville, GA" 64.4446558067264 -83.858138 34.2273978
+"Southlake Public Library
+1400 Main St Ste 130
+Southlake, TX" 64.4860477339588 -97.1312501 32.9428933
+"Hansford County Library
+122 Main St
+Spearman, TX" 64.4860477339588 -101.194636 36.2001925
+"Special Collections Library
+423 Central Ave. Ne
+Albuquerque, NM" 64.7192617337915 -106.6424318 35.083824
+"Taylor Ranch Library
+5700 Bogart Nw
+Albuquerque, NM" 64.7192617337915 -106.7167597 35.1491215
+"Lasalle Branch
+3232 West Ardmore Trail
+South Bend, IN" 64.7561437523797 -86.295136 41.6891641
+"River Park Branch
+2022 Mishawaka Avenue
+South Bend, IN" 64.7561437523797 -86.2170886 41.6655838
+"Bridgeport Public Library
+2159 10th St
+Bridgeport, TX" 64.8456817896594 -97.758272 33.2226963
+"Kendrick Memorial Library
+301 W Tate St
+Brownfield, TX" 64.8456817896594 -102.2774584 33.1770456
+"El Paso Public Library - Richard Burges
+9600 Dyer
+El Paso, TX" 64.9631608753781 -106.4154271 31.8870151
+"El Paso Public Library - Westside
+125 Belvidere
+El Paso, TX" 64.9631608753781 -106.5578151 31.837904
+"Jan K. Platt Regional Library
+3910 S. Manhattan Avenue
+Tampa, FL" 65.1486149545132 -82.5173943 27.9073771
+"Jimmie B. Keel Regional Library
+2902 W. Bearss Avenue
+Tampa, FL" 65.1486149545132 -82.4919859 28.0868855
+"Sanibel Public Library
+770 Dunlop Road
+Sanibel, FL" 65.1573458920011 -82.072463 26.440239
+"Coastal Branch Library
+336 Greenway Trail
+Santa Rosa Beach, FL" 65.1573458920011 -86.179456 30.3792975
+"Carver Homes Branch
+215 Lakewood Way, Suite 104
+Atlanta, GA" 65.3400949179982 -84.3967392 33.7007792
+"Cleveland Ave.-Roy Yancy, Sr., Branch
+47 Cleveland Avenue, Sw
+Atlanta, GA" 65.3400949179982 -84.3905627 33.6815324
+"Hutto Public Library
+205 West St
+Hutto, TX" 65.6355608986817 -97.5499252 30.5442053
+"Idalou Community Library
+210 Main St
+Idalou, TX" 65.6355608986817 -101.680485 33.6648689
+"Weber County Library - Ogden Valley Branch
+131 S 7400 E
+Huntsville, UT" 65.6583007769339 -111.7705737 41.26188
+"Washington County Library - Hurricane Branch
+36 South 300 West
+Hurricane, UT" 65.6583007769339 -113.2942559 37.1756911
+"Appleby Branch
+2260 Walton Way
+Augusta, GA" 65.7775063167696 -82.0162183 33.4771777
+"Audiovisual-Tbc
+425 Ninth St
+Augusta, GA" 65.7775063167696 -81.9687146 33.4736577
+"Dunkirk Public Library
+127 West Washington Street
+Dunkirk, IN" 65.7844114867933 -85.2112339 40.3735967
+"Earl Park Public Library
+102 East Fifth Street
+Earl Park, IN" 65.7844114867933 -87.414575 40.683635
+"Ericson Public Library
+720 Greene St
+Boone, IA" 65.8988583808765 -93.8833485 42.0631309
+"Boyden Public Library
+609 Webb St
+Boyden, IA" 65.8988583808765 -96.007173 43.1908934
+"H. B. Stamps Memorial Library
+407 East Main St
+Rogersville, TN" 65.9442839686018 -83.0039598 36.4079588
+"Rutledge Public Library
+8030 Rutledge Pike
+Rutledge, TN" 65.9442839686018 -83.5161357 36.2805472
+"Sarah S Bovard Memorial Library
+156 Elm St.
+Tionesta, PA" 66.1204224253676 -79.4564454 41.4908132
+"Benson Memorial Library, Inc.
+213 North Franklin St
+Titusville, PA" 66.1204224253676 -79.6733837 41.6283048
+"Salt Lake County Library - Draper Library
+1136 East Pioneer Rd
+Draper, UT" 66.2534108406528 -111.8584389 40.5230035
+"Daggett County Bookmobile Library
+130 South Center Street, Suite A
+Duchesne, UT" 66.2534108406528 -110.4013321 40.1622243
+"Berkeley County Library System
+100 Library St.
+Moncks Corner, SC" 66.3044817385673 -80.0089447 33.1947187
+"Mullins Public Library
+210 N. Main Street
+Mullins, SC" 66.3044817385673 -79.2548388 34.2068721
+"Duchesne County Library
+130 S Center Street
+Duchesne, UT" 66.3355098338 -110.4013321 40.1622243
+"Eagle Mountain Public Library
+1650 E. Stagecoach Run
+Eagle Mountain, UT" 66.3355098338 -112.0119539 40.3093471
+"North Port Library
+13800 South Tamiami Trail
+North Port, FL" 66.5209945467109 -82.2554358 27.0467408
+"Oak Hill Public Library
+125 E. Halifax Ave.
+Oak Hill, FL" 66.5209945467109 -80.8502348 28.8639079
+"Grand Saline Public Library
+201 E Pacific St
+Grand Saline, TX" 66.5492052934762 -95.7086881 32.6725678
+"Grandview Public Library
+112 S 3rd St
+Grandview, TX" 66.5492052934762 -97.179878 32.269258
+"El Paso Public Library - Jenna Welch Laura Bush Community Library
+6701 S. Desert Blvd
+El Paso, TX" 66.7516683649608 -106.5881334 31.9025275
+"El Paso Public Library - Jos Cisneros Cielo Vista
+1300 Hawkins
+El Paso, TX" 66.7516683649608 -106.3720633 31.7782925
+"Covington Branch
+3500 Covington Hwy
+Decatur, GA" 66.7713962496122 -84.2508421 33.7672718
+"Decatur Library
+215 Sycamore St
+Decatur, GA" 66.7713962496122 -84.2940387 33.7741573
+"Marshall Memorial Library
+110 S Diamond Street
+Deming, NM" 66.8405175345565 -107.7548973 32.2689178
+"Dexter Public Library
+115 E. Second Street
+Dexter, NM" 66.8405175345565 -104.369977 33.1968517
+"Northeast Branch
+2930 Aventura Blvd.
+Miami, FL" 66.8656184992161 -80.142661 25.96045
+"Shenandoah Branch
+2111 Sw 19th Street
+Miami, FL" 66.8656184992161 -80.229257 25.755331
+"Merritt Island Public Library
+1195 N. Courtenay Parkway
+Merritt Island, FL" 66.993183367876 -80.7028345 28.3781026
+"Allapattah Branch Library
+1799 Nw 35th Street
+Miami, FL" 66.993183367876 -80.2256358 25.8087342
+"Aphne Pattillo Nixon Public Library
+401 N. Nixon Ave.
+Nixon, TX" 67.0673706552381 -97.7653531 29.2706006
+"The Aphne Pattillo Nixon Public Library
+401 N Nixon Ave
+Nixon, TX" 67.0673706552381 -97.7653531 29.2706006
+"Carl And Mary Welhausen Library
+810 Front St
+Yoakum, TX" 67.3571926706323 -97.1506699 29.2862377
+"Yorktown Public Library
+103 W Main St
+Yorktown, TX" 67.3571926706323 -97.5044739 28.9808119
+"Lagrange Memorial Library
+115 Alford Street
+Lagrange, GA" 67.4289317372587 -85.038128 33.0378039
+"Johnson Lakes Library
+720 Lakes Blvd
+Lake Park, GA" 67.4289317372587 -83.2112121 30.6838105
+"Spartanburg County Public Library - Landrum Branch Library
+111 Asbury Drive
+Landrum, SC" 67.4570169445397 -82.1739149 35.179107
+"Aiken County Library - Midland Valley Branch Library
+9 Hillside Road
+Langley, SC" 67.4570169445397 -81.848686 33.514063
+"East Hall Branch And Special Needs Library
+2434 Old Cornelia Highway
+Gainesville, GA" 67.530733236501 -83.7770082 34.3137889
+"Hall County Library System
+127 Main Street Nw
+Gainesville, GA" 67.530733236501 -83.8285138 34.3001677
+"El Paso Public Library - Esperanza Acosta Moreno
+12480 Pebble Hills
+El Paso, TX" 67.5337370391202 -106.2538487 31.7829863
+"El Paso Public Library - Irving Schwartz
+1865 Dean Martin
+El Paso, TX" 67.5337370391202 -106.299016 31.7651232
+"Hidalgo County Library System
+401 E. Cano
+Edinburg, TX" 67.5367605161379 -98.1592377 26.2998592
+"Jackson County Memorial Library
+411 N Wells St Ste 121
+Edna, TX" 67.5367605161379 -96.648513 28.9806584
+"Van Horn City County Library
+410 Crockett St
+Van Horn, TX" 67.6366019161534 -104.8336154 31.0450094
+"Oldham County Public Library
+914 Main
+Vega, TX" 67.6366019161534 -102.4283037 35.2523782
+"Falls City Public Library
+206 N Irvin St
+Falls City, TX" 67.6724802973931 -98.019306 28.9812529
+"Farmers Branch Manske Public Library
+13613 Webb Chapel Rd
+Farmers Branch, TX" 67.6724802973931 -96.8736903 32.9333685
+"Byromville Public Library
+452 Main Street
+Byromville, GA" 67.8701251699383 -83.90647 32.2019884
+"Byron Public Library
+105 West Church Street
+Byron, GA" 67.8701251699383 -83.7589567 32.6506327
+"Corrales Community Library
+84 West La Entrada Road
+Corrales, NM" 67.8750641346692 -106.6178157 35.2230486
+"Cuba Public Library
+6382 U.S. 550
+Cuba, NM" 67.8750641346692 -106.961432 36.016385
+"Onalaska Public Library
+372 S Fm 356 Ste 103
+Onalaska, TX" 68.0741112558583 -95.1199626 30.8145159
+"Orange Public Library
+220 5th St
+Orange, TX" 68.0741112558583 -93.7339943 30.0917765
+"Austin County Library System
+6730 Railroad St
+Wallis, TX" 68.1284089857088 -96.0680032 29.6332727
+"Waskom Public Library
+103 Waskom Ave
+Waskom, TX" 68.1284089857088 -94.0599278 32.4794731
+"Farmington Public Library
+2101 Farmington Ave.
+Farmington, NM" 68.1894903696474 -108.1809457 36.7496343
+"Fort Sumner Public Library
+235 W. Sumner Avenue
+Fort Sumner, NM" 68.1894903696474 -104.2544949 34.4759822
+"Barton Rees Pogue Memorial Public Library
+29 West Washington Street
+Upland, IN" 68.2623104029397 -85.4956605 40.4752727
+"Porter County Public Library System
+103 Jefferson Street
+Valparaiso, IN" 68.2623104029397 -87.0589947 41.4690586
+"Michigan City Public Library
+100 East 4th Street
+Michigan City, IN" 68.3946669533296 -86.9026186 41.7189329
+"Michigantown Community Library
+702 N Main Street
+Michigantown, IN" 68.3946669533296 -86.393289 40.330423
+"Mandel Public Library Of West Palm Beach
+411 Clematis Street
+West Palm Beach, FL" 68.4121784835671 -80.0543153 26.7135167
+"Okeechobee Boulevard Branch
+5689 West Okeechobee Blvd.
+West Palm Beach, FL" 68.4121784835671 -80.130574 26.7084944
+"Albert W. Thompson Memorial Library
+17 Chestnut Street
+Clayton, NM" 68.6589950946516 -103.1856686 36.4521885
+"Michael Nivison Public Library
+90 Swallow Place
+Cloudcroft, NM" 68.6589950946516 -105.7427681 32.9568653
+"Punta Gorda Public Library
+424 West Henry Street
+Punta Gorda, FL" 68.7153591086278 -82.0532673 26.9245487
+"Gadsden County Public Library
+732 S. Pat Thomas Parkway
+Quincy, FL" 68.7153591086278 -84.5932749 30.576703
+"Allan Shivers Library Museum
+302 N Charlton St
+Woodville, TX" 68.7504193610413 -94.4160987 30.776824
+"Rita Truett Smith Public Library
+800 Thomas St
+Wylie, TX" 68.7504193610413 -96.5321548 33.003558
+"Teinert Memorial Public Library
+337 N Dalton St
+Bartlett, TX" 68.8941846760865 -97.427154 30.792064
+"Bastrop Public Library
+1100 Church St
+Bastrop, TX" 68.8941846760865 -97.3218828 30.1119127
+"Barnesville-Lamar County Library
+401 Thomaston Street
+Barnesville, GA" 69.1266898346746 -84.1570719 33.0517144
+"Appling County Public Library
+300 City Hall Drive
+Baxley, GA" 69.1266898346746 -81.2099241 32.0857197
+"Mount Holly
+1 Maple Hill Rd.
+Belmont, VT" 69.1820450165953 -72.8211831 43.4144632
+"Bennington Free
+101 Silver St.
+Bennington, VT" 69.1820450165953 -73.1936273 42.8776496
+"El Rito Public Library
+182 Placitas Road
+El Rito, NM" 69.5506716068389 -106.1655085 36.3268883
+"Elida Public Library
+703 Clark St.
+Elida, NM" 69.5506716068389 -103.655621 33.9468333
+"Mitchell County Public Library
+340 Oak St
+Colorado City, TX" 69.5597179968934 -100.8682919 32.3893162
+"Nesbitt Memorial Library
+529 Washington St
+Columbus, TX" 69.5597179968934 -96.5413989 29.7040337
+"Salt Lake County Library - Whitmore Library
+2197 East Fort Union Boulevard
+Salt Lake City, UT" 69.7910196248539 -111.8280027 40.6246462
+"Salt Lake County Library System
+2197 East Fort Union Blvd.
+Salt Lake City, UT" 69.7910196248539 -111.8280027 40.6246462
+"Warminster Township Free Library
+1076 Emma Lane
+Warminster, PA" 69.8419429740309 -75.1036619 40.2190913
+"Warren Library Association
+205 Market St
+Warren, PA" 69.8419429740309 -79.1461075 41.8457753
+"Watauga Public Library
+7109 Whitley Rd
+Watauga, TX" 69.8624159750202 -97.2556003 32.8757478
+"Nicholas P Sims Library
+515 W Main St
+Waxahachie, TX" 69.8624159750202 -96.7867984 32.2072154
+"Walton Tipton Township Public Library
+110 North Main Street
+Walton, IN" 69.9771860492493 -86.2427359 40.6611959
+"Wanatah Public Library
+114 South Main Street
+Wanatah, IN" 69.9771860492493 -86.898459 41.428682
+"Bicentennial City-County Library
+825 Backus St
+Paducah, TX" 70.206210878503 -100.3015139 34.0144826
+"Palacios Library Inc
+326 Main St
+Palacios, TX" 70.206210878503 -96.214344 28.7014858
+"Albert City Public Library
+215 Main St
+Albert City, IA" 70.2515570397594 -94.9490987 42.7816371
+"Carnegie-Evans Public Library
+203 Benton Ave East
+Albia, IA" 70.2515570397594 -92.8055746 41.0273829
+"Bertha Voyer Memorial Library
+500 6th St
+Honey Grove, TX" 70.2647604040339 -95.9091701 33.5831149
+"Hooks Public Library
+108 W 1st St
+Hooks, TX" 70.2647604040339 -94.2900612 33.4669786
+"Gilbreath Memorial Library
+916 N Main St
+Winnsboro, TX" 70.3841611966243 -95.2872852 32.9641022
+"Winters Public Library
+120 N Main St
+Winters, TX" 70.3841611966243 -99.9628114 31.958109
+"Balch Springs Library-Learning Center
+12450 Elam Rd
+Balch Springs, TX" 70.400032682718 -96.6119432 32.7188902
+"Carnegie Library Of Ballinger
+204 N 8th St
+Ballinger, TX" 70.400032682718 -99.9499984 31.7394338
+"Bamberg County Public Library
+3156 Railroad Avenue
+Bamberg, SC" 70.4826752772772 -81.0328952 33.2971177
+"Barnwell County Public Library
+40 Burr Street
+Barnwell, SC" 70.4826752772772 -81.3637954 33.2431932
+"Burlington Public Library
+210 Court St
+Burlington, IA" 70.662337068336 -91.1014083 40.8131937
+"Burt Public Library
+119 Walnut St
+Burt, IA" 70.662337068336 -94.2170297 43.1975348
+"Wolfe City Public Library
+203 E Williams St
+Wolfe City, TX" 70.7148919062161 -96.0728173 33.3717443
+"City Of Wolfforth Library
+508 E Hwy 62-82
+Wolfforth, TX" 70.7148919062161 -101.8322333 33.5778567
+"Azle Memorial Library
+333 W Main St
+Azle, TX" 70.7557394306597 -97.5480434 32.8954243
+"Callahan County Library
+100 W 4th Ste B1
+Baird, TX" 70.7557394306597 -99.4016909 32.3949607
+"Cochiti Pueblo Community Library
+245 Cochiti St.
+Cochiti Pueblo, NM" 70.7890813305468 -106.3500419 35.6085626
+"Pueblo De Cochiti Library
+255 Cochiti St.
+Cochiti Pueblo, NM" 70.7890813305468 -106.3500419 35.6085626
+"Friona Public Library
+109 W 7th St
+Friona, TX" 70.8616406382603 -102.7197821 34.6374876
+"Frisco Public Library
+6101 Frisco Square Blvd Ste 3000
+Frisco, TX" 70.8616406382603 -96.8345485 33.15004
+"Flanner House Branch Library
+2424 Dr. Martin Luther King Jr. Street
+Indianapolis, IN" 70.9134215251614 -86.171458 39.800526
+"Fountain Square Branch Library
+1066 Virginia Avenue
+Indianapolis, IN" 70.9134215251614 -86.1400517 39.7525613
+"Concord Branch Library
+3882 S.W. 112 Ave.
+Miami, FL" 71.0188779958113 -80.3761246 25.7332123
+"Coral Reef Branch Library
+9211 Coral Reef
+Miami, FL" 71.0188779958113 -80.3428262 25.6289159
+"Waterloo-Grant Township Public Library
+300 South Wayne Street
+Waterloo, IN" 71.0788435300831 -85.0199177 41.4299339
+"Waveland-Brown Township Public Library
+115 East Green Street
+Waveland, IN" 71.0788435300831 -87.044759 39.8783871
+"Liberty
+236 Memorial Drive
+Hinesville, GA" 71.0833464511923 -81.5992958 31.8516906
+"Maude P. Ragsdale Public Library
+4969 Hiram-Acworth Highway
+Hiram, GA" 71.0833464511923 -84.7464982 33.91311
+"Parker Public Library
+4710 Second Street
+Parker, FL" 71.2239761668723 -85.60498 30.129476
+"Parkland Library
+6620 University Drive
+Parkland, FL" 71.2239761668723 -80.2527885 26.312721
+"Dekalb County Public Library System
+215 Sycamore Street
+Decatur, GA" 71.2892889375725 -84.2940387 33.7741573
+"Flat Shoals Branch
+4022 Flat Shoals Pkwy
+Decatur, GA" 71.2892889375725 -84.25826 33.691393
+"Sebring Public Library
+319 West Center Avenue
+Sebring, FL" 71.3179980960446 -81.4437076 27.4946901
+"Seffner-Mango Branch Library
+11724 East Ml King Jr. Blvd
+Seffner, FL" 71.3179980960446 -82.2998772 27.9816406
+"Weber County Library - Southwest Branch
+1950 W 4800 S
+Roy, UT" 71.3184407429627 -112.0275552 41.176468
+"Salina Public Library
+90 West Main Street
+Salina, UT" 71.3184407429627 -111.8616318 38.9576007
+"Carlsbad Public Library
+101 S. Halagueno
+Carlsbad, NM" 71.3453842220515 -104.2311149 32.4197492
+"Eleanor Daggett Memorial Library
+299 4th Street
+Chama, NM" 71.3453842220515 -106.5799611 36.9042087
+"Abbeville County Library - W.M. Agnew Branch Library
+429 W. Main St
+Donalds, SC" 71.3635051481838 -82.3515004 34.369887
+"Pickens County Library System
+304 Biltmore Road
+Easley, SC" 71.3635051481838 -82.5804738 34.8248778
+"Bandera County Library
+515 Main St
+Bandera, TX" 71.4113850428025 -99.0733816 29.726248
+"Kronkosky Library Of Bandera County
+515 Main St.
+Bandera, TX" 71.4113850428025 -99.0733816 29.726248
+"Melbourne Beach Library
+324 Ocean Avenue
+Melbourne Beach, FL" 71.4152425919424 -80.5595546 28.0687742
+"Melrose Public Library
+312 Wynnwood Ave
+Melrose, FL" 71.4152425919424 -82.045654 29.712717
+"Coventry Public Library
+1672 Flat River Road
+Coventry, RI" 71.5342946701541 -71.5929287 41.7001867
+"Arlington Branch
+1064 Cranston St., Cranston, Ri 02920
+Cranston, RI" 71.5342946701541 -71.4480209 41.7973868
+"Eau Gallie Public Library
+1521 Pineapple Avenue
+Melbourne, FL" 71.6438642307447 -80.6260019 28.1321476
+"Melbourne Public Library
+540 East Fee Avenue
+Melbourne, FL" 71.6438642307447 -80.6126425 28.0822978
+"College Park Branch
+3647 Main Street
+Atlanta, GA" 71.7896145881232 -84.44974 33.655686
+"Dogwood Branch
+1838 Donald Lee Hollowell Pkwy Nw
+Atlanta, GA" 71.7896145881232 -84.4470367 33.7740391
+"Olga V Figueroa Zapata County Public Library
+901 Kennedy St
+Zapata, TX" 71.8268416219706 -99.2705277 26.9025735
+"Olga V Figueroa Zapata County Public Library - Zapata County Branch Library
+301 Lincoln St.
+Zapata, TX" 71.8268416219706 -99.2668948 26.8965076
+"Anderson County Library - Pendleton Branch Library
+650 S. Mechanic Street
+Pendleton, SC" 71.9086610944811 -82.7829603 34.6425105
+"Pickens County Library - Village Branch Library
+124 North Catherine Street
+Pickens, SC" 71.9086610944811 -82.710524 34.884339
+"University Park Public Library
+6517 Hillcrest Ave Ste 110
+Dallas, TX" 71.9306096307635 -96.7874767 32.8463682
+"Jones Public Library
+307 W Houston St
+Dayton, TX" 71.9306096307635 -94.8893009 30.0428513
+"Bonaparte Public Library
+602 Second St
+Bonaparte, IA" 71.9449691073656 -91.8016629 40.6986392
+"Bondurant Community Library
+17 Main St Se
+Bondurant, IA" 71.9449691073656 -93.461619 41.700645
+"Daingerfield Public Library
+207 Jefferson St
+Daingerfield, TX" 71.9750256617236 -94.7196132 33.0320013
+"Dallam-Hartley County Library
+420 Denrock Ave
+Dalhart, TX" 71.9750256617236 -102.5232148 36.061758
+"Bamberg County Public Library - Denmark Branch Library
+19 Maple Avenue
+Denmark, SC" 71.9896617094458 -81.1410002 33.31384
+"Dillon County Library System
+600 East Main Street
+Dillon, SC" 71.9896617094458 -79.3669313 34.4144143
+"Spartanburg County Public Library - Westside Branch Library
+525 Oak Grove Road
+Spartanburg, SC" 72.0399501657946 -82.0018919 34.9201286
+"Spartanburg County Public Library System
+151 S. Church Street
+Spartanburg, SC" 72.0399501657946 -81.9304458 34.9482922
+"County-City Library
+206 Elm St
+Sweetwater, TX" 72.0965499864579 -100.4062795 32.4717062
+"Taft Public Library
+503 Green Ave
+Taft, TX" 72.0965499864579 -97.3930094 27.9816034
+"Pierre Moran Branch Library
+2400 Benham Avenue
+Elkhart, IN" 72.1175848090144 -85.9681346 41.6628869
+"Ellettsville Branch
+600 W Temperance
+Ellettsville, IN" 72.1175848090144 -86.6251467 39.2344099
+"Blanco County South Library District
+1118 Main St Ste A
+Blanco, TX" 72.1936707275359 -98.4192657 30.1049147
+"Blooming Grove Community Library
+301 S Fordyce St
+Blooming Grove, TX" 72.1936707275359 -96.7151797 32.0911075
+"Kirbyville Public Library
+210 S Elizabeth Ave
+Kirbyville, TX" 72.496928256299 -93.8925272 30.6589299
+"Kountze Public Library
+800 Redwood St
+Kountze, TX" 72.496928256299 -94.3150172 30.3682816
+"Hobbs Public Library
+509 N. Shipp
+Hobbs, NM" 72.5572181891066 -103.137658 32.705095
+"Isleta Pueblo Library-Resource Center
+p.o. box 1270
+Isleta, NM" 72.5572181891066 -106.6930811 34.9078296
+"Santa Ana Pueblo Community Library
+2 Dove Road
+Santa Ana, NM" 72.5572181891066 -106.530655 35.343659
+"Library Bookstop
+4250 Cerrillos Road 1264 Villa Lin
+Santa Fe, NM" 72.5572181891066 -105.937799 35.6869752
+"Collins Hill
+455 Camp Perrin Rd
+Lawrenceville, GA" 72.6210261830266 -84.0023128 34.0154716
+"Five Forks
+2780 Five Forks Trickum Rd
+Lawrenceville, GA" 72.6210261830266 -84.0557675 33.8930893
+"Vernon Branch Library
+3731 Roche Avenue
+Vernon, FL" 72.6817249718026 -85.711513 30.625058
+"Indian River County Library
+1600 21st Street
+Vero Beach, FL" 72.6817249718026 -80.4019336 27.6405329
+"Susquehanna County Library - Susquehanna Branch Library
+83 Erie Boulevard, Suite C
+Susquehanna, PA" 72.747424952433 -75.6072241 41.9456645
+"Swarthmore Public Library
+121 Park Avenue
+Swarthmore, PA" 72.747424952433 -75.348373 39.9016025
+"Converse Public Library
+601 S Seguin Rd
+Converse, TX" 72.8021656944934 -98.3113976 29.5134349
+"Delta County Public Library
+300 W Dallas Ave
+Cooper, TX" 72.8021656944934 -95.6904794 33.3738081
+"Gilliam Memorial Public Library
+205 E Belt Line Rd
+Wilmer, TX" 72.8486730936235 -96.6851233 32.5892955
+"Wimberley Village Library
+400 Fm 2325
+Wimberley, TX" 72.8486730936235 -98.1040517 30.002633
+"Clyde Public Library
+125 Oak St
+Clyde, TX" 72.8815735439527 -99.493776 32.406871
+"Coldspring Area Public Library
+14221 Hwy 150 W
+Coldspring, TX" 72.8815735439527 -95.1368754 30.5827773
+"Killeen City Library System
+205 E Church Ave
+Killeen, TX" 72.8854847816819 -97.7269128 31.1242497
+"Robert J Kleberg Public Library
+220 N 4th St
+Kingsville, TX" 72.8854847816819 -97.8702919 27.5183762
+"Carnegie Free Library Of Swissvale
+1800 Monongahela Ave
+Swissvale, PA" 72.9498482849897 -79.8911655 40.4225531
+"Sykesville Public Library
+21 East Main St
+Sykesville, PA" 72.9498482849897 -78.8217224 41.0505334
+"Brookville Public Library
+919 Main Street
+Brookville, IN" 73.035935133709 -85.01227 39.424633
+"Brownsburg Public Library
+450 South Jefferson Street
+Brownsburg, IN" 73.035935133709 -86.397034 39.836607
+"Charles J Rike Memorial Library
+203 Orange Ave
+Farmersville, TX" 73.089912219002 -96.3585887 33.1612012
+"Ferris Public Library
+514 S Mable St
+Ferris, TX" 73.089912219002 -96.6610825 32.5310313
+"Houston Public Library
+500 Mckinney St
+Houston, TX" 73.1018098427697 -95.369953 29.759431
+"Howe Community Library
+315 S Collins Fwy
+Howe, TX" 73.1018098427697 -96.6185618 33.5021662
+"Forty-First Avenue Branch
+3941 West 41st Avenue
+Gary, IN" 73.2046532898076 -87.3864846 41.5443503
+"Gary Public Library
+220 West 5th Avenue
+Gary, IN" 73.2046532898076 -87.3402919 41.6023102
+"Placitas Community Library
+01 Tierra Madre
+Placitas, NM" 73.2846357736861 -106.4958356 35.3091801
+"Pueblo Of Pojoaque Public Library
+101 B Lightning Loop
+Pojoaque, NM" 73.2846357736861 -106.01349 35.89006
+"Decatur County - Gilbert H. Gragg Library
+301 South Monroe Street
+Bainbridge, GA" 73.3490904280624 -84.5700336 30.9039384
+"Southwest Georgia Regional Library System
+301 S. Monroe Street
+Bainbridge, GA" 73.3490904280624 -84.5700336 30.9039384
+"Lena Armstrong Public Library
+301 E 1st Ave
+Belton, TX" 73.394578072043 -97.4613083 31.0565215
+"Duval County Public Library - Benavides Branch
+131 Mesquite St.
+Benavides, TX" 73.394578072043 -98.4134712 27.5970121
+"Washington County Library - Springdale Branch
+126 Lion Blvd.
+Springdale, UT" 73.5689958707052 -112.99828 37.195582
+"Springville Public Library
+50 South Main Street
+Springville, UT" 73.5689958707052 -111.6106475 40.1659709
+"Safety Harbor Public Library
+101 Second St North
+Safety Harbor, FL" 73.641296799752 -82.6884967 27.991756
+"North Branch Library
+150 N. Palmetto Ave.
+Sanford, FL" 73.641296799752 -81.2663505 28.8123146
+"Embudo Valley Library Community Center
+217 Hwy 75 Dixon
+Dixon, NM" 73.6511979586823 -105.888532 36.1988885
+"Jicarilla Public Library
+165 Hawks Drive
+Dulce, NM" 73.6511979586823 -106.9876769 36.9402762
+"John W. Simpson Mem.
+1972 E Craftsbury Rd
+Craftsbury Common, VT" 73.7675404177811 -72.3381286 44.6399122
+"John Woodruff Simpson Memorial Library
+300 Shields La.
+Craftsbury Common, VT" 73.7675404177811 -72.3823389 44.6542939
+"Niota Public Library
+11 East Main Street
+Niota, TN" 73.7736869346626 -84.5487614 35.513972
+"Nolensville Public Library
+915 Oldham Drive
+Nolensville, TN" 73.7736869346626 -86.6731459 35.9620024
+"Alton Public Library
+605 10th St
+Alton, IA" 73.7820080508583 -96.0142898 42.9883915
+"Altoona Public Library
+700 Eighth St Sw
+Altoona, IA" 73.7820080508583 -93.4726468 41.6434301
+"Kennedy Branch
+3953 Broadway
+Gary, IN" 73.9088439394357 -87.3360388 41.5464927
+"Tolleston Branch
+1113 Taft Street
+Gary, IN" 73.9088439394357 -87.365666 41.590991
+"Cogan House Link
+4609 Route 184 Hwy.
+Trout Run, PA" 73.9307096713528 -77.2095069 41.4393883
+"Allen F. Pierce Free Library
+115 Center Street
+Troy, PA" 73.9307096713528 -76.8185899 41.7997607
+"Jacaranda Public Library
+4143 Woodmere Park Blvd.
+Venice, FL" 74.0544088016816 -82.3929104 27.0545041
+"Venice Area Public Library
+300 South Nokomis Ave
+Venice, FL" 74.0544088016816 -82.445965 27.095687
+"Monongahela Area Library
+813 West Main St
+Monongahela, PA" 74.1252821899179 -79.9333859 40.2057904
+"Monroeton Public Library
+110 College Avenue
+Monroeton, PA" 74.1252821899179 -76.4461556 41.7613036
+"Boerne Public Library
+210 N Main St
+Boerne, TX" 74.1923866155325 -98.732652 29.794728
+"Bonham Public Library
+305 E 5th St
+Bonham, TX" 74.1923866155325 -96.1759021 33.5783217
+"Lewisville Community Library
+3771 Lancaster Hwy
+Richburg, SC" 74.2392869609041 -81.003444 34.7196437
+"Ridge Spring Library
+636 Main Street
+Ridge Spring, SC" 74.2392869609041 -81.6611431 33.8455473
+"Richfield Public Library
+83 East Center Street
+Richfield, UT" 74.2435017259884 -112.083249 38.7680999
+"Richmond Public Library
+38 West Main Street
+Richmond, UT" 74.2435017259884 -111.8096791 41.9228044
+"Brandon Free Public
+4 Franklin St.
+Brandon, VT" 74.3130891634553 -73.0860138 43.7979405
+"Brooks Memorial
+224 Main St.
+Brattleboro, VT" 74.3130891634553 -72.5599282 42.8552873
+"Harlem Branch
+375 N. Louisville Street
+Harlem, GA" 74.3999099374415 -82.310523 33.418871
+"Hart County Library System
+150 Benson Street
+Hartwell, GA" 74.3999099374415 -82.9304194 34.3497893
+"Monroe County Library
+62 West Main Street
+Forsyth, GA" 74.4470303959069 -83.9410978 33.034167
+"Clay County Branch Library
+208 South Hancock Street
+Fort Gaines, GA" 74.4470303959069 -85.0498096 31.6082157
+"Free Library Of Philadelphia - Frankford Branch
+4634 Frankford Avenue
+Philadelphia, PA" 74.498857493321 -75.0850614 40.0157558
+"Free Library Of Philadelphia - Fumo Family Branch
+2437 South Broad Street
+Philadelphia, PA" 74.498857493321 -75.1703248 39.9198713
+"Charles J. Fendig Library
+3909 Neptune Street
+Tampa, FL" 74.6169106032082 -82.5086706 27.9308128
+"College Hill Branch Library
+2607 East Martin L. King Dr.
+Tampa, FL" 74.6169106032082 -82.4303508 27.9811921
+"Johnson Memorial Library
+799 East Center Street
+Millersburg, PA" 74.667561514281 -76.9573983 40.5334036
+"Milton Public Library
+23 South Front St
+Milton, PA" 74.667561514281 -76.8554107 41.0197188
+"Buford-Sugar Hill
+2100 Buford Hwy
+Buford, GA" 74.6879073285244 -83.9985203 34.1109516
+"Butler Public Library
+21o West Main Street
+Butler, GA" 74.6879073285244 -84.23622 32.557168
+"E B Hayward Branch Library
+1212 172nd Street
+Hammond, IN" 74.6900791821671 -87.4997879 41.5828139
+"Hammond Public Library
+564 State Street
+Hammond, IN" 74.6900791821671 -87.514845 41.6173112
+"Howard Branch Library
+7047 Grand Avenue
+Hammond, IN" 74.6900791821671 -87.4417729 41.5849693
+"Hanna Branch
+202 N Thompson
+Hanna, IN" 74.6900791821671 -86.780404 41.414388
+"Carnegie Library Of Pittsburgh - Squirrel Hill
+5801 Forbes Avenue
+Pittsburgh, PA" 74.7940104375682 -79.9227127 40.4384436
+"Carnegie Library Of Pittsburgh - West End
+47 Wabash Avenue
+Pittsburgh, PA" 74.7940104375682 -80.0340451 40.4400573
+"Scott Candler Branch
+2644 Mcafee Road
+Decatur, GA" 74.8821388238837 -84.2817059 33.7321752
+"Toco Hill-Avis G. Williams Branch
+1282 Mcconnell Drive
+Decatur, GA" 74.8821388238837 -84.3070188 33.8092369
+"Betty Foster Public Library
+405 Shaffner St
+Ponder, TX" 75.2648332276567 -97.2879976 33.1840391
+"Ellis Memorial Library
+700 West Ave. A
+Port Aransas, TX" 75.2648332276567 -97.0686181 27.8362497
+"Memphis Public Library And Information Center
+3030 Poplar Avenue
+Memphis, TN" 75.3915446937012 -89.9606029 35.1335112
+"North Branch
+1192 Vollintine
+Memphis, TN" 75.3915446937012 -90.0174121 35.1658213
+"Orangeburg County Library - Springfield Branch Library
+210 Brodie Street
+Springfield, SC" 75.4270420393942 -81.2741751 33.4943424
+"Dorchester County Library System
+506 N. Parler Avenue
+St. George, SC" 75.4270420393942 -80.5713363 33.1888868
+"Cleveland Branch
+53715 Cr 1
+Elkhart, IN" 75.4519242496106 -86.0470236 41.7146862
+"Dunlap Branch
+58485 Cr 13
+Elkhart, IN" 75.4519242496106 -85.9224336 41.6452877
+"Austin Public Library - Howson Branch
+2500 Exposition Blvd.
+Austin, TX" 75.5002714804034 -97.7675915 30.2982508
+"Austin Public Library - Little Walnut Creek Branch
+835 W. Rundberg Ln.
+Austin, TX" 75.5002714804034 -97.6984619 30.3632362
+"Lincoln County Library
+181 N. Peachtree St.
+Lincolnton, GA" 75.6522483633019 -82.4778415 33.7943654
+"Lithia Springs Public Library
+7100 Junior High Drive
+Lithia Springs, GA" 75.6522483633019 -84.6593203 33.7808985
+"Wildermuth Branch
+501 S Lake Street
+Gary, IN" 75.6674790838637 -87.267539 41.6013329
+"Gas City-Mill Township Public Library
+135 East Main Street
+Gas City, IN" 75.6674790838637 -85.6142605 40.4879087
+"Adams Public Library System
+128 South 3rd Street
+Decatur, IN" 75.8383449082059 -84.925326 40.828836
+"Decatur Public Library
+128 S 3rd Street
+Decatur, IN" 75.8383449082059 -84.925326 40.828836
+"Bogart Branch Library
+200 S. Burson St.
+Bogart, GA" 75.8860444237622 -83.531681 33.945783
+"Boston Carnegie Library
+250 South Main Street
+Boston, GA" 75.8860444237622 -83.790492 30.790397
+"White County Public Library-Helen Branch
+box 1088
+Helen, GA" 75.8947075479195 -83.7315675 34.7014839
+"Towns County Public Library
+99 South Berrong Street
+Hiawassee, GA" 75.8947075479195 -83.7566864 34.9468039
+"Logansport-Cass County Public Library
+616 East Broadway
+Logansport, IN" 75.8995858039075 -86.3621668 40.7548597
+"Loogootee Public Library
+106 North Line Street
+Loogootee, IN" 75.8995858039075 -86.9140462 38.6772123
+"Booker School-Public Library
+po box 288
+Booker, TX" 75.9353214268961 -100.5373673 36.4533648
+"Hutchinson County Library
+625 Weatherly St
+Borger, TX" 75.9353214268961 -101.3887773 35.6720088
+"Wharton County Library
+1920 N Fulton St
+Wharton, TX" 76.0369994885055 -96.0933783 29.3278444
+"Wheeler Public Library
+306 S Canadian St
+Wheeler, TX" 76.0369994885055 -100.2748572 35.4451575
+"Kershaw County Library System
+632 W. Dekalb Street Suite 109
+Camden, SC" 76.1992686458683 -80.6087686 34.2465572
+"Pickens County Library - Central-Clemson Branch Library
+105 Commons Way
+Central, SC" 76.1992686458683 -82.7890472 34.7139706
+"Bourbon Public Library
+307 North Main Street
+Bourbon, IN" 76.2893309097525 -86.1162958 41.2972978
+"Annex Building
+203 North Walnut Street
+Brazil, IN" 76.2893309097525 -87.128054 39.5242162
+"Southside Library
+6599 Jaguar Drive
+Santa Fe, NM" 76.5499784830015 -106.0501162 35.6247921
+"Vista Grande Public Library
+14 Avenida Torreon
+Santa Fe, NM" 76.5499784830015 -105.8956765 35.5221426
+"Joe A Hall High School And Community Library
+12 Bulldog Dr
+Venus, TX" 76.5700182443671 -97.1027441 32.4254635
+"Carnegie City-County Library
+2810 Wilbarger St
+Vernon, TX" 76.5700182443671 -99.2961448 34.1526151
+"Charlie Garrett Memorial Library
+103 S Fisher
+Gorman, TX" 77.1977797207613 -98.6740782 32.2117148
+"Library Of Graham
+910 Cherry St
+Graham, TX" 77.1977797207613 -98.5885724 33.0987589
+"Clarksville Branch Library
+1312 Eastern Boulevard
+Clarksville, IN" 77.2336068621956 -85.7683932 38.3082608
+"Clayton-Liberty Township Public Library
+5199 Iowa Street
+Clayton, IN" 77.2336068621956 -86.5230021 39.6875834
+"Allen Public Library
+300 N Allen Dr
+Allen, TX" 77.3120574800875 -96.6708911 33.1054481
+"Alpine Public Library
+203 N 7th St
+Alpine, TX" 77.3120574800875 -103.664061 30.35805
+"Salt Lake County Library - West Jordan Library
+1970 West 7800 South
+West Jordan, UT" 77.3825039075375 -111.9438883 40.6095258
+"Salt Lake County Library - Hunter Library
+4740 West 4100 South
+West Valley City, UT" 77.3825039075375 -112.0039079 40.6827175
+"Donelson Branch Library
+2315 Lebanon Road
+Nashville, TN" 77.4020957984296 -86.6834104 36.1683418
+"East Branch Library
+206 Gallatin Road
+Nashville, TN" 77.4020957984296 -86.7114583 36.2642596
+"West Oaks Library
+1621 E. Silverstar Road
+Orlando, FL" 77.5089357115909 -81.4042018 28.578254
+"Ormond Beach Public Library
+30 South Beach Street
+Ormond Beach, FL" 77.5089357115909 -81.0553983 29.2844175
+"Dublin Public Library
+206 W Blackjack St
+Dublin, TX" 77.5795806084849 -98.3439562 32.0855722
+"Killgore Memorial Library
+124 S Bliss Ave
+Dumas, TX" 77.5795806084849 -101.9718222 35.8650879
+"North Lauderdale Branch
+6601 Boulevard Of Champions
+North Lauderdale, FL" 77.6061079657189 -80.214325 26.210337
+"North Miami Public Library
+835 Ne 132 Street
+North Miami, FL" 77.6061079657189 -80.1819209 25.8972635
+"Marlboro County Library System
+200 John Corry Road
+Bennettsville, SC" 77.9486068242728 -79.6795881 34.6208539
+"Bethune Public Library
+206 Main Street
+Bethune, SC" 77.9486068242728 -80.346491 34.4130193
+"Bosque Farms Public Library
+1455 W. Bosque Loop
+Bosque Farms, NM" 78.0542899344609 -106.706053 34.8533672
+"Capitan Public Library
+101 E. 2nd Street
+Capitan, NM" 78.0542899344609 -105.5723811 33.5446431
+"Rossville Community Library
+400 West Main Street
+Rossville, IN" 78.109102492775 -86.604741 40.417579
+"Royal Center-Boone Township Public Library
+203 North Chicago Street
+Royal Center, IN" 78.109102492775 -86.498337 40.863742
+"Spiceland Town-Township Public Library
+105 West Main Street
+Spiceland, IN" 78.1543162810856 -85.4391671 39.8383598
+"St. John Branch
+9450 Wicker Drive
+St. John, IN" 78.1543162810856 -87.4701591 41.446984
+"Hussey-Mayfield Memorial Public Library
+250 North Fifth Street
+Zionsville, IN" 78.3820945418383 -86.2662842 39.953285
+"Ackley Public Library
+401 State St
+Ackley, IA" 78.3820945418383 -93.05096 42.552945
+"Davis County Library - Northwest Branch (Syracuse)
+1875 South 2000 West
+Syracuse, UT" 78.6338234173126 -112.064271 41.0866908
+"Salt Lake County Library - Taylorsville Library
+4870 South 2700 West
+Taylorsville, UT" 78.6338234173126 -111.9585967 40.663466
+"Westwood Free Public Library
+49 Park Avenue
+Westwood, NJ" 78.6632172959465 -74.0340736 40.9901429
+"Wharton Public Library
+15 S. Main Street
+Wharton, NJ" 78.6632172959465 -74.583786 40.8983739
+"Frankton Community Library
+102 S. Church Street
+Frankton, IN" 78.7221312271628 -85.7794127 40.2229614
+"Fremont Public Library
+1004 West Toledo Street
+Fremont, IN" 78.7221312271628 -84.947897 41.73089
+"Ridgeville Public Library
+308 North Walnut Street
+Ridgeville, IN" 78.8205107405257 -85.028891 40.291582
+"Ohio County Public Library
+503 Second Street
+Rising Sun, IN" 78.8205107405257 -84.858745 38.949808
+"Green Free Library
+134 Main St
+Wellsboro, PA" 78.900064642708 -77.304682 41.746207
+"Wernersville Public Library
+100 North Reber Street
+Wernersville, PA" 78.900064642708 -76.076982 40.3309758
+"Bellevue Public Library
+106 N 3rd St Suite 1
+Bellevue, IA" 79.0770259615724 -90.4254736 42.258212
+"Belmond Public Library
+440 E Main St
+Belmond, IA" 79.0770259615724 -93.6123789 42.8458932
+"Camanche Public Library
+102 12th Ave
+Camanche, IA" 79.1644035784548 -90.2572292 41.7790195
+"Cambridge Memorial Library
+224 Water St
+Cambridge, IA" 79.1644035784548 -93.5290532 41.8988946
+"Lehi City Public Library
+120 North Center Street
+Lehi, UT" 79.1954226711008 -111.8485785 40.389313
+"Lewiston Public Library
+33 South Main Street
+Lewiston, UT" 79.1954226711008 -111.8566452 41.9752324
+"Uintah County Library
+155 East Main Street
+Vernal, UT" 79.3317951961903 -109.525735 40.45576
+"Washington County Library - Washington Branch
+220 N 300 E
+Washington, UT" 79.3317951961903 -113.5043766 37.1343969
+"Washburn Public Library
+7715 Highway 141
+Washburn, TN" 79.4095138783972 -83.5955574 36.2894746
+"Watertown-Wilson County Library
+206 Public Square
+Watertown, TN" 79.4095138783972 -86.1339971 36.1001588
+"Sam Fore Jr Wilson County Public Library
+1 Library Ln
+Floresville, TX" 79.5409640323387 -98.1566047 29.133426
+"Flower Mound Public Library
+3030 Broadmoor Ln
+Flower Mound, TX" 79.5409640323387 -97.0775118 33.0337284
+"North Dearborn Library
+25969 Dole Road
+West Harrison, IN" 79.5741935569519 -84.8861411 39.2471158
+"Library Annex
+200 Northwestern Ave
+West Lafayette, IN" 79.5741935569519 -86.9080127 40.4257687
+"Headquarters Library (Main)
+902 Greene St.
+Augusta, GA" 79.5771568804459 -81.969147 33.473604
+"Maxwell Branch
+1927 Lumkin Rd.
+Augusta, GA" 79.5771568804459 -82.0131744 33.4178274
+"Duluth
+3480 Duluth Park Lane
+Duluth, GA" 79.7182725375117 -84.1587391 34.0007997
+"Dunwoody Branch
+5339 Chamblee-Dunwoody Rd
+Dunwoody, GA" 79.7182725375117 -84.3317741 33.9446505
+"Jefferson County R. J. Bailar Public Library
+260 N. Cherry St.
+Monticello, FL" 79.7303744632851 -83.8690249 30.546286
+"Wilderness Coast Public Libraries
+1180 West Washington Street
+Monticello, FL" 79.7303744632851 -83.880642 30.545378
+"Lake County Public Library
+1919 West 81st Avenue
+Merrillville, IN" 79.7561635685944 -87.3595689 41.4703853
+"Coolspring Branch
+7089 West 400 North
+Michigan City, IN" 79.7561635685944 -86.8368532 41.665986
+"Breeden Memorial Library
+529 Old State Road 62
+Leavenworth, IN" 79.9165168231415 -86.343796 38.1996878
+"Lebanon Public Library
+104 East Washington Street
+Lebanon, IN" 79.9165168231415 -86.4675115 40.0487955
+"Austin Public Library - Windsor Park Branch
+5833 Westminster Dr.
+Austin, TX" 79.940802663782 -97.6902298 30.3116523
+"Austin Public Library - Yarborough Branch
+2200 Hancock Dr.
+Austin, TX" 79.940802663782 -97.7407213 30.3234684
+"Westbank Community Library
+1309 Westbank Dr
+West Lake Hills, TX" 79.9432395706907 -97.8115376 30.2740219
+"Tawakoni Area Public Library
+340 W Hwy 276
+West Tawakoni, TX" 79.9432395706907 -96.043997 32.904049
+"Clarendon County Library System
+215 N. Brooks St.
+Manning, SC" 80.2563761805932 -80.2105378 33.6993713
+"Marion County Library System
+101 East Court Street
+Marion, SC" 80.2563761805932 -79.399868 34.1783172
+"Pilot Point Community Library
+324 S Washington St
+Pilot Point, TX" 80.299725697567 -96.961727 33.393751
+"Arthur Temple Sr Memorial Library
+106 Timberland Hwy
+Pineland, TX" 80.299725697567 -93.9783143 31.2506065
+"Salt Lake County Library - Calvin S. Smith Library
+810 East 3300 South
+Salt Lake City, UT" 80.5327564824508 -111.8680113 40.6995707
+"Salt Lake County Library - Holladay Library
+2150 East Murray-Holladay Rd
+Salt Lake City, UT" 80.5327564824508 -111.8286539 40.6662201
+"Bell Memorial Public Library
+101 West Main Street
+Mentone, IN" 80.5443317634311 -86.036715 41.173065
+"Merom Library
+8554 W Market St
+Merom, IN" 80.5443317634311 -87.5502255 39.0563028
+"Whitewright Public Library
+200 W Grand St
+Whitewright, TX" 80.5985706356277 -96.3941024 33.5127324
+"Lake Whitney Library
+106 N Colorado St
+Whitney, TX" 80.5985706356277 -97.322319 31.9506026
+"Marion Community Library
+500 Bulldog Dr
+Marion, TX" 80.7870725748777 -98.1408015 29.5683034
+"Pauline And Jane Chilton Memorial Marlin Public Library
+400 Oaks St
+Marlin, TX" 80.7870725748777 -96.8944849 31.3096265
+"Commerce Public Library
+1210 Park St
+Commerce, TX" 80.8251818776019 -95.8981621 33.2505336
+"Montgomery County Memorial Library System
+104 I 45 N
+Conroe, TX" 80.8251818776019 -95.4676183 30.3101743
+"Nellie Pederson Civic Library
+406 Liveoak St
+Clifton, TX" 80.932637057625 -97.5765086 31.7850645
+"Clint Isd Public Library
+12625 Alameda Ave
+Clint, TX" 80.932637057625 -106.237346 31.5941523
+"Eastern Lancaster County Library
+11 Chestnut Dr
+New Holland, PA" 81.1387960894332 -76.072781 40.10339
+"Bucks County Free Library - Free Library Of New Hope And Solebury
+93 W. Ferry Street
+New Hope, PA" 81.1387960894332 -74.9553568 40.3636662
+"Ocala Public Library
+2720 East Silver Springs Boulevard
+Ocala, FL" 81.2170145409205 -82.0996819 29.1873309
+"Forest Public Library
+777 South County Road 314 A
+Ocklawaha, FL" 81.2170145409205 -81.9911871 29.1841933
+"South Miami Branch
+6000 Sunset Dr.
+South Miami, FL" 81.3098055916445 -80.291244 25.7038345
+"Little Red Schoolhouse Branch
+1208 Kenlake Avenue
+Spring Hill, FL" 81.3098055916445 -82.623659 28.451651
+"Brownell Library, Home Of Little Compton
+44 Commons
+Little Compton, RI" 81.3573154250672 -71.170832 41.509954
+"Middletown Public Library
+700 West Main Road
+Middletown, RI" 81.3573154250672 -71.2996047 41.5215957
+"Victoria Evans Memorial Library
+605 North Street
+Ashburn, GA" 81.3634789042563 -83.65522 31.712323
+"Athens Regional Library System
+2025 Baxter Street
+Athens, GA" 81.3634789042563 -83.4035953 33.9450079
+"Southeast Library
+5575 South Semoran Blvd.
+Orlando, FL" 81.4138152793483 -81.3073637 28.4825875
+"Southwest Library
+7255 Della Dr.
+Orlando, FL" 81.4138152793483 -81.4897504 28.4558781
+"Austin Public Library - Manchaca Road Branch
+5500 Manchaca Rd.
+Austin, TX" 81.5370754693509 -97.7973369 30.2166039
+"Austin Public Library - Milwood Branch
+12500 Amherst Dr.
+Austin, TX" 81.5370754693509 -97.7161692 30.4223444
+"East Lake County Library
+31336 County Road 437 South
+Sorrento, FL" 81.6167958167917 -81.5600124 28.8059525
+"Clarence E. Anthony Branch Library
+375 Sw 2nd Ave.
+South Bay, FL" 81.6167958167917 -80.1900856 25.7714721
+"Lowell Public Library
+1505 East Commercial Avenue
+Lowell, IN" 81.7332245172915 -87.4054503 41.2910787
+"Lynnville Branch Library
+211 N Main Street
+Lynnville, IN" 81.7332245172915 -87.2978449 38.1980701
+"Zuni Public Library
+27 E. Chavez Circle
+Zuni, NM" 81.833768198193 -108.8498696 35.0701724
+"Adams Free Library
+2 North Main Street
+Adams, NY" 81.833768198193 -76.0236089 43.8096729
+"Georgetown County Library - Andrews Branch Library
+105 North Morgan Avenue
+Andrews, SC" 81.9616451394297 -79.5606007 33.452608
+"Horry County Memorial Library - Aynor Library
+500 9th Ave.
+Aynor, SC" 81.9616451394297 -79.2000904 33.998338
+"Suntree-Viera Public Library
+335 Pineda Court, Unit 335
+Melbourne, FL" 81.9827045349356 -80.6758936 28.2273852
+"West Melbourne Public Library
+2755 Wingate Blvd.
+Melbourne, FL" 81.9827045349356 -80.6690608 28.0604309
+"Buda Public Library
+303 Main St
+Buda, TX" 82.1492514883563 -97.8421711 30.0828925
+"Buffalo Public Library
+1005 Hill St
+Buffalo, TX" 82.1492514883563 -96.0847587 31.4672075
+"Salt Lake County Library - Sandy Library
+10100 South Petunia Way
+Sandy, UT" 82.1552140806924 -111.8521974 40.5677496
+"Santaquin City Library
+20 West 100 South
+Santaquin, UT" 82.1552140806924 -111.7856682 39.9739943
+"Pleasanton Public Library
+321 N Main St
+Pleasanton, TX" 82.1698514567177 -98.4841775 28.9615057
+"Calhoun County Public Library - Point Comfort Branch Library
+1 Lamar St.
+Point Comfort, TX" 82.1698514567177 -96.5547729 28.6767576
+"Toa Baja Public Library (Jaime Fonalledas)
+55 Luis Munoz Rivera St.
+Toa Baja, PA" 82.2522138322937 -77.1945247 41.2033216
+"Trujillo Alto Municipal Library (Emilio Diaz Valcarcel)
+29 Luis Munoz Rivera St.
+Trujillo Alto, PA" 82.2522138322937 -77.1945247 41.2033216
+"Logan Library
+255 North Main Street
+Logan, UT" 82.6136612819404 -111.8355187 41.7364162
+"Salt Lake County Library - Magna Library
+2675 South, 8950 West
+Magna, UT" 82.6136612819404 -112.1042867 40.7112847
+"West Lafayette Public Library
+208 West Columbia Street
+West Lafayette, IN" 82.6793876250031 -86.907445 40.425109
+"West Lebanon-Pike Township Public Library
+200 North High Street
+West Lebanon, IN" 82.6793876250031 -87.3866342 40.2727712
+"Callender Heritage Public Library
+505 Thomas St
+Callender, IA" 82.6975627695067 -94.2930478 42.3616578
+"Calmar Public Library
+101 S Washington St
+Calmar, IA" 82.6975627695067 -91.8661075 43.1826145
+"Morristown-Hamblen Public Library
+417 West Main Street
+Morristown, TN" 82.7494118934373 -83.2959076 36.2114964
+"Mosheim Public Library
+730 Main Street
+Mosheim, TN" 82.7494118934373 -82.9596641 36.1889449
+"Aiken County Library - Jackson Branch Library
+106 Main Street
+Jackson, SC" 82.7582102429351 -81.788518 33.3254427
+"Fanny D. Lowry Memorial Library
+500 North Main Street
+Jefferson, SC" 82.7582102429351 -80.3888202 34.6472498
+"Santa Rosa County Library System
+6568 Caroline St., Ste. 101
+Milton, FL" 82.7936599729314 -87.0497352 30.6209084
+"Mims-Scottmoor Public Library
+3615 Lionel Road
+Mims, FL" 82.7936599729314 -80.8586096 28.7023453
+"Rushville Public Library
+130 West Third Street
+Rushville, IN" 82.9537609101431 -85.4461884 39.6093251
+"Russiaville Branch Library
+315 Mesa Dr
+Russiaville, IN" 82.9537609101431 -86.268098 40.419466
+"Shiner Public Library
+115 E Wolters 2nd St
+Shiner, TX" 83.0031326927747 -97.1682844 29.4268303
+"Silsbee Public Library
+295 N 4th St
+Silsbee, TX" 83.0031326927747 -94.1764527 30.3495851
+"Edinburgh Wright-Hageman Public Library
+119 West Main Cross Street
+Edinburgh, IN" 83.151433952881 -85.967579 39.353968
+"Elberfeld Branch Library
+175 Sycamore Street
+Elberfeld, IN" 83.151433952881 -87.4476488 38.1604836
+"Guanica Public Library (Domingo Suarez Cruz)
+49 Trece De Marzo St.
+Guanica, PA" 83.181984208388 -77.1945247 41.2033216
+"Guayama Electronic Municipal Library
+1 Ashford St., Corner Of Vicente Pa
+Guayama, PA" 83.181984208388 -77.1945247 41.2033216
+"Everman Public Library
+100 N Race St
+Everman, TX" 83.2112021781273 -97.2868386 32.6313681
+"Fabens Isd Community Library
+400 Ne Camp St
+Fabens, TX" 83.2112021781273 -106.154282 31.5022415
+"Allen County Public Library
+900 Library Plaza
+Fort Wayne, IN" 83.2610430965324 -85.1432369 41.0771709
+"Dupont Branch
+563 East Dupont Road
+Fort Wayne, IN" 83.2610430965324 -85.1346085 41.1782795
+"Rio Grande City Public Library
+591 E Canales Bros St
+Rio Grande City, TX" 83.2713428647198 -98.8203046 26.3797874
+"Rio Grande City Public Library - La Rosita Branch Library
+Box 1
+Rio Grande City, TX" 83.2713428647198 -98.8203046 26.3797874
+"Goliad County Library
+320 S Commercial St
+Goliad, TX" 83.398906115425 -97.3926598 28.6656815
+"Gonzales Public Library
+415 St. Matthew
+Gonzales, TX" 83.398906115425 -97.4514886 29.4999272
+"Rogers Free Library
+525 Hope Street
+Bristol, RI" 83.4088733648342 -71.277086 41.671259
+"Jesse M. Smith Memorial Library
+100 Tinkham Lane
+Burrillville, RI" 83.4088733648342 -71.6745487 41.964994
+"Central Falls Free Public Library
+205 Central Street
+Central Falls, RI" 83.4142205309474 -71.38787 41.8858842
+"Cross Mills Public Library
+4417 Old Post Road
+Charlestown, RI" 83.4142205309474 -71.6408378 41.3825525
+"Arecibo Public Library (Nicolas Nabal Barreto)
+210 Santiago Iglesias Pantin Ave.
+Arecibo, PA" 83.5507325615348 -77.1945247 41.2033216
+"Caguas Public Library (Dr. Pedro Albizu Campos)
+38 Padial St.
+Caguas, PA" 83.5507325615348 -77.1945247 41.2033216
+"Schertz Public Library
+608 Schertz Pkwy
+Schertz, TX" 83.6486206369719 -98.2662952 29.5600124
+"Schulenburg Public Library
+310 Simpson St
+Schulenburg, TX" 83.6486206369719 -96.9022118 29.6779691
+"Bay City Public Library
+1100 7th St
+Bay City, TX" 83.9166623325818 -95.977202 28.9827653
+"Beaumont Public Library System
+801 Pearl St
+Beaumont, TX" 83.9166623325818 -94.0953854 30.0809495
+"Benton County Public Library
+102 North Van Buren Avenue
+Fowler, IN" 84.0104893260906 -87.320037 40.617997
+"Francesville-Salem Township Public Library
+201 West Montgomery Street
+Francesville, IN" 84.0104893260906 -86.883187 40.985369
+"Madison-Jefferson County Public Library
+420 West Main Street
+Madison, IN" 84.1552402829724 -85.3842161 38.7373555
+"Marion Public Library
+600 South Washington Street
+Marion, IN" 84.1552402829724 -85.660157 40.5558802
+"Hamlin Memorial Library
+123 S Mechanic St
+Smethport, PA" 84.3830961048881 -78.4417101 41.8082998
+"Smithfield Library
+P.O. Box 497
+Smithfield, PA" 84.3830961048881 -79.8078289 39.8031324
+"Fairfield Library
+350 W Main St
+Fairfield, TX" 84.4887526272381 -96.1654595 31.7263452
+"Ed Rachal Memorial Library
+203 S Calixto Mora Ave
+Falfurrias, TX" 84.4887526272381 -98.1429088 27.225588
+"Auburn Branch
+396 Pontiac Ave., Cranston, Ri 02910
+Cranston, RI" 84.5465492634633 -71.4372417 41.7770303
+"Cranston Public Library
+140 Sockanosset Cross Road
+Cranston, RI" 84.5465492634633 -71.456979 41.754401
+"Harlan Branch
+17430 State Road 37
+Harlan, IN" 84.5874657294711 -84.9205825 41.1957269
+"Hartford City Public Library
+314 North High Street
+Hartford City, IN" 84.5874657294711 -85.3681689 40.4533454
+"Bussey Community Library
+401 Merrill St
+Bussey, IA" 84.6243542811109 -92.8866861 41.2054414
+"Calamus Public Library
+198 2nd St
+Calamus, IA" 84.6243542811109 -90.7588196 41.8256094
+"Smithton Public Library
+P.O.Box 382
+Smithton, PA" 84.6740780017805 -79.7411535 40.1539613
+"Mary S Biesecker Public Library
+230 S Rosina Ave
+Somerset, PA" 84.6740780017805 -79.0830219 40.0068594
+"Middlebury Community Public Library
+101 East Winslow Street
+Middlebury, IN" 84.7009718028432 -85.7055729 41.6764516
+"Middletown Fall Creek Township Public Library
+780 High Street
+Middletown, IN" 84.7009718028432 -85.5371748 40.0560294
+"East Burke Community Library
+p.o. box 309
+East Burke, VT" 84.7700887665531 -71.9404554 44.589071
+"Dover Free
+22 Holland Rd.
+East Dover, VT" 84.7700887665531 -72.802811 42.94449
+"New Smyrna Beach Brannon Memorial Library
+105 South Riverside Dr.
+New Smyrna Beach, FL" 84.9728765468987 -80.919756 29.024648
+"Newberry Branch Library
+110 S. Seaboard St.
+Newberry, FL" 84.9728765468987 -82.6107851 29.6451326
+"Dade County Talking Book Library
+2455 N.W. 183rd St.
+Miami, FL" 85.3547328199387 -80.2426745 25.9417584
+"Doral Early Childhood Library
+9585 Nw 41st Street
+Miami, FL" 85.3547328199387 -80.3375029 25.8118231
+"Van Community Library
+310 Chestnut Dr
+Van, TX" 85.3685235330075 -95.6212199 32.5291502
+"Van Alstyne Public Library
+117 N Waco St
+Van Alstyne, TX" 85.3685235330075 -96.5771271 33.4213502
+"Tamaqua Public Library
+30 South Railroad St
+Tamaqua, PA" 85.4189593528114 -75.9703515 40.7960714
+"Community Library Of Allegheny Valley - Tarentum Location
+400 Lock Street
+Tarentum, PA" 85.4189593528114 -79.7539117 40.6016333
+"Williamsburg Public Library
+511 West 2nd St
+Williamsburg, PA" 85.6320607027216 -78.2036997 40.461996
+"Barbours Link
+179 Dunwoody Road
+Williamsport, PA" 85.6320607027216 -76.7970378 41.3915265
+"Anita And W.T. Neyland Public Library
+1230 Carmel Pkwy.
+Corpus Christi, TX" 85.6330579553395 -97.3845911 27.7287046
+"Corpus Christi Public Libraries
+805 Comanche St
+Corpus Christi, TX" 85.6330579553395 -97.3990879 27.7927313
+"Orangeburg County Library - North Branch Library
+9316 North Road
+North, SC" 85.7185420774985 -81.1041717 33.6156186
+"Aiken County Library - North Augusta Branch Library (Nancy Carson Library)
+135 Edgefield Rd.
+North Augusta, SC" 85.7185420774985 -81.9524734 33.5229852
+"Huntington City-Township Public Library
+200 West Market
+Huntington, IN" 85.7331414772315 -85.4973132 40.8817484
+"Brightwood Branch Library
+2435 N Sherman Drive
+Indianapolis, IN" 85.7331414772315 -86.1012873 39.8029733
+"Union City Public Library
+408 North Columbia Street
+Union City, IN" 85.795559127385 -84.808795 40.2014501
+"Union Mills Branch
+3727 West 800 South
+Union Mills, IN" 85.795559127385 -86.773355 41.491585
+"Waynedale Branch
+2200 Lower Huntington Road
+Fort Wayne, IN" 85.8057841568708 -85.1649365 41.020747
+"Fortville-Vernon Township Public Library
+625 East Broadway
+Fortville, IN" 85.8057841568708 -85.842998 39.9343284
+"Eagle Pass Public Library
+589 E Main St
+Eagle Pass, TX" 85.9526411570706 -100.5010134 28.7085032
+"Centennial Memorial Library
+210 S Lamar St
+Eastland, TX" 85.9526411570706 -98.8188834 32.4004946
+"South Creek Library
+1702 Deerfield Blvd.
+Orlando, FL" 86.042667983578 -81.4013409 28.3778922
+"South Trail Library
+4600 South Orange Blossom Trail
+Orlando, FL" 86.042667983578 -81.399343 28.4971771
+"Churubusco Public Library
+116 North Mulberry Street
+Churubusco, IN" 86.0515475333274 -85.3205777 41.2306721
+"Hamilton North Public Library
+209 West Brinton Street
+Cicero, IN" 86.0515475333274 -86.017004 40.1231719
+"Jb Nickells Memorial Library
+215 S Pecan Ave
+Luling, TX" 86.0759445077429 -97.6504797 29.6793617
+"Lumberton Public Library
+130 E Chance Rd
+Lumberton, TX" 86.0759445077429 -94.1980248 30.2658401
+"New Carlisle Olive Township Public Library
+408 South Bray Street
+New Carlisle, IN" 86.1454093838071 -86.5112163 41.7019841
+"New Castle-Henry County Public Library
+376 South 15th Street
+New Castle, IN" 86.1454093838071 -85.3669402 39.9292028
+"Kentland-Jefferson Township Public Library
+201 East Graham Street
+Kentland, IN" 86.2767635267427 -87.446787 40.768982
+"Kewanna-Union Township Public Library
+210 East Main Street
+Kewanna, IN" 86.2767635267427 -86.412999 41.0185853
+"Westmoreland Library Network
+4130 Sardis Rd
+Murrsyville, PA" 86.2843522959211 -79.666328 40.453985
+"Myerstown Community Library
+199 North College St
+Myerstown, PA" 86.2843522959211 -76.3066567 40.3777298
+"Hope Branch Library
+635 Harrison
+Hope, IN" 86.3375127787161 -85.7701188 39.303305
+"Huntingburg Public Library
+419 North Jackson Street
+Huntingburg, IN" 86.3375127787161 -86.953676 38.297148
+"Smyrna Public Library
+400 Enon Springs West
+Smyrna, TN" 86.4655883759166 -86.5211391 35.9778082
+"Hancock County Public Library
+138 Willow Street
+Sneedville, TN" 86.4655883759166 -83.214208 36.534568
+"Kingman-Millcreek Public Library
+123 East State Street
+Kingman, IN" 86.5752214724903 -87.2779655 39.9673141
+"Kingsford Heights Branch
+436 Evanston Street
+Kingsford Heights, IN" 86.5752214724903 -86.694867 41.482154
+"Lake Station Branch
+2400 Central Avenue
+Lake Station, IN" 86.7365921212671 -87.254276 41.572383
+"Newton County Public Library
+9444 North 315 West
+Lake Village, IN" 86.7365921212671 -85.869905 41.2486977
+"Hebron Library
+201 West Sigler Street
+Hebron, IN" 86.7497850710328 -87.2014513 41.3186503
+"Henryville Library
+214 East Main Street
+Henryville, IN" 86.7497850710328 -85.7701961 38.5394403
+"Cogan House Link
+4609 Route 184 Hwy.
+Trout Run, PA" 86.823711192598 -77.2095069 41.4393883
+"Allen F. Pierce Free Library
+115 Center Street
+Troy, PA" 86.823711192598 -76.8185899 41.7997607
+"Narragansett Public Library
+35 Kingstown Road
+Narragansett, RI" 87.0281461547454 -71.4597953 41.431381
+"Island Free Library
+po box 1830
+New Shoreham, RI" 87.0281461547454 -71.5576073 41.172137
+"Hampton County Library - Estill Branch Library
+276 West Third Street
+Estill, SC" 87.0430818738371 -81.2367235 32.7538395
+"Florence County Library System
+509 South Dargan Street
+Florence, SC" 87.0430818738371 -79.766409 34.1896424
+"Kouts Library
+101 E Daumer Road
+Kouts, IN" 87.3298580640078 -87.02509 41.309653
+"La Crosse Public Library
+16 East Main Street
+La Crosse, IN" 87.3298580640078 -86.890728 41.317067
+"New Tampa Regional Library
+10001 Cross Creek Blvd
+Tampa, FL" 87.4051341176912 -82.3280672 28.1410733
+"North Tampa Branch Library
+8916 North Blvd.
+Tampa, FL" 87.4051341176912 -82.4683709 28.0323841
+"Eastern Hancock Branch
+10450 E 250 N
+Charlottesville, IN" 87.4289758606213 -85.6078603 39.8228114
+"Thomas Library
+200 West Indiana Avenue
+Chesterton, IN" 87.4289758606213 -87.0538371 41.6101725
+"Jonesboro Public Library
+124 East 4th Street
+Jonesboro, IN" 87.506018570933 -85.6267548 40.4823542
+"Kendallville Public Library
+221 South Park Avenue
+Kendallville, IN" 87.506018570933 -85.2529325 41.4425153
+"Parkway Branch Library
+1210 Capital Circle Se
+Tallahassee, FL" 87.5689584356126 -84.2279221 30.4307436
+"Tamarac Branch
+8701 W. Commercial Blvd.
+Tamarac, FL" 87.5689584356126 -80.2666775 26.1943988
+"Sumter County Public Library - Wesmark Branch
+180 W. Wesmark Boulevard
+Sumter, SC" 87.5736449313677 -80.3844644 33.9503611
+"Sumter County Public Library System
+111 N. Harvin Street
+Sumter, SC" 87.5736449313677 -80.3390298 33.9223118
+"West Florida Public Library
+200 West Gregory Street
+Pensacola, FL" 87.7322024392484 -87.219436 30.415144
+"Taylor County Public Library
+403 North Washington Street
+Perry, FL" 87.7322024392484 -83.581403 30.119836
+"Haughville Branch Library
+2121 W. Michigan Street
+Indianapolis, IN" 87.7713836087673 -86.1974529 39.7744225
+"Indianapolis-Marion County Public Library
+2450 North Meridian Street
+Indianapolis, IN" 87.7713836087673 -86.158416 39.8008958
+"Niceville Public Library
+206 North Partin Dr.
+Niceville, FL" 87.8335524125546 -86.4765637 30.524449
+"Okaloosa County Public Library Cooperative
+206 N. Partin Dr.
+Niceville, FL" 87.8335524125546 -86.4765637 30.524449
+"Austin Public Library - Old Quarry Branch
+7051 Village Center Dr.
+Austin, TX" 87.8700631353097 -97.7551561 30.3529975
+"Austin Public Library - Pleasant Hill Branch
+211 E. William Cannon Dr.
+Austin, TX" 87.8700631353097 -97.7771661 30.1922461
+"Mechanicsville Branch
+400 Formwalt Street Sw
+Atlanta, GA" 87.8952282769772 -84.3950944 33.7437565
+"Northside Branch
+3295 Northside Parkway Nw
+Atlanta, GA" 87.8952282769772 -84.4253753 33.8451277
+"East Athens Resource Center
+400 Mckinley Drive
+Athens, GA" 87.9295779807026 -83.35599 33.959985
+"Lay Park Resource Center
+297 Hoyt Street
+Athens, GA" 87.9295779807026 -83.3757817 33.9641423
+"La Porte County Public Library
+904 Indiana Avenue
+La Porte, IN" 88.0710749056937 -86.7212941 41.6087341
+"Ladoga-Clark Township Public Library
+128 East Main Street
+Ladoga, IN" 88.0710749056937 -86.799937 39.913761
+"Austin Public Library - Twin Oaks Branch
+1800 S. Fifth St.
+Austin, TX" 88.1062799927928 -97.7623975 30.2486884
+"Austin Public Library - University Hills Branch
+4721 Loyola Ln.
+Austin, TX" 88.1062799927928 -97.6665407 30.3086669
+"Tippecanoe County Public Library
+627 South Street
+Lafayette, IN" 88.142894055669 -86.8892678 40.4169912
+"La Grange County Public Library
+203 West Spring Street
+Lagrange, IN" 88.142894055669 -85.4194811 41.643399
+"Estates Branch Library
+1266 Golden Gate Blvd., W
+Naples, FL" 88.24535764594 -81.632424 26.229056
+"Golden Gate Branch Library
+4898 Coronado Parkway
+Naples, FL" 88.24535764594 -81.7056349 26.182856
+"Leander Public Library
+1011 S Bagdad Rd
+Leander, TX" 88.3510817485584 -97.8624245 30.5599877
+"Leon Valley Public Library
+6425 Evers Rd
+Leon Valley, TX" 88.3510817485584 -98.6132387 29.501181
+"Free Library Of Philadelphia - Bushrod Branch
+6304 Castor Avenue
+Philadelphia, PA" 88.4340144545862 -75.078621 40.0386524
+"Free Library Of Philadelphia - Bustleton Branch
+10199 Bustleton Avenue
+Philadelphia, PA" 88.4340144545862 -75.0261692 40.1077764
+"Franklin Road Branch Library
+5500 S. Franklin Road
+Indianapolis, IN" 88.4479685354874 -86.018351 39.6878856
+"Glendale Branch Library
+6101 N Keystone Avenue
+Indianapolis, IN" 88.4479685354874 -86.1194334 39.8657901
+"Kirklin Public Library
+115 North Main St
+Kirklin, IN" 88.4992199696385 -86.3599292 40.1931943
+"Knightstown Public Library
+5 East Main Street
+Knightstown, IN" 88.4992199696385 -85.527261 39.795089
+"Hatfield Branch
+900 W State Rd 66
+Hatfield, IN" 88.5758915495126 -87.2377411 37.9046189
+"Haubstadt Branch
+101 S Main
+Haubstadt, IN" 88.5758915495126 -87.574821 38.205007
+"Horry County Memorial Library - Surfside
+410 Surfside Drive
+Surfside Beach, SC" 88.6277043861146 -78.9747877 33.6078394
+"Lexington County Library - Swansea
+199 N. Lawrence Ave.
+Swansea, SC" 88.6277043861146 -81.0974497 33.7382177
+"Koontz Lake Library
+7954 North Highway 23
+Walkerton, IN" 88.8899771614484 -86.4898733 41.4176108
+"Walkerton-Lincoln Township Public Library
+300 Michigan Street
+Walkerton, IN" 88.8899771614484 -86.4827477 41.4672436
+"Otwell Branch
+2301 N Spring St
+Otwell, IN" 88.965889483027 -87.092405 38.456525
+"Owensville Carnegie Public Library
+110 South Main Street
+Owensville, IN" 88.965889483027 -87.6913369 38.2721832
+"Henry F. Schricker Main Library
+152 W Culver Road
+Knox, IN" 88.9698825994369 -86.6252365 41.2876797
+"Starke County Public Library System
+152 West Culver Road
+Knox, IN" 88.9698825994369 -86.6252365 41.2876797
+"Blue Grass Branch Library
+114 N. Mississippi St.
+Blue Grass, IA" 88.9797132852585 -90.766085 41.509825
+"Bode Public Library
+114 Humboldt Ave
+Bode, IA" 88.9797132852585 -94.2875111 42.8680956
+"Little Turtle Branch
+2201 Sherman Boulevard
+Fort Wayne, IN" 89.0484212840625 -85.1545917 41.0953725
+"Pontiac Branch
+3304 Warsaw Street
+Fort Wayne, IN" 89.0484212840625 -85.1303727 41.0547392
+"Dickens County Spur Public Library
+415 E Hill St
+Spur, TX" 89.071215451472 -100.8494901 33.478907
+"Stamford Carnegie Library
+600 E Mcharg St
+Stamford, TX" 89.071215451472 -99.7960255 32.9449542
+"Kokomo-Howard County Public Library
+220 North Union Street
+Kokomo, IN" 89.2775313251664 -86.1296743 40.4881071
+"South Branch Library
+1755 East Center Road
+Kokomo, IN" 89.2775313251664 -86.1030078 40.4336209
+"Badger Public Library
+211 1st Ave Se
+Badger, IA" 89.3866493970954 -94.1450474 42.6148317
+"Bagley Public Library
+117 Main
+Bagley, IA" 89.3866493970954 -94.4295452 41.8490063
+"Thorntown Public Library
+124 North Market Street
+Thorntown, IN" 89.8646047326798 -86.6060285 40.1302921
+"Tipton County Public Library
+127 East Madison Street
+Tipton, IN" 89.8646047326798 -86.0399562 40.2805745
+"Chattahoochee Valley Regional Library System
+3000 Macon Road
+Columbus, GA" 90.1739708905341 -84.9440487 32.4769318
+"Mildred L. Terry Branch Library
+640 Veterans Parkway
+Columbus, GA" 90.1739708905341 -84.9872996 32.4582255
+"Rankin Public Library
+310 E 10th St
+Rankin, TX" 90.2167198428167 -101.9435749 31.2258481
+"Reber Memorial Library
+193 N 4th St
+Raymondville, TX" 90.2167198428167 -97.7872326 26.4826308
+"Battle Creek Public Library
+115 Main St
+Battle Creek, IA" 90.2485763752821 -95.5990022 42.3159318
+"Baxter Public Library
+202 E State St
+Baxter, IA" 90.2485763752821 -93.1488202 41.8268542
+"Deleon City County Library
+125 E Reynosa Ave
+De Leon, TX" 90.3115583920759 -98.5363069 32.108966
+"Desoto Public Library
+211 E Pleasant Run Rd Ste C
+De Soto, TX" 90.3115583920759 -96.8548077 32.6056939
+"Marlboro County Library System
+200 John Corry Road
+Bennettsville, SC" 90.3455458982479 -79.6795881 34.6208539
+"Bethune Public Library
+206 Main Street
+Bethune, SC" 90.3455458982479 -80.346491 34.4130193
+"Chelsea Public
+296 Rt. 110
+Chelsea, VT" 90.5118121442358 -72.447646 43.989248
+"Whiting
+117 Main St.
+Chester, VT" 90.5118121442358 -72.5972434 43.2636375
+"Clermont Library
+197 King Street
+Clermont, GA" 90.6102468594654 -83.7744154 34.4775511
+"White County Public Library-Cleveland Branch
+post office box 657
+Cleveland, GA" 90.6102468594654 -83.7632366 34.5970402
+"Ashton Public Library
+3029 3rd St
+Ashton, IA" 90.6668069343943 -95.7923957 43.3115277
+"Atkins Public Library
+84 Main Ave
+Atkins, IA" 90.6668069343943 -91.8620012 41.9967052
+"Braddock Carnegie Library
+519 Penn Avenue
+Turtle Creek, PA" 90.7251228103081 -79.8287612 40.4056979
+"Tyrone-Snyder Township Public Library
+1000 Pennsylvania Ave.
+Tyrone, PA" 90.7251228103081 -78.2379775 40.6706254
+"Alexander Hamilton Memorial Free Library
+45 East Main Street
+Waynesboro, PA" 90.7275838430511 -77.5764091 39.7551751
+"Eva K Bowlby Public Library
+311 North West St
+Waynesburg, PA" 90.7275838430511 -80.1918677 39.8994798
+"Bancroft Public Library
+208 E Ramsey St
+Bancroft, IA" 90.8704427102381 -94.2164653 43.2929633
+"Batavia Public Library
+902 3rd St
+Batavia, IA" 90.8704427102381 -92.1673954 40.9916386
+"Muncie-Center Township Public Library
+2005 South High Street
+Muncie, IN" 90.9394856362849 -85.3890098 40.1764474
+"Vivian Conley Library
+1824 E Centennial Avenue
+Muncie, IN" 90.9394856362849 -85.365986 40.207704
+"Pierson Public Library
+115 North Volusia Avenue
+Pierson, FL" 91.0344442542232 -81.466903 29.240183
+"Pinellas Park Public Library
+7770 52nd Street North
+Pinellas Park, FL" 91.0344442542232 -82.7045493 27.8423703
+"North Fort Myers Public Library
+2001 Tamiami Trail NE
+North Fort Myers, FL" 91.5024163022413 -81.8865331 26.6880572
+"Talking Books Library
+13240 N Cleveland Ave
+North Fort Myers, FL" 91.5024163022413 -81.8839605 26.6618221
+"Greenville County Library - Anderson Road (West) Branch
+2625 Anderson Road
+Greenville, SC" 91.6607523277482 -82.4398585 34.8159481
+"Greenville County Library - Augusta Road (Ramsey Family) Branch
+100 Lydia Street
+Greenville, SC" 91.6607523277482 -82.3781259 34.8040349
+"William R Bill Ellis Memorial Library
+700 W Ave A
+Port Aransas, TX" 91.7465144299446 -97.0686181 27.8362497
+"Port Arthur Public Library
+4615 9th Ave
+Port Arthur, TX" 91.7465144299446 -93.9478685 29.9262536
+"Shawnee Branch
+5600 Noll Avenue
+Fort Wayne, IN" 91.8624487839911 -85.1360576 41.033074
+"Tecumseh Branch
+1411 East State Blvd
+Fort Wayne, IN" 91.8624487839911 -85.1208882 41.0970378
+"North East Branch
+9410 State Road 144
+Martinsville, IN" 92.0054173798379 -86.2526645 39.5664854
+"Matthews Public Library
+722 Massachusetts Avenue
+Matthews, IN" 92.0054173798379 -85.4992667 40.3882514
+"Eagle Nest Public Library
+74 N Tomboy Dr
+Eagle Nest, NM" 92.1175503375705 -105.2636179 36.554754
+"Edgewood Community Library
+1950b Pioneer Park Road
+Edgewood, NM" 92.1175503375705 -106.1815476 35.0658608
+"St. Pete Beach Public Library
+365 73rd Ave
+St. Pete Beach, FL" 92.1821210878844 -82.7493836 27.7417826
+"James Weldon Johnson Branch Library
+1059 18th Ave South
+St. Petersburg, FL" 92.1821210878844 -82.6494741 27.7525926
+"Pendleton Community Public Library
+595 East Water Street
+Pendleton, IN" 92.2539091132245 -85.7353713 40.0042207
+"Penn Township Public Library
+195 North Union
+Pennville, IN" 92.2539091132245 -85.1482205 40.4934411
+"East Greenwich Free Library
+82 Peirce Street
+East Greenwich, RI" 92.2557425750416 -71.4508134 41.6613663
+"East Providence Public Library
+41 Grove Avenue
+East Providence, RI" 92.2557425750416 -71.375259 41.818466
+"Kershaw County Library - Elgin Branch Library
+2652 Main Street
+Elgin, SC" 92.2896567789481 -80.8044284 34.1646915
+"Orangeburg County Library - Mentor Branch Library
+2621 Cleveland Street
+Elloree, SC" 92.2896567789481 -80.6077441 33.4689068
+"Pike County Public Library
+1104 Main Street
+Petersburg, IN" 92.3149296610235 -87.2772929 38.4931113
+"Pierceton Washington Township Public Library
+101 Catholic Street
+Pierceton, IN" 92.3149296610235 -85.705679 41.19872
+"Reddick Public Library
+15150 N.W. Gainesville Road
+Reddick, FL" 92.498205584713 -82.1997167 29.3700357
+"Riverview Branch Library
+10509 Riverview Drive
+Riverview, FL" 92.498205584713 -82.329519 27.8714312
+"Bamberg County Public Library - Denmark Branch Library
+19 Maple Avenue
+Denmark, SC" 92.4987734487131 -81.1410002 33.31384
+"Dillon County Library System
+600 East Main Street
+Dillon, SC" 92.4987734487131 -79.3669313 34.4144143
+"Roaring Spring Comm Library
+320 East Main St
+Roaring Spring, PA" 92.5437690635674 -78.4023772 40.3355607
+"Robesonia Community Library
+75-A South Brooke St
+Robesonia, PA" 92.5437690635674 -76.1373171 40.3518054
+"Waterloo-Grant Township Public Library
+300 South Wayne Street
+Waterloo, IN" 92.7017095110901 -85.0199177 41.4299339
+"Waveland-Brown Township Public Library
+115 East Green Street
+Waveland, IN" 92.7017095110901 -87.044759 39.8783871
+"Oakdale Public Library
+212 Queen Street
+Oakdale, TN" 92.708022904766 -84.5613236 35.9838836
+"Old Hickory Branch Library
+1010 Jones Avenue
+Old Hickory, TN" 92.708022904766 -86.6462174 36.2599982
+"Williamsburg County Library - Kingstree
+215 North Jackson Street
+Kingstree, SC" 92.7910872311217 -79.8323687 33.6649948
+"Lake City Public Library
+220 E. Main Street
+Lake City, SC" 92.7910872311217 -79.7518847 33.8712561
+"Lakeville Branch
+601 North Michigan
+Lakeville, IN" 92.9108826352152 -86.3041794 41.4718379
+"Lapel Public Library
+610 Main St
+Lapel, IN" 92.9108826352152 -85.8479298 40.0663839
+"Richland County Public Library - North Main Branch Library
+5306 North Main Street
+Columbia, SC" 92.970198111797 -81.0219035 34.0519037
+"Richland County Public Library - Northeast Regional Branch Library
+7490 Parklane Road
+Columbia, SC" 92.970198111797 -80.9575298 34.0755709
+"Emery County Library - Green River Branch
+85 South Long St.
+Green River, UT" 92.9709492382533 -110.1619331 38.9943877
+"Gunnison Civic Library
+38 West Center Street
+Gunnison, UT" 92.9709492382533 -111.8204213 39.1548893
+"Free Library Of Philadelphia - Eastwick Branch
+2851 Island Avenue
+Philadelphia, PA" 93.2686384227667 -75.2403308 39.9059349
+"Free Library Of Philadelphia - Falls Of Schuylkill Branch
+3501 Midvale Avenue
+Philadelphia, PA" 93.2686384227667 -75.1923638 40.0142949
+"Free Library Of Philadelphia - Fishtown Community Branch
+1217 East Montgomery Avenue
+Philadelphia, PA" 93.2686384227667 -75.1271851 39.971911
+"Free Library Of Philadelphia - Fox Chase Branch
+501 Rhawn Street
+Philadelphia, PA" 93.2686384227667 -75.0819215 40.0767105
+"Narragansett Public Library
+35 Kingstown Road
+Narragansett, RI" 93.4164013634015 -71.4597953 41.431381
+"Island Free Library
+po box 1830
+New Shoreham, RI" 93.4164013634015 -71.5576073 41.172137
+"Elwood Public Library
+1600 Main Street
+Elwood, IN" 93.5467986862617 -85.8396838 40.2773485
+"Crawford County Public Library
+203 Indiana Avenue
+English, IN" 93.5467986862617 -86.442904 38.352345
+"Hardee County Public Library
+315 North Sixth Avenue
+Wauchula, FL" 93.6886806142952 -81.812916 27.5505
+"E.C. Rowell Public Library
+85 E Central Avenue
+Webster, FL" 93.6886806142952 -82.053664 28.609731
+"Georgetown Branch
+6600 East State Boulevard
+Fort Wayne, IN" 93.7185752403494 -85.0568506 41.1020704
+"Hessen Cassel Branch
+3030 East Paulding Road
+Fort Wayne, IN" 93.7185752403494 -85.0976247 41.0317962
+"Unityville Link
+4298 Route 42 Hwy.
+Unityville, PA" 93.789219207571 -76.5311343 41.2530196
+"Upper Darby Township Sellers Memorial Free Public Library
+100 Garrett Road
+Upper Darby, PA" 93.789219207571 -75.2630871 39.9599756
+"Jefferson County Library
+7933 Viterbo Rd Ste 7
+Beaumont, TX" 93.8850607578264 -94.02062 29.9634323
+"Bedford Public Library
+2424 Forest Ridge
+Bedford, TX" 93.8850607578264 -97.1417729 32.8460923
+"Owen County Public Library
+10 South Montgomery Street
+Spencer, IN" 94.074398356798 -86.7636142 39.2856933
+"Spencer Owen Public Library
+110 E Market
+Spencer, IN" 94.074398356798 -86.761129 39.285013
+"Ellen Brooks West Memorial Library Of Forney
+800 Fm 741
+Forney, TX" 94.1240640180313 -96.4566676 32.7243208
+"Jeff Davis County Library
+100 Memorial Sq
+Fort Davis, TX" 94.1240640180313 -95.7213345 29.7984092
+"Hollywood Branch
+1530 North Hollywood
+Memphis, TN" 94.1979160897753 -89.9862099 35.15555
+"Levi Branch
+3676 Highway 61 South
+Memphis, TN" 94.1979160897753 -90.062432 35.0483972
+"Muenster Public Library
+418 N Elm St
+Muenster, TX" 94.2110112434457 -97.3775757 33.6525332
+"Muleshoe Area Public Library
+322 W 2nd St
+Muleshoe, TX" 94.2110112434457 -102.7265557 34.2250389
+"Lawrence Branch Library
+7898 North Hague Road
+Indianapolis, IN" 94.2763071386109 -86.033839 39.8979681
+"Nora Branch Library
+8625 Guilford Avenue
+Indianapolis, IN" 94.2763071386109 -86.1414951 39.9130366
+"Free Library Of Philadelphia - Wadsworth Branch
+1500 Wadsworth Avenue
+Philadelphia, PA" 94.2919926609872 -75.1737193 40.0789708
+"Free Library Of Philadelphia - Walnut Street West
+201 South 40th Street
+Philadelphia, PA" 94.2919926609872 -75.2024592 39.9537945
+"Brooklyn Branch
+6 East Mill Street
+Brooklyn, IN" 94.317176474459 -86.370186 39.538837
+"Brookston-Prairie Township Public Library
+111 West 2nd Street
+Brookston, IN" 94.317176474459 -86.86642 40.6036729
+"Lexington County Public Library System - Main
+5440 Augusta Road
+Lexington, SC" 94.3525192800818 -81.2199553 33.9756526
+"Pickens County Library - Sarlin Branch Library
+15 South Palmetto Street
+Liberty, SC" 94.3525192800818 -82.6948489 34.7869996
+"New Haven Branch
+435 Ann Street
+New Haven, IN" 94.5732706154276 -85.016345 41.0737373
+"Hancock County Public Library - Sugar Creek
+5087 W. U.S. 52
+New Palestine, IN" 94.5732706154276 -85.8971281 39.7218547
+"Jennie Johnston Mcmahan Library, St.George
+506 North Parler Avenue
+St. George, SC" 94.7447052889099 -80.5713363 33.1888868
+"Beaufort County Library - St. Helena Branch Library
+1025 Sea Island Parkway
+St. Helena Island, SC" 94.7447052889099 -80.5636888 32.401551
+"Grantville Public Library
+123 La Grange Street
+Grantville, GA" 94.8892091740652 -84.8391813 33.2325519
+"Jones County Public Library
+146 Railroad Avenue
+Gray, GA" 94.8892091740652 -83.5347489 33.0062288
+"Paulding County Public Library
+1010 East Memorial Drive
+Dallas, GA" 94.9708179954407 -84.8258517 33.9326524
+"Dalton-Whitfield County Public Library
+310 Cappes Street
+Dalton, GA" 94.9708179954407 -84.9775748 34.7754957
+"Horry County Memorial Library - Stephens Crossroad Branch Library
+107 Highway 57 North
+Little River, SC" 94.9985022232047 -78.685452 33.886096
+"Beaufort County Library - Lobeco Public Library
+1862 Trask Parkway (Highway 21)
+Lobeco, SC" 94.9985022232047 -80.7434394 32.5526863
+"Richland County Public Library - Sandhills Branch Library
+1 Summit Parkway
+Columbia, SC" 95.0040120585534 -80.8828684 34.1391242
+"Richland County Public Library - Southeast Regional Branch Library
+7421 Garners Ferry Road
+Columbia, SC" 95.0040120585534 -80.9466882 33.9680199
+"Wanskuck Library
+233 Veazie Street Providence, Ri 02904
+Providence, RI" 95.2727213136122 -71.4343686 41.8514675
+"Washington Park Library
+1316 Broad Street Providence, Ri 02905
+Providence, RI" 95.2727213136122 -71.4054818 41.7909588
+"Central Library
+4111 Lakeshore Dr
+Newburgh, IN" 95.3020613802962 -87.4064693 37.9739511
+"Newburgh Library
+30 W Water St
+Newburgh, IN" 95.3020613802962 -87.4063662 37.944459
+"Morocco Branch Library
+120 E State Street
+Morocco, IN" 95.3236701173418 -87.453737 40.946434
+"Alexandrian Public Library
+115 West 5th Street
+Mount Vernon, IN" 95.3236701173418 -87.8966161 37.9333429
+"North Smithfield Public Library
+20 Main Street
+Slatersville, RI" 95.3758594212183 -71.5804992 41.9998478
+"East Smithfield Public Library
+50 Esmond Street
+Smithfield, RI" 95.3758594212183 -71.5044958 41.8741808
+"Hagerstown-Jefferson Township Public Library
+10 West College Street
+Hagerstown, IN" 95.5443927059183 -85.161489 39.911956
+"Hamlet Public Library
+4 N Starke St
+Hamlet, IN" 95.5443927059183 -86.5822737 41.3805648
+"Charleston County Main Library - Edisto Branch Library
+1589 Hwy 174
+Edisto, SC" 95.707563452199 -80.28395 32.569332
+"Edisto Beach Library
+71 Station Court
+Edisto Island, SC" 95.707563452199 -80.2985433 32.520929
+"Mooresville Public Library
+220 W Harrison St
+Mooresville, IN" 95.7577820953834 -86.3802254 39.6122345
+"Morgantown Branch
+39 W Washington Street
+Morgantown, IN" 95.7577820953834 -86.2614497 39.371093
+"Wanskuck Library
+233 Veazie Street Providence, Ri 02904
+Providence, RI" 95.8370404174995 -71.4343686 41.8514675
+"Washington Park Library
+1316 Broad Street Providence, Ri 02905
+Providence, RI" 95.8370404174995 -71.4054818 41.7909588
+"New Washington Library
+210 South Poplar Street
+New Washington, IN" 95.8451720905519 -85.5395307 38.561981
+"Clark Pleasant
+530 Tracy Rd Ste 250
+New Whiteland, IN" 95.8451720905519 -86.0894221 39.5651974
+"Carnegie Library Of Pittsburgh - Woods Run
+1201 Woods Run Avenue
+Pittsburgh, PA" 95.861388638492 -80.0302122 40.476239
+"Cooper-Siegel Community Library
+403 Fox Chapel Road
+Pittsburgh, PA" 95.861388638492 -79.8798945 40.5153348
+"York Township Public Library
+8908 West 845 North
+Earl Park, IN" 95.8998789853914 -87.489468 40.728581
+"Bessie Owens Community Center Library
+4001 Alexander Avenue
+East Chicago, IN" 95.8998789853914 -87.463517 41.640588
+"Northwest Branch Library
+1580 Nw Third Ave.
+Pompano Beach, FL" 95.9561608473145 -80.1266506 26.2487722
+"Pompano Beach Public Library
+1213 E Atlantic Blvd.
+Pompano Beach, FL" 95.9561608473145 -80.110819 26.2321429
+"Hope Library
+374 North Road
+Scituate, RI" 95.9698702425857 -71.5638902 41.7364665
+"North Scituate Public Library
+606 West Greenville Road
+Scituate, RI" 95.9698702425857 -71.5871954 41.8338278
+"Collier County Public Library
+2385 Orange Blossom Drive
+Naples, FL" 95.9909920911244 -81.7701875 26.2334053
+"East Naples Branch Library
+8787 Tamiami Trail East
+Naples, FL" 95.9909920911244 -81.7403453 26.0996321
+"Austin Public Library - St. John Branch
+7500 Blessing Ave.
+Austin, TX" 96.0653207996001 -97.6937014 30.3328231
+"Austin Public Library - Terrazas Branch
+1105 East Csar Chvez St.
+Austin, TX" 96.0653207996001 -97.7334621 30.2599154
+"White River Library
+1664 Library Blvd
+Greenwood, IN" 96.0851875164646 -86.1560256 39.6081224
+"Griffith Branch
+940 N Broad Street
+Griffith, IN" 96.0851875164646 -87.428282 41.538937
+"Marion County Public Library System
+2720 East Silver Springs Blvd.
+Ocala, FL" 96.2351827970823 -82.0996819 29.1873309
+"Marion Oaks Public Library
+294 Marion Oaks Lane
+Ocala, FL" 96.2351827970823 -82.176802 29.0041452
+"Cambridge City Public Library
+33 West Main Street
+Cambridge City, IN" 96.241377799933 -85.171166 39.81283
+"Camden-Jackson Township Public Library
+183 West Main
+Camden, IN" 96.241377799933 -86.5406871 40.6085596
+"Sutton County Library
+306 E Mulberry St
+Sonora, TX" 96.2877049668377 -100.6465342 30.5725814
+"Alma M Carpenter Public Library
+300 S Ann St
+Sour Lake, TX" 96.2877049668377 -94.4119526 30.1380427
+"Robert A Pastrick Library
+1008 West Chicago Avenue
+East Chicago, IN" 96.3454949664714 -87.4841787 41.6294932
+"Roberto Clemente Center
+3616 Elm Street
+East Chicago, IN" 96.3454949664714 -87.4474153 41.6461977
+"Bowie Public Library
+301 Walnut St
+Bowie, TX" 96.359864132181 -97.8499554 33.5619037
+"Boyd Public Library
+101 W Rock Island Ave
+Boyd, TX" 96.359864132181 -97.566238 33.0785547
+"Saegertown Area Library
+325 Broad St
+Saegertown, PA" 96.3793842756113 -80.1480984 41.7205123
+"Saltsburg Free Library
+307 Point Street, Suite 2
+Saltsburg, PA" 96.3793842756113 -79.4502778 40.4856634
+"Fairmount Public Library
+217 South Main Street
+Fairmount, IN" 96.6218128589501 -85.6502693 40.4141977
+"Farmersburg Library
+116 W Main St
+Farmersburg, IN" 96.6218128589501 -87.3805528 39.2538795
+"Marylee Vogel
+6014 W Division
+Richland, IN" 96.7358647344571 -85.6058765 41.1621549
+"Morrisson-Reeves Library
+80 North 6th Street
+Richmond, IN" 96.7358647344571 -84.8945807 39.8301395
+"Clark Memorial Library
+7 Pinehurst Drive
+Richmond, RI" 96.9388950196996 -71.6614915 41.4668153
+"Rumford Branch
+1392 Pawtucket Avenue, Rumford, Ri 02916
+Rumford, RI" 96.9388950196996 -71.3478499 41.835274
+"Greenville Public Library
+573 Putnam Pike
+Smithfield, RI" 97.0191202446665 -71.5491998 41.8711064
+"South Kingstown Public Library
+1057 Kingstown Road
+South Kingstown, RI" 97.0191202446665 -71.4951098 41.4510146
+"Carmel Clay Public Library
+55 4th Avenue Se
+Carmel, IN" 97.0362255659901 -86.12181 39.977727
+"Henry Henley Public Library
+102 North Main Street
+Carthage, IN" 97.0362255659901 -85.5715078 39.7395231
+"Calhoun County Library
+900 F.R. Huff Drive
+St. Matthews, SC" 97.0661858197299 -80.7782757 33.6635197
+"Berkeley County Library - St. Stephen Library
+1104 South Main Street
+St. Stephen, SC" 97.0661858197299 -79.923989 33.399759
+"Cannelton Public Library
+210 South 8th Street
+Cannelton, IN" 97.0874154534477 -86.7402236 37.911939
+"Carlisle Library
+201 N Ledgerwood St
+Carlisle, IN" 97.0874154534477 -87.4025745 38.9630699
+"Geneva Public Library
+305 E Line Street
+Geneva, IN" 97.190957438466 -84.9587412 40.5920311
+"Goodland Grant Township Public Library
+111 South Newton Street
+Goodland, IN" 97.190957438466 -87.29272 40.7648719
+"Guam Public Library System
+254 Martyr Street
+Agana, GA" 97.3010036976362 144.7536117 13.4757267
+"Wheeler County Library
+203 W. Forest Avenue
+Alamo, GA" 97.3010036976362 -82.7838207 32.1474231
+"William Hall Library
+1825 Broad St., Cranston, Ri 02905
+Cranston, RI" 97.3024174026621 -71.3997855 41.7754389
+"Cumberland Public Library
+1464 Diamond Hill Road
+Cumberland, RI" 97.3024174026621 -71.4042438 41.9340888
+"Schneider Branch
+24002 Parrish Ave
+Schneider, IN" 97.3584793938503 -87.448738 41.181969
+"Scott County Public Library
+108 South Main St
+Scottsburg, IN" 97.3584793938503 -85.7705928 38.6845879
+"Richland County Public Library - Eastover Branch Library
+608 Main Street
+Eastover, SC" 97.513063150927 -80.694785 33.876793
+"Edgefield County Public Library
+105 Court House Square
+Edgefield, SC" 97.513063150927 -81.929158 33.789603
+"North Kingstown Free Library
+100 Boone Street
+North Kingstown, RI" 97.7236741592332 -71.4560542 41.5701002
+"Willett Free Library
+45 Ferry Road
+North Kingstown, RI" 97.7236741592332 -71.423812 41.507733
+"Sunset Strip Branch
+6600 Sunset Strip
+Sunrise, FL" 98.0181644996 -80.238225 26.154629
+"Dr. B. L. Perry, Jr. Branch Library
+2804 South Adams Street
+Tallahassee, FL" 98.0181644996 -84.2830996 30.4122383
+"Richland County Public Library - Eastover Branch Library
+608 Main Street
+Eastover, SC" 98.8412469784349 -80.694785 33.876793
+"Edgefield County Public Library
+105 Court House Square
+Edgefield, SC" 98.8412469784349 -81.929158 33.789603
+"Aubbee Branch Library
+4562 N North St
+Leiters Ford, IN" 98.9166875410192 -86.4151507 41.1400542
+"Union County Public Library
+2 East Seminary Street
+Liberty, IN" 98.9166875410192 -84.9296842 39.6345044
+"North Manchester Public Library
+405 North Market Street
+North Manchester, IN" 98.9288453604657 -85.769145 41.002969
+"Jennings County Public Library
+2375 North State Hwy 3
+North Vernon, IN" 98.9288453604657 -85.6422232 39.021124
+"Roger B. Francis Branch
+52655 North Ironwood Road
+South Bend, IN" 99.0401311484953 -86.2176865 41.7290051
+"St Joseph County Public Library
+304 South Main Street
+South Bend, IN" 99.0401311484953 -86.2514446 41.6732338
+"Clark Memorial Library
+7 Pinehurst Drive
+Richmond, RI" 99.0552054441867 -71.6614915 41.4668153
+"Rumford Branch
+1392 Pawtucket Avenue, Rumford, Ri 02916
+Rumford, RI" 99.0552054441867 -71.3478499 41.835274
+"Flint River Regional Library System
+800 Memorial Drive
+Griffin, GA" 99.2361976388723 -84.2534006 33.2452328
+"Euchee Creek Branch
+5907 Euchee Creek Dr.
+Grovetown, GA" 99.2361976388723 -82.2647211 33.476313
+"El Paso Public Library - Ysleta
+9321 Alameda
+El Paso, TX" 99.4061508189694 -106.3184942 31.6876496
+"Robert J. Galvan Law Library
+500 E. San Antonio Suite 1202
+El Paso, TX" 99.4061508189694 -106.4840749 31.7581227
+"Sinking Spring Public Library
+3940 Penn Ave
+Sinking Spring, PA" 99.4858005236929 -76.0220494 40.3249931
+"Slatington Library Inc
+650 Main St
+Slatington, PA" 99.4858005236929 -75.613041 40.750745
+"Lawrence Memorial
+40 North St.
+Bristol, VT" 99.5367672463465 -73.078448 44.1357917
+"Brookfield Free Public
+40 Ralph Rd.
+Brookfield, VT" 99.5367672463465 -72.602768 44.043159
+"Lexington County Library - Chapin
+129 N.W. Columbia Avenue
+Chapin, SC" 99.6091787398579 -81.3560149 34.1683179
+"Berkeley County Library - Daniel Island
+2301 Daniel Island Drive
+Charleston, SC" 99.6091787398579 -79.9096206 32.8505269
+"Kanab City Library
+374 North Main Street
+Kanab, UT" 99.640162490966 -112.5281609 37.0543479
+"Davis County Library - Kaysville Branch
+44 North Main
+Kaysville, UT" 99.640162490966 -111.9381531 41.0356597
+"Monticello-Union Township Public Library
+321 West Broadway Street
+Monticello, IN" 99.6605375822261 -86.765901 40.744814
+"Montpelier-Harrison Township Public Library
+301 South Main Street
+Montpelier, IN" 99.6605375822261 -85.2781856 40.5530552
+"Dubois Branch Library
+5506 E Main St
+Dubois, IN" 99.6828261486105 -86.8009222 38.4454473
+"Dugger Library
+8007 E Main St
+Dugger, IN" 99.6828261486105 -87.259475 39.067865
+"Thorntown Public Library
+124 North Market Street
+Thorntown, IN" 99.7804376278891 -86.6060285 40.1302921
+"Tipton County Public Library
+127 East Madison Street
+Tipton, IN" 99.7804376278891 -86.0399562 40.2805745
+"Rochester Public Library
+252 Adams St
+Rochester, PA" 99.7822559669882 -80.283695 40.7024913
+"Royersford Free Public Library
+200 South Fourth Avenue
+Royersford, PA" 99.7822559669882 -75.5369408 40.1837427
+"Buffalo Branch
+326 4th St.
+Buffalo, IA" 99.8591981392212 -90.72104 41.458681
+"Buffalo Center Public Library
+221 N Main St
+Buffalo Center, IA" 99.8591981392212 -93.9465192 43.3880403
+"Richland County Public Library - Blythewood Branch Library
+218 Mcnulty Road
+Blythewood, SC" 99.9517880267629 -80.9737568 34.2158626
+"Spartanburg County Public Library - Boiling Springs Branch Library
+871 Double Bridge Road
+Boiling Springs, SC" 99.9517880267629 -81.9813689 35.0432841

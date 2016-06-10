@@ -1,0 +1,349 @@
+"location" "miles" "latitude" "longitude"
+"Universal City Public Library
+100 Northview Dr
+Universal City, TX" 1.56534651989586 -98.2970501 29.5496838
+"Schertz Public Library
+608 Schertz Pkwy
+Schertz, TX" 2.08501768506326 -98.2662952 29.5600124
+"Converse Public Library
+601 S Seguin Rd
+Converse, TX" 2.28963165956939 -98.3113976 29.5134349
+"Marion Community Library
+500 Bulldog Dr
+Marion, TX" 8.75003239416884 -98.1408015 29.5683034
+"Alamo Area Library System
+600 Soledad Street
+San Antonio, TX" 14.5510418185686 -98.4928305 29.4324141
+"San Antonio Public Library
+600 Soledad St
+San Antonio, TX" 14.5510418185686 -98.4928305 29.4324141
+"New Braunfels Public Library
+700 E Common St
+New Braunfels, TX" 16.0564752504333 -98.1125179 29.7130354
+"Seguin-Guadalupe County Public Library
+707 E College St
+Seguin, TX" 19.6182803701091 -97.957749 29.5741002
+"Bulverde-Spring Branch Library
+131 Bulverde Crossing
+Bulverde, TX" 20.0254694712 -98.422018 29.7943915
+"Leon Valley Public Library
+6425 Evers Rd
+Leon Valley, TX" 20.1613399526399 -98.6132387 29.501181
+"Tye Preston Memorial Library
+16311 South Access Road
+Canyon Lake, TX" 23.6985084215604 -98.1905313 29.8660352
+"Sam Fore Jr Wilson County Public Library
+1 Library Ln
+Floresville, TX" 28.5888645025294 -98.1566047 29.133426
+"San Marcos Public Library
+625 E Hopkins St
+San Marcos, TX" 32.1746095408171 -97.9315523 29.8854452
+"Boerne Public Library
+210 N Main St
+Boerne, TX" 32.6914852696348 -98.732652 29.794728
+"Kendalia Public Library
+2610b Hwy 473
+Kendalia, TX" 33.5175603287841 -98.5225082 29.9689286
+"Wimberley Village Library
+400 Fm 2325
+Wimberley, TX" 34.2034911197855 -98.1040517 30.002633
+"Tri-Community Library
+6910 Hwy 80
+Prairie Lea, TX" 34.5714122031484 -97.7523822 29.7305639
+"Aphne Pattillo Nixon Public Library
+401 N. Nixon Ave.
+Nixon, TX" 35.92749920605 -97.7653531 29.2706006
+"The Aphne Pattillo Nixon Public Library
+401 N Nixon Ave
+Nixon, TX" 35.92749920605 -97.7653531 29.2706006
+"Lytle Public Library
+19325 W Fm 2790 S
+Lytle, TX" 37.5047816933725 -98.8049024 29.2409143
+"Castroville Public Library
+802 London St
+Castroville, TX" 38.1856426474664 -98.8797731 29.353134
+"Poteet Public Library
+500 Ave H
+Poteet, TX" 38.5596483223675 -98.5739434 29.037331
+"Jb Nickells Memorial Library
+215 S Pecan Ave
+Luling, TX" 39.2151995857481 -97.6504797 29.6793617
+"Lakehills Area Library
+7200 Fm 1283
+Lakehills, TX" 39.4357862074751 -98.9301812 29.60629
+"Kyle Community Library
+409 W Blanco St
+Kyle, TX" 39.826312429856 -97.8786221 29.9906049
+"Blanco County South Library District
+1118 Main St Ste A
+Blanco, TX" 40.4709455699569 -98.4192657 30.1049147
+"Falls City Public Library
+206 N Irvin St
+Falls City, TX" 41.2498557610032 -98.019306 28.9812529
+"Pleasanton Public Library
+321 N Main St
+Pleasanton, TX" 41.3656674268094 -98.4841775 28.9615057
+"Stella Hart Memorial Library
+P.O. Box 88
+Smiley, TX" 42.9342704581084 -97.6358283 29.2677433
+"Dr Eugene Clark Library
+217 S Main St
+Lockhart, TX" 43.8428981581296 -97.6724251 29.8831567
+"Jourdanton Community Library
+1101 Campbell Ave
+Jourdanton, TX" 45.4402100563699 -98.5440416 28.9171788
+"Buda Public Library
+303 Main St
+Buda, TX" 46.2739237826431 -97.8421711 30.0828925
+"Driscoll Public Library
+202 E Hondo Ave
+Devine, TX" 46.4878845819072 -98.9052641 29.1390196
+"Dripping Springs Community Library
+501 Sportsplex Dr
+Dripping Springs, TX" 47.1877289667778 -98.0987847 30.1961882
+"Comfort Public Library
+701 High St
+Comfort, TX" 48.2179084642501 -98.9079089 29.9670776
+"Bandera County Library
+515 Main St
+Bandera, TX" 49.5393230634458 -99.0733816 29.726248
+"Kronkosky Library Of Bandera County
+515 Main St.
+Bandera, TX" 49.5393230634458 -99.0733816 29.726248
+"Gonzales Public Library
+415 St. Matthew
+Gonzales, TX" 49.9376083984155 -97.4514886 29.4999272
+"Karnes City Public Library
+302 S Panna Maria Ave
+Karnes City, TX" 50.4208852556549 -97.9011669 28.8829338
+"Hondo Public Library
+1011 19th St
+Hondo, TX" 51.3263579900087 -99.1058772 29.3491959
+"Johnson City Library
+501 Nugent St
+Johnson City, TX" 52.4293521515263 -98.4116275 30.2817538
+"Charlotte Public Library
+77 Yule St
+Charlotte, TX" 52.8909360141041 -98.7062689 28.8643391
+"Austin Public Library - Hampton Branch At Oak Hill
+5125 Convict Hill Rd.
+Austin, TX" 53.8229207256728 -97.8550267 30.2176045
+"Austin Public Library - Pleasant Hill Branch
+211 E. William Cannon Dr.
+Austin, TX" 54.7171130897227 -97.7771661 30.1922461
+"Austin Public Library - Manchaca Road Branch
+5500 Manchaca Rd.
+Austin, TX" 55.4872476867131 -97.7973369 30.2166039
+"Austin Public Library - Southeast Austin Community Branch
+5803 Nuckols Crossing Rd.
+Austin, TX" 55.6504772335774 -97.7419319 30.1876256
+"Kenedy Public Library
+303 W Main St
+Kenedy, TX" 55.7891352003208 -97.8502025 28.8186368
+"East Travis Gateway Library District
+13512 Fm 812
+Del Valle, TX" 56.2117114583929 -97.638337 30.124251
+"Runge Public Library
+311 N Helena St
+Runge, TX" 56.3814157677677 -97.7132492 28.8847825
+"Bee Cave Public Library
+4000 Galleria Pkwy
+Bee Cave, TX" 57.4236528478797 -97.9398921 30.3083838
+"Austin Public Library - Twin Oaks Branch
+1800 S. Fifth St.
+Austin, TX" 58.4749302482693 -97.7623975 30.2486884
+"Westbank Community Library
+1309 Westbank Dr
+West Lake Hills, TX" 58.4934540140014 -97.8115376 30.2740219
+"Lake Travis Community Library
+2300 Lohmans Spur Ste 100
+Lakeway, TX" 58.7348857776512 -97.9711762 30.3381703
+"Austin Public Library - Ruiz Branch
+1600 Grove Blvd.
+Austin, TX" 59.2412513010615 -97.7070109 30.2298616
+"Austin Public Library - Terrazas Branch
+1105 East Csar Chvez St.
+Austin, TX" 60.0628517225264 -97.7334621 30.2599154
+"Waelder Public Library
+310 N Ave E
+Waelder, TX" 60.1114432438932 -97.2983384 29.6950917
+"Austin Public Library
+800 Guadalupe St
+Austin, TX" 60.3201357393591 -97.7460168 30.2713021
+"Austin Public Library - Faulk Central Library
+800 Guadalupe St.
+Austin, TX" 60.3201357393591 -97.7460168 30.2713021
+"Austin Public Library - Austin History Center
+810 Guadalupe St.
+Austin, TX" 60.3476360232437 -97.7458906 30.2717033
+"Yorktown Public Library
+103 W Main St
+Yorktown, TX" 60.3961579630995 -97.5044739 28.9808119
+"Cuero Public Library
+207 E Main St
+Cuero, TX" 60.5354482334792 -97.5009197 28.981432
+"Austin Public Library - Cepeda Branch
+651 N. Pleasant Valley Rd.
+Austin, TX" 60.8302081798671 -97.7088905 30.2590471
+"Austin Public Library - Carver Branch
+1161 Angelina St., 78702
+Austin, TX" 60.9297835790659 -97.7240278 30.2695584
+"Austin Public Library - Howson Branch
+2500 Exposition Blvd.
+Austin, TX" 61.24606253768 -97.7675915 30.2982508
+"Austin Public Library - Oak Springs Branch
+3101 Oak Springs Dr.
+Austin, TX" 61.9338459461955 -97.699748 30.2729762
+"Pioneer Memorial Library
+115 W Main St
+Fredericksburg, TX" 62.5196450471399 -98.8732864 30.2757836
+"Central Texas Library System, Inc
+1005 West 41st Street
+Austin, TX" 62.6887713755061 -97.7415032 30.3091326
+"Butt-Holdsworth Memorial Library
+505 Water St
+Kerrville, TX" 62.9107817933387 -99.1434747 30.0480683
+"Austin Public Library - Yarborough Branch
+2200 Hancock Dr.
+Austin, TX" 63.5633780025509 -97.7407213 30.3234684
+"Austin Public Library - Recycled Reads Bookstore
+5335 Burnet Rd.
+Austin, TX" 63.8208538894739 -97.7393012 30.3270694
+"Medina Community Library
+13948 State Hwy 16 N
+Medina, TX" 63.9167293021307 -99.2792752 29.849583
+"Austin Public Library - Windsor Park Branch
+5833 Westminster Dr.
+Austin, TX" 64.4719167656872 -97.6902298 30.3116523
+"Austin Public Library - Old Quarry Branch
+7051 Village Center Dr.
+Austin, TX" 64.903741356987 -97.7551561 30.3529975
+"Austin Public Library - University Hills Branch
+4721 Loyola Ln.
+Austin, TX" 65.0917560205827 -97.6665407 30.3086669
+"Austin Public Library - St. John Branch
+7500 Blessing Ave.
+Austin, TX" 65.587360120872 -97.6937014 30.3328231
+"Lago Vista Public Library
+5803 Thunderbird Ste 40
+Lago Vista, TX" 66.0529748836455 -97.987362 30.4530039
+"Pearsall Public Library
+200 E Trinity St
+Pearsall, TX" 66.0706476857089 -99.0953709 28.8951188
+"Austin Public Library - North Village Branch
+2505 Steck Ave.
+Austin, TX" 66.1801983532094 -97.7305032 30.362144
+"Austin Public Library - Little Walnut Creek Branch
+835 W. Rundberg Ln.
+Austin, TX" 67.221463302042 -97.6984619 30.3632362
+"Hoffie And Lank Wolters Shiner Public Library
+115 E. Wolters-2nd. St.
+Shiner, TX" 67.3558743646444 -97.1682844 29.4268303
+"Shiner Public Library
+115 E Wolters 2nd St
+Shiner, TX" 67.3558743646444 -97.1682844 29.4268303
+"Austin Public Library - Spicewood Springs Branch
+8637 Spicewood Springs Rd.
+Austin, TX" 69.3559325384716 -97.7730809 30.4337083
+"Jonestown Community Library
+18649 Fm 1431 Ste 10a
+Jonestown, TX" 69.7920102716911 -97.9233387 30.4928684
+"Bastrop Public Library
+1100 Church St
+Bastrop, TX" 70.1041447971911 -97.3218828 30.1119127
+"Carl And Mary Welhausen Library
+810 Front St
+Yoakum, TX" 70.1643067279537 -97.1506699 29.2862377
+"Austin Public Library - Milwood Branch
+12500 Amherst Dr.
+Austin, TX" 70.2269864166629 -97.7161692 30.4223444
+"Wells Branch Community Library
+15001 Wells Port Dr
+Austin, TX" 72.8255178409261 -97.6755865 30.4457273
+"Sabinal Public Library
+412 N Center St
+Sabinal, TX" 72.9806029067044 -99.4670719 29.3213376
+"Cedar Park Public Library
+550 Discovery Blvd
+Cedar Park, TX" 73.5051855858023 -97.8239849 30.518893
+"Pflugerville Community Library
+102 S 10th St
+Pflugerville, TX" 74.061283151493 -97.628432 30.442151
+"Live Oak County Library - Three Rivers Branch Library
+102 E. Leroy
+Three Rivers, TX" 74.5336053086973 -98.1826458 28.4583138
+"Smithville Public Library
+507 Main St
+Smithville, TX" 75.0470800491455 -97.1583524 30.0106987
+"Utopia Memorial Library
+800 Main St
+Utopia, TX" 75.237162690053 -99.5270464 29.6170849
+"Leander Public Library
+1011 S Bagdad Rd
+Leander, TX" 75.3543406464151 -97.8624245 30.5599877
+"Round Rock Public Library System
+216 E Main Ave
+Round Rock, TX" 76.6276120221372 -97.6771794 30.5094074
+"Elgin Public Library
+404 N Main St
+Elgin, TX" 78.5354796747296 -97.3720138 30.3507394
+"Dilley Public Library
+231 W Fm 117
+Dilley, TX" 80.1935690336678 -99.1599087 28.6645372
+"Goliad County Library
+320 S Commercial St
+Goliad, TX" 80.4518907144449 -97.3926598 28.6656815
+"Friench Simpson Memorial Library
+705 E 4th St
+Hallettsville, TX" 81.0568968301429 -96.9378222 29.4446597
+"Liberty Hill Public Library
+355 Loop 332
+Liberty Hill, TX" 81.4328841798075 -97.9110206 30.6654847
+"Hutto Public Library
+205 West St
+Hutto, TX" 82.5280998573856 -97.5499252 30.5442053
+"Live Oak County Library
+402 Houston St
+George West, TX" 83.4788925239119 -98.1149584 28.3343102
+"Schulenburg Public Library
+310 Simpson St
+Schulenburg, TX" 83.4869871985498 -96.9022118 29.6779691
+"Georgetown Public Library
+402 W 8th St
+Georgetown, TX" 84.3844177656835 -97.6799401 30.6362124
+"Joe Barnhart Bee County Library
+110 W Corpus Christi St
+Beeville, TX" 84.5523719065576 -97.7490806 28.4018684
+"Burnet County Library System
+100 E Washington St
+Burnet, TX" 84.8152042593583 -98.2273778 30.7576916
+"Llano County Library System
+102 E Haynie St
+Llano, TX" 87.5506917007123 -98.6756328 30.7510296
+"Fayette Public Library
+855 S Jefferson St
+La Grange, TX" 88.340487742076 -96.871793 29.899443
+"Taylor Public Library
+801 Vance St
+Taylor, TX" 88.8410010873461 -97.4127591 30.5744083
+"Real County Public Library
+225 Main St
+Leakey, TX" 90.0870824864296 -99.7617547 29.7265632
+"Weimar Public Library
+1 Jackson Sq
+Weimar, TX" 90.9277593563476 -96.7807814 29.7017651
+"Victoria Public Library
+302 N Main St
+Victoria, TX" 92.1614907813126 -97.0047885 28.8011508
+"Giddings Public Library
+276 N Orange St
+Giddings, TX" 92.6937112572254 -96.929327 30.182851
+"El Progreso Memorial Library
+301 W Main St
+Uvalde, TX" 93.769672742305 -99.7902979 29.2071166
+"Alexander Memorial Library
+201 Center St
+Cotulla, TX" 95.3752135331158 -99.2349507 28.4353163
+"Sheridan Memorial Library
+5805 S Logan Park Dr
+Sheridan, TX" 96.9367597009883 -96.670537 29.4935162

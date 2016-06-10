@@ -1,0 +1,553 @@
+"location" "miles" "latitude" "longitude"
+"Hampton Public Library - Willow Oaks Branch Library
+227 Fox Hill Road
+Hampton, VA" 2.47677901050079 -76.3280361 37.0577629
+"Poquoson Public Library
+500 City Hall Ave.
+Poquoson, VA" 3.36249136871492 -76.3966502 37.1218729
+"Hampton Public Library - George Wythe Law Library
+101 Kings Way
+Hampton, VA" 3.99913650098341 -76.3450673 37.0268088
+"Hampton Public Library
+4207 Victoria Blvd
+Hampton, VA" 4.37187972083092 -76.3513813 37.0206163
+"Hampton Public Library - Northampton Branch Library
+936 Big Bethel Road
+Hampton, VA" 4.6171678479696 -76.4280176 37.0455352
+"Hampton Public Library - Phoebus Branch Library
+1 South Mallory Street
+Hampton, VA" 4.92937651615928 -76.3213244 37.0189842
+"Tabb Library
+100 Long Green Blvd.
+Yorktown, VA" 5.23950745480922 -76.4463579 37.1136288
+"York County Public Library
+100 Long Green Boulevard
+Yorktown, VA" 5.23950745480922 -76.4463579 37.1136288
+"Library Administration Office
+700 Town Center Drive, Suite 300
+Newport News, VA" 6.33300714147535 -76.4739288 37.0864711
+"Newport News Public Library System
+700 Town Center Dr., Ste. 300
+Newport News, VA" 6.33300714147535 -76.4739288 37.0864711
+"Main Street Library-Bookmobile
+110 Main Street
+Newport News, VA" 6.52291505848052 -76.458627 37.032522
+"Pearl Bailey Library
+2510 Wickham Ave.
+Newport News, VA" 7.40885393687479 -76.4127321 36.9852876
+"West Ave. Library
+30th West Ave.
+Newport News, VA" 7.56003536441064 -76.4203605 36.9857179
+"Public Law Library
+2501 Washington Ave.
+Newport News, VA" 8.30520638102865 -76.4307974 36.9779112
+"Yorktown Library
+8500 George Washington Memorial Highway
+, VA" 10.5823696741347 -76.4897478 37.1956577
+"Virgil I. Grissom Library
+366 Deshazor Drive
+Newport News, VA" 10.6978238654213 -76.5444934 37.129177
+"Mary D. Pretlow Anchor Branch Library
+111 W. Ocean View Avenue
+Norfolk, VA" 10.8234901181245 -76.2512446 36.9529338
+"Larchmont Branch Library
+6525 Hampton Blvd.
+Norfolk, VA" 12.9719667224932 -76.3041985 36.9012018
+"Little Creek Branch Library
+7853 Tarpon Place
+Norfolk, VA" 14.2566449683321 -76.2099101 36.9154086
+"Point Branch Library
+1720 George Washington Memorial Highway
+Hayes, VA" 14.2614294604799 -76.495393 37.258815
+"Barron F. Black Branch Library
+6700 E. Tanners Creek Dr.
+Norfolk, VA" 14.4796810558074 -76.2294529 36.9016462
+"Lafayette Branch Library
+1610 Cromwell Drive
+Norfolk, VA" 14.5302856639233 -76.2644317 36.8875731
+"Carrollton Library
+14362 New Towne Haven Lane
+Carrollton, VA" 14.7317401827352 -76.557231 36.94083
+"Park Place Branch Library
+620 West 29th Street
+Norfolk, VA" 14.848603231234 -76.2916195 36.8757542
+"Van Wyck Branch Library
+1368 Debree Avenue
+Norfolk, VA" 15.5963932370767 -76.2914075 36.8646454
+"Portsmouth Public Library - Churchland Branch
+4934 High Street West
+Portsmouth, VA" 16.0217335927295 -76.3785152 36.8524036
+"Blyden Branch Library
+879 E. Princess Anne Rd.
+Norfolk, VA" 16.3263235954754 -76.2758939 36.8570714
+"Janaf Branch Library
+124 Janaf Shopping Center
+Norfolk, VA" 16.6018748941446 -76.2858726 36.8507689
+"Norfolk Public Library
+301 East City Hall Avenue
+Norfolk, VA" 16.787080533254 -76.289653 36.847278
+"Norfolk Main Library
+235 East Plume Street
+Norfolk, VA" 16.8215311034153 -76.2904329 36.846621
+"Jordan-Newby Branch Library
+961 Park Avenue
+Norfolk, VA" 16.8399081422172 -76.2662872 36.851663
+"Smithfield Library
+255 James Street
+Smithfield, VA" 16.9048538048393 -76.6383371 36.9831158
+"North Suffolk Library
+2000 Bennetts Creek Park Road
+Suffolk, VA" 17.1520175189189 -76.4710798 36.8522158
+"Esther Murdaugh Wilson Memorial Room
+601 Court Street
+Portsmouth, VA" 17.5388461541301 -76.300284 36.8343707
+"Russell Memorial Library
+2808 Taylor Road
+Chesapeake, VA" 17.5975107370385 -76.4182989 36.833528
+"Horace C. Downing Branch Library
+555 E. Liberty Street
+Norfolk, VA" 18.1609205521691 -76.2807118 36.8285716
+"Portsmouth Public Library - Manor Branch
+1401 Elmhurst Lane
+Portsmouth, VA" 18.7766141052735 -76.380787 36.812612
+"South Norfolk Memorial Library
+1100 Poindexter Street
+Chesapeake, VA" 18.9083957262297 -76.276535 36.818267
+"Bayside Special Service Library
+936 Independence Boulevard
+Virginia Beach, VA" 19.3695455603913 -76.1327721 36.8697773
+"Dr. Clarence V. Cuffee Library
+2726 Border Road
+Chesapeake, VA" 19.4845148999936 -76.2517072 36.8152559
+"Portsmouth Public Library - Cradock Branch
+28 Prospect Parkway
+Portsmouth, VA" 19.6334697316546 -76.3171134 36.8016799
+"Indian River Library
+2320 Old Greenbrier Road
+Chesapeake, VA" 20.5618781898271 -76.2353781 36.8032197
+"Kempsville Area Library
+832 Kempsville Road
+Virginia Beach, VA" 21.4794074153484 -76.1634456 36.8152901
+"Major Hillard Library
+824 Old George Washington Highway, N.
+Chesapeake, VA" 21.8222196059843 -76.344254 36.7682629
+"Windsor Woods Area Library
+3612 South Plaza Trail
+Virginia Beach, VA" 22.7389303262408 -76.0970298 36.8302042
+"Eastern Shore Public Library - Northampton Memorial Library
+500 Tazewell Avenue
+Cape Charles, VA" 22.8979094547781 -76.0149966 37.2688442
+"Greenbrier Library
+1214 Volvo Parkway
+Chesapeake, VA" 23.1113463817652 -76.2181997 36.7689941
+"Williamsburg Library
+515 Scotland St.
+Williamsburg, VA" 23.3162470222082 -76.7083125 37.2739169
+"Great Neck Area Library
+1251 Bayne Drive
+Virginia Beach, VA" 23.3782344393943 -76.0357508 36.8657034
+"Gloucester Library
+6920 Main St.
+Gloucester, VA" 24.1955454551356 -76.5197161 37.4091222
+"Mathews Memorial Library
+251 Main Street
+Mathews, VA" 24.2981255013571 -76.320945 37.433448
+"South Rosemont Youth Library
+1503 Competitor Court
+Virginia Beach, VA" 24.9506515207708 -76.0963352 36.7903353
+"Meyera E. Oberndorf Central Library
+100 Virginia Beach Boulevard
+Virginia Beach, VA" 25.7276435632939 -75.9796628 36.8681345
+"Chesapeake Central Library
+298 Cedar Road
+Chesapeake, VA" 26.2368231996018 -76.2477196 36.7148469
+"Wahab Public Law Library
+2425 Nimmo Parkway Judicial Center, Bldg 10b
+Virginia Beach, VA" 26.426323534367 -75.977985 36.8529263
+"Surry Public Library
+11640 Rolfe Highway
+Surry, VA" 26.5222939557988 -76.8359035 37.1334692
+"Oceanfront Area Library
+700 Virginia Beach Boulevard
+Virginia Beach, VA" 26.5543778415127 -75.9834077 36.8443506
+"Chuckatuck Branch Library
+P.O. Box 2278
+Suffolk, VA" 27.5322476832777 -76.5835621 36.7282054
+"Morgan Memorial Library
+443 W. Washington Street
+Suffolk, VA" 27.6016905973428 -76.5891513 36.7293651
+"Suffolk Public Library System
+443 West Washington Street
+Suffolk, VA" 27.6016905973428 -76.5891513 36.7293651
+"Windsor Library
+18 Duke Street
+Windsor, VA" 28.4395858703273 -76.743212 36.809908
+"Virginia Beach Public Library
+2416 Courthouse Drive Building 19
+Virginia Beach, VA" 28.4817931942439 -76.055131 36.7512037
+"Virginia Beach Public Library - Library Administration
+2416 Courthouse Dr.
+Virginia Beach, VA" 28.4817931942439 -76.055131 36.7512037
+"Princess Anne Area Library
+1444 Nimmo Parkway
+Virginia Beach, VA" 28.9005980848722 -76.0219402 36.7643624
+"James City County Library
+7770 Croaker Rd.
+Williamsburg, VA" 30.4647653521071 -76.770995 37.377573
+"Williamsburg Regional Library
+7770 Croaker Road
+Williamsburg, VA" 30.4647653521071 -76.770995 37.377573
+"Middlesex County Public Library - Deltaville Branch
+35 Lovers Lane
+Deltaville, VA" 32.5955944510511 -76.3368124 37.5543864
+"Claremont Library
+91 Mancha Avenue
+Claremont, VA" 34.8865483704554 -76.965575 37.2277802
+"Troxler Memorial Library
+100 Wilson Avenue
+Wakefield, VA" 35.5557424394475 -76.9877814 36.9721559
+"Pungo-Blackwater Library
+916 Princess Anne Road
+Virginia Beach, VA" 35.6539449431331 -76.037875 36.6367844
+"Eastern Shore Public Library - Northampton Free Library
+7401 Railroad Avenue
+Nassawadox, VA" 38.6001691732569 -75.8583352 37.4740742
+"Pamunkey Regional Library - West Point Branch Library
+721 Main Street
+West Point, VA" 39.270870442592 -76.7966534 37.5321175
+"Middlesex County Public Library
+150 Grace Street
+Urbanna, VA" 40.1099851774282 -76.5793444 37.6363299
+"Burrowsville Library
+18701 James River Dr
+Disputanta, VA" 40.5456371059927 -77.076284 37.213508
+"Agnes Taylor Gray Library
+125 Bank Street
+Waverly, VA" 40.7103378495545 -77.0941131 37.0341433
+"Ruth Camp Campbell Memorial Library
+280 North College Drive
+Franklin, VA" 42.8107224226021 -76.9421076 36.6765133
+"Heritage Public Library - Charles City Location
+10780 Courthouse Rd
+Charles City, VA" 43.0712436002371 -77.071012 37.341122
+"Lancaster Community Library
+235 School Street
+Kilmarnock, VA" 43.6291095727658 -76.383211 37.713941
+"Heritage Public Library - New Kent Location
+6215-D Chesapeake Circle
+New Kent, VA" 46.3042967209087 -77.026478 37.491269
+"Blackwater Regional Library
+22511 Main Street
+Courtland, VA" 46.6508291637448 -77.06276 36.7116476
+"Disputanta Library
+10010 County Drive
+Disputanta, VA" 47.9486462325753 -77.2268253 37.1246407
+"Gates County Library
+115 Court Street
+Gatesville, NC" 51.8526017921512 -76.7522546 36.4032726
+"Prince George Library
+6605 Courts Drive
+Prince George, VA" 52.0695040614661 -77.2874682 37.2223087
+"Appomattox Regional Library System
+209 East Cawson Street
+Hopewell, VA" 53.3602174507602 -77.2866857 37.3053833
+"Maude Langhorne Nelson Library (Hopewell)
+209 E Cawson St
+Hopewell, VA" 53.3602174507602 -77.2866857 37.3053833
+"Currituck County Library
+4261 Caratoke Highway
+Barco, NC" 53.9205815677419 -75.9697149 36.369253
+"East Albemarle Regional Library
+100 East Colonial Avenue
+Elizabeth City, NC" 54.63953659472 -76.2233072 36.3011688
+"Pasquotank-Camden Library
+205 East Main Street
+Elizabeth City, NC" 54.7251211922076 -76.2223515 36.3000267
+"Enon Library
+1801 Enon Church Rd.
+Chester, VA" 56.0386064260881 -77.327672 37.3312201
+"Corolla Branch Library
+1123 Ocean Trail
+Corolla, NC" 56.8845158202999 -75.830027 36.378965
+"Albemarle Regional Library
+303 W Tryon Street
+Winton, NC" 57.2272862633946 -76.935035 36.3968344
+"Hertford County Library
+303 West Tryon Street
+Winton, NC" 57.2272862633946 -76.935035 36.3968344
+"Carson Depot Library
+16101 Halligan Park Rd
+Carson, VA" 57.2432286369503 -77.394419 37.0347549
+"Petersburg Public Library - Rodof Sholom Branch
+1865 S. Sycamore St.
+Petersburg, VA" 57.2497377198997 -77.3863853 37.2042798
+"Northumberland Public Library
+7204 Northumberland Highway
+Heathsville, VA" 57.8815398689815 -76.469263 37.915702
+"Colonial Heights Public Library
+1000 Yacht Basin Drive
+Colonial Heights, VA" 58.2806228163738 -77.3918082 37.2649556
+"Petersburg Public Library - William R. Mckenney Branch Library
+137 S. Sycamore St.
+Petersburg, VA" 58.3478282043361 -77.4024509 37.2255448
+"Eastern Shore Public Library
+23610 Front St.
+Accomac, VA" 58.3599806190323 -75.6621541 37.7200317
+"Petersburg Public Library - A.P. Hill Branch
+1237 Halifax Street
+Petersburg, VA" 58.7710232810419 -77.4132394 37.2100614
+"Elizabeth Sewell Parker Library
+213 East Main Street Po Drawer 186
+Murfreesboro, NC" 60.3779549433017 -77.0985752 36.4423754
+"Henrico County Public Library - Sandston
+23 E. Williamsburg Rd.
+Sandston, VA" 60.6044809320256 -77.3124745 37.5224335
+"Ettrick-Matoaca Library
+4501 River Road
+Petersburg, VA" 60.6775365331777 -77.4438868 37.2324616
+"Perquimans County Library
+110 West Academy Street
+Hertford, NC" 62.1581007044567 -76.470813 36.189395
+"Pamunkey Regional Library - Upper King William Branch Library
+694-J Sharon Road
+King William, VA" 62.1774136627744 -77.1336334 37.7389536
+"Henrico County Public Library - Varina
+2001 Library Road
+Henrico, VA" 62.194247117441 -77.3763476 37.4751876
+"Chester Library
+11800 Centre Street
+Chester, VA" 62.8938094174065 -77.4477668 37.3579513
+"Pamunkey Regional Library - King Queen Branch Library
+450 Newtown Road
+St. Stephens Church, VA" 63.2973737911846 -77.0548056 37.8131558
+"Rohoic Library
+7301 Boydton Plank Rd
+Petersburg, VA" 63.3269064784236 -77.5022879 37.170281
+"Richmond County Public Library
+52 Campus Drive
+Warsaw, VA" 64.3371452181698 -76.7621562 37.9569681
+"Henrico County Public Library
+1001 N. Laburnum Avenue
+Henrico, VA" 64.6881311899022 -77.3725762 37.5579652
+"Henrico County Public Library - Bookmobile
+1001 N. Laburnum Ave.
+Henrico, VA" 64.6881311899022 -77.3725762 37.5579652
+"Essex Public Library
+117 N. Church Lane
+Tappahannock, VA" 64.7021693449657 -76.8618886 37.9296198
+"Ahoskie Public Library
+210 East Church Street
+Ahoskie, NC" 65.3306514810131 -76.985391 36.283609
+"Pamunkey Regional Library - Mechanicsville Branch Library
+7461 Sherwood Crossing Place
+Mechanicsville, VA" 65.4159200950293 -77.3442535 37.613744
+"Ewell School
+20910 Caleb Jones Road
+Ewell, MD" 65.5840362632273 -76.03091 37.99518
+"Richmond Public Library - East End
+2414 R Street
+Richmond, VA" 65.9326237591822 -77.4114218 37.5397634
+"Meadowdale Library
+4301 Meadowdale Blvd.
+Richmond, VA" 66.1164554380259 -77.4746604 37.4377107
+"Central Library
+9501 Lori Road
+Chesterfield, VA" 66.812562673685 -77.51292 37.3821429
+"Richmond Public Library - Hull Street
+1400 Hull Street
+Richmond, VA" 66.9599012981553 -77.445698 37.5195444
+"Richmond Public Library
+101 East Franklin Street
+Richmond, VA" 67.5346004525956 -77.4424796 37.5427793
+"Richmond Public Library - Broad Rock
+4820 Warwick Road
+Richmond, VA" 67.6037183176185 -77.4797977 37.4838018
+"Appomattox Regional Library - Dinwiddie Branch Library
+14103 Boydton Plank Rd
+Dinwiddie, VA" 67.8301337508782 -77.5883353 37.0775796
+"Richmond Public Library - North Avenue
+2901 North Avenue
+Richmond, VA" 67.9609084009284 -77.4325385 37.5701591
+"Corbin Memorial Library
+4 E. Main Street
+Crisfield, MD" 68.2590423177953 -75.8432231 37.9814556
+"Richmond Public Library - Westover Hills
+1408 Westover Hills Boulevard
+Richmond, VA" 69.1443037728356 -77.4885082 37.5219928
+"Pamunkey Regional Library - Atlee Branch Library
+9161 Atlee Road
+Mechanicsville, VA" 69.3579262393596 -77.4007448 37.6493374
+"Richmond Public Library - Belmont
+3100 Ellwood Avenue
+Richmond, VA" 69.712544446152 -77.4796445 37.5543788
+"Richmond Public Library - Ginter Park
+1200 Westbrook Avenue
+Richmond, VA" 69.9143127821389 -77.4541332 37.597106
+"Central Rappahannock Regional Library - Newton Branch
+22 Coles Point Road
+Hague, VA" 70.0370786872158 -76.6463467 38.0700932
+"Laprade Library
+9000 Hull Street Rd.
+Richmond, VA" 70.8804823678132 -77.5600099 37.4534119
+"Henrico County Public Library - North Park
+8508 Franconia Road
+Henrico, VA" 70.8993047963422 -77.4415138 37.6407952
+"Richardson Memorial Libary
+100 Spring Street
+Emporia, VA" 70.9077879772746 -77.5412098 36.6872468
+"Richmond Public Library - West End
+5420 Patterson Avenue
+Richmond, VA" 71.9941918890574 -77.5112211 37.5776448
+"Shepard-Pruden Memorial Library
+106 West Water Street
+Edenton, NC" 72.3505254766184 -76.610168 36.057176
+"Henrico County Public Library - Dumbarton
+6800 Staples Mill Road
+Henrico, VA" 72.4199588404704 -77.4968666 37.6109216
+"Sallie H. Jenkins Memorial Library
+302 Broad Street
+Aulander, NC" 72.4992206970632 -77.11197 36.226877
+"Pamunkey Regional Library
+7527 Library Drive
+Hanover, VA" 72.5775813909263 -77.3664227 37.7625179
+"Bon Air Library
+9103 Rattlesnake Road
+Richmond, VA" 73.2505146506299 -77.5656814 37.531314
+"Henrico County Public Library - Municipal Government Law
+4301 E. Parham Rd.
+Henrico, VA" 73.9159564857989 -77.5152934 37.6288605
+"Central Rappahannock Regional Library - Montross Branch
+15692 Kings Highway
+Montross, VA" 74.4677139722252 -76.828663 38.0937394
+"Clover Hill Library
+6701 Deer Run Dr.
+Midlothian, VA" 74.7680597001379 -77.654546 37.4076639
+"Mckenney Library
+20707 First St
+Mckenney, VA" 75.568913311664 -77.7224475 36.9871849
+"Henrico County Public Library - Glen Allen
+10501 Staples Mill Road
+Glen Allen, VA" 75.7227959828409 -77.527582 37.663393
+"Henrico County Public Library - Tuckahoe
+1901 Starling Drive
+Henrico, VA" 75.7342474086801 -77.5667374 37.6100268
+"Caroline Library - Dawn Branch
+16315-C Dawn Boulevard
+Hanover, VA" 75.7422983816379 -77.364245 37.833524
+"Northampton County Memorial Library
+207 West Jefferson St.
+Jackson, NC" 76.0168507483282 -77.4221221 36.3891611
+"Midlothian Library
+521 Coalfield Rd.
+Midlothian, VA" 76.6532073923228 -77.6527822 37.4944244
+"Pamunkey Regional Library - Richard S. Gillis, Jr.-Ashland Branch Library
+201 S. Railroad Avenue
+Ashland, VA" 77.3054977602032 -77.4811934 37.758036
+"Henrico County Public Library - Gayton
+10600 Gayton Road
+Henrico, VA" 77.6301628167058 -77.607379 37.607806
+"Henrico County Public Library - Twin Hickory
+5001 Twin Hickory Road
+Glen Allen, VA" 79.3360132474916 -77.595037 37.6760487
+"Eastern Shore Public Library - Island Library
+4077 Main Street
+Chincoteague, VA" 79.7916007313194 -75.3770168 37.9341168
+"Tyrrell County Library
+414 Main Street
+Columbia, NC" 80.840927978898 -76.251217 35.9180647
+"Worcester County Library - Pocomoke City
+301 Market St.
+Pocomoke City, MD" 81.1497456131189 -75.5662444 38.0741289
+"Lexington Park Branch Library
+21677 Fdr Blvd.
+Lexington Park, MD" 81.6701278953664 -76.4572249 38.2616159
+"Lawrence Memorial Library
+204 E Dundee Street
+Windsor, NC" 81.8542061626228 -76.944978 35.997788
+"Weldon Memorial Library
+6 West First Street
+Weldon, NC" 82.1558297502698 -77.59601 36.428722
+"Roanoke Rapids Public Library
+319 Roanoke Avenue
+Roanoke Rapids, NC" 83.3419738967076 -77.651894 36.467411
+"Kill Devil Hills Branch Library
+400 Mustian Street
+Kill Devil Hills, NC" 83.779566299121 -75.6606621 36.0102086
+"Caroline Library, Inc.
+17202 Richmond Turnpike
+Bowling Green, VA" 84.4556002035196 -77.3409131 38.024258
+"Pamunkey Regional Library - Cochrane Rockville Branch Library
+16600 Pouncey Tract Road
+Rockville, VA" 85.0751046763454 -77.6796277 37.725774
+"Brunswick County Library
+133 West Hicks Street
+Lawrenceville, VA" 85.3496685890311 -77.8478104 36.7577092
+"Meherrin Regional Library System
+133 W. Hicks Street
+Lawrenceville, VA" 85.3496685890311 -77.8478104 36.7577092
+"Somerset County Library
+11767 Beechwood Street
+Princess Anne, MD" 85.7161362076917 -75.692147 38.2044523
+"Leonardtown Branch Library
+23250 Hollywood Road
+Leonardtown, MD" 85.9168710782481 -76.631222 38.3067719
+"Halifax County Library System
+33 Granville St.
+Halifax, NC" 85.9636303238522 -77.5892166 36.3271927
+"Pettigrew Regional Library
+201 East Third Street
+Plymouth, NC" 86.9329681947024 -76.746464 35.86595
+"Central Rappahannock Regional Library - Cooper Branch
+20 Washington Avenue
+Colonial Beach, VA" 87.2375041903324 -76.963377 38.250469
+"Pamunkey Regional Library - Lois Wickham Jones-Montpelier Branch Library
+17205 Sycamore Tavern Lane
+Montpelier, VA" 89.140781863285 -77.688438 37.823282
+"Dare County Library
+700 N. Highway 64-264
+Manteo, NC" 89.5196039158441 -75.6767607 35.9114031
+"Southern Branch
+20 Appeal Lane
+Lusby, MD" 89.803471928041 -76.438029 38.380249
+"Blackstone Library
+415 South Main Street
+Blackstone, VA" 90.5056515449022 -77.9992327 37.076705
+"Caroline Library - Ladysmith Branch
+18108 Allen Street
+Ruther Glen, VA" 90.5520570215269 -77.5176278 38.0163669
+"James L. Hamner Public Library
+16351 Dunn St.
+Amelia, VA" 90.9064823060208 -77.9779384 37.3388198
+"Powhatan County Public Library
+2270 Mann Rd.
+Powhatan, VA" 92.1130083144787 -77.9290375 37.5467022
+"Worcester County Library - Snow Hill
+307 N Washington Street
+Snow Hill, MD" 92.3457295222643 -75.3942951 38.178164
+"Lewis Egerton Smoot Memorial Library
+9533 Kings Highway
+King George, VA" 93.2862492982158 -77.1782051 38.2661085
+"Martin Memorial Library
+200 North Smithwick Street
+Williamston, NC" 93.3203792251263 -77.055731 35.856182
+"Pamunkey Regional Library - Goochland Branch Library
+3075 River Road West
+Goochland, VA" 93.9744542775439 -77.8876794 37.6924987
+"Littleton Public Library (Wc Jones Memorial)
+127 West South Main St.
+Littleton, NC" 97.1245505138824 -77.9131334 36.4341627
+"Nottoway County Library System
+414 Tyler Street
+Crewe, VA" 97.3054207873033 -78.1194987 37.1803176
+"Crewe Library
+400 Tyler St.
+Crewe, VA" 97.3200951606393 -78.1199636 37.1776275
+"Wicomico Public Library
+122 South Division Street
+Salisbury, MD" 97.7494731576964 -75.6025363 38.3636232
+"Ripberger Public Library
+117 South Broad Street
+Kenbridge, VA" 97.8640715035693 -78.1247997 36.9627348
+"Charlotte Hall Branch Library
+37600 New Market Road
+Charlotte Hall, MD" 98.8554169413729 -76.7764444 38.4740433

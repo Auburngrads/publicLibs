@@ -1,0 +1,178 @@
+"location" "miles" "latitude" "longitude"
+"Altus Public Library
+421 N. Hudson
+Altus, OK" 2.92780280364602 -99.3352599 34.6415178
+"Margaret Carder Library
+201 W. Lincoln St.
+Mangum, OK" 19.8204910072484 -99.5075013 34.8722876
+"Frederick Public Library
+200 East Grand
+Frederick, OK" 23.7488166745379 -99.0157154 34.3896345
+"Hobart Public Library
+200 S Main
+Hobart, OK" 28.1805267380564 -99.092875 35.027009
+"Hobart Branch
+100 N Main Street
+Hobart, IN" 28.2669803619299 -99.0931329 35.0284536
+"Carnegie City-County Library
+2810 Wilbarger St
+Vernon, TX" 34.5124342437843 -99.2961448 34.1526151
+"Sentinel Public Library
+210 E. Main
+Sentinel, OK" 35.5998106608836 -99.1764167 35.1583087
+"Thompson Sawyer Public Library
+403 W 3rd St
+Quanah, TX" 35.7453602293334 -99.742894 34.2983314
+"Hollis Public Library
+201 W. Broadway
+Hollis, OK" 36.1678262708498 -99.9198958 34.6817653
+"Mt View - Addie Davis Memorial Library
+301 N. 4th
+Mtn. View, OK" 43.6021749014311 -98.7477315 35.1018658
+"Grandfield Public Library
+101 W 2nd
+Grandfield, OK" 44.7918769568815 -98.6883331 34.230798
+"Cordell Public Library
+208 S College
+Cordell, OK" 47.2340774781374 -98.9903168 35.2900978
+"Electra Public Library
+401 N Waggoner St
+Electra, TX" 47.6588499266192 -98.9177492 34.0329014
+"Sayre Public Library
+113 E Poplar
+Sayre, OK" 48.7486785019991 -99.6398295 35.2935122
+"Carnegie Public Library
+22 S Broadway
+Carnegie, OK" 49.9291386580384 -98.6048684 35.1091339
+"Lawton Public Library
+110 S W 4th St
+Lawton, OK" 50.8812963266456 -98.3929818 34.6067061
+"Foard County Library
+110 E California
+Crowell, TX" 52.4958938683303 -99.7202123 33.9829702
+"Elk City Carnegie Library
+221 West Broadway
+Elk City, OK" 52.968612311925 -99.40679 35.4107039
+"Collingsworth Public Library
+711 15th St
+Wellington, TX" 54.6434775201972 -100.21612 34.84905
+"Childress Public Library
+117 Ave B Ne
+Childress, TX" 54.822878575277 -100.2063632 34.4225704
+"Apache Public Library
+111 E. Evans
+Apache, OK" 54.8842811042726 -98.3653748 34.8935279
+"Burkburnett Library
+215 E 4th St
+Burkburnett, TX" 55.8230671263735 -98.5734919 34.0981497
+"Walters Public Library
+202 North Broadway
+Walters, OK" 59.2012593173578 -98.3091847 34.3590761
+"Tom Burnett Memorial Library
+400 W Alameda St
+Iowa Park, TX" 59.5597511246706 -98.6717351 33.9553885
+"Bookmobile
+501 S. 28th St.
+Clinton, OK" 61.5153008509378 -98.9932756 35.5080539
+"Western Plains Library System
+501 S 28th Street
+Clinton, OK" 61.5153008509378 -98.9932756 35.5080539
+"Clinton Public Library
+721 Frisco
+Clinton, OK" 62.3160838786512 -98.9691702 35.5144006
+"Anadarko Community Library
+215 W Broadway
+Anadarko, OK" 65.8603445548393 -98.2460605 35.0750952
+"Shamrock Public Library
+712 N Main St
+Shamrock, TX" 67.3712766725141 -100.2491503 35.2208328
+"Wichita Falls Public Library
+600 11th St
+Wichita Falls, TX" 68.5533662594102 -98.48859 33.9106141
+"Weatherford Public Library
+219 E Franklin
+Weatherford, OK" 68.8970965901462 -98.7056287 35.5273032
+"Cheyenne - Minnie R Slief Memorial Library
+200 S. Don Cearlock
+Cheyenne, OK" 70.0713572106458 -99.6714939 35.6139371
+"Minnie R Slief Library
+201 Don Cearlock Ave.
+Cheyenne, OK" 70.1365864132196 -99.6730936 35.6145
+"Memphis Public Library
+303 S 8th St
+Memphis, TX" 71.5429555868898 -100.5396627 34.7278838
+"Bicentennial City-County Library
+825 Backus St
+Paducah, TX" 72.8779863616079 -100.3015139 34.0144826
+"Baylor County Free Library
+101 S Washington St
+Seymour, TX" 73.6226034732906 -99.2610544 33.5873289
+"Hydro Public Library
+518 S. Broadway
+Hydro, OK" 73.9246252991707 -98.5770611 35.5494605
+"Duncan Public Library
+2211 N. Highway 81
+Duncan, OK" 75.2072469350694 -97.9676563 34.5729792
+"Marlow - Garland Smith Public Library
+407 W Seminole
+Marlow, OK" 75.4494134776143 -97.9593835 34.6464441
+"Rush Springs-Glover Spencer Memorial Library
+6th Blakely
+Rush Springs, OK" 76.0655902302867 -97.9569845 34.7825721
+"Hinton - Norman Smith Memorial Library
+115 E Main
+Hinton, OK" 77.4081712863821 -98.3548517 35.4714068
+"Wheeler Public Library
+306 S Canadian St
+Wheeler, TX" 78.4524546939114 -100.2748572 35.4451575
+"Chickasha Public Library
+527 Iowa Avenue
+Chickasha, OK" 81.1603353139183 -97.9393602 35.0472959
+"Thomas - Hazel Cross Library
+115 W Broadway
+Thomas, OK" 81.4543112008144 -98.748416 35.744242
+"Archer Public Library
+105 N Center
+Archer City, TX" 82.1994065642349 -98.6255685 33.5960586
+"Waurika Public Library
+98th Meridian
+Waurika, OK" 83.297734643971 -97.9997124 34.0821647
+"Lovett Memorial Library Mclean
+302 N Main
+Mclean, TX" 84.7030744758037 -100.5996879 35.233257
+"Edwards Public Library
+210 W Gilbert St
+Henrietta, TX" 84.9689633419721 -98.1964911 33.8156133
+"Munday City-County Library
+121 E B St
+Munday, TX" 85.1886737287113 -99.6239941 33.4523402
+"Geary Public Library
+106 Main St
+Geary, OK" 87.0734138616346 -98.317909 35.630653
+"Guthrie CSD King County Consolidated Library
+301 Jaguar Ln
+Guthrie, TX" 92.7141102666975 -100.3243304 33.6234376
+"Burton Memorial Library
+217 S Kearney
+Clarendon, TX" 93.2209268557199 -100.8891957 34.9364842
+"Turkey Public Library
+602 Lyles
+Turkey, TX" 93.4331904424091 -100.8938056 34.3906919
+"Olney Community Library And Arts Center
+807 W Hamilton St
+Olney, TX" 93.6097959180857 -98.7626781 33.3693929
+"Watonga Public Library
+301 N Prouty
+Watonga, OK" 96.1974410188152 -98.4143771 35.8465394
+"Lindsay Community Library
+112 W Choctaw
+Lindsay, OK" 96.4786834703902 -97.6027567 34.8357787
+"El Reno Carnegie Library
+215 E Wade
+El Reno, OK" 96.9263640776017 -97.9525111 35.5313956
+"Motley County Library
+1105 Main St
+Matador, TX" 98.2727784644529 -100.8221862 34.013034
+"Blanchard Public Library
+205 NE 10th Street
+Blanchard, OK" 98.5292027937749 -97.6567979 35.1465516
