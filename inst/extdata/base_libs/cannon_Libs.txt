@@ -1,0 +1,79 @@
+"location" "miles"
+"Clovis Carver Public Library
+701 Main
+Clovis, NM" 6.58066151244165
+"Portales Public Library
+218 S. Ave. B
+Portales, NM" 14.1207828652629
+"Muleshoe Area Public Library
+322 W 2nd St
+Muleshoe, TX" 35.6805833992995
+"Elida Public Library
+703 Clark St.
+Elida, NM" 36.2152116874037
+"Friona Public Library
+109 W 7th St
+Friona, TX" 38.1758351080445
+"Fort Sumner Public Library
+235 W. Sumner Avenue
+Fort Sumner, NM" 53.7444775952693
+"Springlake-Earth Community Library
+472 Farm To Market Road 302
+Springlake, TX" 55.5776538203692
+"Cochran County Love Memorial Library
+318 S Main St
+Morton, TX" 56.1543473251797
+"Rhoads Memorial Library
+103 Sw 2nd St
+Dimmitt, TX" 58.3603990034051
+"Schlientz Memorial Library
+602 S. Second St.
+Tucumcari, NM" 58.9744220806148
+"Deaf Smith County Library
+211 E 4th St
+Hereford, TX" 60.1601296797703
+"Lamb County Library
+110 E 6th St
+Littlefield, TX" 65.2282731302267
+"Olton Area Library
+701 Main St
+Olton, TX" 69.1409069347051
+"Hockley County Memorial Library
+811 Austin St
+Levelland, TX" 77.4945032053158
+"Oldham County Public Library
+914 Main
+Vega, TX" 78.1955420989238
+"Tatum Community Library
+323 E. Broadway
+Tatum, NM" 78.3747402001762
+"Lovington Public Library
+115 South Main St.
+Lovington, NM" 78.4452952123395
+"Moise Memorial Library
+208 5th St.
+Santa Rosa, NM" 86.6255324463055
+"Hale Center Public Library Inc
+609 Main St
+Hale Center, TX" 87.1910979279627
+"Yoakum County Library
+910 Ave E
+Plains, TX" 87.666895107418
+"Canyon Area Library
+1501 3rd Ave
+Canyon, TX" 89.0203456377879
+"Swisher County Library
+127 Sw 2nd St
+Tulia, TX" 89.1335582987736
+"Shallowater School County Library
+1202 Ave L
+Shallowater, TX" 90.1075881622195
+"Abernathy Public Library
+811 Avenue D
+Abernathy, TX" 92.8563748776836
+"Unger Memorial Library
+825 N Austin St
+Plainview, TX" 93.2630910807963
+"Roswell Public Library
+301 N. Pennsylvania Ave
+Roswell, NM" 97.6705452814662

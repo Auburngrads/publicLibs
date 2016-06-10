@@ -1,0 +1,1201 @@
+"location" "miles"
+"George F. Johnson Memorial Library
+1001 Park Street
+Endicott, NY" 5.12861784236507
+"Belden Noble Memorial Library Of Essex
+2759 Essex Rd.
+Essex, NY" 5.12861784236507
+"Evans Mills Public Library
+8706 Noble Street
+Evans Mills, NY" 8.27942577457117
+"Fair Haven Public Library
+14426 South Richmond Ave
+Fair Haven, NY" 8.27942577457117
+"Greenburgh Public Library
+300 Tarrytown Road
+Elmsford, NY" 8.61585126461773
+"Elwood Public Library
+3027 Jericho Turnpike
+Elwood, NY" 8.61585126461773
+"Eastchester Library
+1385 East Gun Hill Road
+Bronx, NY" 14.5835242165949
+"Edenwald Library
+1255 East 233rd Street
+Bronx, NY" 14.5835242165949
+"Barker Free Library
+8706 Main Street
+Barker, NY" 20.4856171607473
+"Barneveld Free Library Association
+118 Boon Street
+Barneveld, NY" 20.4856171607473
+"Baldwinsville Public Library
+33 East Genesee Street
+Baldwinsville, NY" 20.6637239005859
+"Ballston Spa Public Library
+21 Milton Avenue
+Ballston Spa, NY" 20.6637239005859
+"Queens Borough Public Library - Astoria
+14-01 Astoria Boulevard
+Astoria, NY" 21.1812201985947
+"Queens Borough Public Library - Steinway
+21-45 31 Street
+Astoria, NY" 21.1812201985947
+"Melrose Library
+910 Morris Avenue
+Bronx, NY" 23.3048472623314
+"Morris Park Library
+985 Morris Park Avenue
+Bronx, NY" 23.3048472623314
+"Carthage Free Library
+412 Budd Street
+Carthage, NY" 24.1141680217329
+"Cordelia A. Greene Library
+11 South Main Street
+Castile, NY" 24.1141680217329
+"Bolivar Free Library
+390 Main Street
+Bolivar, NY" 26.3168302799158
+"Bolton Free Library
+4922 Lakeshore Drive
+Bolton Landing, NY" 26.3168302799158
+"North Park Branch Library
+975 Hertel Avenue
+Buffalo, NY" 26.9344986805373
+"Riverside Branch Library
+820 Tonawanda Street
+Buffalo, NY" 26.9344986805373
+"Boston Free Library
+9474 Boston State Road
+Boston, NY" 27.3924968964058
+"Bovina Library Association
+33 Maple Avenue
+Bovina Center, NY" 27.3924968964058
+"Ellenburg Sarah A. Munsil Free Library
+5139 Route 11
+Ellenburg Depot, NY" 27.8618260566009
+"Ellenville Public Library And Museum
+40 Center Street
+Ellenville, NY" 27.8618260566009
+"Blauvelt Free Library
+541 Western Highway
+Blauvelt, NY" 28.7460035631184
+"Eagle Free Library
+3413 School Street
+Bliss, NY" 28.7460035631184
+"Bayport-Blue Point Public Library
+203 Blue Point Avenue
+Blue Point, NY" 28.864181889677
+"Connetquot Public Library
+760 Ocean Avenue
+Bohemia, NY" 28.864181889677
+"Hepburn Library
+84 Main Street
+Colton, NY" 31.0461094108541
+"Commack Public Library District
+18 Hauppauge Road
+Commack, NY" 31.0461094108541
+"Queens Borough Public Library - Arverne
+312 Beach 54 Street
+Arverne, NY" 31.1788729457743
+"Ashville Free Library
+2200 North Maple Street
+Ashville, NY" 31.1788729457743
+"Fayetteville Free Library
+300 Orchard Street
+Fayetteville, NY" 32.0431968989673
+"Wide Awake Club Library
+46 West Main St.
+Fillmore, NY" 32.0431968989673
+"Allens Hill Free Library
+3818 County Road 40
+Bloomfield, NY" 32.1451773457165
+"Bloomfield Public Library
+9 Church Street
+Bloomfield, NY" 32.1451773457165
+"Fenton Free Library
+1062 Chenango Street
+Binghamton, NY" 32.654157502426
+"Sally Ploof Hunter Memorial Library
+101 Public Works Drive
+Black River, NY" 32.654157502426
+"Sand Lake Town Library
+8428 Miller Hill Road
+Averill Park, NY" 33.3979804644196
+"Avoca Free Library
+18 North Main Street
+Avoca, NY" 33.3979804644196
+"Dolgeville-Manheim Public Library
+24 North Main Street
+Dolgeville, NY" 34.5516250962149
+"The Southworth Library Association
+24 West Main Street
+Dryden, NY" 34.5516250962149
+"Queens Borough Public Library - Mitchell-Linden
+29-42 Union Street
+Flushing, NY" 34.9414987340925
+"Queens Borough Public Library - Pomonok
+158-21 Jewel Avenue
+Flushing, NY" 34.9414987340925
+"Homecrest Library
+2525 Coney Island Ave. At Ave. V
+Brooklyn, NY" 35.6968466025642
+"Jamaica Bay Library
+9727 Seaview Ave. At E. 98th St.
+Brooklyn, NY" 35.6968466025642
+"Morrisania Library
+610 East 169th Street
+Bronx, NY" 35.8272860784681
+"Mosholu Library
+285 East 205th Street
+Bronx, NY" 35.8272860784681
+"Depauville Free Library
+32333 County Route 179
+Depauville, NY" 36.3086919539269
+"Deposit Free Library
+159 Front Street
+Deposit, NY" 36.3086919539269
+"Catskill Public Library
+1 Franklin Street
+Catskill, NY" 36.3557170617769
+"Cattaraugus Free Library
+21 Main Street
+Cattaraugus, NY" 36.3557170617769
+"Modeste Bedient Memorial Library
+3699 Route 54a
+Branchport, NY" 36.675771312787
+"Horicon Free Public Library
+6604 State Route 8
+Brant Lake, NY" 36.675771312787
+"Woodlawn Heights Library
+4355 Katonah Avenue
+Bronx, NY" 37.9417241250269
+"Woodstock Library
+761 East 160th Street
+Bronx, NY" 37.9417241250269
+"Queens Borough Public Library - Queensboro Hill
+60-05 Main Street
+Flushing, NY" 38.2989684921327
+"Frothingham Free Library
+28 West Main Street
+Fonda, NY" 38.2989684921327
+"Brooklyn Heights Library
+280 Cadman Plaza West At Tillary St.
+Brooklyn, NY" 38.5876782616141
+"Brooklyn Public Library
+10 Grand Army Plaza
+Brooklyn, NY" 38.5876782616141
+"Rochester Regional Library Council
+390 Packetts Landing
+Fairport, NY" 39.5975846852063
+"Falconer Public Library
+101 West Main Street
+Falconer, NY" 39.5975846852063
+"Constableville Library
+3038 Main Street
+Constableville, NY" 40.0688450362917
+"Village Library Of Cooperstown
+22 Main Street
+Cooperstown, NY" 40.0688450362917
+"Big Flats Library
+78 Canal St.
+Big Flats, NY" 40.2313128411596
+"Broome County Public Library
+185 Court Street
+Binghamton, NY" 40.2313128411596
+"Queens Borough Public Library - Broad Channel
+16-26 Cross Bay Boulevard
+Broad Channel, NY" 41.1603697334587
+"Seymour Library
+161 East Ave
+Brockport, NY" 41.1603697334587
+"Crane Branch Library
+633 Elmwood Avenue
+Buffalo, NY" 41.7832544746674
+"Dudley Branch Library
+2010 South Park Avenue
+Buffalo, NY" 41.7832544746674
+"Williamsburgh Library
+240 Division Ave. At Marcy Ave.
+Brooklyn, NY" 41.8509102817691
+"Windsor Terrace Library
+160 E. 5th St. At Ft. Hamilton Pkwy.
+Brooklyn, NY" 41.8509102817691
+"Brownville-Glen Park Library
+216 Brown Boulevard
+Brownville, NY" 42.3802118560833
+"Buffalo Erie County Public Library System
+1 Lafayette Square
+Buffalo, NY" 42.3802118560833
+"Pelham Bay Library
+3060 Middletown Road
+Bronx, NY" 42.9439699440833
+"Riverdale Library
+5540 Mosholu Avenue
+Bronx, NY" 42.9439699440833
+"Maxwell Memorial Library
+14 Genesee Street
+Camillus, NY" 43.0641681762899
+"Canajoharie Library And Art Gallery
+2 Erie Boulevard
+Canajoharie, NY" 43.0641681762899
+"Clyde-Savannah Public Library
+204 Glasgow Street
+Clyde, NY" 44.1167773837844
+"Clymer-French Creek Free Library
+564 Clymer - Sherman Road
+Clymer, NY" 44.1167773837844
+"Marcy Library
+617 Dekalb Ave. At Nostrand Ave.
+Brooklyn, NY" 45.0302596813563
+"Mckinley Park Library
+6802 Fort Hamilton Pkwy (At 68th St.)
+Brooklyn, NY" 45.0302596813563
+"Pacific Library
+25 Fourth Ave. At Pacific St.
+Brooklyn, NY" 45.1095643337942
+"Paerdegat Library
+850 E. 59th St. At Paerdegat Ave. South
+Brooklyn, NY" 45.1095643337942
+"Blount Library
+5 North Main Street
+Franklinville, NY" 45.2696739694934
+"Darwin R. Barker Library Association
+7 Day Street
+Fredonia, NY" 45.2696739694934
+"Cortland Free Library
+32 Church Street
+Cortland, NY" 46.5922094272674
+"Heermance Memorial Library
+1 Ely Street
+Coxsackie, NY" 46.5922094272674
+"Saratoga Library
+8 Thomas S. Boyland St. At Macon St.
+Brooklyn, NY" 46.8061275341291
+"Sheepshead Bay Library
+2636 E.14th St. At Ave. Z
+Brooklyn, NY" 46.8061275341291
+"Borough Park Library
+1265 43rd St. At 13th Ave.
+Brooklyn, NY" 48.3930417811899
+"Brighton Beach Library
+16 Brighton First Rd. At Brighton Beach Ave.
+Brooklyn, NY" 48.3930417811899
+"Ellicottville Memorial Library
+6499 Maples Road
+Ellicottville, NY" 50.6166113269242
+"Farman Free Library Association Of Ellington
+760 Thornton Road
+Ellington, NY" 50.6166113269242
+"Queens Borough Public Library - East Elmhurst
+95-06 Astoria Boulevard
+East Elmhurst, NY" 50.7390791526698
+"East Greenbush Community Library
+10 Community Way
+East Greenbush, NY" 50.7390791526698
+"Cornwall Public Library
+395 Hudson Street
+Cornwall, NY" 51.6250793749285
+"Queens Borough Public Library - Corona
+38-23 104 Street
+Corona, NY" 51.6250793749285
+"Queens Borough Public Library - Bay Terrace
+18-36 Bell Boulevard
+Bayside, NY" 52.5613241108067
+"Queens Borough Public Library - Bayside
+214-20 Northern Boulevard
+Bayside, NY" 52.5613241108067
+"Dowling College Library
+150 Idle Hour Blvd
+Brookhaven, NY" 53.5781254132083
+"Arlington Library
+203 Arlington Ave. At Warwick St.
+Brooklyn, NY" 53.5781254132083
+"Town Of Tonawanda Public Library Kenilworth Branch
+318 Montrose Avenue
+Buffalo, NY" 54.1584772852402
+"Ballston Community Public Library
+2 Lawmar Lane
+Burnt Hills, NY" 54.1584772852402
+"Eden Library
+2901 East Church Street
+Eden, NY" 54.6175983878301
+"Edmeston Free Library
+6 West Street
+Edmeston, NY" 54.6175983878301
+"Hepburn Library Of Edwards
+205 Main Street
+Edwards, NY" 54.6175983878301
+"Elbridge Free Library
+241 East Main Street
+Elbridge, NY" 54.6175983878301
+"Corinth Free Library
+89 Main Street
+Corinth, NY" 55.2039766622047
+"Southeast Steuben County Library
+300 Civic Center Plaza Suite 101
+Corning, NY" 55.2039766622047
+"East Williston Public Library
+2 Prospect Street
+East Williston, NY" 56.9592616107662
+"Eastchester Public Library
+11 Oakridge Place
+Eastchester, NY" 56.9592616107662
+"Amagansett Free Library
+215 Main Street
+Amagansett, NY" 56.9667871470306
+"Amenia Free Library
+3309 Route 343
+Amenia, NY" 56.9667871470306
+"Byron-Bergen Public Library
+13 S. Lake Street
+Bergen, NY" 57.0286197657596
+"Berkshire Free Library
+12519 State Route 38
+Berkshire, NY" 57.0286197657596
+"Central Square Library
+637 South Main Street
+Central Square, NY" 59.6275019550372
+"Champlain Memorial Library
+148 Elm Street
+Champlain, NY" 59.6275019550372
+"Ahira Hall Memorial Library
+37 West Main Street
+Brocton, NY" 59.840859981725
+"Allerton Library
+2740 Barnes Avenue
+Bronx, NY" 59.840859981725
+"Belleville Free Library
+8086 County Route 75
+Belleville, NY" 59.8636590840589
+"Bellmore Memorial Library
+2288 Bedford Avenue
+Bellmore, NY" 59.8636590840589
+"Dansville Public Library
+200 Main Street
+Dansville, NY" 59.9339892992876
+"Deer Park Public Library
+44 Lake Avenue
+Deer Park, NY" 59.9339892992876
+"Sunset Park Library
+5108 4th Ave. At 51st St.
+Brooklyn, NY" 60.0018390755641
+"Ulmer Park Library
+2602 Bath Ave At 26th Ave
+Brooklyn, NY" 60.0018390755641
+"Chappaqua Library
+195 South Greeley Avenue
+Chappaqua, NY" 60.0698699821404
+"Chateaugay Memorial Library
+4 John St.
+Chateaugay, NY" 60.0698699821404
+"Kings Highway Library
+2115 Ocean Ave.
+Brooklyn, NY" 60.611449027511
+"Leonard Library
+81 Devoe St. At Leonard St.
+Brooklyn, NY" 60.611449027511
+"Andes Public Library
+242 Main Street
+Andes, NY" 61.2770424295049
+"Andover Free Library
+40 Main Street
+Andover, NY" 61.2770424295049
+"Stevens Memorial Community Library
+146 Main Street
+Attica, NY" 62.6987246824303
+"Seymour Public Library District
+176-178 Genesee Street
+Auburn, NY" 62.6987246824303
+"Castleton Public Library
+85 South Main Street
+Castleton, NY" 62.8814215974825
+"Stewart B. Lang Memorial Library
+2577 East Main Street
+Cato, NY" 62.8814215974825
+"Arcade Free Library
+365 West Main Street
+Arcade, NY" 63.208157444726
+"Ardsley Public Library
+9 American Legion Drive
+Ardsley, NY" 63.208157444726
+"Allegany Public Library
+90 West Main Street
+Allegany, NY" 63.5108505123604
+"Almond Twentieth Century Club Library
+p o box d
+Almond, NY" 63.5108505123604
+"Argyle Free Library
+21 Sheridan Street
+Argyle, NY" 63.5545203865338
+"North Castle Public Library
+19 Whippoorwill Road East
+Armonk, NY" 63.5545203865338
+"Queens Borough Public Library - Cambria Heights
+218-13 Linden Boulevard
+Cambria Heights, NY" 64.3954948128351
+"Cambridge Public Library
+21 West Main Street
+Cambridge, NY" 64.3954948128351
+"Free Library Of The Belmont Literary And Historical Society
+2 Willets Avenue
+Belmont, NY" 66.1232916222036
+"Bemus Point Public Library
+13 Main Street
+Bemus Point, NY" 66.1232916222036
+"Cuttyhunk Public Library
+19 Tower Hill Road
+Cuttyhunk, MA" 67.3840502097041
+"Dalton Free Public Library
+462 Main Street
+Dalton, MA" 67.3840502097041
+"Franklin Free Library
+334 Main Street
+Franklin, NY" 67.4210545328628
+"Franklin Square Public Library
+19 Lincoln Road
+Franklin Square, NY" 67.4210545328628
+"Queens Borough Public Library - Elmhurst
+86-01 Broadway
+Elmhurst, NY" 68.2856089920333
+"Chemung County Library District
+101 East Church Street
+Elmira, NY" 68.2856089920333
+"Schenectady County Public Library - Quaker Street Branch
+133 Bull St.
+Delanson, NY" 68.9977251390378
+"Delevan-Yorkshire Public Library
+28 School Street
+Delevan, NY" 68.9977251390378
+"Claverack Library
+629 Rt 23b
+Claverack, NY" 69.0100666499454
+"Hawn Memorial Library
+220 John Street
+Clayton, NY" 69.0100666499454
+"Northern Onondaga Public Library
+8686 Knowledge Lane
+Cicero, NY" 69.0626940670114
+"Kellogg Free Library
+5681 Telephone Road Extension
+Cincinnatus, NY" 69.0626940670114
+"West Elmira Library
+1231 W. Water St
+Elmira, NY" 69.5115278916509
+"Elmont Public Library
+700 Hempstead Turnpike
+Elmont, NY" 69.5115278916509
+"White Marsh Library
+8133 Sandpiper Circle
+Baltimore, MD" 69.7997066496309
+"Woodlawn Library
+1811 Woodlawn Dr.
+Baltimore, MD" 69.7997066496309
+"Baychester Library
+2049 Asch Loop North
+Bronx, NY" 70.0455283070037
+"Belmont Library And Enrico Fermi Cultural Center
+610 E. 186th Street
+Bronx, NY" 70.0455283070037
+"Kensington Library
+410 Ditmas Ave. Between East 4th East 5th St.
+Brooklyn, NY" 70.1551529655149
+"Kings Bay Library
+3650 Nostrand Ave. (Near Ave. W)
+Brooklyn, NY" 70.1551529655149
+"Bay Ridge Library
+7223 Ridge Blvd. At 73rd St.
+Brooklyn, NY" 70.3935424910029
+"Bedford Learning Center
+496 Franklin Avenue
+Brooklyn, NY" 70.3935424910029
+"Northwood Branch
+4420 Loch Raven Boulevard
+Baltimore, MD" 70.4050786166486
+"Orleans Street Branch
+1303 Orleans Street
+Baltimore, MD" 70.4050786166486
+"Chatham Public Library
+11 Woodbridge Avenue
+Chatham, NY" 71.4107824326138
+"Lyme Free Library
+12165 Main Street
+Chaumont, NY" 71.4107824326138
+"Chelsea Public Library
+569 Broadway
+Chelsea, MA" 72.1491719742668
+"Cheshire Public Library
+23 Depot Street
+Cheshire, MA" 72.1491719742668
+"Audubon Branch
+350 John James Audubon Parkway
+Amherst, NY" 72.1831882459853
+"Amsterdam Free Library
+28 Church Street
+Amsterdam, NY" 72.1831882459853
+"Altamont Free Library
+105 Park Street
+Altamont, NY" 72.8135962825115
+"Altona Reading Center
+3124 Rt. 191
+Altona, NY" 72.8135962825115
+"Deruyter Free Library
+736 Utica Street
+Deruyter, NY" 73.0923520127661
+"Dewitt Community Library Assoc., Inc
+3649 Erie Blvd East
+Dewitt, NY" 73.0923520127661
+"Half Hollow Hills Community Public Library
+55 Vanderbilt Parkway
+Dix Hills, NY" 74.7501084278058
+"Dobbs Ferry Public Library
+55 Main Street
+Dobbs Ferry, NY" 74.7501084278058
+"Fort Edward Free Library
+23 East Street
+Fort Edward, NY" 74.7751309839314
+"Fort Hunter Free Library
+351 Main Street
+Fort Hunter, NY" 74.7751309839314
+"Queens Borough Public Library - Flushing
+41-17 Main Street
+Flushing, NY" 74.9947704718177
+"Queens Borough Public Library - Hillcrest
+187-05 Union Turnpike
+Flushing, NY" 74.9947704718177
+"Norridgewock Free Public Library
+86 Sophie May Lane
+Norridgewcock, ME" 76.7200601312635
+"Stewart Public Library
+37 Elm Street
+North Anson, ME" 76.7200601312635
+"Walt Whitman Library
+93 Saint Edwards St.
+Brooklyn, NY" 77.130154076566
+"Washington Irving Library
+360 Irving Ave.
+Brooklyn, NY" 77.130154076566
+"Town Square Library
+1 Sabattus Mall
+Sabattus, ME" 77.1559295269062
+"Dyer Library
+371 Main Street
+Saco, ME" 77.1559295269062
+"Albany Public Library - John A. Howe Branch
+105 Schuyler Street
+Albany, NY" 77.5634901656606
+"Albany Public Library - John J. Bach Branch
+455 New Scotland Avenue
+Albany, NY" 77.5634901656606
+"Albany Public Library - Main Library
+161 Washington Avenue
+Albany, NY" 77.5634901656606
+"Albany Public Library - North Albany Branch
+616 North Pearl Street
+Albany, NY" 77.5634901656606
+"Montgomery County Public Libraries
+21 Maryland Ave., Suite 310
+Rockville, MD" 77.7449323279967
+"Rockville Branch Library
+21 Maryland Ave.
+Rockville, MD" 77.7449323279967
+"Clayville Library Association
+2265 Oneida Street
+Clayville, NY" 77.7908059373233
+"Clifton-Park Halfmoon Public Library
+475 Moe Road
+Clifton Park, NY" 77.7908059373233
+"Takoma Park Maryland Library
+101 Philadelphia Avenue
+Takoma Park, MD" 77.8809596806504
+"Taneytown Branch
+10 Grand Drive
+Taneytown, MD" 77.8809596806504
+"Spuyten Duyvil Library
+650 W. 235th St.
+Bronx, NY" 78.3810534507271
+"Throgs Neck Library
+3025 Cross Bronx Expressway Extension
+Bronx, NY" 78.3810534507271
+"Franklin Parish Library
+705 Prairie Street
+Winnsboro, LA" 78.4739117650876
+"Wisner Branch
+129 Fort Scott St.
+Wisner, LA" 78.4739117650876
+"Gerritsen Beach Library
+2808 Gerritsen Ave. ( Bartlett Place)
+Brooklyn, NY" 78.783888723266
+"Gravesend Library
+303 Ave. X At West. 2nd St.
+Brooklyn, NY" 78.783888723266
+"East Clinton Branch Library
+1929 Clinton Street
+Buffalo, NY" 78.8851780257969
+"East Delavan Branch Library
+1187 E. Delavan Avenue
+Buffalo, NY" 78.8851780257969
+"Cold Spring Harbor Laboratory Library And Archives
+1 Bungtown Rd.
+Cold Spring Harbor, NY" 79.6412063338159
+"Cold Spring Harbor Village Improvement Society Library
+95 Harbor Rd
+Cold Spring Harbor, NY" 79.6412063338159
+"Thomaston Public Library
+60 Main Street
+Thomaston, ME" 79.7190796536797
+"Topsham Public Library
+25 Foreside Road
+Topsham, ME" 79.7190796536797
+"Bronxville Public Library
+201 Pondfield Road
+Bronxville, NY" 79.8069177986093
+"Brookhaven Free Library
+273 Beaver Dam Road
+Brookhaven, NY" 79.8069177986093
+"Sullivan Free Library Of Chittenango
+101 Falls Boulevard
+Chittenango, NY" 79.9561339457287
+"Newman Riga Library
+1 Village Park
+Churchville, NY" 79.9561339457287
+"Sulphur Branch
+1160 Cypress Street
+Sulphur, LA" 80.2390900134473
+"South St. Landry Community Library
+235 Marie Street
+Sunset, LA" 80.2390900134473
+"Parkville-Carney Library
+9509 Harford Rd.
+Baltimore, MD" 80.3635698092642
+"Patterson Park Branch
+158 N. Linwood Avenue
+Baltimore, MD" 80.3635698092642
+"Blodgett Memorial Library District Of Fishkill
+37 Broad Street
+Fishkill, NY" 80.5038106511032
+"Skene Memorial Library
+1017 Main Street
+Fleischmanns, NY" 80.5038106511032
+"Briarcliff Manor Public Library
+1 Library Road
+Briarcliff Manor, NY" 80.5175110031917
+"Queens Borough Public Library - Briarwood
+85-12 Main Street
+Briarwood, NY" 80.5175110031917
+"Horticultural Alliance Library
+843 Sag Harbor Tpke
+Bridgehampton, NY" 81.9322970072128
+"The Hampton Library
+2478 Main Street
+Bridgehampton, NY" 81.9322970072128
+"Brentwood Public Library
+34 Second Avenue
+Brentwood, NY" 82.0907868210612
+"Brewster Public Library
+79 Main Street
+Brewster, NY" 82.0907868210612
+"Upper Hudson Library System
+28 Essex Street
+Albany, NY" 82.1637052356743
+"Shelter Rock Public Library
+165 Searingtown Road
+Albertson, NY" 82.1637052356743
+"Cohoes Public Library
+169 Mohawk Street
+Cohoes, NY" 82.305397662953
+"Julia L. Butterfield Memorial Library
+10 Morris Avenue
+Cold Spring, NY" 82.305397662953
+"Pennsylvania Avenue Branch
+1531 W. North Avenue
+Baltimore, MD" 83.0278226114748
+"Perry Hall Library
+9440 Belair Rd.
+Baltimore, MD" 83.0278226114748
+"Myers Memorial Library
+26 Ivory Street
+Frewsburg, NY" 83.1364620098711
+"Friendship Free Library
+40 West Main Street
+Friendship, NY" 83.1364620098711
+"Floral Park Public Library
+17 Caroline Place
+Floral Park, NY" 83.3311067220498
+"Florida Public Library
+4 Cohen Circle
+Florida, NY" 83.3311067220498
+"North Caddo Branch
+615 N. Pine Street
+Vivian, LA" 83.5525594180766
+"Live Oak Branch
+125 Acadia Drive
+Waggaman, LA" 83.5525594180766
+"Washington Municipal Library
+418 North Main Street
+Washington, LA" 83.9284094645369
+"Watson Branch
+34917 Highway 16
+Watson, LA" 83.9284094645369
+"Brower Park Library
+725 St. Marks Ave. At Nostrand Ave.
+Brooklyn, NY" 83.9350236420939
+"Brownsville Library
+61 Glenmore Ave. At Watkins St.
+Brooklyn, NY" 83.9350236420939
+"Queens Borough Public Library - Windsor Park
+79-50 Bell Boulevard
+Bayside, NY" 84.1556657654783
+"Bayville Free Library
+34 School Street
+Bayville, NY" 84.1556657654783
+"Cazenovia Public Library Society
+100 Albany Street
+Cazenovia, NY" 84.3790287757685
+"Center Moriches Free Public Library
+235 Main Street
+Center Moriches, NY" 84.3790287757685
+"Youngsville Branch
+506 Lafayette Street
+Youngsville, LA" 84.605274067443
+"Zachary Branch Library
+1900 Church Street
+Zachary, LA" 84.605274067443
+"Francis Martin Library
+2150 University Avenue
+Bronx, NY" 84.8011504214504
+"Grand Concourse Library
+155 East 173rd Street
+Bronx, NY" 84.8011504214504
+"Evangeline Parish
+242 West Main Street
+Ville Platte, LA" 84.9191178961773
+"Fontenot Memorial Branch
+1402 Center Street
+Vinton, LA" 84.9191178961773
+"Frank E. Merriweather, Jr. Library
+1324 Jefferson Avenue
+Buffalo, NY" 85.1462817946618
+"Niagara Branch Library
+280 Porter Avenue
+Buffalo, NY" 85.1462817946618
+"Flatlands Library
+2065 Flatbush Ave. At Ave. P
+Brooklyn, NY" 85.209033303721
+"Fort Hamilton Library
+9424 Fourth Ave.
+Brooklyn, NY" 85.209033303721
+"Lyndon Oak Memorial Library
+5 Dexter Road
+Garland, ME" 85.2804374145957
+"Laura E. Richards Library
+863 Five Islands Road
+Georgetown, ME" 85.2804374145957
+"Western Sullivan Public Library - Delaware Free Branch
+45 Lower Main Street
+Callicoon, NY" 85.4815064923428
+"Baiting Hollow Free Library
+4 Warner Drive
+Calverton, NY" 85.4815064923428
+"Glenburn Library
+991 Hudson Road
+Glenburn, ME" 85.5236816422523
+"Baxter Memorial Library
+71 South Street
+Gorham, ME" 85.5236816422523
+"Queens Borough Public Library - Langston Hughes
+100-01 Northern Boulevard
+Corona, NY" 85.5813833063993
+"Queens Borough Public Library - Lefrak City
+98-30 57 Avenue
+Corona, NY" 85.5813833063993
+"Cole Memorial Library
+789 Hammett Road
+Enfield, ME" 85.9856270064607
+"Lawrence Public Library
+33 Lawrence Avenue
+Fairfield, ME" 85.9856270064607
+"Belfast Public Library
+75 South Main Street
+Belfast, NY" 86.2048876246546
+"Queens Borough Public Library - Bellerose
+250-06 Hillside Avenue
+Bellerose, NY" 86.2048876246546
+"Chester Public Library
+1784 Kings Highway
+Chester, NY" 86.7519233983942
+"Town Of Chester Public Library
+6307 Main St - State Route 9
+Chestertown, NY" 86.7519233983942
+"Edgewater Branch
+25 Stepneys Lane
+Edgewater, MD" 86.8495948651878
+"Edgewood Branch Library
+629 Edgewood Road
+Edgewood, MD" 86.8495948651878
+"Mcburney Memorial Branch
+301 South Sarah Street
+Welsh, LA" 86.9946391912445
+"Ouachita Valley Branch
+601 Mcmillan Road
+West Monroe, LA" 86.9946391912445
+"Berlin Free Town Library
+47 Main Street
+Berlin, NY" 87.1760935913366
+"Berne Public Library
+1656 Helderberg Trail
+Berne, NY" 87.1760935913366
+"White Castle Branch
+32835 Bowie Street
+White Castle, LA" 87.1818338289379
+"Winn Parish
+205 West Main Street
+Winnfield, LA" 87.1818338289379
+"Finksburg Branch
+2265 Old Westminster Pike
+Finksburg, MD" 87.6069308770006
+"C.Burr Artz Public Library
+110 East Patrick Street
+Frederick, MD" 87.6069308770006
+"Howland Public Library
+313 Main Street
+Beacon, NY" 87.685344842928
+"Beaver Falls Library
+9607 Lewis Street
+Beaver Falls, NY" 87.685344842928
+"Rugby Library
+1000 Utica Ave. (Near Tilden Ave.)
+Brooklyn, NY" 88.2195734537369
+"Ryder Library
+5902 23rd Ave. (Bet. 23rd Ave. At 59th St.)
+Brooklyn, NY" 88.2195734537369
+"West Monroe Branch
+315 Cypress Street
+West Monroe, LA" 88.4106333216919
+"West Ouachita Branch
+188 Highway 546
+West Monroe, LA" 88.4106333216919
+"Winterport Memorial Library
+229 Main Street
+Winterport, ME" 88.586103340866
+"Bailey Public Library
+39 Bowdoin Street
+Winthrop, ME" 88.586103340866
+"South County Branch
+5940 Deale-Churchton Road
+Deale, MD" 88.8537858132726
+"Caroline County Public Library
+100 Market Street
+Denton, MD" 88.8537858132726
+"Parsons Memorial Library
+27 Saco Road
+Alfred, ME" 88.9768914878789
+"Allagash Public Library
+894 Allagash Road
+Allagash, ME" 88.9768914878789
+"Sabine Parish
+705 Main Street
+Many, LA" 89.0562838402361
+"Toledo Branch
+12224 Texas Highway
+Many, LA" 89.0562838402361
+"Hamilton Memorial Library
+195 Route 20
+Chester, MA" 89.2117097103535
+"Chesterfield Public Library
+408 Main Road
+Chesterfield, MA" 89.2117097103535
+"Westlake Branch
+937 Mulberry Street
+Westlake, LA" 89.3175187729466
+"Westwego Branch
+635 Fourth Street
+Westwego, LA" 89.3175187729466
+"Starks Branch
+113 South Highway 109
+Starks, LA" 89.4527854338575
+"Stonewall Branch
+1460 Highway 171
+Stonewall, LA" 89.4527854338575
+"Spring Creek Library
+12143 Flatlands Ave. At New Jersey Ave.
+Brooklyn, NY" 89.4743256559913
+"Stone Avenue Library
+581 Mother Gaston Boulevard
+Brooklyn, NY" 89.4743256559913
+"Village Of Fair Haven Public Library
+14426 South Richmond Avenue
+Fair Haven, NY" 89.5656333727339
+"Fairport Public Library
+1 Village Landing
+Fairport, NY" 89.5656333727339
+"Bethpage Public Library
+47 Powell Avenue
+Bethpage, NY" 89.6020904388815
+"Briarcliffe College Library - Bethpage
+1055 Stewart Avenue
+Bethpage, NY" 89.6020904388815
+"Little Falls Branch Library
+5501 Massachusetts Ave.
+Bethesda, MD" 89.8476388898679
+"Prince Georges County Memorial Library - Bladensburg
+4820 Annapolis Rd.
+Bladensburg, MD" 89.8476388898679
+"Clifton Springs Library
+4 Railroad Avenue
+Clifton Springs, NY" 90.1537949914681
+"Kirkland Town Library
+55 1-2 College Street
+Clinton, NY" 90.1537949914681
+"West St. James Branch
+2631 Highway 20 W
+Vacharie, LA" 90.6922805380873
+"Vidalia Branch
+405 Carter Street
+Vidalia, LA" 90.6922805380873
+"Zwolle Branch
+2218 Port Arthur Avenue
+Zwolle, LA" 90.7395810232896
+"Acton Public Library
+35 H Road-Route 109
+Acton, ME" 90.7395810232896
+"The Community Library
+110 Union Street
+Cobleskill, NY" 90.8316992450511
+"Cohocton Public Library
+15 S. Main St.
+Cohocton, NY" 90.8316992450511
+"Madison Parish Library
+403 North Mulberry Street
+Tallulah, LA" 90.8879095147554
+"Terrytown Branch
+680 Heritage Avenue
+Terrytown, LA" 90.8879095147554
+"Wimodaughsian Free Library
+19 West Main Street
+Canisteo, NY" 90.9052667871006
+"Canton Free Library
+8 Park Street
+Canton, NY" 90.9052667871006
+"Bedford Free Library
+32 Village Green
+Bedford, NY" 91.2525026995961
+"Bedford Hills Free Library
+26 Main Street
+Bedford Hills, NY" 91.2525026995961
+"Lisbon Library Dept
+28 Main Street
+Lisbon, ME" 91.4957176796164
+"Livermore Public Library
+22 Church Street
+Livermore, ME" 91.4957176796164
+"Ellisburg Free Library
+12117 Nys Route 193
+Ellisburg, NY" 91.5020441330085
+"Elma Public Library
+1860 Bowen Road
+Elma, NY" 91.5020441330085
+"St. Martin Parish Library
+201 Porter Street
+St. Martinville, LA" 92.1264365583155
+"St. Rose Branch
+90 East Club Drive
+St. Rose, LA" 92.1264365583155
+"Haughton Branch
+116 W. Mckinley
+Haughton, LA" 92.9483164537952
+"Koran Branch
+1684 Highway 527-Johnson Store Rd.
+Haughton, LA" 92.9483164537952
+"Brewster Ladies Library Assoc.
+1822 Main Street
+Brewster, MA" 92.9584925575082
+"Bridgewater Public Library
+15 South St.
+Bridgewater, MA" 92.9584925575082
+"Hayes Branch
+7709 Perier Street
+Hayes, LA" 92.9728129106866
+"Joe Webb Memorial Branch
+1919 Main Street
+Haynesville, LA" 92.9728129106866
+"Claiborne Parish
+909 Edgewood Drive
+Homer, LA" 92.9728129106866
+"Hosston Branch
+15487 Us Highway 71
+Hosston, LA" 92.9728129106866
+"Robert E. Smith Branch
+6301 Canal Boulevard
+New Orleans, LA" 93.2462601306584
+"Pointe Coupee Parish Library
+201 Claiborne Street
+New Roads, LA" 93.2462601306584
+"Mayhew Library Assn
+290 Water Street
+Addison, ME" 93.2815819967765
+"Albion Public Library
+18 Main Street
+Albion, ME" 93.2815819967765
+"Smith Memorial Library
+21 Miller Avenue
+Chautauqua, NY" 93.475338989654
+"Chazy Public Library
+9633 Route 9
+Chazy, NY" 93.475338989654
+"Reinstein Memorial Library
+2580 Harlem Road
+Cheektowaga, NY" 93.475338989654
+"Cherry Valley Memorial Library
+61 Main Street
+Cherry Valley, NY" 93.475338989654
+"North Haven Public Library
+33 Main Street
+North Haven, ME" 93.6156745896853
+"Jay-Niles Memorial Library
+983 Main Street
+North Jay, ME" 93.6156745896853
+"East Houma Branch
+778 Grand Caillou Highway
+Houma, LA" 93.7635616054213
+"Terrebonne Parish
+151 Library Drive
+Houma, LA" 93.7635616054213
+"Anne Arundel County Public Library Headquarters
+5 Harry S. Truman Parkway
+Annapolis, MD" 94.627765148036
+"Broadneck Branch
+1275 Green Holly Drive
+Annapolis, MD" 94.627765148036
+"Mott Haven Library
+321 East 140th Street
+Bronx, NY" 95.3315073390444
+"Parkchester Library
+1985 Westchester Avenue
+Bronx, NY" 95.3315073390444
+"West Bank Regional Branch
+2751 Manhattan Boulevard
+Harvey, LA" 95.4005995743756
+"East 80 Branch
+1050 Bellevue Road
+Haughton, LA" 95.4005995743756
+"Lafourche Parish Public Library
+303 West Fifth Street
+Thibodaux, LA" 95.8301438856479
+"J.L. Robertson Branch
+809 Tioga High School Road
+Tioga, LA" 95.8301438856479
+"Sedgwick Library
+1701 Martin Luther King, Jr. Blvd.
+Bronx, NY" 96.0079760403558
+"Soundview Library
+660 Soundview Avenue
+Bronx, NY" 96.0079760403558
+"York Public Library
+15 Long Sands Road
+York, ME" 96.3675625863557
+"Aberdeen Branch
+21 Franklin Street
+Aberdeen, MD" 96.3675625863557
+"Camden Library Association
+57 Second Street
+Camden, NY" 96.4648238999479
+"Osceola Public Library
+2117 North Osceola Road
+Camden, NY" 96.4648238999479
+"Prince Georges County Memorial Library - Bowie
+15210 Annapolis Road
+Bowie, MD" 96.674639576596
+"Prince Georges County Memorial Library - South Bowie
+15301 Hall Road
+Bowie, MD" 96.674639576596
+"Davis Memorial Library
+928 Cape Road
+Limington, ME" 96.7293591992035
+"Lincoln Memorial Library
+21 West Broadway
+Lincoln, ME" 96.7293591992035
+"Bayou Blue Branch
+2004 Bayou Blue Road
+Houma, LA" 96.8221257245114
+"Bayou Dularge Branch
+837 Bayou Dularge Road
+Houma, LA" 96.8221257245114
+"North County Area Library
+1010 Eastway
+Glen Burnie, MD" 97.0191427919774
+"Prince Georges County Memorial Library - Glenarden
+8724 Glenarden Pkwy.
+Glenarden, MD" 97.0191427919774
+"Ducros Museum Branch
+1345 Bayou Road
+St. Bernard, LA" 97.1929614703343
+"West Feliciana Parish Library
+11865 Ferdinand Street
+St. Francisville, LA" 97.1929614703343
+"High Bridge Library
+78 West 168th Street
+Bronx, NY" 97.7456195118737
+"Hunts Point Library
+877 Southern Boulevard
+Bronx, NY" 97.7456195118737
+"Copiague Memorial Public Library
+50 Deauville Boulevard
+Copiague, NY" 98.0176817222804
+"Corfu Free Library
+7 Maple Avenue
+Corfu, NY" 98.0176817222804
+"East Flatbush Library
+9612 Church Ave. At. Rockaway Pkwy.
+Brooklyn, NY" 98.0772006623175
+"Eastern Parkway Learning Center
+1044 Eastern Parkway
+Brooklyn, NY" 98.0772006623175
+"Heflin Branch
+7041 Highway 531
+Heflin, LA" 98.3770147316471
+"Hineston Branch
+1839 Highway 121
+Hineston, LA" 98.3770147316471
+"Marilyn J. Praisner Library (Fairland)
+14910 Old Columbia Pik
+Burtonsville, MD" 98.8963005586553
+"Dorchester County Public Library
+303 Gay Street
+Cambridge, MD" 98.8963005586553
+"Limerick Public Library
+55 Washington Street
+Limerick, ME" 98.8994915512353
+"Frost Memorial Library
+238 Main Street
+Limestone, ME" 98.8994915512353
+"D.R. Evarts Library
+80 Second Street
+Athens, NY" 99.1859349760767
+"E J Cottrell Memorial Library
+30 Main Street
+Atlanta, NY" 99.1859349760767
+"Kitzmiller Branch Library
+288 W. Main Street
+Kitzmiller, MD" 99.5611652160468
+"Charles County Public Library
+2 Garrett Avenue
+La Plata, MD" 99.5611652160468
+"Canastota Public Library
+102 West Center Street
+Canastota, NY" 99.5788042387022
+"Candor Free Library
+2 Bank Street
+Candor, NY" 99.5788042387022
+"Blue Hill Library
+5 Parker Point Road
+Blue Hill, ME" 99.6076948812191
+"Boothbay Harbor Memorial Library
+4 Oak Street
+Boothbay Harbor, ME" 99.6076948812191
+"St. Tammany Parish Library Business Resource Center
+3505 Highway 190
+Mandeville, LA" 99.6855638131727
+"Mangham Branch
+302 Hixon Street
+Mangham, LA" 99.6855638131727

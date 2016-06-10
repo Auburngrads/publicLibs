@@ -1,0 +1,169 @@
+"location" "miles"
+"Edna Ralston Public Library
+116 1-2 Towner Avenue
+Larimore, ND" 11.6788415340353
+"Grand Forks Public Library
+2110 Library Circle
+Grand Forks, ND" 15.8940099710193
+"East Grand Forks-Campbell Library
+422 4th Street Northwest
+East Grand Forks, MN" 16.6153768525795
+"Hatton School Public Library
+503 4th Street, Hatton, Nd 58240
+Hatton, ND" 21.8093108550946
+"Mayville Public Library
+52 Center Avenue North
+Mayville, ND" 31.3619992233632
+"Carnegie Regional Library
+7th Griggs, Grafton, Nd 58237
+Grafton, ND" 31.8248695652273
+"Carnegie Regional Library
+49 West 7th Street
+Grafton, ND" 32.1969031468399
+"Godel Memorial Library
+314 East Johnson
+Warren, MN" 33.0709469605629
+"Carnegie Regional Library
+105 1st Street East, Michigan, Nd 58259
+Michigan, ND" 34.5400474952399
+"Park River School Public Library
+605 6th Sreet W
+Park River, ND" 34.8647357884279
+"Climax Public Library
+104 W. Broadway
+Climax, MN" 35.5123204745485
+"Crookston Public Library
+110 N Ash
+Crookston, MN" 38.1391936432854
+"McVille Community Library
+101 North Main Street
+McVille, ND" 39.1142387950698
+"Lakota City Library
+116 West B Avenue
+Lakota, ND" 44.942403066624
+"Carnegie Regional Library
+503 Briggs Ave., Adams, Nd 58210
+Adams, ND" 45.6481248477386
+"Griggs County Library
+902 Burrel Ave Se
+Cooperstown, ND" 49.2482801403859
+"Red Lake Falls Public Library
+105 Champagne Avenue Sw
+Red Lake Falls, MN" 51.5486803600392
+"Thief River Falls Public Library
+101 East First Street
+Thief River Falls, MN" 56.7043234239084
+"Northwest Regional Library
+210 Labree Avenue North
+Thief River Falls, MN" 56.7914550144743
+"Fertile Public Library
+101 S Mill Street
+Fertile, MN" 58.8807235075962
+"Arthur County Library
+205 First Street
+Arthur, NE" 59.1356771348739
+"Cavalier Public Library
+106 West 2nd Ave South
+Cavalier, ND" 59.2239993705631
+"Hallock Public Library
+163 South 3rd
+Hallock, MN" 60.647065461755
+"Ada Public Library
+107 4th Avenue E
+Ada, MN" 60.6971131738962
+"Lake Region Public Library
+423 7th Street Ne
+Devils Lake, ND" 69.2308592506267
+"Pembina School City Library
+155 South Third Street
+Pembina, ND" 70.4733024872668
+"Walhalla Public Library
+1010 Central Ave
+Walhalla, ND" 71.4111439186244
+"Margaret Fraase Public Library
+204 Wilcox Ave N
+Buffalo, ND" 71.7618057720625
+"Cavalier County Library
+600 Fifth Avenue
+Langdon, ND" 72.0075536609115
+"Mcintosh Public Library
+115 Broadway Nw
+Mcintosh, MN" 72.8172527780476
+"Casselton Public Library
+702 1st Street North
+Casselton, ND" 73.1123395070987
+"Greenbush Public Library
+234 Main Street North
+Greenbush, MN" 75.7027971986874
+"Valley City Barnes County Public Library
+410 North Central Avenue
+Valley City, ND" 76.688031174496
+"Northport Library
+2714 Broadway, Fargo, Nd 58102
+Fargo, ND" 77.1971871804356
+"West Fargo Public Library
+109 Third Street East
+West Fargo, ND" 77.9531567499803
+"Mahnomen Public Library
+203 S Main St
+Mahnomen, MN" 79.3262704841138
+"Fargo Public Library
+102 North 3rd Street
+Fargo, ND" 79.4799074866175
+"Lake Agassiz Regional Library
+118 5th St S
+Moorhead, MN" 79.9529682017689
+"Moorhead Public Library
+118 S 5th Street
+Moorhead, MN" 79.9529682017689
+"Fosston Public Library
+403 Foss Ave N
+Fosston, MN" 80.3570066488702
+"Southpointe Library
+3051 25th St S, Fargo, Nd 58103
+Fargo, ND" 81.669274741404
+"New Rockford Public Library
+10 8th Street N.
+New Rockford, ND" 83.6873612348547
+"Minnewaukan Public Library
+170 Main Street East
+Minnewaukan, ND" 86.8477337071056
+"Carrington City Library
+55 Ninth Ave S
+Carrington, ND" 88.2752209510579
+"Hawley Public Library
+421 Hartford Street
+Hawley, MN" 89.3113708247647
+"Watts Free Library
+101 Third Street North
+Leonard, ND" 90.0448885432478
+"Cando Community Library
+523 Main
+Cando, ND" 91.7794846894216
+"Kindred Public Library
+330 Elm Street
+Kindred, ND" 91.8223428423528
+"Enderlin Municipal Library
+303 Railway Street
+Enderlin, ND" 92.4318387525847
+"Comstock Township Library
+119 West Main Street
+Comstock, NE" 94.2761394611731
+"Stutsman County Library
+910 Fifth Street Se
+Jamestown, ND" 95.0407528664129
+"Alfred Dickey Public Library
+105 Third Street Se
+Jamestown, ND" 95.2976985347856
+"Roseau Public Library
+110 2nd Avenue Ne
+Roseau, MN" 96.7445316486906
+"Bagley Public Library
+21 Main Avenue N
+Bagley, MN" 96.9634763959149
+"Leeds Public Library
+221 Main Street West
+Leeds, ND" 97.9754593220043
+"Maddock Community Library
+2nd Dakota
+Maddock, ND" 99.4887031132483

@@ -1,0 +1,571 @@
+"location" "miles"
+"Wayne County Public Library, Goldsboro
+1001 East Ash Street
+Goldsboro, NC" 3.08122230612199
+"La Grange Branch Library
+119 East Washington Street
+La Grange, NC" 10.106324368663
+"Wayne County Public Library, Pikeville
+106 W Main St
+Pikeville, NC" 10.9259531326101
+"Wayne County Public Library, Mount Olive
+111 N Chestnut St
+Mt. Olive, NC" 11.5976045306797
+"Princeton Public Library
+101 Dr. Donnie H. Jones, Jr Blvd
+Princeton, NC" 14.1547422222459
+"Wayne County Public Library, Fremont
+202 Goldsboro St
+Fremont, NC" 14.2483828491698
+"Greene County Public Library
+229 Kingold Blvd
+Snow Hill, NC" 17.4818096345419
+"Faison Branch Library (Emily Hill Library)
+106 Park Circle
+Faison, NC" 18.3509871874493
+"Kenly Public Library
+205 Edgerton St
+Kenly, NC" 19.9145139703453
+"Crocker Branch Library
+114 S Main St
+Stantonsburg, NC" 19.990728007046
+"Black Creek Branch Library
+103 Central Avenue
+Black Creek, NC" 20.4787273832425
+"Lucama Branch Library
+103 E Spring St
+Lucama, NC" 21.2124758325152
+"Kinston-Lenoir County Public Library
+510 North Queen Street
+Kinston, NC" 22.0557645915525
+"Neuse Regional Library
+510 N. Queen Street
+Kinston, NC" 22.0557645915525
+"Selma Public Library
+301 N. Pollock St.
+Selma, NC" 22.7318998307945
+"Pink Hill Branch Library
+114 West Broadway St
+Pink Hill, NC" 23.1637829156852
+"Bryan Memorial Library
+302 West Weeksdale Street
+Newton Grove, NC" 23.2285325842313
+"Warsaw-Kornegay Public Library
+117 East College St
+Warsaw, NC" 24.67925675901
+"Public Library Of Johnston County Smithfield
+305 Market Street
+Smithfield, NC" 25.1291946246378
+"East Branch Library
+1006-C Ward Blvd
+Wilson, NC" 25.7013380296883
+"Duplin County Library
+107 Bowden Dr.
+Kenansville, NC" 26.0491064450362
+"Wilson County Public Library
+249 Nash Street W
+Wilson, NC" 26.9328861277578
+"Farmville Public Library
+4276 West Church Street
+Farmville, NC" 27.5714167657301
+"Phillip Leff Memorial Library
+807 East Broad St
+Beulaville, NC" 31.0259607629377
+"Florence Gallier Library
+104 West Main St.
+Magnolia, NC" 31.1694943815048
+"J.C. Holliday Library
+217 Graham Street
+Clinton, NC" 31.2558418288064
+"Elm City Branch
+117 N Railroad St
+Elm City, NC" 32.8244893629493
+"Mary Duncan Public Library
+100 W. Main Street
+Benson, NC" 33.2050829127847
+"Comfort Branch Library
+4889 Highway 41 West
+Trenton, NC" 33.7914541230115
+"C. D. Langston R. E. Boyd Library
+p.o. box 395
+Winterville, NC" 34.1851895513343
+"Hocutt Ellington Memorial Library
+100 South Church St
+Clayton, NC" 35.3847424551744
+"Rose Hill Community Memorial Library
+113 South Walnut St
+Rose Hill, NC" 35.7087345702665
+"Pinetops Branch Library
+201 South East 1st Street
+Pinetops, NC" 36.0609742578823
+"Dunn Public Library
+110 East Divine Street
+Dunn, NC" 36.7418324273345
+"Carver Branch Library
+618 West 14th Ave.
+Greenville, NC" 37.3662503437523
+"Cove City-Craven County Public Library
+102 North Main Street
+Cove City, NC" 37.7419423523436
+"Wendell Library
+207 South Hollybrook Road
+Wendell, NC" 37.9328751587183
+"Sheppard Memorial Library
+530 South Evans Street
+Greenville, NC" 37.9918810402772
+"Richlands Public Library
+299s Wilmington Street
+Richlands, NC" 38.3953158594817
+"East Branch Library
+2000 Cedar Lane
+Greenville, NC" 38.9726750584956
+"Trenton Public Library
+204 Lakeview Drive
+Trenton, NC" 39.463960977569
+"Zebulon Library
+1000 Dogwood Drive
+Zebulon, NC" 39.8111464916329
+"Coats Public Library
+243 S. Mckinley St.
+Coats, NC" 40.317517078338
+"Erwin Public Library
+110 W. F. St.
+Erwin, NC" 40.3945046479912
+"Roseboro Public Library
+300 West Roseboro Street
+Roseboro, NC" 41.1353564543704
+"Braswell Memorial Library
+727 North Grace Street
+Rocky Mount, NC" 43.1381669242663
+"East Regional Library
+946 Steeple Square Court
+Knightdale, NC" 43.5746524814061
+"Harold D. Cooley Library
+114 W. Church St.
+Nashville, NC" 43.8379213491907
+"Southeast Regional Library
+908 7th Avenue
+Garner, NC" 44.93862803745
+"Miriam B. Lamb Memorial Library
+144 South Church Avenue
+Garland, NC" 45.1536468436129
+"Wake County Public Libraries
+4020 Carya Drive
+Raleigh, NC" 45.2749816795374
+"Olivia Raney Local History Library
+4016 Carya Drive
+Raleigh, NC" 45.2776016133615
+"Bunn Branch Library
+610 Main Street
+Bunn, NC" 45.3693112684202
+"Angier Public Library
+28 N. Raleigh Rd.
+Angier, NC" 45.4110274473674
+"Edgecombe County Memorial Library
+909 Main Street
+Tarboro, NC" 45.6122944189724
+"Vanceboro-Craven County Public Library
+7931 Main Street
+Vanceboro, NC" 45.7142835308151
+"Margaret Little Blount Library
+201 Ives Street
+Bethel, NC" 46.1120640403304
+"South Raleigh Library
+1601-14 Crosslink Road
+Raleigh, NC" 46.6459981360839
+"Pollocksville Public Library
+415 Green Hill St
+Pollocksville, NC" 47.5623047360855
+"Richard B. Harrison Library
+1313 New Bern Avenue
+Raleigh, NC" 47.882720071973
+"Harnett County Public Library
+601 S. Main St.
+Lillington, NC" 48.3163868545732
+"Electronic Information Center
+334 Fayetteville Street Mall
+Raleigh, NC" 48.6158257218746
+"Green Road Library
+4101 Green Road
+Raleigh, NC" 49.4934077367459
+"Onslow County Public Library
+58 Doris Avenue East
+Jacksonville, NC" 49.4985282313757
+"East Regional Branch Library
+4809 Clinton Road
+Fayetteville, NC" 49.79452392662
+"Fuquay-Varina Library
+133 S. Fuquay Avenue
+Fuquay-Varina, NC" 50.0221048772752
+"Cameron Village Regional Library
+1930 Clark Avenue
+Raleigh, NC" 50.0257668857218
+"Maysville Public Library
+605 Seventh Street
+Maysville, NC" 51.1685290334271
+"Athens Drive Community Library
+1420 Athens Drive
+Raleigh, NC" 51.5682923416937
+"Robersonville Public Library
+119 South Main Street
+Robersonville, NC" 51.9789992296194
+"George H. And Laura E. Brown Public Library
+122 Van Norden Street
+Washington, NC" 52.7818733933325
+"Washington Carnegie Public Library
+300 West Main Street
+Washington, IN" 52.8129401495814
+"Bhm Regional Library
+158 North Market Street
+Washington, NC" 52.9972734924821
+"North Regional Library
+200 Horizon Drive
+Raleigh, NC" 53.9746691435329
+"Anderson Creek Public Library
+914 Anderson Creek School Rd
+Bunnlevel, NC" 54.1105641861611
+"Craven-Pamlico-Carteret Regional Library
+400 Johnson Street
+New Bern, NC" 54.4470089536375
+"Pender County Public Library
+103 S. Cowan St.
+Burgaw, NC" 54.5913254901187
+"North Regional Branch Library
+855 Mcarthur Road
+Fayetteville, NC" 54.8322072425791
+"West Popular Lending Library
+5800 Duraleigh Road
+Raleigh, NC" 55.3381336567634
+"Cary Branch Library
+310 South Academy Street
+Cary, NC" 55.4376641021135
+"Fayetteville Law Library
+117 Dick St 340
+Fayetteville, NC" 55.4437949864496
+"Youngsville Branch Library
+218 Us1a Hwy. South
+Youngsville, NC" 55.4460037390079
+"Cumberland County Public Library Information Center
+300 Maiden Lane
+Fayetteville, NC" 55.592689827333
+"Eva Perry Regional Library
+2100 Shepherds Vineyard Drive
+Apex, NC" 56.0395154756268
+"Franklin County Library
+906 North Main Street
+Louisburg, NC" 56.4637291966437
+"Spring Lake Branch
+101 Laketree Blvd
+Spring Lake, NC" 58.9213562302348
+"Bordeaux Branch Library
+3711 Village Drive
+Fayetteville, NC" 59.4374146938349
+"Franklinton Public Library
+9 West Mason Street
+Franklinton, NC" 59.7453422140639
+"West Regional Library
+4000 Louis Stephens Drive
+Cary, NC" 60.493876954423
+"Bladen County Public Library
+111 N. Cypress Street
+Elizabethtown, NC" 61.1788280022262
+"Hope Mills Branch Library
+3411 Golfview Road
+Hope Mills, NC" 61.819085030007
+"Broadway Branch Library
+206 S Main St
+Broadway, NC" 62.0167088728654
+"Martin Memorial Library
+200 North Smithwick Street
+Williamston, NC" 62.2098850627923
+"Cliffdale Branch Library
+6882 Cliffdale Road
+Fayetteville, NC" 62.2970599909655
+"Swansboro Branch Library
+1460 W Corbett Ave.
+Swansboro, NC" 63.1046661182056
+"Sneads Ferry Branch Library
+242 Sneads Ferry Road
+Sneads Ferry, NC" 63.2733551074306
+"East Regional Library
+211 Lick Creek Ln.
+Durham, NC" 64.9800299224173
+"Bath Community Library
+100 Carteret Street
+Bath, NC" 65.3939606440552
+"Parkwood Branch Library
+5122 Revere Road
+Durham, NC" 65.7314693527049
+"Pamlico County Library
+603 Main Street
+Bayboro, NC" 66.228508465448
+"Hazel W. Guilford Memorial Library
+524 Main Street
+Aurora, NC" 66.3082797426911
+"Havelock-Craven County Public
+300 Miller Blvd.
+Havelock, NC" 67.0895485305999
+"Jonesboro Branch Library
+309 West Main Street
+Sanford, NC" 67.70011602005
+"St. Pauls Public Library
+223 W. Broad Street
+St. Pauls, NC" 68.1462632095744
+"Mcdougald Terrace Branch
+1101 Lawson Street
+Durham, NC" 68.2105123371165
+"Stanford L Warren Branch Library
+1201 Fayetteville Street
+Durham, NC" 68.9115322578314
+"Lee County Library
+107 Hawkins Avenue
+Sanford, NC" 69.2959858040332
+"Durham County Library
+300 N. Roxboro Street
+Durham, NC" 69.3846301593065
+"South Branch Library
+1547 S. Campus Dr.
+Creedmoor, NC" 70.0108128524549
+"Southwest Branch Library
+3605 Shannon Road
+Durham, NC" 70.3312017680613
+"Bragtown Branch Library
+3200 Dearborn Drive
+Durham, NC" 70.4220853989966
+"Emerald Isle Library
+100 Leisure Lane
+Emerald Isle, NC" 70.4567026134146
+"East Columbus Branch Library
+p.o. box 27
+Riegelwood, NC" 70.7892529380144
+"Clarkton Public Library
+10413 N. College St.
+Clarkton, NC" 70.8359221355646
+"Halifax County Library System
+33 Granville St.
+Halifax, NC" 71.401614329059
+"Bridger Memorial Library
+313 S. Main St.
+Bladenboro, NC" 72.6913264927104
+"H. Leslie Perry Memorial Library
+205 Breckenridge Street
+Henderson, NC" 72.702857169382
+"Newport Public Library
+210 Howard Blvd.
+Newport, NC" 72.9196380206153
+"Chapel Hill Public Library
+100 Library Drive
+Chapel Hill, NC" 72.9694346504546
+"Lawrence Memorial Library
+204 E Dundee Street
+Windsor, NC" 73.0281466938161
+"Pittsboro Memorial Library
+204 West St
+Pittsboro, NC" 73.5236886488223
+"Warren County Memorial Library
+119 Front St
+Warrenton, NC" 73.9326436455713
+"Warren County Memorial Library
+117 S. Main Street
+Warrenton, NC" 73.9621829178073
+"Chatham Community Library
+197 Nc Hwy 87 N
+Pittsboro, NC" 74.0397066647095
+"North Regional Library
+221 Milton Road
+Durham, NC" 74.4148432236724
+"Vass Area Library
+128 Seaboard Street
+Vass, NC" 74.7813573897504
+"Hoke County Public Library
+334 North Main Street
+Raeford, NC" 75.5411512081106
+"Granville County Library System
+210 Main Street
+Oxford, NC" 75.6946238554234
+"Richard H. Thornton Library
+210 Main St
+Oxford, NC" 75.6946238554234
+"Littleton Public Library (Wc Jones Memorial)
+127 West South Main St.
+Littleton, NC" 75.728826299178
+"Carrboro Branch Library
+900 Fayetteville Road
+Carrboro, NC" 75.8232788257142
+"Leland Branch Library
+487 Village Road
+Leland, NC" 76.2149304461464
+"New Hanover County Public Library
+201 Chestnut Street
+Wilmington, NC" 76.2419477686211
+"Belhaven Public Library
+333 East Main Street
+Belhaven, NC" 76.9084259127326
+"Rube Mccray Memorial Library
+301 Fleming Drive
+Lake Waccamaw, NC" 76.9622710686056
+"Northeast Regional
+1241 Military Cutoff Road
+Wilmington, NC" 76.9669589577687
+"Berea Branch Library
+1211 Hwy 158
+Oxford, NC" 77.311817025028
+"Pettigrew Regional Library
+201 East Third Street
+Plymouth, NC" 77.4157288880067
+"Robeson County Public Library
+101 N. Chestnut Street
+Lumberton, NC" 77.5667141270172
+"Sallie H. Jenkins Memorial Library
+302 Broad Street
+Aulander, NC" 77.6881360899872
+"Weldon Memorial Library
+6 West First Street
+Weldon, NC" 78.0403495863357
+"Bogue Banks Public Library
+320 Salter Path Road
+Pine Knoll Shores, NC" 78.3602674849568
+"Northampton County Memorial Library
+207 West Jefferson St.
+Jackson, NC" 78.6149577370696
+"Goldston Public Library
+9235 Pittsboro Goldston Rd
+Goldston, NC" 79.0214022429046
+"Roanoke Rapids Public Library
+319 Roanoke Avenue
+Roanoke Rapids, NC" 79.8866191400661
+"Southern Pines Public Library
+170 West Connecticut Avenue
+Southern Pines, NC" 81.5067310439035
+"Hyconeechee Regional Library
+300 West Tryon Street
+Hillsborough, NC" 82.0310394034986
+"Orange County Public Library
+300 West Tryon St
+Hillsborough, NC" 82.0310394034986
+"Moore County Library
+101 Saunders Street
+Carthage, NC" 82.1818892660905
+"Myrtle Grove Branch
+5155 S. College Road
+Wilmington, NC" 82.7012637937462
+"Pembroke Public Library
+413 Blaine St
+Pembroke, NC" 83.5319032669456
+"Stovall Branch Library
+101 Hwy 15 N
+Stovall, NC" 83.8399353450549
+"Page Memorial Library
+100 S. Poplar Street
+Aberdeen, NC" 84.1176089036397
+"Ahoskie Public Library
+210 East Church Street
+Ahoskie, NC" 85.1927249830329
+"Wagram Branch Library
+PO box 118
+Wagram, NC" 85.4112023283844
+"Chadbourn Community Library
+301 North Wilson St
+Chadbourn, NC" 85.6536574892206
+"Carteret County Public Library
+1702 Live Oak St., Ste. 100
+Beaufort, NC" 86.0235941244277
+"Pinebluff Public Library
+305 East Baltimore Avenue
+Pinebluff, NC" 86.6331390773959
+"Hector Maclean Public Library
+106 South Main Street
+Fairmont, NC" 87.596576974196
+"Wren Memorial Library
+502 North 2nd Avenue
+Siler City, NC" 88.7452843229666
+"Chatham County Public Libraries
+500 N. 2nd Ave.
+Siler City, NC" 88.7486884430804
+"Gilbert Patterson Memorial Public Library
+210 N Florence St
+Maxton, NC" 88.9101603030435
+"Mebane Public Library
+106 E. Washington St
+Mebane, NC" 90.0449611667965
+"Elizabeth Sewell Parker Library
+213 East Main Street Po Drawer 186
+Murfreesboro, NC" 90.2899014074797
+"Carolina Beach Library
+300 Cape Fear Boulevard
+Carolina Beach, NC" 90.4025384248838
+"Shepard-Pruden Memorial Library
+106 West Water Street
+Edenton, NC" 90.6808833846371
+"Robbins Area Branch
+161 East Magnolia Drive
+Robbins, NC" 91.8972315433051
+"Person County Public Library
+319 South Main St
+Roxboro, NC" 92.59400939493
+"Albemarle Regional Library
+303 W Tryon Street
+Winton, NC" 93.0269872892303
+"Hertford County Library
+303 West Tryon Street
+Winton, NC" 93.0269872892303
+"Rowland Public Library
+401 E. Main Street
+Rowland, NC" 93.597248222855
+"Fair Bluff Community Library
+p.o. box 428
+Fair Bluff, NC" 93.6680268341782
+"Scotland County Memorial Library
+312 W. Church St.
+Laurinburg, NC" 93.7112100667464
+"Boydton Headquarters
+316 Washington Street
+Boydton, VA" 94.7664943576958
+"Clarksville Area Public Library
+914 Virginia Avenue
+Clarksville, VA" 94.8029919031042
+"Graham Public Library
+211 S. Main Street
+Graham, NC" 95.2232625065121
+"Richardson Memorial Libary
+100 Spring Street
+Emporia, VA" 96.1084708408205
+"R.T. Arnold Public Library
+110 East Danville Street
+South Hill, VA" 96.2159475008246
+"Tabor City Public Library
+1 East Fifth Street
+Tabor City, NC" 96.6103778604365
+"Lake View Library
+207 Main Street
+Lake View, SC" 97.0403539436034
+"Liberty Public Library
+239 South Fayetteville Street
+Liberty, NC" 97.0607502425232
+"G. V. Barbee Sr. Library
+818 Yaupon Dr.
+Oak Island, NC" 97.1902058661477
+"North Park Library-Community Center
+849 Sharpe Rd
+Burlington, NC" 97.8372948266666
+"Alamance County Public Library
+342 S. Spring Street
+Burlington, NC" 97.8382226968398
+"Rourk Branch Library
+5068 Main Street
+Shallotte, NC" 98.2019945287922
+"Brunswick County Library
+133 West Hicks Street
+Lawrenceville, VA" 98.2670455450984
+"Meherrin Regional Library System
+133 W. Hicks Street
+Lawrenceville, VA" 98.2670455450984
+"Brunswick County Library
+109 W. Moore Street
+Southport, NC" 98.4446027084124
+"Mattamuskeet Library
+20418 Us 264
+Swan Quarter, NC" 98.5580808969042
+"Ramseur Public Library
+1512 Main Street
+Ramseur, NC" 99.1250383341943

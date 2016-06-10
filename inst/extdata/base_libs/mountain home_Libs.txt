@@ -1,0 +1,157 @@
+"location" "miles"
+"Mountain Home Public
+790 N 10th E
+Mountain Home, ID" 10.8941163810363
+"Bruneau Valley District
+32073 Ruth St
+Bruneau, ID" 11.7038943680733
+"Eastern Owyhee County District
+520 Boise Ave
+Grand View, ID" 12.4320911340185
+"Glenns Ferry Public
+298 S Lincoln
+Glenns Ferry, ID" 29.096869860568
+"Prairie District
+71 Smith Creek Rd
+Prairie, ID" 34.8302893401279
+"Kuna District
+457 N Locust
+Kuna, ID" 41.8589791322008
+"Boise Public
+715 S Capitol Blvd
+Boise, ID" 42.8491873191122
+"Ada County District
+10664 W Victory Rd
+Boise, ID" 43.2579331624889
+"Towne Square Library
+350 N. Milwaukee
+Boise, ID" 44.2905051874709
+"Old Town Branch
+18 E Idaho Ave
+Meridian, ID" 47.4541138088825
+"Garden City Public
+6015 Glenwood St
+Garden City, ID" 47.5186379827937
+"Meridian District
+1326 W Cherry Ln
+Meridian, ID" 48.3953701358775
+"Nampa Public
+101 11th Ave S
+Nampa, ID" 51.0921998017134
+"Nampa Public Public Library
+101 11th Avenue S
+Nampa, ID" 51.0921998017134
+"Hidden Springs Branch
+5892 W Hidden Springs Dr
+Hidden Springs, ID" 51.2085690031493
+"Eagle Public
+100 N Stierman Way
+Eagle, ID" 51.2559057177294
+"Hagerman Public
+290 S State St
+Hagerman, ID" 51.3114119093346
+"Boise Basin District
+123 Montgomery St
+Idaho City, ID" 54.1104922213085
+"Star Branch Library
+10706 W. State St Suite D
+Star, ID" 54.7506135804663
+"Camas County District
+519 1st St W
+Fairfield, ID" 57.7530568978239
+"Gooding Public
+306 Fifth Ave W
+Gooding, ID" 58.4475166058652
+"Lizard Butte District
+111 3rd Ave W
+Marsing, ID" 58.8264953292947
+"Middleton Public
+307 E Main St
+Middleton, ID" 59.5584794926732
+"Caldwell Public
+1010 Dearborn St
+Caldwell, ID" 59.575570970162
+"Sherburn Smith Memorial
+375 1st Ave E
+Wendell, ID" 61.7698354815924
+"Horseshoe Bend District
+392 Highway 55
+Horseshoe Bend, ID" 62.2308537413105
+"Buhl Public
+215 Broadway N
+Buhl, ID" 63.7274921462597
+"Emmett Public
+275 S Hayes Ave
+Emmett, ID" 65.6895240651821
+"Notus Public
+387 First St
+Notus, ID" 66.6892980463995
+"Homedale Public
+125 W Owyhee Ave
+Homedale, ID" 67.0907837350448
+"Wilder District
+207 A Ave E
+Wilder, ID" 68.3245650462235
+"Jerome Public
+100 1st Ave E
+Jerome, ID" 71.5999463506621
+"Filer Public
+219 Main St
+Filer, ID" 71.6427584611881
+"Shoshone Public
+211 S Rail St W
+Shoshone, ID" 73.9241351058218
+"Garden Valley District
+342 Village Circle
+Garden Valley, ID" 74.2349169914401
+"Parma Public Library
+121 N 3rd St
+Parma, ID" 74.7251815891569
+"Twin Falls Public
+201 Fourth Ave E
+Twin Falls, ID" 78.4906299984276
+"Armoral Tuttle Public
+301 N Plymouth Ave
+New Plymouth, ID" 80.2075099824086
+"Nyssa Public Library
+319 Main St.
+Nyssa, OR" 81.0091695975086
+"Ola District
+11475 Ola School Rd
+Ola, ID" 81.1151100221541
+"Kimberly Public
+120 Madison St W
+Kimberly, ID" 83.7495538722196
+"Hailey Public
+7 W Croy St
+Hailey, ID" 84.4016999657028
+"Bellevue Public
+115 E Pine
+Bellevue, ID" 85.7760437550645
+"Richfield District
+205 S Main
+Richfield, ID" 86.3489203055484
+"Hansen District
+120 W Maple Ave
+Hansen, ID" 86.8412463580762
+"Ontario Community Library
+388 Sw 2nd Ave
+Ontario, OR" 87.6440577174796
+"Payette Public
+24 S 10th St
+Payette, ID" 89.1634456900756
+"Stanley District
+33 Ace Of Diamonds St
+Stanley, ID" 93.3007638399237
+"Emma Humphrey Library
+150 A St E
+Vale, OR" 94.7809761117374
+"Jackpot Branch Library
+2301 Progressive Road
+Jackpot, NV" 95.5954211366921
+"Little Wood River District
+16 Panther Ave
+Carey, ID" 98.5596763440427
+"Weiser Public
+628 E 1st St
+Weiser, ID" 99.9454395102596

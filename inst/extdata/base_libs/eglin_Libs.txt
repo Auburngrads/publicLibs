@@ -1,0 +1,277 @@
+"location" "miles"
+"Valparaiso Community Library
+459 Valparaiso Pkwy
+Valparaiso, FL" 4.52134666780466
+"Fort Walton Beach Library
+185 Miracle Strip Pkwy Se
+Fort Walton Beach, FL" 5.17929877746234
+"Destin Library
+150 Sibert Avenue
+Destin, FL" 5.2198974872874
+"Niceville Public Library
+206 North Partin Dr.
+Niceville, FL" 6.21952130548826
+"Okaloosa County Public Library Cooperative
+206 N. Partin Dr.
+Niceville, FL" 6.21952130548826
+"Mary Esther Public Library
+100 Hollywood, West
+Mary Esther, FL" 7.45032689217053
+"Navarre Library
+8484 James M. Harrell Road
+Navarre, FL" 21.7170835757447
+"Robert L. F. Sikes Public Library
+1445 Commerce Drive
+Crestview, FL" 22.5897254868373
+"Coastal Branch Library
+336 Greenway Trail
+Santa Rosa Beach, FL" 23.0510717096638
+"Freeport Branch Library
+76 Highway 20 West
+Freeport, FL" 25.0479783603949
+"Milton Library
+5541 Alabama Street
+Milton, FL" 31.3780933638991
+"Walton County Public Library System
+3 Circle Drive
+Defuniak Springs, FL" 31.4618112718383
+"Santa Rosa County Library System
+6568 Caroline St., Ste. 101
+Milton, FL" 31.5126520788545
+"Gladys N. Milton Memorial Library
+261 Flowersview Blvd
+Laurel Hill, FL" 36.2073038607654
+"Pace Library
+4750 Pace Patriot Blvd.
+Pace, FL" 37.2302441138302
+"Gulf Breeze Library
+1060 Shoreline Dr.
+Gulf Breeze, FL" 37.6344686750177
+"Lucia M. Tryon Branch
+5740 North Ninth Ave.
+Pensacola, FL" 38.8308929684881
+"Subregional Talking Book Library
+200 W Gregory St.
+Pensacola, FL" 39.8661886715757
+"West Florida Public Library
+200 West Gregory Street
+Pensacola, FL" 39.8661886715757
+"Florala Public Library
+1214 Fourth Street
+Florala, AL" 39.8886640179733
+"Panama City Beach Library
+116 South Arnold Road
+Panama City Beach, FL" 42.8946981147544
+"Jay Library
+5259 Brooker Lane
+Jay, FL" 49.4441377440058
+"Southwest Branch Library
+12385 Sorrento Road A-2
+Pensacola, FL" 51.3794191774755
+"Vernon Branch Library
+3731 Roche Avenue
+Vernon, FL" 51.3804335813715
+"Samson Public Library
+200 North Johnson Street
+Samson, AL" 54.3279435574736
+"Brewton Public Library
+206 West Jackson Street
+Brewton, AL" 54.8318279436221
+"Lynn Haven Public Library
+901 Ohio Avenue
+Lynn Haven, FL" 56.1002312113262
+"Flomaton Public Library
+608 Mccurdy Street
+Flomaton, AL" 56.2397848832417
+"Northwest Regional Library System
+898 West 11th Street
+Panama City, FL" 56.4043828103332
+"Holmes County Public Library
+303 North J. Harvey Etheridge Street
+Bonifay, FL" 56.7704495591967
+"Emma Knox Kenan Public Library
+312 South Commerce Street
+Geneva, AL" 56.9492143020194
+"Bay County Public Library
+25 West Government Street
+Panama City, FL" 57.3232851269441
+"Andalusia Public Library
+212 South Three Notch Street
+Andalusia, AL" 58.4839221909959
+"Springfield Branch
+408 School Avenue
+Springfield, FL" 59.8950427103181
+"Opp Public Library
+1604 North Main Street
+Opp, AL" 60.8349840465398
+"Parker Public Library
+4710 Second Street
+Parker, FL" 61.1743320478518
+"Orange Beach Public Library
+26267 Canal Road
+Orange Beach, AL" 62.2186166333601
+"Washington County Public Library
+1444 Jackson Avenue
+Chipley, FL" 63.6129719115457
+"Hartford - Mcgregor-Mckinney Public Library
+101 East Fulton St.
+Hartford, AL" 67.2351159035573
+"Foley Public Library
+319 East Laurel Avenue
+Foley, AL" 67.2517940651535
+"Atmore Public
+700 E. Church Street
+Atmore, AL" 67.5937189648524
+"Escambia County Cooperative Library System
+700 East Church Street
+Atmore, AL" 67.5937189648524
+"Summerdale - Marjorie Younce Snook Public Library
+202 West Broadway Street
+Summerdale, AL" 68.4658104544697
+"Oscar Johnson Memorial Library
+15965 Silverhill Ave.
+Silverhill, AL" 68.9942510529496
+"Thomas B. Norton Public Library
+221 West 19th Avenue
+Gulf Shores, AL" 69.1243991264488
+"Robertsdale Public Library
+18301 Pennsylvania Street
+Robertsdale, AL" 69.3342615168292
+"Baldwin County Library Cooperative
+22251 Palmer Street
+Robertsdale, AL" 69.637733561852
+"Graceville Branch
+5314 Brown St.
+Graceville, FL" 70.4968044450224
+"Evergreen Public Library
+119 Cemetery Avenue
+Evergreen, AL" 71.1768456391229
+"Elba Public Library
+406 Simmons Street
+Elba, AL" 71.8094219786793
+"Enterprise Public Library
+101 East Grubbs Street
+Enterprise, AL" 72.0444849916078
+"Loxley Public Library
+1001 Loxley Avenue
+Loxleyabama, AL" 72.2735910538304
+"Slocomb Public Library
+134 South Dalton Avenue
+Slocomb, AL" 72.3086939365681
+"Daleville Public Library
+308 Donnell Boulevard
+Daleville, AL" 77.4046730216353
+"Bay Minette Public Library
+205 West Second Street
+Bay Minette, AL" 78.3308795132093
+"Brantley Public Library
+10 Mlk Dr.
+Brantley, AL" 79.3589633512883
+"Kinard Public Library
+5416 S.W. State Road 73
+Kinard, FL" 79.4292750778923
+"Daphne Public Library
+2607 U.S. Highway 98
+Daphne, AL" 79.9664525697923
+"Panhandle Public Library Cooperative System
+2925 Optimist Drive, Suite A
+Marianna, FL" 80.3991638715792
+"Fairhope Public Library
+501 Fairhope Ave.
+Fairhope, AL" 80.4600824209843
+"Jackson County Public Library
+2929 Green Street
+Marianna, FL" 81.8262160398125
+"Sheltons Park Public Library
+25008 N.E. Highway 73
+Altha, FL" 81.9240516682702
+"Newton Public Library
+209 Oates Drive
+Newton, AL" 82.645743533719
+"Wewa Branch Library
+314 North Second St.
+Wewahitchka, FL" 84.4140700622153
+"Altha Public Library
+5314 Brown Street
+Altha, FL" 85.3093796395066
+"Mary Berry Brown Memorial Library
+1318 Hinton Waters Ave
+Midland City, AL" 86.2600655994481
+"Monroe County Public Library
+121 Pineville Road
+Monroeville, AL" 86.6376196268849
+"Houston-Love Memorial Library - Dothan
+212 West Burdeshaw Street
+Dothan, AL" 86.7781130857844
+"Ozark - Dale County Public Library
+416 James Street
+Ozark, AL" 87.4655429823251
+"Port St. Joe Branch
+110 Library Drive
+Port St. Joe, FL" 87.8873994039114
+"Luverne Public Library
+148 East Third Avenue
+Luverne, AL" 88.3675019563424
+"Hugh Creek Public Library
+11442 S.E. County Road 69
+Blountstown, FL" 88.9229343697008
+"Calhoun County Public Library
+17731 N.E. Pear St.
+Blountstown, FL" 89.939385998088
+"Mobile Public Library
+701 Government Street
+Mobile, AL" 90.4950329947631
+"Dauphin Island Parkway Branch
+1924j Dauphin Island Parkway
+Mobile, AL" 92.2495540043387
+"Toulminville Branch
+2318 St. Stephens Road
+Mobile, AL" 92.8237662099646
+"Prichard Public Library
+300 West Lovejoy Loop
+Prichard, AL" 92.8251405902593
+"Houston-Love Memorial Library - Ashford
+305 6th Avenue
+Ashford, AL" 92.8346521355791
+"Ariton - Dot Laney Memorial Library
+30 W. Main Street
+Ariton, AL" 92.883757123145
+"Chickasaw - Ina Pullen Smallwood Memorial Library
+224 Grant Street
+Chickasaw, AL" 93.1525837724575
+"Satsuma Public Library
+5466 Old Highway 43
+Satsuma, AL" 93.4209323908014
+"Saraland Public Library
+111 Saraland Loop
+Saraland, AL" 93.8517842904411
+"Liberty County Library
+537 South 12
+Bristol, FL" 94.1120896880178
+"Blanche R. Solomon Memorial Library
+17 Park Street
+Headland, AL" 94.5685282179037
+"Butler County Public Library
+309 Ft. Dale Street
+Greenville, AL" 94.7556702410118
+"Monte L. Moorer-Springhill Branch
+4 Mcgregor Avenue S
+Mobile, AL" 96.0690244145481
+"Tillmans Corner Branch
+5451 Halls Mill Road, Suite 10
+Mobile, AL" 96.5681869668693
+"Mt. Vernon Public Library
+1220 Military Road
+Mt. Vernon, AL" 96.82298098723
+"Brundidge - Tupper Lightfoot Memorial Library
+164 South Main Street
+Brundidge, AL" 97.1947680513668
+"West Regional Library
+5555 Grelot Road
+Mobile, AL" 97.3754596298982
+"Mitchell Branch Library
+4440 Highpoint Boulevard
+Eight Mile, AL" 97.8882284231189
+"Troy Public Library
+300 North Three Notch Street
+Troy, AL" 99.2382525646853

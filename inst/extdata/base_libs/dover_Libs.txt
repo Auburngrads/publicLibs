@@ -1,0 +1,1588 @@
+"location" "miles"
+"Dover Public Library
+45 South State Street
+Dover, DE" 2.87028430043212
+"Kent County Library
+497 South Red Haven Lane
+Dover, DE" 4.94664175181379
+"Smyrna Public Library
+107 South Main Street
+Smyrna, DE" 13.2208190059853
+"Harrington Public Library
+110 Center Street
+Harrington, DE" 14.8389069126048
+"Milford District Free Library
+11 S.E. Front Street
+Milford, DE" 15.4771071295013
+"North County Branch
+101 Cedar Lane
+Greensboro, MD" 20.1233752686103
+"Corbit-Calloway Memorial Library
+115 High Street
+Odessa, DE" 24.1134852131776
+"Bridgeton Free Public Library
+150 E. Commerce Street
+Bridgeton, NJ" 24.649744551694
+"Cumberland County Library
+800 E. Commerce Street
+Bridgeton, NJ" 25.1502449535611
+"Caroline County Public Library
+100 Market Street
+Denton, MD" 25.2253512278738
+"Appoquinimink Public Library
+651 North Broad Street
+Middletown, DE" 25.604171673079
+"Milton Public Library
+121 Union St
+Milton, DE" 26.1911965094882
+"Cecilton Branch Library
+215 East Main Street
+Cecilton, MD" 27.5712367055407
+"Bridgeville Public Library
+600 South Cannon Streeet
+Bridgeville, DE" 28.0684487603477
+"Millville Public Library
+210 Buck Street
+Millville, NJ" 30.1360816262559
+"Salem Free Public Library
+112 W. Broadway
+Salem, NJ" 30.5180000980742
+"Delaware City Public Library
+250 Fifth Street
+Delaware City, DE" 30.9807650065577
+"Sussex County Dept. Of Libraries
+9 S. Dupont Highway
+Georgetown, DE" 31.02837027664
+"Georgetown Public Library
+10 West Pine Street
+Georgetown, DE" 31.1079318185315
+"Lewes Public Library
+111 Adams Avenue
+Lewes, DE" 31.2743615594032
+"Queen Annes County Free Library
+121 S Commerce Street
+Centreville, MD" 31.6822199298862
+"Kent County Public Library
+408 High Street
+Chestertown, MD" 31.7180047766094
+"Cecil County Public Library - Chesapeake City
+2527 Augustine Herman Highway
+Chesapeake City, MD" 32.2522276056204
+"Federalsburg Branch
+123 Morris Avenue
+Federalsburg, MD" 33.9966047255869
+"Seaford Library And Cultural Center
+600 N Market St Ext
+Seaford, DE" 34.585252226307
+"Vineland Public Library
+1058 E. Landis Avenue
+Vineland, NJ" 35.3940057827368
+"Pennsville Public Library
+190 S. Broadway
+Pennsville, NJ" 35.5790769437803
+"Cape May County Library
+30 Mechanic Street
+Cape May Court House, NJ" 35.6596532232292
+"Bear Public Library
+101 Governors Place
+Bear, DE" 36.0331539785011
+"Rehoboth Beach Public Library
+226 Rehoboth Avenue
+Rehoboth Beach, DE" 36.0559340191863
+"Elmer Public Library
+120 S. Main Street
+Elmer, NJ" 36.1660533502625
+"New Castle Public Library
+424 Delaware Street
+New Castle, DE" 36.8489432358701
+"Woodstown-Pilesgrove Library
+14 School Lane
+Woodstown, NJ" 37.0381456658098
+"Newfield Public Library
+115 Catawba Avenue
+Newfield, NJ" 38.1162698577205
+"Cecil County Public Library - Elkton
+301 Newark Avenue
+Elkton, MD" 38.5538609516463
+"Millsboro Public Library
+217 West State Street
+Millsboro, DE" 38.5742550391715
+"Department Of Community Services
+87 Reads Way
+New Castle, DE" 38.9244708052558
+"Garfield Park Lending Library
+26 Karlyn Drive
+New Castle, DE" 39.6453054558627
+"Franklin Twp Public Library-Gloucester
+1584 Coles Mill Road
+Franklinville, NJ" 40.0366113100562
+"Laurel Public Library
+101 East Fourth Street
+Laurel, DE" 40.0645660242613
+"Rock Hall Branch Library
+5585 Main Street
+Rock Hall, MD" 40.0683281812334
+"Hurlock Branch Library
+222 S. Main St.
+Hurlock, MD" 40.1070294795027
+"Talbot County Free Library
+100 W. Dover St.
+Easton, MD" 40.2765347326642
+"Newark Free Library
+750 Library Ave.
+Newark, DE" 40.376049383907
+"Cecil County Public Library - North East
+106 West Cecil Avenue
+North East, MD" 40.6607051220816
+"Elsmere Public Library
+30 Spruce Ave.
+Wilmington, DE" 40.8587959266791
+"Avalon Free Public Library
+235 32nd Street
+Avalon, NJ" 40.9459542720989
+"Kirkwood Highway Public Library
+6000 Kirkwood Highway
+Wilmington, DE" 41.3570934525699
+"Wilmington Institute Library
+10th And Market Streets
+Wilmington, DE" 42.5854571439063
+"Elsmere Public Library
+30 Spruce Ave
+Elsmere, DE" 42.6035194901793
+"Woodlawn Library
+2020 West Ninth Street
+Wilmington, DE" 43.270980187179
+"Cecil County Public Library - Perryville
+500 Coudon Blvd.
+Perryville, MD" 43.2740442751961
+"Havre De Grace Branch Library
+120 N. Union Ave.
+Havre De Grace, MD" 43.3681517404763
+"North Wilmington Library
+3400 North Market St.
+Wilmington, DE" 43.3798210017236
+"Gloucester County Library - Logan Township
+498 Beckett Road
+Logan Township, NJ" 43.768356810007
+"Gloucester County Library - Glassboro
+2 Center Street
+Glassboro, NJ" 44.3501778829801
+"Frankford Public Library
+8 Main Street
+Frankford, DE" 44.6250017021529
+"Aberdeen Branch
+21 Franklin Street
+Aberdeen, MD" 44.8306450941868
+"Gloucester County Library - Mullica Hill
+389 Wolfert Station Road
+Mullica Hill, NJ" 44.9650907799781
+"Kent Island Branch
+200 Library Circle
+Stevensville, MD" 45.245528949781
+"Mccowan Memorial Library
+15 Pitman Avenue
+Pitman, NJ" 45.6717321984651
+"Gloucester County Library - Swedesboro
+1442 Kings Highway
+Mullica Hill, NJ" 45.6723380155579
+"Brandywine Hundred Branch
+1300 Foulk Road
+Wilmington, DE" 45.9676548374077
+"Atlantic County Library System
+40 Farragut Avenue
+Mays Landing, NJ" 46.3476382678279
+"St. Michaels Branch Library
+106 Fremont St.
+St. Michaels, MD" 46.4033065111669
+"Claymont Public Library
+3303 Green St., Claymont
+Claymont, DE" 46.4332662002302
+"Monroe Twp Public Library-Gloucester
+306 S. Main Street
+Williamstown, NJ" 46.4540863184927
+"Harford County Public Library
+1221-A Brass Mill Road
+Belcamp, MD" 46.6568063573636
+"Hockessin Public Library
+1023 Valley Rd.
+Hockessin, DE" 46.842370021374
+"Cecil County Public Library - Port Deposit
+13 South Main Street
+Port Deposit, MD" 46.8858032618661
+"Delmar Public Library
+101 North Bi-State Blvd
+Delmar, DE" 46.8885703997049
+"Margaret E. Heggan Free Public Library
+208 E. Holly Avenue
+Hurffville, NJ" 46.9832108189588
+"South Coastal Library
+43 Kent Ave.
+Bethany Beach, DE" 47.1542148950665
+"Gloucester County Library - East Greenwich
+535 Kings Highway
+Mickleton, NJ" 47.2567200232844
+"Edgewood Branch Library
+629 Edgewood Road
+Edgewood, MD" 48.0380947625599
+"Selbyville Public Library
+11 Main Mccabe Street
+Selbyville, DE" 48.6868356886941
+"Gloucester County Library - Greenwich Township
+411 Swedesboro Road
+Gibbstown, NJ" 48.8495013566938
+"Ocean City Free Public Library
+1735 Simpson Avenue
+Ocean City, NJ" 49.0060148364062
+"Wenonah Free Public Library
+101 E. Mantua Avenue
+Wenonah, NJ" 49.0800049175761
+"J. Lewis Crozer Library
+620 Engle St
+Chester, PA" 49.1336175879338
+"Cecil County Public Library - Rising Sun
+111 Colonial Way
+Rising Sun, MD" 49.4721308703997
+"Dorchester County Public Library
+303 Gay Street
+Cambridge, MD" 50.119558769797
+"Gill Memorial Library
+145 E. Broad Street
+Paulsboro, NJ" 50.1626102449895
+"Joppa Branch Library
+655 Towne Center Dr.
+Joppa, MD" 50.4562781275832
+"Rachel Kohl Community Library
+687 Smithbridge Road
+Glen Mills, PA" 50.8016350930066
+"Bayard Taylor Memorial Library
+216 East State Street
+Kennett Square, PA" 50.8982391984054
+"Aston Public Library
+3270 Concord Road
+Aston, PA" 51.0253149947595
+"Avon Grove Free Library
+117 Rosehill Avenue
+West Grove, PA" 51.0915017624121
+"Abingdon Branch Library
+2510 Tollgate Road
+Abingdon, MD" 51.3118824990815
+"James H. Johnson Memorial Library
+670 Ward Drive
+Deptford, NJ" 51.4249369126568
+"Linwood Public Library
+301 Davis Avenue
+Linwood, NJ" 51.4385919462665
+"Woodbury Public Library
+33 Delaware Street
+Woodbury, NJ" 51.9846935506145
+"Tinicum Memorial Public Library
+620 Seneca St
+Essington, PA" 52.0067482698415
+"Darlington Branch Library
+1134 Main Street
+Darlington, MD" 52.1372236838737
+"Oxford Public Library
+48 South Second Street
+Oxford, PA" 52.3094838023578
+"Broadneck Branch
+1275 Green Holly Drive
+Annapolis, MD" 52.3762930914677
+"Otto Bruyns Public Library
+241 W. Mill Road
+Northfield, NJ" 52.4509356180744
+"Ridley Park Public Library
+107 E. Ward Street
+Ridley Park, PA" 52.5449416531632
+"Ridley Township Public Library
+100 E Macdade Blvd
+Folsom, PA" 52.870338831417
+"Prospect Park Free Library
+720 Maryland Ave
+Prospect Park, PA" 53.177388215718
+"Mountain Road Branch
+4730 Mountain Road
+Pasadena, MD" 53.2078930592076
+"Norwood Public Library
+513 Welcome Ave
+Norwood, PA" 53.4358438781452
+"Wicomico Public Library
+122 South Division Street
+Salisbury, MD" 53.4993448671266
+"Swarthmore Public Library
+121 Park Avenue
+Swarthmore, PA" 53.7629948569784
+"Helen Kate Furness Fr Library
+100 North Providence Rd
+Wallingford, PA" 53.7933829415465
+"Essex Library
+1110 Eastern Blvd.
+Essex, MD" 53.8598331240085
+"Westville Public Library
+1035 Broadway
+Westville, NJ" 53.8715551897594
+"Borough Of Folcroft Public Library
+1725 Delmar Dr
+Folcroft, PA" 53.8860899101901
+"Folcroft Public Library
+1725 Delmar Drive
+Folcroft, PA" 53.8860899101901
+"Clementon Memorial Library
+195 Gibbsboro Road
+Clementon, NJ" 53.9017049515276
+"Bel Air Branch Library
+100 E. Pennsylvania Ave
+Bel Air, MD" 53.9814250210885
+"Glenolden Library
+211 S Llanwellyn Ave
+Glenolden, PA" 54.130095700786
+"Middletown Free Library
+21 North Pennell Road
+Lima, PA" 54.1498304174281
+"Tilghman Branch Library
+21374 Foster Avenue
+Tilghman, MD" 54.1955871099045
+"West Deptford Free Public Library
+420 Crown Point Road
+West Deptford, NJ" 54.4874371480122
+"Waterford Township Public Library
+2204 Atco Avenue
+Atco, NJ" 54.5316179013178
+"Margate City Public Library
+8100 Atlantic Avenue
+Margate, NJ" 54.6168966872579
+"Runnemede Public Library
+p.o. box 119
+Runnemede, NJ" 54.6262728669151
+"Marie Fleche Memorial Library
+49 South White Horse Pike
+Berlin, NJ" 54.6632643960067
+"Med Upper Prov Free Library
+1 East Front St
+Media, PA" 54.7092044052897
+"Media-Upper Providence Library
+1 E. Front St.
+Media, PA" 54.7092044052897
+"Francis J. Catania Law Library
+201 W. Front St.
+Media, PA" 54.7713233867644
+"Worcester County Library - Ocean City
+10003 Coastal Highway
+Ocean City, MD" 54.7858077297593
+"Worcester County Library - Ocean Pines
+11107 Cathell Rd.
+Ocean Pines, MD" 54.8006336077079
+"Sharon Hill Public Library
+246 Sharon Ave
+Sharon Hill, PA" 54.8084972040752
+"Stratford Public Library
+303 Union Avenue
+Stratford, NJ" 54.8243005214144
+"Collingdale Public Library
+823 Macdade Blvd
+Collingdale, PA" 55.0677435290113
+"Free Library Of Philadelphia - Eastwick Branch
+2851 Island Avenue
+Philadelphia, PA" 55.1426721347651
+"White Marsh Library
+8133 Sandpiper Circle
+Baltimore, MD" 55.2639835473715
+"Upper Darby Township Sellers Memorial Free Public Library
+409 Ashland Ave.
+Primos, PA" 55.2858904951114
+"Mobile Library Services
+1716 Merritt Blvd.
+Baltimore, MD" 55.3781644948436
+"Eastport-Annapolis Neck Branch
+269 Hillsmere Drive
+Annapolis, MD" 55.5547443974077
+"Riviera Beach Branch
+1130 Duvall Highway
+Pasadena, MD" 55.7825371547433
+"Darby Library
+1001 Main St
+Darby, PA" 55.8321083369696
+"Springfield Township Library
+70 Powell Rd
+Springfield, PA" 55.8996793128965
+"Camden County Library
+203 Laurel Road
+Voorhees, NJ" 55.9203749223428
+"Perry Hall Library
+9440 Belair Rd.
+Baltimore, MD" 56.0175594262632
+"Gibbsboro Public Library
+49 Kirkwood Road
+Gibbsboro, NJ" 56.0845612952535
+"Free Library Of Philadelphia - Paschalville Branch
+6942 Woodland Avenue
+Philadelphia, PA" 56.1105992206385
+"Annapolis Area Library
+1410 West Street
+Annapolis, MD" 56.2566840915023
+"Gloucester City Library
+50 N. Railroad Avenue
+Gloucester City, NJ" 56.4322780436182
+"Absecon Public Library
+305 New Jersey Avenue
+Absecon, NJ" 56.4397420671628
+"Rosedale Library
+6105 Kenwood Ave.
+Baltimore, MD" 56.4834823308257
+"Haddon Heights Public Library
+608 Station Avenue
+Haddon Heights, NJ" 56.6783545679347
+"Severna Park Area Branch
+45 Mckinsey Road
+Severna Park, MD" 56.6975402999117
+"Lansdowne Public Library
+55 South Lansdowne Ave
+Lansdowne, PA" 56.8379962132581
+"Free Library Of Philadelphia - Thomas F. Donatucci, Sr.
+1935 Shunk Street
+Philadelphia, PA" 56.900456500562
+"Audubon Free Public Library
+239 Oakland Avenue
+Audubon, NJ" 57.0451924016208
+"Yeadon Public Library
+809 Longacre Blvd
+Yeadon, PA" 57.0486248508993
+"Free Library Of Philadelphia - Fumo Family Branch
+2437 South Broad Street
+Philadelphia, PA" 57.0697085532449
+"Fallston Branch Library
+1461 Fallston Road
+Fallston, MD" 57.2024239576408
+"Worcester County Library - Berlin
+220 North Main St.
+Berlin, MD" 57.4113014806308
+"Free Library Of Philadelphia - Whitman Branch
+200 Snyder Avenue
+Philadelphia, PA" 57.5068776580143
+"Oaklyn Memorial Library
+602 Newton Avenue
+Oaklyn, NJ" 57.5259878321142
+"Free Library Of Philadelphia - South Philadelphia Branch
+1700 South Broad Street
+Philadelphia, PA" 57.702078881329
+"Free Library Of Philadelphia - Blanche A. Nixon-Cobbs Creek Branch
+5800 Cobbs Creek Parkway
+Philadelphia, PA" 57.801413181636
+"Free Library Of Philadelphia - Kingsessing Branch
+1201 South 51st Street
+Philadelphia, PA" 57.8506444217665
+"West Chester Public Library
+415 North Church St
+West Chester, PA" 57.9052469397864
+"Free Library Of Philadelphia - Queen Memorial Library
+1201 South 23rd Street
+Philadelphia, PA" 58.0870539629475
+"Haddonfield Public Library
+60 N. Haddon Avenue
+Haddonfield, NJ" 58.2986962935584
+"Free Library Of Philadelphia - Charles Santore Branch
+932 South 7th Street
+Philadelphia, PA" 58.4427217191429
+"Parkville-Carney Library
+9509 Harford Rd.
+Baltimore, MD" 58.4951826237627
+"Upper Darby Township Sellers Memorial Free Public Library
+100 Garrett Road
+Upper Darby, PA" 58.5195551028076
+"Upper Darby Township Sellers Memorial Free Public Library
+76 South State Rd
+Upper Darby, PA" 58.5651636345312
+"Paris Public Library
+37 Market Square
+South Paris, ME" 58.6741192303947
+"Collingswood Free Public Library
+771 Haddon Avenue
+Collingswood, NJ" 58.6845214328853
+"Free Library Of Philadelphia - Lucien E. Blackwell West Philadelphia Regional Library
+125 South 52nd Street
+Philadelphia, PA" 58.7980481274699
+"Free Library Of Philadelphia - Walnut Street West
+201 South 40th Street
+Philadelphia, PA" 58.8497688388838
+"Newtown Public Library
+201 Bishop Hollow Rd
+Newtown Square, PA" 58.8685130380283
+"Southeast Anchor Library
+3601 Eastern Avenue
+Baltimore, MD" 58.8753769803739
+"Atlantic City Free Public Library
+1 N. Tennessee Avenue
+Atlantic City, NJ" 58.8989605401204
+"Anne Arundel County Public Library Headquarters
+5 Harry S. Truman Parkway
+Annapolis, MD" 58.9157549567968
+"Free Library Of Philadelphia - Philadelphia City Institute
+1905 Locust Street
+Philadelphia, PA" 58.9839296875543
+"Canton Branch
+1030 S. Ellwood Avenue
+Baltimore, MD" 59.1310132682558
+"Free Library Of Philadelphia - Library For The Blind And Physically Handicapped
+919 Walnut Street
+Philadelphia, PA" 59.1947969701608
+"Edgewater Branch
+25 Stepneys Lane
+Edgewater, MD" 59.2514555160371
+"Free Library Of Philadelphia - Independence Branch
+18 S. 7th Street
+Philadelphia, PA" 59.3614280983774
+"Herring Run Branch
+3801 Erdman Avenue
+Baltimore, MD" 59.3866986870958
+"Free Library Of Philadelphia - Haddington Branch
+446 North 65th Street
+Philadelphia, PA" 59.3877238401819
+"Free Library Of Philadelphia - Haverford Branch
+5543 Haverford Avenue
+Philadelphia, PA" 59.4020688692969
+"Camden Free Public Library
+418 Federal Street
+Camden, NJ" 59.4412707268263
+"Hamilton Branch
+5910 Harford Road
+Baltimore, MD" 59.4812834951956
+"Patterson Park Branch
+158 N. Linwood Avenue
+Baltimore, MD" 59.5078008279327
+"Haverford Township Free Library
+1601 Darby Road
+Havertown, PA" 59.5781143771363
+"Free Library Of Philadelphia - Overbrook Park Branch
+7422 Haverford Avenue
+Philadelphia, PA" 59.5962395244841
+"Free Library Of Philadelphia - Charles L. Durham Branch
+3320 Haverford Avenue
+Philadelphia, PA" 59.6815045216661
+"Free Library Of Philadelphia
+1901 Vine St
+Philadelphia, PA" 59.689030828055
+"Free Library Of Philadelphia - Central Library
+1901 Vine Street
+Philadelphia, PA" 59.689030828055
+"Penn Wynne Library
+130 Overbrook Parkway
+Wynnewood, PA" 60.0003104498277
+"Cherry Hill Free Public Library
+1100 Kings Highway North
+Cherry Hill, NJ" 60.3232784181091
+"North County Area Library
+1010 Eastway
+Glen Burnie, MD" 60.4715762352179
+"Brooklyn Branch
+300 E. Patapsco Ave.
+Baltimore, MD" 60.5016958687968
+"Clifton Branch
+2001 N. Wolfe Street
+Baltimore, MD" 60.5249823033443
+"Brooklyn Park Branch
+1 East 11th Avenue
+Baltimore, MD" 60.67023717193
+"Orleans Street Branch
+1303 Orleans Street
+Baltimore, MD" 60.687914930674
+"Free Library Of Philadelphia - Ramonita De Rodriguez Branch
+600 West Girard Avenue
+Philadelphia, PA" 60.7593604246045
+"Loch Raven Mini Library
+1046 Taylor Avenue
+Towson, MD" 60.7693909487077
+"Whiteford Branch Library
+2407 Whiteford Road
+Whiteford, MD" 60.9346493441264
+"Free Library Of Philadelphia - Cecil B. Moore Branch
+2320 Cecil B. Moore Avenue
+Philadelphia, PA" 61.0391066921465
+"Northwood Branch
+4420 Loch Raven Boulevard
+Baltimore, MD" 61.0746053298367
+"Light Street Branch
+1251 Light Street
+Baltimore, MD" 61.1236452948315
+"Free Library Of Philadelphia - Fishtown Community Branch
+1217 East Montgomery Avenue
+Philadelphia, PA" 61.1972752374784
+"Free Library Of Philadelphia - Wynnefield Branch
+5325 Overbrook Avenue
+Philadelphia, PA" 61.2247592750298
+"Ardmore Library
+108 Ardmore Avenue
+Ardmore, PA" 61.4330644469605
+"Cherry Hill Branch
+606 Cherry Hill Road
+Baltimore, MD" 61.4433761186323
+"Lower Merion Library System
+75 East Lancaster Ave
+Ardmore, PA" 61.4585574769576
+"Coatesville Area Public Library
+501 E Lincoln Highway
+Coatesville, PA" 61.5539624829461
+"Narberth Community Library
+80 Windsor Avenue
+Narberth, PA" 61.5802447862725
+"Bala Cynwyd Library
+131 Old Lancaster Road
+Bala Cynwyd, PA" 61.6106926991855
+"Parkesburg Free Library
+105 West St
+Parkesburg, PA" 61.6208036713516
+"Enoch Pratt Free Library
+400 Cathedral Street
+Baltimore, MD" 61.6533377763054
+"Pennsauken Free Public Library
+5605 Crescent Boulevard
+Pennsauken, NJ" 61.6769670367826
+"Downingtown Library Company
+330 East Lancaster Ave
+Downingtown, PA" 61.680236655003
+"Waverly Branch
+400 E. 33rd Street
+Baltimore, MD" 61.7537414107799
+"Free Library Of Philadelphia - Kensington Branch
+104 West Dauphin Street
+Philadelphia, PA" 61.942249531612
+"Free Library Of Philadelphia - Widener Branch
+2808 West Lehigh Avenue
+Philadelphia, PA" 62.0602068708067
+"Ludington Library
+5. S. Bryn Mawr Avenue
+Bryn Mawr, PA" 62.1539289359788
+"Washington Village Branch
+856 Washington Boulevard
+Baltimore, MD" 62.1849383102692
+"South County Branch
+5940 Deale-Churchton Road
+Deale, MD" 62.2244013949315
+"Free Library Of Philadelphia - Richmond Branch
+2987 Almond Street
+Philadelphia, PA" 62.2458216384259
+"Atglen Public Library
+413 Valley Avenue
+Atglen, PA" 62.2510286157762
+"Govans Branch
+5714 Bellona Avenue
+Baltimore, MD" 62.2754459279612
+"Jarrettsville Branch Library
+3722 Norrisville Road
+Jarrettsville, MD" 62.3164791312736
+"Free Library Of Philadelphia - Lillian Marrero Branch
+601 West Lehigh Avenue
+Philadelphia, PA" 62.3236692908193
+"Malvern Public Library
+1 E First Avenue, Suite 2
+Malvern, PA" 62.3942600230943
+"Baltimore County Public Library
+320 York Road
+Towson, MD" 62.5552866280867
+"Towson Library
+320 York Rd.
+Towson, MD" 62.5552866280867
+"Chester County Library
+450 Exton Square Parkway
+Exton, PA" 62.693417219476
+"Free Library Of Philadelphia - Mcpherson Square Branch
+601 East Indiana Avenue
+Philadelphia, PA" 62.8420170938661
+"Linthicum Branch
+400 Shipley Road
+Linthicum, MD" 63.0085036221677
+"Free Library Of Philadelphia - Falls Of Schuylkill Branch
+3501 Midvale Avenue
+Philadelphia, PA" 63.0330688532119
+"Lansdowne Branch
+500 Third Avenue
+Lansdowne, MD" 63.0522614531414
+"Hampden Branch
+3641 Falls Road
+Baltimore, MD" 63.0822180969883
+"Belmont Hills Library
+120 Mary Watersford Road
+Bala Cynwyd, PA" 63.0950256911247
+"Pennsylvania Avenue Branch
+1531 W. North Avenue
+Baltimore, MD" 63.1258800984019
+"Easttown Library Info Center
+720 First Avenue
+Berwyn, PA" 63.1571831131736
+"Memorial Library Of Radnor Township
+114 West Wayne Ave
+Wayne, PA" 63.2373085348654
+"Free Library Of Philadelphia - Nicetown-Tioga Branch
+3720 North Broad Street
+Philadelphia, PA" 63.3266953410547
+"Moores Memorial Library
+326 N Bridge St
+Christiana, PA" 63.3629961538998
+"Roland Park Branch
+5108 Roland Avenue
+Baltimore, MD" 63.4547327464113
+"Gladwyne Library
+362 Righters Mill Road
+Gladwyne, PA" 63.6468856508372
+"Bass River Community Library
+11 North Maple Avenue
+New Gretna, NJ" 63.898027415986
+"Quarryville Library Center
+357 Buck Road
+Quarryville, PA" 64.1049058925089
+"Tredyffrin Public Library
+582 Upper Gulph Rd
+Wayne, PA" 64.1504598414964
+"Free Library Of Philadelphia - Roxborough Branch
+6245 Ridge Avenue
+Philadelphia, PA" 64.2150415804042
+"Twin Beaches Branch
+3819 Harbor Road
+Chesapeake Beach, MD" 64.2668589950603
+"Moorestown Library
+111 W. Second Street
+Moorestown, NJ" 64.3302348494971
+"Mount Laurel Library
+100 Walt Whitman Avenue
+Mount Laurel, NJ" 64.5217063421932
+"Free Library Of Philadelphia - Wyoming Branch
+231 East Wyoming Avenue
+Philadelphia, PA" 64.5562541582995
+"Free Library Of Philadelphia - Joseph E. Coleman Northwest Regional Library
+68 West Chelten Avenue
+Philadelphia, PA" 64.5747242996401
+"Crofton Area Branch
+1681 Riedel Road
+Crofton, MD" 64.5784277420479
+"Walbrook Branch
+3203 W. North Avenue
+Baltimore, MD" 64.675450419791
+"Free Library Of Philadelphia - Frankford Branch
+4634 Frankford Avenue
+Philadelphia, PA" 64.7897656889964
+"Arbutus Library
+1581 Sulphur Spring Rd., Suite 105
+Baltimore, MD" 64.8401650552339
+"Free Library Of Philadelphia - Logan Branch
+1333 Wagner Avenue
+Philadelphia, PA" 64.8636402166398
+"Somerset County Library
+11767 Beechwood Street
+Princess Anne, MD" 65.0965552103557
+"West County Area Library
+1325 Annapolis Road
+Odenton, MD" 65.2134883929231
+"Cockeysville Library
+9833 Greenside Dr.
+Cockeysville, MD" 65.2546143991433
+"Free Library Of Philadelphia - Greater Olney Branch
+5501 North 5th Street
+Philadelphia, PA" 65.3011440879909
+"Forest Park Branch
+3023 Garrison Boulevard
+Baltimore, MD" 65.3497659803191
+"Edmondson Avenue Branch
+4330 Edmondson Avenue
+Baltimore, MD" 65.4207098804706
+"Free Library Of Philadelphia - David Cohen Ogontz Branch
+6017 Ogontz Avenue
+Philadelphia, PA" 65.7744797184825
+"Free Library Of Philadelphia - Andorra Branch
+705 East Cathedral Road
+Philadelphia, PA" 65.854051155382
+"Free Library Of Philadelphia - Lovett Branch
+6945 Germantown Avenue
+Philadelphia, PA" 65.9417828543899
+"Conshohocken Free Library
+301 Fayette Street
+Conshohocken, PA" 66.0029241978021
+"Pequea Valley Public Library - Gap Branch
+875 Houston Run Dr., Suite 220
+Gap, PA" 66.0491509745825
+"Free Library Of Philadelphia - Tacony Branch
+6742 Torresdale Avenue
+Philadelphia, PA" 66.1422424322958
+"Worcester County Library - Snow Hill
+307 N Washington Street
+Snow Hill, MD" 66.1489311890505
+"Free Library Of Philadelphia - Bushrod Branch
+6304 Castor Avenue
+Philadelphia, PA" 66.397219908069
+"Free Library Of Philadelphia - Oak Lane Branch
+6614 North 12th Street
+Philadelphia, PA" 66.4878279262131
+"Free Library Of Philadelphia - Lawncrest Branch
+6098 Rising Sun Avenue
+Philadelphia, PA" 66.5265849712457
+"Reisterstown Road Branch
+6310 Reisterstown Road
+Baltimore, MD" 66.8406948898256
+"Free Library Of Philadelphia - West Oak Lane Branch
+2000 Washington Lane
+Philadelphia, PA" 67.0396890965332
+"Free Library Of Philadelphia - Chestnut Hill Branch
+8711 Germantown Avenue
+Philadelphia, PA" 67.0945162729418
+"Provinces Branch
+2624 Annapolis Road
+Severn, MD" 67.1023588101226
+"Elkridge Branch Library
+6540 Washington Boulevard
+Elkridge, MD" 67.1983498894335
+"Free Library Of Philadelphia - Northeast Regional Library
+2228 Cottman Avenue
+Philadelphia, PA" 67.3182176718885
+"Upper Merion Township Library
+175 W Valley Forge Rd
+King Of Prussia, PA" 67.3818275578915
+"Chester Springs Library
+1685a Art School Road
+Chester Springs, PA" 67.3854210979922
+"Free Library Of Philadelphia - Holmesburg Branch
+7810 Frankford Avenue
+Philadelphia, PA" 67.3889670365253
+"Free Library Of Philadelphia - Wadsworth Branch
+1500 Wadsworth Avenue
+Philadelphia, PA" 67.6117873533042
+"Catonsville Library
+1100 Frederick Rd.
+Catonsville, MD" 67.8754316779381
+"William Jeanes Memorial Library
+4051 Joshua Rd
+Lafayette Hill, PA" 67.952918590813
+"Sally Stretch Keen Memorial Library
+94 Main Street
+Vincentown, NJ" 68.0678669220319
+"Woodlawn Library
+1811 Woodlawn Dr.
+Baltimore, MD" 68.1979064270618
+"Prince Georges County Memorial Library - Bowie
+15210 Annapolis Road
+Bowie, MD" 68.2707602611012
+"Pikesville Library
+1301 Reisterstown Rd.
+Baltimore, MD" 68.363102935183
+"Norrisville Branch Library
+5310 Norrisville Road
+White Hall, MD" 68.4905311360235
+"Free Library Of Springfield Township
+1600 Paper Mill Rd
+Wyndmoor, PA" 68.7184959350555
+"Free Library Of Philadelphia - Torresdale Branch
+3079 Holme Avenue
+Philadelphia, PA" 68.7386739495328
+"Riverside Public Library
+10 Zurbrugg Way
+Riverside, NJ" 68.7538877707427
+"Free Library Of Philadelphia - Fox Chase Branch
+501 Rhawn Street
+Philadelphia, PA" 68.8328137341623
+"Montgomery County-Norristown Public Library
+1001 Powell St
+Norristown, PA" 68.9405032722357
+"Phoenixville Public Library
+183 Second Ave
+Phoenixville, PA" 68.9914837940262
+"Cheltenham Township Library System
+215 S Keswick Ave
+Glenside, PA" 69.0759391747057
+"Prince Georges County Memorial Library - South Bowie
+15301 Hall Road
+Bowie, MD" 69.1841655525106
+"Fairview Branch
+8120 Southern Maryland Boulevard
+Owings, MD" 69.1873855275263
+"Jenkintown Library
+460 Old York Road
+Jenkintown, PA" 69.579027524315
+"Free Library Of Philadelphia - Welsh Road Branch
+9233 Roosevelt Boulevard
+Philadelphia, PA" 69.7318803802588
+"Delanco Public Library
+1303 Burlington Avenue
+Delanco, NJ" 69.8887779609836
+"Strasburg-Heisler Library
+143 Precision Ave
+Strasburg, PA" 69.9909681325423
+"Honey Brook Community Library
+687 Compass Road
+Honey Brook, PA" 70.0214542039039
+"Hereford Library
+16940 York Rd.
+Monkton, MD" 70.4847480641754
+"Abington Township Public Library
+1030 Old York Rd
+Abington, PA" 70.5559727196143
+"Mount Holly Library And Lyceum
+307 High Street
+Mount Holly, NJ" 70.581753919895
+"Burlington County Library
+5 Pioneer Blvd
+Westampton, NJ" 70.643975682862
+"Maryland City At Russett Branch
+3501 Russett Common
+Laurel, MD" 70.7358195585404
+"Willingboro Public Library
+220 Willingboro Parkway
+Willingboro, NJ" 70.787901032052
+"Pequea Valley Public Library
+31 Center Street
+Intercourse, PA" 70.8004312678731
+"Randallstown Library
+8604 Liberty Rd.
+Randallstown, MD" 71.0436446997603
+"Beverly Free Library
+441 Cooper St.
+Beverly, NJ" 71.2486903551683
+"Free Library Of Philadelphia - Katharine Drexel Branch
+11099 Knights Road
+Philadelphia, PA" 71.3214493200044
+"Prince Georges County Memorial Library - Upper Marlboro
+14730 Main St.
+Upper Marlboro, MD" 71.3906022453763
+"Lower Providence Community Library
+50 Parklane Dr
+Eagleville, PA" 71.415607783365
+"Wissahickon Valley Pub Library
+650 Skippack Pike
+Blue Bell, PA" 71.5876697524541
+"Free Library Of Philadelphia - Bustleton Branch
+10199 Bustleton Avenue
+Philadelphia, PA" 71.834638785923
+"Calvert Library Prince Frederick
+850 Costley Way
+Prince Frederick, MD" 71.9870479719808
+"Upper Dublin Public Library
+805 Loch Alsh Ave
+Fort Washington, PA" 72.2216024684487
+"Huntingdon Valley Library
+625 Red Lion Rd
+Huntingdon Valley, PA" 72.3444364131919
+"Savage Branch Library
+9525 Durness Lane
+Laurel, MD" 72.397479365611
+"Spring City Free Public Library
+245 Broad St
+Spring City, PA" 72.4207371047584
+"Upper Moreland Free Public Library
+109 Park Avenue
+Willow Grove, PA" 72.7663567744562
+"Royersford Free Public Library
+200 South Fourth Avenue
+Royersford, PA" 72.8210576399517
+"Southern Branch
+20 Appeal Lane
+Lusby, MD" 73.050092114609
+"East Columbia Branch Library
+6600 Cradlerock Way
+Columbia, MD" 73.0692869255502
+"Miller Branch Library
+9421 Frederick Road
+Ellicott City, MD" 73.179546812999
+"Worcester County Library - Pocomoke City
+301 Market St.
+Pocomoke City, MD" 73.2841693427587
+"Mason Dixon Public Library
+250 Bailey Drive
+Stewartstown, PA" 73.3803682057525
+"Bucks County Free Library - Bensalem Branch
+3700 Hulmeville Road
+Bensalem, PA" 73.4934673892543
+"Prince Georges County Memorial Library - Laurel
+507 7th Street
+Laurel, MD" 73.5338626884091
+"Library Company Of Burlington
+23 W. Union Street
+Burlington, NJ" 73.5402356140651
+"Central Library
+10375 Little Patuxent Parkway
+Columbia, MD" 73.7750248471854
+"Eastern Lancaster County Library
+11 Chestnut Dr
+New Holland, PA" 74.1171893360087
+"Shuts Environmental Library
+3 Natures Way
+Lancaster, PA" 74.1212631448765
+"Village Library Of Morgantown
+207 N. Walnut Street
+Morgantown, PA" 74.1427243704593
+"Prince Georges County Memorial Library - Largo-Kettering
+9601 Capital Lane
+Largo, MD" 74.55026115742
+"Union Library Company Of Hatborough
+243 South York Rd
+Hatboro, PA" 74.8325388508224
+"Bucks County Free Library - Margaret R. Grundy Memorial Library
+680 Radcliffe Street
+Bristol, PA" 74.9364736402913
+"Prince Georges County Memorial Library - Glenarden
+8724 Glenarden Pkwy.
+Glenarden, MD" 75.1101909933513
+"Library System Of Lancaster County
+1866 Colonial Village Ln, Suite 107
+Lancaster, PA" 75.2231583317359
+"North Wales Library
+233 S. Swartley Street
+North Wales, PA" 75.299673144023
+"Prince Georges County Memorial Library - Greenbelt
+11 Crescent Road
+Greenbelt, MD" 75.3499386171255
+"North Wales Mem Free Library
+201 Summit St
+North Wales, PA" 75.4825306927508
+"Reisterstown Library
+21 Cockeys Mill Rd.
+Reisterstown, MD" 75.5437544394013
+"Horsham Township Library
+435 Babylon Road
+Horsham, PA" 75.5856391981065
+"Bucks County Free Library - Southampton Free Library
+947 Street Road
+Southampton, PA" 75.7830607442282
+"Southampton Free Library
+947 Street Rd
+Southampton, PA" 75.7830607442282
+"Lancaster Public Library - Leola Branch
+46 Hillcrest Avenue
+Leola, PA" 75.8491571515093
+"Prince Georges County Memorial Library - New Carrollton
+7414 Riverdale Rd..
+New Carrollton, MD" 75.9100040452965
+"Bucks County Free Library - Township Library Of Lower Southampton (Feasterville)
+1983 Bridgetown Pike
+Feasterville, PA" 76.1812328187932
+"Prince Georges County Memorial Library - Baden
+13603 Baden-Westwood Road
+Brandywine, MD" 76.4749147592821
+"Lancaster Public Library
+125 North Duke St
+Lancaster, PA" 76.4936600314217
+"Paul Smith Library Of Southern York County
+80 Constitution Avenue
+Shrewsbury, PA" 76.8204035062483
+"Southern York County Library
+80 Constitution Ave
+Shrewsbury, PA" 76.8204035062483
+"Prince Georges County Memorial Library - Beltsville
+4319 Sellman Rd.
+Beltsville, MD" 77.1993933850195
+"Pottstown Public Library
+500 High Street
+Pottstown, PA" 77.4272094687168
+"Lansdale Public Library
+301 Vine Street
+Lansdale, PA" 77.5501034389565
+"Perkiomen Valley Library At Schwenksville
+290 Second Street
+Schwenksville, PA" 77.6941387628135
+"Florence Township Library
+1350 Hornberger Avenue
+Roebling, NJ" 77.8678692176687
+"Warminster Township Free Library
+1076 Emma Lane
+Warminster, PA" 77.9299357267021
+"Marilyn J. Praisner Library (Fairland)
+14910 Old Columbia Pik
+Burtonsville, MD" 78.0700177519425
+"Bucks County Free Library - Langhorne Branch
+301 S. Pine Street
+Langhorne, PA" 78.2684436806292
+"Prince Georges County Memorial Library - Fairmount Heights
+5904 Kolb St.
+Fairmount Heights, MD" 78.3644968808933
+"Bucks County Free Library - Levittown Branch
+7311 New Falls Road
+Levittown, PA" 78.5050566028183
+"Prince Georges County Memorial Library - Spauldings
+5811 Old Silver Hill Road
+District Heights, MD" 78.6768526229343
+"Bucks County Free Library - Free Library Of Northampton Township
+25 Upper Holland Road
+Richboro, PA" 78.7786405039929
+"Prince Georges County Memorial Library - Bladensburg
+4820 Annapolis Rd.
+Bladensburg, MD" 78.9310951876091
+"Manheim Township Public Library
+595 Granite Run Drive
+Lancaster, PA" 79.1532329110896
+"Prince Georges County Memorial Library System
+6532 Adelphi Road
+Hyattsville, MD" 79.3662932158595
+"Prince Georges County Memorial Library - Hyattsville
+6530 Adelphi Rd.
+Hyattsville, MD" 79.3957260114802
+"Eldersburg Branch
+6400 Hemlock Drive
+Eldersburg, MD" 79.8024045830847
+"Lexington Park Branch Library
+21677 Fdr Blvd.
+Lexington Park, MD" 79.8040704919025
+"Kaltreider-Benfer Library
+147 S Charles St
+Red Lion, PA" 79.8632896590151
+"Boone Area Library
+129 N. Mill St.
+Birdsboro, PA" 80.2115731596681
+"Prince Georges County Memorial Library - Mount Rainier
+3409 Rhode Island Ave.
+Mount Rainier, MD" 80.2868111922735
+"Lancaster Public Library West - Mountville Branch
+120 College Avenue
+Mountville, PA" 80.5040186300958
+"Arthur Hufnagel Public Library Of Glen Rock
+32 Main Street
+Glen Rock, PA" 80.7282923834233
+"Prince Georges County Memorial Library - Surratts-Clinton
+9400 Piscataway Rd.
+Clinton, MD" 81.0165233832922
+"White Oak Branch Library
+11701 New Hampshire Ave.
+Silver Spring, MD" 81.0378651617267
+"Finksburg Branch
+2265 Old Westminster Pike
+Finksburg, MD" 81.076349965406
+"Bucks County Free Library - Fallsington Library
+139 Yardley Avenue
+Fallsington, PA" 81.311505164025
+"Ephrata Public Library
+550 South Reading Rd
+Ephrata, PA" 81.3471257768583
+"North Carroll Branch
+2255 Hanover Pike
+Greenmount, MD" 81.5751051075829
+"Prince Georges County Memorial Library - Hillcrest Heights
+2398 Iverson St.
+Temple Hills, MD" 81.6929123240135
+"Long Branch Library
+8800 Garland Ave.
+Silver Spring, MD" 81.8486707041119
+"Corbin Memorial Library
+4 E. Main Street
+Crisfield, MD" 81.8735070439464
+"Lititz Public Library
+651 Kissel Hill Road
+Lititz, PA" 82.3604582632198
+"Columbia Public Library
+24 South Sixth St
+Columbia, PA" 82.4923039356033
+"Takoma Park Maryland Library
+101 Philadelphia Avenue
+Takoma Park, MD" 82.5319848213285
+"Adamstown Area Library
+3000 North Reading Road Route 272
+Adamstown, PA" 82.5475998675397
+"Bucks County Free Library - Village Library Of Wrightstown
+727 Penns Park Road
+Wrightstown, PA" 82.6838266439507
+"North Bend Public Library
+140 East 8th Street
+North Bend, NE" 82.760560323623
+"Bucks County Free Library - Yardley-Makefield Branch
+1080 Edgewood Road
+Yardley, PA" 83.0446584200812
+"Eastern Shore Public Library - Island Library
+4077 Main Street
+Chincoteague, VA" 83.0542394846848
+"Charlotte Hall Branch Library
+37600 New Market Road
+Charlotte Hall, MD" 83.0937181099065
+"Silver Spring Branch Library
+8901 Colesville Road
+Silver Spring, MD" 83.127872416924
+"Glenwood Branch Library
+2350 Route 97
+Cooksville, MD" 83.1948496924939
+"Indian Valley Public Library
+100 East Church Ave
+Telford, PA" 83.2768796264493
+"Village Library
+35 C N. Main St.
+Jacobus, PA" 83.4267997439463
+"Boyertown Community Library
+29 E Philadelphia Ave
+Boyertown, PA" 83.4926210628444
+"Exeter Community Library
+4569 Prestwick Drive
+Reading, PA" 83.5797446260058
+"Bucks County Free Library - Doylestown District Center Library
+150 South Pine St
+Doylestown, PA" 83.616538251969
+"Crosswicks Library Company
+483 Main Street
+Crosswicks, NJ" 83.6343364205453
+"Prince Georges County Memorial Library - Oxon Hill
+6200 Oxon Hill Rd.
+Oxon Hill, MD" 83.6667647307497
+"Bucks County Free Library - Morrisville Free Library
+300 N. Pennsylvania Avenue
+Morrisville, PA" 83.6932916150358
+"Morrisville Free Library Association
+300 North Pennsylvania Ave
+Morrisville, PA" 83.6932916150358
+"Ewell School
+20910 Caleb Jones Road
+Ewell, MD" 83.9506860292144
+"Leonardtown Branch Library
+23250 Hollywood Road
+Leonardtown, MD" 84.099628131834
+"Wheaton Branch Library
+11701 Georgia Ave.
+Wheaton, MD" 84.2156854818624
+"Kreutz Creek Valley Library Center
+66 Walnut Springs Rd.
+Hellam, PA" 84.4755453191434
+"P.D. Brown Memorial Branch Library
+50 Village Street
+Waldorf, MD" 84.5062261252443
+"Trenton Free Public Library
+120 Academy Street
+Trenton, NJ" 84.7014721008978
+"Olney Branch Library
+3500 Olney-Laytonsville Road
+Olney, MD" 84.9108454544333
+"Mifflin Community Library
+6 Philadelphia Ave.
+Shillington, PA" 84.9824987359231
+"Noyes Library For Young Children
+10237 Carroll Place
+Kensington, MD" 85.5093333080244
+"Juncos Public Library (Dr. Jose M. Gallardo)
+po box 1706
+Juncos, PA" 85.6056088645093
+"Hamilton Township Free Public Library
+1 Justice Samuel A. Alito, Jr. Way
+Hamilton, NJ" 85.7324956418168
+"Upper Perkiomen Valley Library
+350 Main Street
+Red Hill, PA" 85.9034601593314
+"Kensington Park Branch Library
+4201 Knowles Ave.
+Kensington, MD" 85.9267201884663
+"Chevy Chase Branch Library
+8005 Connecticut Ave.
+Chevy Chase, MD" 85.9533716164403
+"Aspen Hill Library
+4407 Aspen Hill Rd.
+Rockville, MD" 86.0766430704134
+"Bucks County Free Library - Perkasie
+491 Arthur Avenue
+Perkasie, PA" 86.1511977107296
+"Manheim Community Library
+15 East High St
+Manheim, PA" 86.2367582880156
+"Bookmobile Services
+50 East Main Street
+Westminster, MD" 86.3277251536266
+"Reading Public Library
+100 S. 5th Street
+Reading, PA" 86.3947008923943
+"Martin Library At The Art Institute Of York
+1409 Williams Road
+York, PA" 86.5145330307409
+"Aurora Hills Library
+735 S. 18th St.
+Arlington, VA" 86.6474415393129
+"Milanof-Schock Library
+1184 Anderson Ferry Rd.
+Mount Joy, PA" 86.6654909978566
+"Alexandria Library - Kate Waller Barrett Branch
+717 Queen Street
+Alexandria, VA" 86.8683188147505
+"Wyomissing Public Library
+9 Reading Blvd
+Wyomissing, PA" 86.9120751310787
+"Bethesda Branch Library
+7400 Arlington Rd.
+Bethesda, MD" 87.2108645618208
+"Alexandria Library - James M. Duncan Branch Library
+2501 Commonwealth Avenue
+Alexandria, VA" 87.2132871330514
+"Carroll County Public Library
+115 Airport Drive
+Westminster, MD" 87.270103473588
+"Sinking Spring Public Library
+3940 Penn Ave
+Sinking Spring, PA" 87.3198763008902
+"Twinbrook Branch Library
+202 Meadow Hall Drive
+Rockville, MD" 87.4190550583427
+"Arlington Department Of Libraries
+2100 Clarendon Blvd.
+Arlington, VA" 87.5445282038203
+"Arlington Public Library - Plaza Branch Library Arlington Shop
+2100 Clarendon Blvd
+Arlington, VA" 87.5445282038203
+"Martin Memorial Library
+159 East Market St
+York, PA" 87.5776373639152
+"York County Library System
+159 East Market Street
+York, PA" 87.5776373639152
+"Wellington Resource Center And Computer Lab
+303 Brooklyn Ave
+York, PA" 87.6065811288007
+"Government Reference Library
+1 Courthouse Plaza Suite 406
+Arlington, VA" 87.6287879470709
+"Prince Georges County Memorial Library - Accokeek
+15773 Livingston Rd.
+Accokeek, MD" 87.7905649524751
+"Little Falls Branch Library
+5501 Massachusetts Ave.
+Bethesda, MD" 88.040554882169
+"Columbia Pike Library
+816 S. Walter Reed Dr.
+Arlington, VA" 88.0806710249108
+"Jefferson Resource Center And Computer Lab
+501 N. Pershing Ave.
+York, PA" 88.1963633011038
+"Spring Township Library
+78-C Commerce Drive
+Wyomissing, PA" 88.2992627295821
+"Martha Washington Library
+6614 Fort Hunt Road
+Alexandria, VA" 88.3554390868948
+"Shirlington Library
+2786 S. Arlington Mill Dr.
+Arlington, VA" 88.3834098746016
+"Mercer County Library
+2751 Brunswick Pike
+Lawrenceville, NJ" 88.4652574916913
+"Davis Branch Library
+6400 Democracy Blvd.
+Bethesda, MD" 88.5086516486224
+"Cherrydale Library
+2190 N. Military Rd.
+Arlington, VA" 88.691193446781
+"Wernersville Public Library
+100 North Reber Street
+Wernersville, PA" 88.7028577537768
+"Arlington Central Library
+1015 N. Quincy St
+Arlington, VA" 88.7887649264887
+"Central Library
+1015 N. Quincy St.
+Arlington, VA" 88.7887649264887
+"Ocean County Library
+101 Washington Street
+Toms River, NJ" 89.2392287669969
+"Montgomery County Public Libraries
+21 Maryland Ave., Suite 310
+Rockville, MD" 89.4049403825975
+"Rockville Branch Library
+21 Maryland Ave.
+Rockville, MD" 89.4049403825975
+"Sherwood Regional Library
+2501 Sherwood Hall Ln.
+Alexandria, VA" 89.5818893510275
+"Bucks County Free Library - Free Library Of New Hope And Solebury
+93 W. Ferry Street
+New Hope, PA" 89.7778578405765
+"Free Library Of New Hope Solebury
+93 West Ferry St
+New Hope, PA" 89.7778578405765
+"Alexandria Library - Ellen Coolidge Burke Branch
+4701 Seminary Road
+Alexandria, VA" 89.7859198067463
+"Arlington Public Library - Glencarlyn Branch Library
+300 South Kensington Street
+Arlington, VA" 90.0593517392856
+"Berks County Public Libraries
+1037f Macarthur Road
+Reading, PA" 90.0888665364629
+"Glatfelter Memorial Library
+101 Glenview Rd
+Spring Grove, PA" 90.1189229077345
+"Lambertville Free Public Library
+6 Lilly Street
+Lambertville, NJ" 90.1292053710035
+"Charles County Public Library
+2 Garrett Avenue
+La Plata, MD" 90.1621541858844
+"Muhlenberg Community Library
+3612 Kutztown Rd
+Laureldale, PA" 90.1984979363008
+"Alexandria Library - Charles E. Beatley, Jr. Central Library
+5005 Duke Street
+Alexandria, VA" 90.4272263744711
+"Westover Library
+1800 N. Lexington St.
+Arlington, VA" 90.4664465630536
+"Pennington Free Public Library
+30 N. Main Street
+Pennington, NJ" 90.7083233064866
+"Mount Airy Branch
+705 Ridge Avenue
+Mount Airy, MD" 90.8474138002103
+"John Marshall Library
+6209 Rose Hill Dr.
+Alexandria, VA" 91.0550189291694
+"Woodrow Wilson Library
+6101 Knollwood Dr.
+Falls Church, VA" 91.1438406877213
+"Bucks County Free Library - Quakertown Branch
+401 West Mill Street
+Quakertown, PA" 91.2092517650439
+"Robesonia Community Library
+75-A South Brooke St
+Robesonia, PA" 91.2188040052617
+"Bucks County Free Library - Pipersville Free Library
+7114 Durham Road
+Pipersville, PA" 91.3402582302658
+"Martin Library At Manchester Township
+3200 Farmtrail Road
+York, PA" 91.3590484131237
+"Dolley Madison Library
+1244 Oak Ridge Ave.
+Mclean, VA" 92.1976806918691
+"Gaithersburg Branch Library
+18330 Montgomery Village Ave.
+Gaithersburg, MD" 92.2292069349732
+"Mary Riley Styles Public Library
+120 North Virginia Avenue
+Falls Church, VA" 92.3161792439647
+"Elizabethtown Public Library
+10 South Market Street
+Elizabethtown, PA" 92.3363512882501
+"Damascus Branch Library
+9701 Main Street
+Damascus, MD" 92.4897418872659
+"Guthrie Memorial Library - Hanovers Public Library
+2 Library Place
+Hanover, PA" 92.5977315918549
+"Potomac Branch Library
+10101 Glenolden Drive
+Potomac, MD" 92.7462314041298
+"Dover Area Community Library
+3700-3 Davidsburg Rd.
+Dover, PA" 92.8646600365679
+"Womelsdorf Community Library
+203 W High St
+Womelsdorf, PA" 93.0115211234538
+"Potomac Branch Library
+3225 Ruth B. Swann Drive
+Indian Head, MD" 93.0843020264072
+"Fleetwood Area Public Library
+110 W Arch St
+Fleetwood, PA" 93.3162549856453
+"Tysons-Pimmit Regional Library
+7584 Leesburg Pike
+Falls Church, VA" 93.7291279005809
+"George Mason Regional Library
+7001 Little River Turnpike
+Annandale, VA" 93.7906778872307
+"Schuylkill Valley Community Library
+1310 Washington Rd
+Leesport, PA" 93.8113647122891
+"Archives Records Center For Fairfax County
+6800-A Industrial Road
+Springfield, VA" 93.9970276499012
+"Thomas Jefferson Library
+7415 Arlington Boulevard
+Falls Church, VA" 94.0241677425847
+"Richland Community Library
+111 East Main Street
+Richland, PA" 94.1670362865633
+"Kingstowne Library
+6500 Landsdowne Centre
+Alexandria, VA" 94.2649662519766
+"Quince Orchard Branch Library
+15831 Quince Orchard Rd.
+Gaithersburg, MD" 94.7534645777435
+"Richard Byrd Library
+7250 Commerce Street
+Springfield, VA" 94.922699407976
+"Brandywine Community Library
+60 Tower Drive
+Topton, PA" 95.0175064810305
+"Princeton Public Library
+65 Witherspoon Street
+Princeton, NJ" 95.147314739113
+"Hopewell Public Library
+13 E. Broad Street
+Hopewell, NJ" 95.1691475195436
+"Germantown Branch Library
+19840 Century Boulevard
+Germantown, MD" 95.5139280982397
+"Littlestown Library
+232 North Queen Street
+Littlestown, PA" 95.7763118491806
+"Plainsboro Free Public Library
+641 Plainsboro Road
+Plainsboro, NJ" 95.9279776289051
+"Taneytown Branch
+10 Grand Drive
+Taneytown, MD" 96.4026395907854
+"Lower Macungie Library
+3450 Brookside Road
+Macungie, PA" 96.4656434510407
+"Bernville Area Community Library
+6721 Bernville Rd.
+Bernville, PA" 96.4955818670094
+"Cranbury Public Library
+23 N. Main Street
+Cranbury, NJ" 96.5334706365158
+"Central Rappahannock Regional Library - Newton Branch
+22 Coles Point Road
+Hague, VA" 96.5590663054621
+"Myerstown Community Library
+199 North College St
+Myerstown, PA" 96.595264041937
+"Patrick Henry Library
+101 Maple Ave. East
+Vienna, VA" 96.863966935466
+"Louisa Gonser Community Library Inc
+70 Bieber Alley
+Kutztown, PA" 96.994461394409
+"Great Falls Library
+9830 Georgetown Pike
+Great Falls, VA" 97.1337618259815
+"East Berlin Community Library
+105 Locust Street
+East Berlin, PA" 97.2313123176579
+"Southern Lehigh Public Library
+3200 Preston Lane
+Center Valley, PA" 97.2765433452699
+"Lebanon Community Library
+125 N Seventh St
+Lebanon, PA" 97.3537601295958
+"Emmaus Public Library
+11 East Main St
+Emmaus, PA" 97.4981113213843
+"Lorton Library
+9520 Richmond Highway
+Lorton, VA" 97.6640757579329
+"Kings Park Library
+9000 Burke Lake Rd.
+Burke, VA" 97.7951561784963
+"New Oxford Area Library
+122 North Peter Street
+New Oxford, PA" 97.9441124962646
+"Eastern Shore Public Library
+23610 Front St.
+Accomac, VA" 98.1140497902105
+"Pohick Regional Library
+6450 Sydenstricker Rd.
+Burke, VA" 98.9602519071594
+"Middletown Public Library
+20 North Catherine St
+Middletown, PA" 99.080906726911
+"Oakton Library
+10304 Lynnhaven Place
+Oakton, VA" 99.1047378986893
+"Frenchtown Public Library
+29 Second Street
+Frenchtown, NJ" 99.1757674614261
+"Annville Free Library
+216 E Main St
+Annville, PA" 99.208269135527
+"Northumberland Public Library
+7204 Northumberland Highway
+Heathsville, VA" 99.5168403087036
+"Monroe Twp Public Library-Middlesex
+4 Municipal Plaza
+Monroe Township, NJ" 99.5961193158961
+"City Of Fairfax Regional Library
+10360 North Street
+Fairfax, VA" 99.6657247685446
+"Hunterdon County Library
+314 State Highway 12, Bldg. 3
+Flemington, NJ" 99.9324842129725

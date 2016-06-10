@@ -1,0 +1,865 @@
+"location" "miles"
+"Ofallon Public Library
+120 Civic Plaza
+Ofallon, IL" 4.1461416542222
+"Mascoutah Public Library
+3 West Church Street
+Mascoutah, IL" 4.70958332730389
+"Lebanon Public Library
+314 West Saint Louis Street
+Lebanon, IL" 4.85393126648286
+"Belleville Public Library
+121 East Washington Street
+Belleville, IL" 7.1442194408341
+"New Baden Public Library
+210 North First Street
+New Baden, IL" 8.41969152302677
+"West Branch
+3414 West Main Street
+Belleville, IL" 8.69566015686307
+"Freeburg Area Library District
+407 South Belleville Street
+Freeburg, IL" 9.00694156543988
+"Fairview Heights Public Library
+10017 Bunkum Road
+Fairview Heights, IL" 9.24012295717678
+"Trenton Public Library
+118 East Indiana Street
+Trenton, IL" 10.3368404136096
+"Collinsville Memorial Public Library
+408 West Main St.
+Collinsville, IL" 11.3465397145082
+"Mississippi Valley Public Library District
+408 West Main Street
+Collinsville, IL" 11.3465397145082
+"Caseyville Public Library District
+419 South Second Street
+Caseyville, IL" 11.4921080190701
+"Smithton Public Library District
+109 South Main Street
+Smithton, IL" 11.9433515260262
+"Tri-Township Public Library District
+209 South Main Street
+Troy, IL" 12.8763673001272
+"East St. Louis Public Library
+5300 State Street
+East St Louis, IL" 13.8879205894547
+"Maryville Community Library District
+8 Schiber Court
+Maryville, IL" 13.9844564787335
+"Millstadt Library
+115 West Laurel Street
+Millstadt, IL" 14.1231041701978
+"Washington Park Public Library
+5103 Bunkum Road 2
+Washington Park, IL" 14.1554620490694
+"Centreville Public Library
+701 South 47th Street
+Centreville, IL" 14.7514538814371
+"New Athens District Library
+201 North Van Buren Street
+New Athens, IL" 14.9871717932304
+"Glen Carbon Centennial Library
+198 South Main Street
+Glen Carbon, IL" 15.8573025593548
+"Louis Latzer Memorial Public Library
+1001 Ninth Street
+Highland, IL" 16.7493941300481
+"Cahokia Public Library District
+140 Cahokia Park Drive
+Cahokia, IL" 17.100336955005
+"Germantown Public Library District
+403 Munster Street
+Germantown, IL" 17.1459904091152
+"Hecker Public Library
+151 West Monroe Street
+Hecker, IL" 18.0367415890123
+"Breese Public Library
+530 North Third Street
+Breese, IL" 18.2718762639418
+"Granite City Branch
+2145 Johnson Road
+Granite City, IL" 18.6092122878255
+"Madison Public Library
+1700 Fifth Street
+Madison, IL" 18.6816462412542
+"Daugherty Public Library District
+220 South Fifth Street
+Dupo, IL" 19.1278264596952
+"Venice Public Library
+325 Broadway Avenue
+Venice, IL" 19.254471511381
+"Edwardsville Public Library
+112 South Kansas Street
+Edwardsville, IL" 19.3182917367149
+"Six Mile Regional Library District
+2001 Delmar Avenue
+Granite City, IL" 19.3834809919715
+"Central Library
+1301 Olive Street
+St. Louis, MO" 19.5869806765634
+"Columbia Public Library
+106 North Metter Avenue
+Columbia, IL" 19.8242167469502
+"Film Library
+1624 Locust Street
+St. Louis, MO" 19.8255655233616
+"Barr Branch
+1701 S. Jefferson
+St. Louis, MO" 20.4175679652568
+"Divoll Branch
+4234 N. Grand Avenue
+St. Louis, MO" 21.1179516113557
+"Marissa Area Public Library District
+212 North Main Street
+Marissa, IL" 21.1818480876283
+"Carpenter Branch
+3309 S. Grand Avenue
+St. Louis, MO" 21.331223262023
+"Carondelet Branch
+6800 Michigan Avenue
+St. Louis, MO" 21.6046035587068
+"Morrison-Talbott Library
+215 Park Street
+Waterloo, IL" 21.6756543584484
+"Julia Davis Branch
+4415 Natural Bridge
+St. Louis, MO" 22.4428833596554
+"Kingshighway Branch
+2260 S. Vandeventer
+St. Louis, MO" 22.7856942538122
+"Schlafly Branch
+225 N. Euclid Ave.
+St. Louis, MO" 23.087583925222
+"Baden Branch
+8448 Church Road
+St. Louis, MO" 23.626503747501
+"Cabanne Branch
+1106 N. Union
+St. Louis, MO" 23.8965480948649
+"Walnut Park Branch
+5760 W. Florissant
+St. Louis, MO" 23.932388146365
+"Weber Road Branch
+4444 Weber Rd.
+St. Louis, MO" 23.9641730418446
+"Hartford Public Library District
+143 West Hawthorne Street
+Hartford, IL" 24.0035184274416
+"Buder Branch Library
+4401 Hampton Avenue
+St. Louis, MO" 24.005552427398
+"Machacek Branch
+6424 Scanlan Avenue
+St. Louis, MO" 24.3214614025906
+"Roxana Public Library District
+200 North Central Avenue
+Roxana, IL" 24.389524749869
+"Marketplace Minibranch
+6548 Manchester Avenue
+St. Louis, MO" 24.5696581070653
+"Red Bud Public Library
+925 South Main Street
+Red Bud, IL" 24.6317718412219
+"Cliff Cave Branch
+5430 Telegraph Rd.
+St. Louis, MO" 24.7062749180508
+"Tilden Public Library
+540 Pine Street
+Tilden, IL" 24.8433894141191
+"Lewis And Clark Branch
+9909 Lewis And Clark Blvd.
+St. Louis, MO" 25.1913413077107
+"Charing Cross Branch
+356 N. Skinker
+St. Louis, MO" 25.1986132077805
+"Wood River Public Library
+326 East Ferguson Avenue
+Wood River, IL" 25.4176693584578
+"University City Public Library
+6701 Delmar Blvd.
+University City, MO" 25.7843141052464
+"Maplewood Public Library
+7550 Lohmeyer Ave.
+Maplewood, MO" 25.9175917326525
+"Richmond Heights Memorial Library
+8001 Dale Avenue
+Richmond Heights, MO" 26.4206031769249
+"Natural Bridge Branch
+7606 Natural Bridge Rd.
+St. Louis, MO" 26.6246207709539
+"East Alton Public Library District
+250 Washington Avenue
+East Alton, IL" 26.7828920489789
+"Worden Public Library District
+111 East Wall Street
+Worden, IL" 26.9145296569268
+"Tesson Ferry Branch
+9920 Lin-Ferry Dr.
+St. Louis, MO" 26.9316887247337
+"Case-Halstead Public Library
+571 Franklin Street
+Carlyle, IL" 26.9478949983202
+"City Of Webster Groves Municipal Library
+301 E. Lockwood Avenue
+Webster Groves, MO" 27.0039311886799
+"Bethalto Public Library District
+321 South Prairie Street
+Bethalto, IL" 27.1383506742047
+"Brentwood Public Library
+8765 Eulalie Ave
+Brentwood, MO" 27.1401977692521
+"Mid-County Branch
+7821 Maryland Ave.
+Clayton, MO" 27.1555232044721
+"Valmeyer Public Library District
+300 South Cedar Bluff Drive
+Valmeyer, IL" 27.986643557558
+"Ferguson Municipal Public Library District
+35 N. Florissant Rd.
+Ferguson, MO" 28.1123845795969
+"Coulterville Public Library
+103 South Fourth Street
+Coulterville, IL" 28.1733745600544
+"Indian Trails Branch
+8400 Delport Dr.
+Vinita Park, MO" 28.2230247035604
+"Rock Hill Public Library
+9741 Manchester Road
+Rock Hill, MO" 28.2948109233517
+"Oak Bend Branch
+842 S. Holmes Ave.
+St. Louis, MO" 29.043070781641
+"Nashville Public Library
+219 East Elm Street
+Nashville, IL" 29.0945007636757
+"Fox Branch
+2103 Jeffco Blvd.
+Arnold, MO" 29.3902485124546
+"Jamestown Bluffs Branch
+4153 N. Hwy. 67
+Florissant, MO" 29.7212932133586
+"Kirkwood Public Library
+140 East Jefferson Ave
+Kirkwood, MO" 29.835031265269
+"Hayner Public Library District
+326 Belle Street
+Alton, IL" 30.0961740546424
+"Youth Library
+401 State Street
+Alton, IL" 30.1277084787221
+"Sparta Public Library
+211 West Broadway
+Sparta, IL" 30.1888358280545
+"Saint Louis County Library
+1640 South Lindbergh Blvd
+St. Louis, MO" 30.3371063313383
+"St. Louis County Library
+1640 S. Lindbergh Blvd.
+St. Louis, MO" 30.3371063313383
+"Florissant Valley Branch
+195 New Florissant Rd. S.
+Florissant, MO" 30.4924054837397
+"Rock Road Branch
+10267 St. Charles Rock Rd.
+St. Ann, MO" 31.0843784436679
+"Central Public Library District
+701 Oak Street A
+Evansville, IL" 31.5161527363858
+"Evansville Public Library
+602 Public Street
+Evansville, IL" 31.5739442022069
+"Alton Square Branch Library
+210 Alton Square
+Alton, IL" 31.6559000627074
+"Hoffman Area Branch Library
+100 N. Broadway
+Hoffman, IL" 32.0044391674591
+"Meramec Valley Branch
+645 New Smizer Mill Rd.
+Fenton, MO" 32.3896833475423
+"Staunton Public Library
+306 West Main Street
+Staunton, IL" 32.6629203492895
+"Prairie Commons Branch
+915 Utz Ln.
+Hazelwood, MO" 32.7495975142483
+"Windsor Branch
+7479 Metropolitan Blvd.
+Barnhart, MO" 32.9825174113576
+"Greenville Public Library
+414 West Main Street
+Greenville, IL" 33.895342122265
+"Valley Park Community Library
+320 Benton Street
+Valley Park, MO" 34.1987820696865
+"Bridgeton Trails Branch
+3455 Mckelvey Rd.
+Bridgeton, MO" 34.2296091660206
+"Herculaneum Public Library
+1 Parkwood Ct.
+Herculaneum, MO" 34.3176018345442
+"Grand Glaize Branch
+1010 Meramec Station Rd.
+Manchester, MO" 34.8063821386352
+"Thornhill Branch
+12863 Willowyck Dr.
+St. Louis, MO" 34.843675969703
+"Bunker Hill Public Library District
+220 East Warren Street
+Bunker Hill, IL" 34.9699174888638
+"Crystal City Public Library
+736 Mississippi Avenue
+Crystal City, MO" 35.7652567869403
+"Festus Public Library
+222 N. Mill Street
+Festus, MO" 36.6450972029954
+"North County Branch
+1825 Commonwealth Road
+Portage Des Sioux, MO" 37.2681772302547
+"Jefferson County Library District
+5678 State Road Pp
+High Ridge, MO" 37.3490579012426
+"Northwest Branch
+3033 High Ridge Blvd.
+High Ridge, MO" 37.3757640861887
+"Mount Olive Public Library
+100 North Plum Street
+Mount Olive, IL" 37.5412749802089
+"Brighton Memorial Public Library
+110 North Main Street
+Brighton, IL" 37.652372095243
+"Frank Bertetti Benld Public Library
+308 East Central Avenue
+Benld, IL" 38.1717702288023
+"Allen Mccarthy Branch Library
+1500 Case
+Centralia, IL" 38.3671751927251
+"Irvington Branch Library
+500 Superior
+Irvington, IL" 38.394740185197
+"Dubois Branch Library
+5506 E Main St
+Dubois, WY" 38.4090771835584
+"Percy Reading Center
+307 West Pine
+Percy, IL" 38.5845789183076
+"Steeleville Area Public Library District
+625 South Sparta Street
+Steeleville, IL" 38.8502543056123
+"Kathryn Linnemann Branch
+2323 Elm Street
+St. Charles, MO" 38.976780568988
+"Ashley Public Library District
+70 North Second Street
+Ashley, IL" 39.0715984231583
+"Centralia Regional Library District
+515 East Broadway Avenue
+Centralia, IL" 39.2930940662872
+"Samuel C. Sachs Branch
+16400 Burkhardt Place
+Chesterfield, MO" 39.3726829163619
+"Sandoval Branch Library
+101 N. Broadway
+Sandoval, IL" 40.1471268667076
+"Gillespie Public Library
+201 West Chestnut Street
+Gillespie, IL" 40.3826945524439
+"Mcclay Branch
+2760 Mcclay Road
+St. Charles, MO" 40.445621707776
+"Pinckneyville Public Library
+312 South Walnut Street
+Pinckneyville, IL" 41.1750511187861
+"Willisville Village Library
+803 Broadway Street
+Willisville, IL" 41.295811819981
+"Ste. Genevieve Branch Library
+21388 Hwy 32
+Ste. Genevieve, MO" 42.0026829956391
+"Eureka Hills Branch
+103 Hilltop Village Center
+Eureka, MO" 42.6746687095993
+"Kisker Road Branch
+1000 Kisker Road
+St. Charles, MO" 43.1247581717481
+"Patoka Public Library
+210 West Bond Street
+Patoka, IL" 43.4921671010535
+"Library District Administrative Office
+77 Boone Hills Drive
+St. Peters, MO" 43.562636389316
+"Saint Charles City-County Library District
+77 Boone Hills Dr.
+St. Peters, MO" 43.562636389316
+"Spencer Road Branch
+427 Spencer Road
+St. Peters, MO" 43.6138368255554
+"Chester Public Library
+733 State Street
+Chester, IL" 44.0675144707963
+"Litchfield Carnegie Public Library
+400 North State Street
+Litchfield, IL" 45.1949758065292
+"Hillsboro Public Library
+214 School Street
+Hillsboro, IL" 46.7014051257171
+"Jerseyville Public Library
+105 North Liberty Street
+Jerseyville, IL" 47.359985856045
+"De Soto Public Library
+712 South Main Street
+De Soto, MO" 47.4423170894339
+"Middendorf-Kredell Branch
+2750 Highway K
+Ofallon, MO" 48.1817144475433
+"Pacific Branch
+140 West St. Louis
+Pacific, MO" 48.1884989819935
+"South County Public Library District
+106 West Main Street
+Brussels, IL" 48.6021222735233
+"Bryan-Bennett Library
+217 West Main Street
+Salem, IL" 49.4608626612419
+"Library Express At Winghaven
+7435 Village Center Drive
+Ofallon, MO" 49.5035709457511
+"Deer Run Branch
+1300 North Main Street
+Ofallon, MO" 49.6693022676639
+"Du Quoin Public Library
+28 South Washington St.
+Du Quoin, IL" 49.863256624645
+"Duquoin Public Library
+28 South Washington Street
+Duquoin, IL" 49.863256624645
+"Evans Public Library District
+215 South Fifth Street
+Vandalia, IL" 50.1223390908312
+"Carlinville Public Library
+510 North Broad Street
+Carlinville, IL" 51.4290776502098
+"Sesser Public Library
+303 West Franklin Street
+Sesser, IL" 53.5746639722406
+"C.E. Brehm Memorial Public Library District
+101 South Seventh Street
+Mount Vernon, IL" 54.0797457536908
+"Corporate Parkway Branch
+1200 Corporate Parkway
+Wentzville, MO" 54.9657127407832
+"Rick Warren Memorial Public Library District
+114 South Fourth Street
+Elkville, IL" 55.3506625512968
+"South County Branch
+5577 Walnut St.
+Augusta, MO" 55.6311133270003
+"Doyle Public Library District
+109 South Obannon Street
+Raymond, IL" 55.9478082548708
+"Witt Township Memorial Library
+18 North Second Street
+Witt, IL" 56.2003099488797
+"Perryville Branch
+800 City Park Dr. Suite A
+Perryville, MO" 56.5759495912026
+"Kinmundy Public Library
+111 South Monroe Street
+Kinmundy, IL" 56.5765202844492
+"Boones Trail Branch
+10 Fiddlecreek Plaza
+New Melle, MO" 56.9818517129122
+"Bonne Terre Memorial Library
+5 Southwest Main Street
+Bonne Terre, MO" 57.2338875881075
+"Ramsey Public Library
+401 South Superior Street
+Ramsey, IL" 58.0353271890725
+"Greenfield Public Library
+515 Chestnut Street
+Greenfield, IL" 58.6096637175147
+"Christopher Public Library
+202 East Market Street
+Christopher, IL" 58.7922170528915
+"Desloge Public Library
+209 N. Desloge Drive
+Desloge, MO" 59.012155703195
+"Library Express At Discovery Village
+378 Shadow Pines Drive
+Wentzville, MO" 59.1229286192989
+"Park Hills Public Library
+16 S Coffman St
+Park Hills, MO" 60.0364718622262
+"Carrollton Public Library
+509 South Main Street
+Carrollton, IL" 60.2944543272141
+"Sallie Logan Public Library
+1808 Walnut Street
+Murphysboro, IL" 60.6052867922474
+"Nokomis Public Library
+22 South Cedar Street
+Nokomis, IL" 60.6472468081448
+"Royalton Public Library District
+305 South Dean Street
+Royalton, IL" 61.0822830715547
+"Farmington Public Library
+108 W. Harrison St.
+Farmington, MO" 61.1457932799047
+"Scenic Regional Library
+308 Hawthorne Drive
+Union, MO" 62.3903224927652
+"Zeigler Public Library
+102 East Maryland Street
+Zeigler, IL" 62.3919160849182
+"St. Clair Branch
+570 South Main
+St. Clair, MO" 62.5039420107702
+"Girard Township Library
+201 West Madison Street
+Girard, IL" 62.5782755219596
+"Washington Public Library
+415 Jefferson Street
+Washington, MO" 62.6255557663858
+"Farmersville-Waggoner Public Library District
+210 South Cleveland Street
+Farmersville, IL" 63.1996058377098
+"St. Elmo Public Library District
+311 West Cumberland Road
+Saint Elmo, IL" 63.509797866638
+"Benton Public Library District
+502 South Main Street
+Benton, IL" 63.511741067471
+"Kitchell Memorial Library
+300 South East 5th Street
+Morrisonville, IL" 64.2448312429031
+"Altenburg Branch
+66 Poplar St.
+Altenburg, MO" 64.8087174939959
+"Washington County Library
+235 E. High St.
+Potosi, MO" 65.7403445557292
+"Joseph R. Palmer Family Memorial Library
+502 Broadway
+Elsberry, MO" 66.0225638654887
+"Herrick Township Public Library
+303 North Broadway Street
+Herrick, IL" 66.0319289946405
+"Carbondale Public Library
+405 West Main Street
+Carbondale, IL" 66.1742981838552
+"Grand Tower Public Library
+111 Walnut Street
+Grand Tower, IL" 66.1922882337532
+"Grand Prairie Of The West Public Library District
+142 West Jackson Street
+Virden, IL" 66.5080909821477
+"West Frankfort Public Library
+402 East Poplar Street
+West Frankfort, IL" 67.4248403434953
+"Dahlgren Public Library
+po box 237
+Dahlgren, IL" 67.8159135456375
+"Powell Memorial Library
+951 W. College
+Troy, MO" 68.1512106621233
+"Herrin City Library
+120 North 13th Street
+Herrin, IL" 68.1868064279547
+"Logan Reading Center
+6342 Main Street
+Logan, IL" 68.4042879425822
+"White Hall Township Library
+119 East Sherman Street
+White Hall, IL" 68.5157360201287
+"Lanesborough Public Library
+83 North Main St. (Town Hall)
+Lanesborough, MA" 68.5450063798176
+"Anne West Lindsey Carterville District Library And Nature Pa
+117 South Division Street
+Carterville, IL" 68.6437505910676
+"Carterville Public Library
+117 S. Division Street
+Carterville, IL" 68.6437505910676
+"Altamont Public Library
+121 West Washington Avenue
+Altamont, IL" 69.5419259387274
+"Roodhouse Public Library
+220 West Franklin Street
+Roodhouse, IL" 70.6924597064848
+"Johnston City Public Library
+506 Washington Avenue
+Johnston City, IL" 71.2459406995343
+"Divernon Township Library
+221 South Second Street
+Divernon, IL" 71.5150226742345
+"Divernon Township Library
+221 South Second
+Divernon, IL" 71.5150226742345
+"Carnegie-Schuyler Library
+303 East Second Street
+Pana, IL" 71.8912202041612
+"Warrenton Branch
+912 South Hwy 47
+Warrenton, MO" 71.9366014932172
+"Fredericktown Branch Library
+115 S. Main Street
+Fredericktown, MO" 72.1076060689156
+"Dry Point Township Library
+po box 275
+Cowden, IL" 72.3881522631204
+"Beecher City Branch Library
+205 S. Sweazy St.
+Beecher City, IL" 72.7816339232264
+"Auburn Public Library
+338 West Jefferson Street
+Auburn, IL" 72.8285406131183
+"Waverly Public Library
+291 North Pearl Street
+Waverly, IL" 72.8764316357891
+"Alto Pass Branch Library
+25 N. Elm St.
+Alto Pass, IL" 73.2491430729908
+"New Haven Branch
+901 Maupin
+New Haven, MO" 73.8435371702902
+"Pawnee Public Library
+613 Douglas Street
+Pawnee, IL" 74.0551626943274
+"Sullivan Public Library
+104 West Vine St
+Sullivan, MO" 74.3777166102953
+"Flora Public Library
+216 North Main Street
+Flora, IL" 74.5106192809018
+"Wolf Lake Branch Library
+4720 State Rt. 3 North
+Wolf Lake, IL" 74.7101079113441
+"Marion Carnegie Library
+206 South Market Street
+Marion, IL" 75.5705069917833
+"Taylorville Public Library
+121 West Vine Street
+Taylorville, IL" 75.9187043415657
+"Pittsburg Branch Library
+302 W. Avery St.
+Pittsburg, IL" 76.1049701302385
+"Cobden Branch Library
+100 S. Front St.
+Cobden, IL" 77.1659341915075
+"Ozark Regional Library
+402 N Main St
+Ironton, MO" 77.4083564371339
+"Mccoy Memorial Library
+118 South Washington Street
+Mcleansboro, IL" 78.0095903386729
+"Chatham Area Public Library District
+600 East Spruce Street
+Chatham, IL" 78.5629939276543
+"Clarksville Public Library
+401 Second Street
+Clarksville, MO" 80.043968421311
+"Bourbon Branch Library
+575 Elm St.
+Bourbon, MO" 80.1379858775001
+"Assumption Public Library District
+205 North Oak Street
+Assumption, IL" 80.317153992156
+"Gerald Area Library
+357 S. Main
+Gerald, MO" 80.5321614355736
+"Crab Orchard Public Library District
+20012 Crab Orchard Road
+Marion, IL" 80.7287643817795
+"Jackson Public Library
+100 N. Missouri St.
+Jackson, MO" 80.8819637440383
+"Riverside Regional Library
+204 S. Union Ave.
+Jackson, MO" 80.8952691314402
+"Steelville Branch Library
+107 Third St.
+Steelville, MO" 80.9937546970919
+"Helen Matthes Library
+100 East Market Avenue
+Effingham, IL" 81.3789399197316
+"West Sangamon Public Library District
+103 East Illinois Street
+New Berlin, IL" 81.8278256373643
+"Fairfield Public Library
+300 South East Second Street
+Fairfield, IL" 81.8504681903722
+"Stinson Memorial Public Library District
+409 South Main Street
+Anna, IL" 81.914508313415
+"Winchester Public Library
+215 North Main Street
+Winchester, IL" 82.052086753527
+"Jonesboro Public Library
+412 South Main Street
+Jonesboro, IL" 82.2861217696473
+"Shelbyville Public Library
+154 North Broadway Street
+Shelbyville, IL" 82.673132330074
+"Galatia Public Library District
+217 South Main Cross Street
+Galatia, IL" 83.2665610810209
+"Stonington Township Public Library
+500 East North Street
+Stonington, IL" 84.0645069064492
+"Jacksonville Public Library
+201 West College Avenue
+Jacksonville, IL" 84.7210434769157
+"Rochester Public Library District
+1 Community Drive
+Rochester, IL" 85.0002142641867
+"Bollinger County Library
+302 Conrad Street
+Marble Hill, MO" 85.8532525712536
+"Hermann Branch
+113 East Fourth
+Hermann, MO" 86.2239945862003
+"Municipal Library District Of The City Of Cape Girardeau
+711 N Clark
+Cape Girardeau, MO" 86.5793188030558
+"Moweaqua Public Library District
+122 North Main St
+Moweaqua, IL" 87.3092892645346
+"Lincoln Library
+326 South Seventh Street
+Springfield, IL" 87.5964969782723
+"Moweaqua Public Library District
+600 North Putnam Street
+Moweaqua, IL" 87.787685182603
+"Enfield Reading Center
+111 E. Main St.
+Enfield, IL" 87.870922979112
+"Blue Mound Memorial Library District
+213 North Saint Marie Street
+Blue Mound, IL" 89.0345969354634
+"Carrier Mills-Stonefort Public Library District
+109 Oak Street
+Carrier Mills, IL" 89.1192976762152
+"Pittsfield Public Library
+205 North Memorial Street
+Pittsfield, IL" 89.6976977920183
+"Louisiana Public Library
+121 North Third Stret
+Louisiana, MO" 89.7177320810802
+"Dongola Public Library District
+114 North East Front Street
+Dongola, IL" 89.9532187249228
+"Owensville Branch
+107 North First
+Owensville, MO" 90.158705546173
+"Harrisburg Public Library District
+2 West Walnut Street
+Harrisburg, IL" 90.538405765774
+"Recklein Memorial Branch Library
+305 N. Smith St.
+Cuba, MO" 90.5586155698345
+"Bowling Green Public Library
+201 W. Locust Street
+Bowling Green, MO" 90.9678142776642
+"Bluffs Public Library
+110 North Bluff Street
+Bluffs, IL" 91.2024719383492
+"Norris City Memorial Public Library District
+603 South Division Street
+Norris City, IL" 91.6955101594316
+"Windsor Storm Memorial Public Library District
+102 South Maple Street
+Windsor, IL" 91.8555202395612
+"Eldorado Memorial Public Library District
+1001 Grant Street
+Eldorado, IL" 92.1526465915962
+"Pleasant Plains Branch
+555 Buckeye Rd
+Pleasant Plains, IL" 92.5232351464972
+"South Macon Public Library District
+451 West Glenn Street
+Macon, IL" 92.5686967757263
+"Riverton Village Library
+1200 East Riverton Road
+Riverton, IL" 92.6799984940268
+"Neoga Public Library District
+550 Chestnut Avenue
+Neoga, IL" 92.6890722138865
+"Griggsville Public Library
+119 South Corey Street
+Griggsville, IL" 93.1961495266496
+"Ashland Public Library
+125 W. Editor
+Ashland, IL" 93.4646980276641
+"Prairie Skies Public Library District
+125 West Editor Street
+Ashland, IL" 93.4646980276641
+"Scott City Branch
+2016 Main St.
+Scott City, MO" 93.5014571310758
+"Annapolis Branch Library
+204 School Street
+Annapolis, MO" 93.9057546227066
+"Vienna Carnegie Public Library
+401 Poplar Street
+Vienna, IL" 93.9704850902326
+"Montgomery City Public Library
+224 North Allen
+Montgomery City, MO" 94.0119268625998
+"Sherman Public Library District
+2100 East Andrew Road
+Sherman, IL" 94.4838982403635
+"Chaffee Public Library
+202 Wright Avenue
+Chaffee, MO" 94.7671922951001
+"Olney Public Library
+400 West Main Street
+Olney, IL" 96.2853577186664
+"Illiopolis-Niantic Public Library District
+401 Sixth And Mary Street
+Illiopolis, IL" 96.4612845573028
+"Newton Public Library District
+100 South Van Buren Street
+Newton, IL" 96.4782840966553
+"M-C River Valley Public Library District
+304 Main Street
+Meredosia, IL" 96.8117335223471
+"Marrowbone Public Library District
+216 West Main Street
+Bethany, IL" 96.9545954945742
+"Carmi Public Library
+103 Slocumb Street
+Carmi, IL" 97.0025121190332
+"Centerville Branch
+220 Pine Street
+Centerville, MO" 97.3977437047251
+"Reynolds County Library District
+2306 Pine St.
+Centerville, MO" 97.3977437047251
+"Albion Public Library
+6 North Fourth Street
+Albion, IL" 98.1103532305415
+"Athens Municipal Library
+410 East Hargrave Street
+Athens, IL" 98.3451559847924
+"Dodge Memorial Public Library District
+22440 Railroad Street
+Olive Branch, IL" 98.6608467103881
+"Williamsville Public Library
+141 West Main Street
+Williamsville, IL" 99.010918573572
+"Elizabeth Titus Memorial Library
+2 West Water Street
+Sullivan, IL" 99.0446183924498
+"Virginia Memorial Public Library
+100 North Main Street
+Virginia, IL" 99.2478102232678
+"Wellsville Public Library
+108 W. Hudson St.
+Wellsville, MO" 99.3509969909988
+"Advance Community Library
+308 Gabriel Ave
+Advance, MO" 99.5695111310801
+"Mount Zion Public Library District
+115 West Main Street
+Mount Zion, IL" 99.9121332890223

@@ -1,0 +1,67 @@
+"location" "miles"
+"Mountain View Branch Library
+150 South Bragaw Street
+Anchorage, AK" 2.13559779941794
+"Muldoon Branch Library
+5530 East Northern Lights Boulevard
+Anchorage, AK" 4.29598619492612
+"Anchorage Public Library
+3600 Denali Street
+Anchorage, AK" 5.12381789118576
+"Chugiak-Eagle River Branch Library
+12400 Old Glenn Highway
+Eagle River, AK" 9.77772513449919
+"Big Lake Public Library
+3212 South Big Lake Road
+Wasilla, AK" 19.2647226707499
+"Big Lake Public Library
+3140 South Big Lake Road
+Big Lake, AK" 20.2588266535655
+"Hope Public Library
+18487 A Avenue
+Hope, AK" 23.8450364737842
+"Wasilla Public Library
+391 North Main Street
+Wasilla, AK" 25.8657537516978
+"Scott And Wesley Gerrish Branch Library
+169 Hightower Street
+Girdwood, AK" 30.2889924630924
+"Gerrish (Girdwood) Branch Library
+250 Egloff Drive
+Girdwood, AK" 30.3449094998823
+"Palmer Public Library
+655 South Valley Way
+Palmer, AK" 33.2809882145425
+"Willow Public Library
+23557 West Willow Community Center
+Willow, AK" 34.9079128058455
+"Sutton Public Library
+11317 North Jonesville Mine Road
+Sutton, AK" 43.8125257518313
+"Sutton Public Library
+11317 N Jonesville Mine Rd
+Sutton, AK" 43.8125257518313
+"Cooper Landing Community Library
+p.o. box 517
+Cooper Landing, AK" 52.8288248695418
+"Moose Pass Public Library
+200 Depot Road
+Moose Pass, AK" 55.0567713167535
+"Soldotna Public Library
+235 North Binkley Street
+Soldotna, AK" 67.6794679226164
+"Kenai Community Library
+163 Main Street Loop
+Kenai, AK" 68.1457907404187
+"Talkeetna Public Library
+23151 South Talkeetna Spur Road
+Talkeetna, AK" 73.9211897919578
+"Trapper Creek Public Library
+8901 East Devonshire Drive
+Trapper Creek, AK" 74.2513334003946
+"Seward Community Library
+238 5th Avenue
+Seward, AK" 80.613190996379
+"Kasilof Public Library
+58200 Sterling Highway
+Kasilof, AK" 81.7753905069625

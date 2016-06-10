@@ -1,0 +1,1258 @@
+"location" "miles"
+"Kern County Library - California City
+9507 California City Boulevard
+California City, CA" 14.511793758846
+"Kern County Library - Boron
+26967 Twenty Mule Team Road
+Boron, CA" 14.6186821804906
+"Kern County Library - Wanda Kirk (Rosamond)
+3611 Rosamond Blvd.
+Rosamond, CA" 17.74363564548
+"Kern County Library - Mojave
+16916 1-2 Highway 14, Space D2
+Mojave, CA" 18.967987940544
+"Lancaster Library
+601 W. Lancaster Blvd
+Lancaster, CA" 21.0555513546374
+"Lake Los Angeles Library
+16921 East Ave. O A
+Palmdale, CA" 21.5432658236699
+"Quartz Hill Library
+42018 N. 50th St. W.
+Quartz Hill, CA" 26.7294382183142
+"Youth Library
+38510 N. Sierra Hwy
+Palmdale, CA" 26.9148588469713
+"Palmdale City Library
+700 E. Palmdale Blvd.
+Palmdale, CA" 27.0624952129749
+"Littlerock Library
+35119 80th Street East
+Littlerock, CA" 28.5010307928496
+"Kern County Library - Tehachapi
+1001 West Tehachapi Boulevard, Suite A-400
+Tehachapi, CA" 35.5762853911187
+"Adelanto Branch Library
+11497 Bartlett
+Adelanto, CA" 36.1368005162311
+"Wrightwood Branch Library
+6014 Park Dr.
+Wrightwood, CA" 41.6738171297211
+"Victorville City Library
+15011 Circle Drive
+Victorville, CA" 43.4178040479106
+"Apple Valley Branch Library
+15001 Wakita Rd
+Apple Valley, CA" 47.4726758299479
+"Hesperia Branch Library
+9565 Seventh Ave.
+Hesperia, CA" 47.6381317748801
+"Canyon Country Jo Anne Darcy Library
+18601 Soledad Canyon Road
+Santa Clarita, CA" 47.7180271037531
+"Barstow Branch Library
+304 E. Buena Vista
+Barstow, CA" 49.1258350745758
+"Kern County Library - Ridgecrest
+131 East Las Flores Avenue
+Ridgecrest, CA" 50.3609422708185
+"Valencia Library
+23743 West Valencia Blvd.
+Santa Clarita, CA" 51.429452501113
+"Sunland-Tujunga Branch
+7771 Foothill Blvd.
+Tujunga, CA" 51.633596283274
+"La Crescenta Library
+4521 La Crescenta Ave.
+La Crescenta, CA" 52.2845046501089
+"Newhall Library
+22704 West Ninth St.
+Santa Clarita, CA" 52.3617366006863
+"Altadena Library District
+600 E. Mariposa St.
+Altadena, CA" 52.727844881576
+"La Canada Flintridge Library
+4545 North Oakwood Ave.
+La Canada Flintridge, CA" 52.7847101600799
+"Sylmar Express
+14430 Polk St.
+Sylmar, CA" 52.9997579152821
+"Montrose Branch Library
+2465 Honolulu Ave.
+Montrose, CA" 53.2446908098399
+"Lake View Terrace
+12002 Osborne St.
+Lake View Terrace, CA" 53.3751175854641
+"Bob Lucas Memorial Library And Literacy Center
+2159 N. Lincoln
+Altadena, CA" 53.517930355677
+"Sierra Madre Public Library
+440 W. Sierra Madre Blvd.
+Sierra Madre, CA" 53.6382669800666
+"Santa Catalina Branch Library
+999 E. Washington Blvd.
+Pasadena, CA" 53.9479710584341
+"Monrovia Public Library
+321 S. Myrtle Ave.
+Monrovia, CA" 54.0095110687704
+"San Fernando Library
+217 N. Maclay Ave.
+San Fernando, CA" 54.0509104499464
+"Hastings Branch Library
+3325 E. Orange Grove Blvd.
+Pasadena, CA" 54.0738215175289
+"La Pintoresca Branch Library
+1355 N. Raymond Ave.
+Pasadena, CA" 54.2434155199921
+"Duarte Library
+1301 Buena Vista St.
+Duarte, CA" 54.5859599379341
+"Glendora Library Cultural Center
+140 South Glendora Ave.
+Glendora, CA" 54.5953909656789
+"Azusa City Library
+729 N. Dalton Ave.
+Azusa, CA" 54.5977427949135
+"Linda Vista Branch Library
+1281 Bryant St.
+Pasadena, CA" 54.6530553566235
+"Chevy Chase Branch Library
+3301 E. Chevy Chase Dr.
+Glendale, CA" 54.7882536190712
+"Villa Parke Community Center Library
+363 E. Villa
+Pasadena, CA" 55.1151362399197
+"Pacoima Branch
+13605 Van Nuys Blvd.
+Pacoima, CA" 55.1434159168592
+"Lamanda Park Branch Library
+140 S. Altadena Dr.
+Pasadena, CA" 55.2677853814077
+"Pasadena Public Library
+285 E. Walnut St.
+Pasadena, CA" 55.448463004967
+"Hill Ave. Branch Library
+55 S. Hill Ave.
+Pasadena, CA" 55.4627249922848
+"Arcadia Public Library
+20 W. Duarte Road
+Arcadia, CA" 55.609946753262
+"Brand Library
+1601 W. Mountain St.
+Glendale, CA" 55.7834311214011
+"Sun Valley Branch
+7935 Vineland Ave.
+Sun Valley, CA" 56.1514002126991
+"Burbank Public Library
+110 N. Glenoaks Blvd.
+Burbank, CA" 56.3996101342921
+"Casa Verdugo Branch Library
+1151 N. Brand Blvd.
+Glendale, CA" 56.5692048827899
+"Charter Oak Library
+20540-K Arrow Hwy.
+Covina, CA" 56.6009685179944
+"San Dimas Library
+145 North Walnut Ave.
+San Dimas, CA" 56.6716137713724
+"La Verne Library
+3640 D. St.
+La Verne, CA" 56.6767086662444
+"Irwindale Public Library
+5050 N. Irwindale Ave.
+Irwindale, CA" 56.7329548103259
+"Grandview Branch Library
+1535 Fifth St.
+Glendale, CA" 56.7626038561202
+"San Rafael Branch Library
+1240 Nithsdale
+Pasadena, CA" 56.8904482406856
+"Kern County Library - Arvin
+201 Campus Drive
+Arvin, CA" 56.9178177438855
+"Live Oak Library
+4153-55 East Live Oak Ave.
+Arcadia, CA" 56.9825706763319
+"Allendale Branch Library
+1130 S. Marengo Ave.
+Pasadena, CA" 57.0536509905699
+"Crowell Public Library
+1890 Huntington Dr.
+San Marino, CA" 57.0987990735576
+"Temple City Library
+5939 Golden West Ave.
+Temple City, CA" 57.2104163065828
+"Granada Hills Branch
+10640 Petit Ave.
+Granada Hills, CA" 57.226255188139
+"Northwest Branch
+3323 W. Victory Blvd.
+Burbank, CA" 57.3443946355948
+"Eagle Rock Branch
+5027 Caspar Ave.
+Los Angeles, CA" 57.4217156667482
+"Glendale Public Library
+222 E. Harvard St.
+Glendale, CA" 57.7596285275398
+"Covina Public Library
+234 N. Second Ave.
+Covina, CA" 57.8165674349552
+"Panorama City Branch
+14345 Roscoe Blvd.
+Panorama City, CA" 57.9544903555259
+"Baldwin Park Library
+4181 Baldwin Park Blvd.
+Baldwin Park, CA" 57.9847614772283
+"South Pasadena Public Library
+1100 Oxley St.
+South Pasadena, CA" 58.0157586544064
+"Claremont Library
+208 North Harvard Ave.
+Claremont, CA" 58.1240541120076
+"Rancho Cucamonga Public Library
+7368 Archibald Avenue
+Rancho Cucamonga, CA" 58.1300294180249
+"Buena Vista Branch
+300 N. Buena Vista Street
+Burbank, CA" 58.2159543960612
+"Valley Plaza Branch
+12311 Vanowen St.
+North Hollywood, CA" 58.2184156320431
+"Norwood Library
+4550 North Peck Rd.
+El Monte, CA" 58.3346325663262
+"San Gabriel Library
+500 South Del Mar Ave.
+San Gabriel, CA" 58.5094869285886
+"Arroyo Secco Regional Branch
+6145 N. Figueroa St.
+Los Angeles, CA" 58.5184896430719
+"Mid-Valley Regional Branch Library And Bookmo
+16244 Nordhoff St.
+North Hills, CA" 58.5233743225889
+"Upland Public Library
+450 N. Euclid Ave.
+Upland, CA" 58.7124286778507
+"Crestline Branch Library
+24105 Lake Gregory Dr.
+Crestline, CA" 58.7214116615012
+"Porter Ranch Branch
+11371 Tampa Ave.
+Los Angeles, CA" 58.7296243492906
+"Alhambra Public Library
+101 S. First St.
+Alhambra, CA" 59.0335581735951
+"West Covina Library
+1601 West Covina Pkwy.
+West Covina, CA" 59.0718031982498
+"Kern County Library - Kern River Valley
+7054 Lake Isabella Blvd.
+Lake Isabella, CA" 59.140845209421
+"Rosemead Library
+8800 Valley Blvd.
+Rosemead, CA" 59.3215711792812
+"North Hollywood Regional Branch
+5211 Tujunga Ave.
+North Hollywood, CA" 59.3805512005876
+"Atwater Village Branch
+3379 Glendale Blvd.
+Los Angeles, CA" 59.4352414498628
+"Kern County Library - Frazier Park
+3015 Mt. Pinos Way
+Frazier Park, CA" 59.8154398872513
+"El Monte Library
+3224 Tyler Ave.
+El Monte, CA" 59.846336937704
+"Montclair Branch Library
+9955 Fremont Ave.
+Montclair, CA" 59.9321979065445
+"El Sereno Branch
+4990 Huntington Dr. South
+Los Angeles, CA" 60.0584476467141
+"Northridge Branch
+9051 Darby Ave.
+Northridge, CA" 60.0974007057917
+"Van Nuys Branch
+6250 Sylmar Ave. Mall
+Van Nuys, CA" 60.173205573948
+"Sunkist Library
+840 North Puente Ave.
+La Puente, CA" 60.2949193227609
+"Cypress Park Branch
+1150 Cypress Ave.
+Los Angeles, CA" 60.4906267838332
+"Pomona Public Library
+625 S. Garey Ave.
+Pomona, CA" 60.7215608365929
+"Lake Arrowhead Branch Library
+27235 Highway 189
+Blue Jay, CA" 60.8742062999581
+"Ontario City Library
+215 East C Street
+Ontario, CA" 60.9285876321664
+"Los Feliz Branch
+1874 Hillhurst Ave.
+Los Angeles, CA" 60.9768025359091
+"Studio City Branch
+12511 Moorpark St.
+Studio City, CA" 61.0162948694942
+"Bruggemeyer Memorial Library
+318 S. Ramona Ave.
+Monterey Park, CA" 61.2970359980954
+"Monterey Park Bruggemeyer Library
+318 S. Ramona Avenue
+Monterey Park, CA" 61.2970359980954
+"South El Monte Library
+1430 N. Central Ave.
+South El Monte, CA" 61.4624812246452
+"Lincoln Heights Branch
+2530 Workman St.
+Los Angeles, CA" 61.4688001400299
+"Chatsworth Express
+10044 Old Depot Plaza Rd
+Chatsworth, CA" 61.4707191446802
+"Cahuenga Branch
+4591 Santa Monica Blvd.
+Los Angeles, CA" 61.9205848699465
+"Sherman Oaks Branch
+14245 Moorpark St.
+Sherman Oaks, CA" 62.0423209828459
+"Kern County Library - Lamont
+8304 Segrue Road
+Lamont, CA" 62.1477736403239
+"Walnut Library
+21155 La Puente Rd.
+Walnut, CA" 62.180603040869
+"Goldwyn Hollywood Regional Branch
+1623 Ivar Ave.
+Los Angeles, CA" 62.1862901779327
+"City Terrace Library
+4025 East City Terrace Dr.
+Los Angeles, CA" 62.2358409439957
+"Piru Library
+3811 Center St.
+Piru, CA" 62.3862893361197
+"Fontana Branch Library
+8334 Emerald St.
+Fontana, CA" 62.5559522502735
+"La Puente Library
+15920 East Central Ave.
+La Puente, CA" 62.6712233899459
+"Wofford Heights Branch Library
+6400-B Wofford Boulevard
+Wofford Heights, CA" 62.7110996954415
+"Echo Park Library
+1410 W. Temple St.
+Los Angeles, CA" 62.8412927871208
+"West Valley Regional Branch
+19036 Vanowen St.
+Reseda, CA" 62.8877406616219
+"Malabar Branch
+2801 Wabash Ave.
+Los Angeles, CA" 62.9019062852115
+"Will And Ariel Durant Branch
+1403 N. Gardner St.
+Los Angeles, CA" 63.0064485910546
+"Chinatown Branch
+639 N. Hill St.
+Los Angeles, CA" 63.017629747652
+"Anthony Quinn Library
+3965 Cesar E. Chavez Ave.
+Los Angeles, CA" 63.2819182160815
+"John C. Fremont Branch
+6121 Melrose Ave.
+Los Angeles, CA" 63.376456961421
+"Lucerne Valley Branch Library
+33103 Old Woman Springs Rd.
+Lucerne Valley, CA" 63.4437076762154
+"East Los Angeles Library
+4801 East Third St.
+Los Angeles, CA" 63.4626579546936
+"Wilshire Branch
+149 N. St. Andrews Pl.
+Los Angeles, CA" 63.471953032562
+"Dorothy Inghram Branch Library
+1505 W. Highland Ave.
+San Bernardino, CA" 63.5578063676896
+"Benjamin Franklin Branch
+2200 E. First St.
+Los Angeles, CA" 63.5635442975363
+"Felipe De Neve Branch
+2820 W. Sixth St.
+Los Angeles, CA" 63.6101332241382
+"Howard M. Rowe Branch Library
+108 E. Marshall Blvd.
+San Bernardino, CA" 63.750926456255
+"Montebello Library
+1550 West Beverly Blvd.
+Montebello, CA" 63.7815410290587
+"Encino-Tarzana Library
+18231 Ventura Blvd.
+Tarzana, CA" 63.8039708400302
+"Little Tokyo Branch Library
+244 S. Alameda St.
+Los Angeles, CA" 63.8522824164227
+"Central Library
+630 West Fifth St.
+Los Angeles, CA" 63.8782995208297
+"Los Angeles Public Library
+630 W. Fifth St.
+Los Angeles, CA" 63.8782995208297
+"Diamond Bar Library
+1061 S. Grand Ave.
+Diamond Bar, CA" 63.952412037918
+"Chino Branch Library
+13180 Central Ave.
+Chino, CA" 63.9940982977636
+"Rialto Branch Library
+251 W. First St.
+Rialto, CA" 64.1616859849731
+"Canoga Park Branch
+7260 Owensmouth Ave.
+Canoga Park, CA" 64.2318014434444
+"Pio Pico Koreatown Branch
+694 S. Oxford
+Los Angeles, CA" 64.2969914611964
+"El Camino Real Library
+4264 East Whittier Blvd.
+Los Angeles, CA" 64.3853747891053
+"R. L. Stevenson Branch
+803 Spence St.
+Los Angeles, CA" 64.4294132977281
+"Simi Valley Library
+2969 Tapo Canyon Rd.
+Simi Valley, CA" 64.4397659133017
+"Trona Branch Library
+82805 Mt. View St.
+Trona, CA" 64.4629507181656
+"Hacienda Heights Library
+16010 La Monde St.
+Hacienda Heights, CA" 64.49810477459
+"Kaiser Branch Library
+11155 Almond Ave.
+Fontana, CA" 64.5507378016772
+"Fairfax Express
+161 S. Gardner St.
+Los Angeles, CA" 64.5726202569166
+"West Hollywood Library
+715 North San Vicente Blvd.
+West Hollywood, CA" 64.5948853602892
+"James S. Thalman Chino Hills Branch
+14020 City Center Drive
+Chino Hills, CA" 64.7081358346612
+"Kern County Library - Kernville
+48 Tobias Street
+Kernville, CA" 64.9585724851275
+"Bristow Park Library
+1466 S. Mcdonnell Ave.
+Commerce, CA" 64.9764514949403
+"Rowland Heights Library
+1850 Nogales St.
+Rowland Heights, CA" 64.9931648760913
+"Memorial Branch
+4625 W. Olympic Blvd.
+Los Angeles, CA" 64.9980187004299
+"Paul Villasenor Branch Library
+525 N. Mt. Vernon Ave.
+San Bernardino, CA" 65.2952416801902
+"Colony High Branch Library
+3850 East Riverside Drive
+Ontario, CA" 65.3004631217505
+"Atlantic Branch
+2269 S. Atlantic Blvd
+Commerce, CA" 65.4509369931839
+"Pico Rivera Library
+9001 Mines Ave.
+Pico Rivera, CA" 65.4510212023804
+"Bloomington Branch Library
+10145 Orchard St.
+Bloomington, CA" 65.4546225534739
+"Beverly Hills Public Library
+444 N. Rexford Dr.
+Beverly Hills, CA" 65.5982864260405
+"City Of Commerce Public Library
+5655 Jillson St.
+Commerce, CA" 65.6650399263141
+"Chet Holifield Library
+1060 South Greenwood Ave.
+Montebello, CA" 65.6933292886385
+"Norman F. Feldheym Library
+555 W. Sixth St.
+San Bernardino, CA" 65.7861770380856
+"Washington Irving Branch
+4117 W. Washington Blvd.
+Los Angeles, CA" 66.0429363148624
+"Sorensen Library
+11405 E. Rose Hedge Dr.
+Whittier, CA" 66.0694997912388
+"Whittier Public Library
+7344 S. Washington Ave.
+Whittier, CA" 66.2185057196281
+"San Bernardino County Library
+104 W. Fourth St.
+San Bernardino, CA" 66.2421747447418
+"Woodland Hills Branch
+22200 Ventura Blvd.
+Woodland Hills, CA" 66.4545556992149
+"Vernon Public Library
+4305 Santa Fe Ave.
+Vernon, CA" 66.4908283953184
+"Exposition Park Regional Branch
+3665 S. Vermont Ave.
+Los Angeles, CA" 66.5016860232725
+"Platt Branch
+23600 Victory Blvd.
+Los Angeles, CA" 66.5655235708729
+"Roxbury Park Senior Adult Library
+401 S. Roxbury Dr.
+Beverly Hills, CA" 66.5974561816341
+"Jefferson Branch
+2211 W. Jefferson Blvd.
+Los Angeles, CA" 66.746981445697
+"Robertson Branch
+1719 S. Robertson Blvd.
+Los Angeles, CA" 66.8157649468302
+"Running Springs Branch Library
+31976 Hill Top Blvd.
+Running Springs, CA" 66.9320127078016
+"Maywood Cesar Chavez Library
+4323 East Slauson Ave.
+Maywood, CA" 66.9731784138465
+"Vernon Branch
+4504 S. Central Ave.
+Los Angeles, CA" 67.0488141143216
+"Rivera Library
+7828 S. Serapis Ave.
+Pico Rivera, CA" 67.140855757695
+"Los Nietos Library
+11644 East Slauson Ave.
+Whittier, CA" 67.1450411474776
+"Greenwood Branch
+6134 S. Greenwood Ave.
+Commerce, CA" 67.1548428786628
+"Colton Public Library
+656 N. Ninth St.
+Colton, CA" 67.3152524042341
+"Baldwin Hills Branch
+2906 S. La Brea
+Los Angeles, CA" 67.3218044974655
+"Junipero Serra Branch
+4607 S. Main St.
+Los Angeles, CA" 67.4503417513244
+"Bell Library
+4411 East Gage Ave.
+Bell, CA" 67.5889946049418
+"Santa Fe Springs Neighborhood Center
+9255 Pioneer Blvd
+Santa Fe Springs, CA" 67.6826829436806
+"Glen Avon Library
+9244 Galena
+Riverside, CA" 67.7565983244094
+"Bell Gardens Library
+7110 S. Garfield Ave.
+Bell Gardens, CA" 67.8550711527687
+"Huntington Park Library
+6518 Miles Ave.
+Huntington Park, CA" 67.8973620303403
+"Vermont Square Branch
+1201 W. 48th St.
+Los Angeles, CA" 67.9678119850978
+"Luque Branch Library
+294 E. O St.
+Colton, CA" 68.0529560287057
+"Highland Sam J. Racadio Library Environmental Learning Center
+7863 Central Ave.
+Highland, CA" 68.1373992364411
+"Whittwood Branch Library
+10537 Santa Gertrudes Ave.
+Whittier, CA" 68.3301654108485
+"Kern County Library - Northeast
+3725 Columbus Street
+Bakersfield, CA" 68.3533361244659
+"Fillmore Library
+502 Second St.
+Fillmore, CA" 68.4364946761592
+"Santa Fe Springs City Library
+11700 E. Telegraph Rd.
+Santa Fe Springs, CA" 68.519204933023
+"Palms-Rancho Park Branch
+2920 Overland Ave.
+Los Angeles, CA" 68.5317077943054
+"Calabasas City Library
+200 Civic Center Way
+Calabasas, CA" 68.5630881182148
+"West Los Angeles Regional Branch
+11360 Santa Monica Blvd.
+Los Angeles, CA" 68.6102206091656
+"La Habra Branch Library
+221 E. La Habra Blvd.
+La Habra, CA" 68.6564354604573
+"Cudahy Library
+5218 Santa Ana St.
+Cudahy, CA" 68.657320809013
+"Donald Bruce Kaufman Brentwood Branch
+11820 San Vicente Blvd.
+Los Angeles, CA" 68.6859176580569
+"Florence Library
+1610 East Florence Ave.
+Los Angeles, CA" 68.7168456910675
+"Eastvale Library
+7447 Scholar Way
+Corona, CA" 68.7196091881929
+"Angeles Mesa Branch
+2700 W. 52nd St.
+Los Angeles, CA" 68.829125766421
+"John Muir Branch
+1005 W. 64th St.
+Los Angeles, CA" 69.0898633467411
+"Ascot Branch
+256 W. 70th St.
+Los Angeles, CA" 69.1551560251744
+"Betty Wilson Center Library Station
+11641 Florence Ave.
+Santa Fe Springs, CA" 69.1767578490478
+"Kern County Library - Holloway-Gonzales
+506 East Brundage Lane
+Bakersfield, CA" 69.3399893189808
+"Downey City Library
+11121 Brookshire Ave.
+Downey, CA" 69.4247792063148
+"Louis Robidoux Library
+5840 Mission Blvd.
+Riverside, CA" 69.4678280151422
+"Graham Library
+1900 East Firestone Blvd.
+Los Angeles, CA" 69.5676791390318
+"South Whittier Library
+14433 Leffingwell Rd.
+Whittier, CA" 69.5776235249164
+"Culver City Jullian Dixon Library
+4975 Overland Ave.
+Culver City, CA" 69.6430231036311
+"Brea Branch Library
+1 Civic Center Cir.
+Brea, CA" 69.6547007355437
+"Kern County Library - Baker
+1400 Baker Street
+Bakersfield, CA" 69.8436330330376
+"Grand Terrace Branch Library
+22795 Barton Rd.
+Grand Terrace, CA" 69.9258895533205
+"View Park Library
+3854 West 54th St.
+Los Angeles, CA" 69.9503833280024
+"Hyde Park Branch
+6527 Crenshaw Blvd.
+Los Angeles, CA" 69.9768586804515
+"Kern County Library - Eleanor Wilson
+1901 Wilson Road
+Bakersfield, CA" 70.0110219014648
+"Leland R. Weaver Library
+4035 Tweedy Blvd.
+South Gate, CA" 70.059051412768
+"Norwalk Library
+12350 Imperial Hwy.
+Norwalk, CA" 70.42432694131
+"Montana Avenue Branch Library
+1704 Montana Ave.
+Santa Monica, CA" 70.4253484076816
+"Beale Memorial Library
+701 Truxtun Avenue
+Bakersfield, CA" 70.4847125778996
+"Mar Vista Branch
+12006 Venice Blvd.
+Los Angeles, CA" 70.5386178233806
+"County Of Los Angeles Public Library
+7400 E. Imperial Highway
+Downey, CA" 70.612966433965
+"Highgrove Library
+530 W Center St
+Highgrove, CA" 70.7097358661629
+"Alma Reaves Woods Watts Branch
+10205 Compton Ave.
+Los Angeles, CA" 70.757894356179
+"Norco Library
+3954 Old Hamner
+Norco, CA" 70.7584097678627
+"La Mirada Library
+13800 La Mirada Blvd.
+La Mirada, CA" 70.7714774013522
+"Palisades Branch
+861 Alma Real Dr.
+Pacific Palisades, CA" 70.7965145101685
+"Loma Linda Branch Library
+25581 Barton Road
+Loma Linda, CA" 70.866080725211
+"Fairview Branch Library
+2101 Ocean Park Blvd.
+Santa Monica, CA" 70.8675753328627
+"Mark Twain Branch
+9621 S. Figueroa St.
+Los Angeles, CA" 71.0899935273171
+"Morningside Park Library
+3202 W. 85th St.
+Inglewood, CA" 71.1408785917699
+"Lynwood Library
+11320 Bullis Rd.
+Lynwood, CA" 71.1575905932357
+"Hollydale Library
+12000 South Garfield Ave.
+South Gate, CA" 71.387727604545
+"Santa Monica Public Library
+601 Santa Monica Blvd
+Santa Monica, CA" 71.4313267319019
+"Riverside Public Library
+3581 Mission Inn Ave.
+Riverside, CA" 71.5492458193504
+"Oak Park Library
+899 N. Kanan Rd.
+Oak Park, CA" 71.5738458062984
+"Yorba Linda Public Library
+18181 Imperial Highway
+Yorba Linda, CA" 71.5834370031771
+"Inglewood Public Library
+101 W. Manchester Blvd.
+Inglewood, CA" 71.5958100463548
+"Moorpark City Library
+699 Moorpark Ave.
+Moorpark, CA" 71.6288194159712
+"Moorpark City Library
+699 Moorpark Avenue
+Moorpark, CA" 71.6288194159712
+"Riverside County Library System
+4080 Lemon St, 4th Floor
+Riverside, CA" 71.80601084317
+"Willowbrook Library
+11838 Wilmington Ave.
+Los Angeles, CA" 71.8656062491721
+"Woodcrest Library
+1340 West 106th St.
+Los Angeles, CA" 71.9641882157734
+"Ocean Park Branch Library
+2601 Main St.
+Santa Monica, CA" 72.1277101463376
+"Lloyd Taber-Marina Del Rey Library
+4533 Admiralty Way
+Marina Del Rey, CA" 72.3169872808816
+"A. K. Smiley Public Library
+125 W. Vine St.
+Redlands, CA" 72.430077409095
+"Alondra Library
+11949 Alondra Blvd.
+Norwalk, CA" 72.4630564162318
+"Venice Branch
+501 S. Venice Blvd.
+Venice, CA" 72.5756348979019
+"Eastside Cybrary Connection
+4016 Chicago Avenue
+Riverside, CA" 72.7085436750828
+"Placentia Library District
+411 E. Chapman Ave.
+Placentia, CA" 72.8211695066353
+"Marcy Branch Library
+3711 Central Ave.
+Riverside, CA" 72.8461682907775
+"Crenshaw-Imperial Library
+11141 Crenshaw Blvd
+Inglewood, CA" 72.8752807330197
+"Fullerton Public Library
+353 W. Commonwealth Ave.
+Fullerton, CA" 72.8995149970737
+"Kern County Library - Bryce C. Rathbun
+200 West China Grade Loop
+Bakersfield, CA" 72.9063769903767
+"A C Bilbrew Library
+150 East El Segundo Blvd.
+Los Angeles, CA" 73.0369174785088
+"Hunt Branch
+201 S. Basque Ave.
+Fullerton, CA" 73.0555629825366
+"Lennox Library
+4359 Lennox Blvd
+Lennox, CA" 73.0737132581928
+"Westchester -Loyola Village Branch
+7114 W. Manchester Av.
+Los Angeles, CA" 73.1511609220317
+"East Rancho Dominguez Library
+4205 East Compton Blvd.
+East Rancho Domingue, CA" 73.2052264009654
+"Clifton M. Brakensiek Library
+9945 E. Flower St.
+Bellflower, CA" 73.2382012773472
+"Mentone Branch Library
+1870 Mentone Blvd.
+Mentone, CA" 73.2593260368792
+"Hawthorne Library
+12700 South Grevillea Ave.
+Hawthorne, CA" 73.4033781444644
+"Paramount Library
+16254 Colorado Ave.
+Paramount, CA" 73.4553220589267
+"East Anaheim Branch Library
+8201 E. Santa Ana Canyon Rd.
+Anaheim, CA" 73.4621980642448
+"La Sierra Branch Library
+4600 La Sierra
+Riverside, CA" 73.4820274551601
+"Compton Library
+240 West Compton Blvd.
+Compton, CA" 73.6639076734641
+"Cerritos Public Library
+18025 Bloomfield Ave.
+Cerritos, CA" 73.7830184195802
+"Agoura Hills Library
+29901 Ladyface Court
+Agoura Hills, CA" 73.805280014955
+"Big Bear Lake Branch Library
+41930 Garstin Dr.
+Big Bear Lake, CA" 73.9320286554282
+"Kern County Library - Southwest
+8301 Ming Avenue
+Bakersfield, CA" 73.9384952247865
+"Arlington Branch Library
+9556 Magnolia Ave.
+Riverside, CA" 73.9611390384661
+"Thousand Oaks Library
+1401 E. Janss Rd.
+Thousand Oaks, CA" 74.1624571155369
+"Casa Blanca Branch Library
+2985 Madison St.
+Riverside, CA" 74.2350718295198
+"Olive Drive Fire Research Center
+5642 Victor Street
+Bakersfield, CA" 74.2493438489059
+"Artesia Library
+18722 S. Clarkdale Ave.
+Artesia, CA" 74.3506280834776
+"Westlake Village Library
+31220 W. Oak Crest Drive
+Westlake Village, CA" 74.7208046579666
+"La Palma Branch Library
+7842 Walker St.
+La Palma, CA" 74.8519109706094
+"Buena Park Library District
+7150 La Palma Ave.
+Buena Park, CA" 74.8646369904223
+"Canyon Hills Library
+400 Scout Trail
+Anaheim, CA" 74.8746720011564
+"Corona Public Library
+650 South Main St.
+Corona, CA" 74.876439744941
+"Masao W. Satow Library
+14433 South Crenshaw Blvd.
+Gardena, CA" 75.0735652601573
+"Center Street School Branch Library
+700 Center St.
+El Segundo, CA" 75.0768522504495
+"High School Branch Library
+640 Main St.
+El Segundo, CA" 75.3445086620661
+"Wiseburn Library
+5335 West 135th St.
+Hawthorne, CA" 75.363490415558
+"Middle School Branch Library
+332 Center Street
+El Segundo, CA" 75.3681305303118
+"Richmond Street Elementary School Library
+615 Richmond St.
+El Segundo, CA" 75.3956587761698
+"El Segundo Public Library
+111 W. Mariposa Ave.
+El Segundo, CA" 75.397679685438
+"Home Gardens Library
+3785 Neece St.
+Corona, CA" 75.5091202840665
+"George Nye Jr. Library
+6600 Del Amo Blvd.
+Lakewood, CA" 75.5325466779518
+"North Branch Library
+5571 Orange Ave.
+Long Beach, CA" 75.5608067224654
+"Anaheim Public Library
+500 W. Broadway
+Anaheim, CA" 75.5902396439844
+"Angelo M. Iacoboni Library
+4990 Clark Ave.
+Lakewood, CA" 75.6531444268014
+"Lawndale Library
+14615 Burin Ave.
+Lawndale, CA" 75.7093063826618
+"Sunkist Library
+901 S. Sunkist
+Anaheim, CA" 75.8105980682432
+"Gardena Mayme Dear Library
+1731 West Gardena Blvd.
+Gardena, CA" 75.8825947597142
+"Haskett Library
+2650 W. Broadway
+Anaheim, CA" 75.9714055918147
+"Victoria Park Library
+17906 South Avalon Blvd.
+Carson, CA" 76.1343425690801
+"Bach Branch Library
+4055 Bellflower Blvd.
+Long Beach, CA" 76.3523763901941
+"Malibu Library
+23519 West Civic Center Way
+Malibu, CA" 76.3714890741224
+"Hawaiian Gardens Library
+12100 E. Carson Street E
+Hawaiian Gardens, CA" 76.389723182834
+"Cypress Branch Library
+5331 Orange Ave.
+Cypress, CA" 76.5045578527335
+"Taft Branch Library
+740 E. Taft Ave.
+Orange, CA" 76.725143692115
+"Euclid Library
+1340 S. Euclid
+Anaheim, CA" 76.8144986450729
+"North Torrance Branch Library
+3604 W. Artesia Blvd.
+Torrance, CA" 76.8437878345087
+"Villa Park Branch Library
+17865 Santiago Blvd.
+Villa Park, CA" 76.8812223471973
+"Blanchard-Santa Paula Public Library District
+119 N. Eighth St.
+Santa Paula, CA" 77.5298638349329
+"Manhattan Beach Library
+1320 Highland Ave.
+Manhattan Beach, CA" 77.620616337833
+"Yucaipa Branch Library
+12040 Fifth St.
+Yucaipa, CA" 77.7546392736854
+"Stanton Branch Library
+7850 Katella Ave.
+Stanton, CA" 77.8072563599953
+"North Branch Library
+2000 Artesia Blvd.
+Redondo Beach, CA" 77.834322743416
+"Dana Branch Library
+3680 Atlantic Ave.
+Long Beach, CA" 77.9156291245338
+"El Dorado Branch Library
+2900 Studebaker Rd.
+Long Beach, CA" 78.0438214147065
+"Woodcrest Library
+16625 Krameria
+Riverside, CA" 78.0694152774432
+"El Cerrito Library
+7581 Rudell Road
+Corona, CA" 78.0926443589348
+"Newbury Park Branch Library
+2331 Borchard Road
+Newbury Park, CA" 78.2927804634824
+"Orange Public Library
+407 E Chapman Ave
+Orange, CA" 78.6021600643674
+"Carson Library
+151 East Carson St.
+Carson, CA" 78.6675059997818
+"Chapman Branch Library
+9182 Chapman Ave.
+Garden Grove, CA" 78.7050466298392
+"Hermosa Beach Library
+550 Pier Ave.
+Hermosa Beach, CA" 78.7596653093418
+"West Garden Grove Branch Library
+11962 Bailey St.
+Garden Grove, CA" 78.9384210576716
+"El Modena Branch Library
+380 S. Hewes St.
+Orange, CA" 79.1227965581427
+"Los Altos Branch Library
+5614 Britton Dr.
+Long Beach, CA" 79.3191935341949
+"Garden Grove Regional Library
+11200 Stanford Ave.
+Garden Grove, CA" 79.36307790718
+"Calimesa Library
+974 Calimesa Blvd
+Calimesa, CA" 79.4202196491984
+"Katy Geissert Civic Center Library
+3301 Torrance Blvd.
+Torrance, CA" 79.4519588568789
+"Moreno Valley Public Library
+25480 Alessandro Blvd
+Moreno Valley, CA" 79.4979432401242
+"Signal Hill Public Library
+1770 E. Hill St.
+Signal Hill, CA" 79.5696521666356
+"Bret Harte Branch Library
+1595 W. Willow St.
+Long Beach, CA" 79.5953929878378
+"Henderson Branch Library
+4805 Emerald St.
+Torrance, CA" 79.6071041812272
+"Burnett Branch Library
+560 E. Hill St.
+Long Beach, CA" 79.7618060753201
+"Los Alamitos-Rossmoor Branch Library
+12700 Montecito Rd.
+Seal Beach, CA" 79.7751207274746
+"Redondo Beach Public Library
+303 N. Pacific Coast Hwy
+Redondo Beach, CA" 79.7843611240562
+"Harbor Gateway-Harbor City Branch
+1555 W. Sepulveda Blvd.
+Los Angeles, CA" 80.1897307217807
+"Brewitt Branch Library
+4036 E. Anaheim St.
+Long Beach, CA" 80.2918541189903
+"Southeast Branch Library
+23115 S. Arlington
+Torrance, CA" 80.5074455135558
+"Mark Twain Branch Library
+1325 E. Anaheim St.
+Long Beach, CA" 80.5951538182602
+"Camarillo Library
+3100 Ponderosa Dr.
+Camarillo, CA" 80.6043306877354
+"Westminster Branch Library
+8180 13th St.
+Westminster, CA" 81.0387425892665
+"Lomita Library
+24200 Narbonne Ave.
+Lomita, CA" 81.1554798612603
+"Wilmington Branch
+1300 North Avalon Blvd.
+Wilmington, CA" 81.3216458493867
+"Santa Ana Public Library
+26 Civic Center Plaza
+Santa Ana, CA" 81.3271323974398
+"Alamitos Branch Library
+1836 E. Third St.
+Long Beach, CA" 81.4637840090497
+"Newhope Library Learning Center
+122 N. Newhope
+Santa Ana, CA" 81.5270781024372
+"El Retiro Branch Library
+126 Vista Del Parque
+Torrance, CA" 81.6018373447182
+"Walteria Branch Library
+3815 W. 242nd St.
+Torrance, CA" 81.8040777315999
+"Bay Shore Branch Library
+195 Bay Shore Ave.
+Long Beach, CA" 81.8060982479821
+"Tustin Branch Library
+345 E. Main St.
+Tustin, CA" 81.8095185706153
+"Long Beach Public Library
+101 Pacific Ave.
+Long Beach, CA" 81.8475723304099
+"Mcfadden Library Learning Center
+2627 W. Mcfadden
+Santa Ana, CA" 82.2713277198953
+"Mary Wilson Branch Library
+707 Electric Ave.
+Seal Beach, CA" 82.5563597458143
+"Silverado Branch Library
+28192 Silverado Canyon Rd.
+Silverado, CA" 82.655916301651
+"Malaga Cove Plaza Library
+2400 Via Campesina
+Palos Verdes Estates, CA" 82.8686629007588
+"Helen Murphy Branch
+15882 Graham St.
+Huntington Beach, CA" 82.9112515933095
+"Orange County Public Library
+1501 E. St. Andrew Place
+Santa Ana, CA" 83.0744665703699
+"Ojai Library
+111 E. Ojai Ave.
+Ojai, CA" 83.851546681891
+"Saticoy Library
+11426 Violeta St.
+Saticoy, CA" 83.8821418617759
+"Oak View Branch
+17251 Oak Lane
+Huntington Beach, CA" 84.078366041507
+"Fountain Valley Branch Library
+17635 Los Alamos St.
+Fountain Valley, CA" 84.2524979223343
+"Palos Verdes Library District
+701 Silver Spur Rd.
+Rolling Hills Estate, CA" 84.3434788354256
+"Miraleste Library
+29089 Palos Verdes Dr. E.
+Rancho Palos Verdes, CA" 84.60475859785
+"Huntington Beach Library
+7111 Talbert Ave.
+Huntington Beach, CA" 84.7922598109004
+"Heritage Park Branch Library
+14361 Yale Ave.
+Irvine, CA" 84.937098408927
+"San Pedro Regional Branch
+931 S. Gaffey St.
+San Pedro, CA" 85.3467394974219
+"Meiners Oaks Library
+114 N. Padre Juan
+Meiners Oaks, CA" 85.4332901658232
+"Costa Mesa Technology Branch Library
+3033 Bristol Ave. Ste. Q
+Costa Mesa, CA" 85.941009541714
+"Beaumont Library District
+125 E. Eighth St.
+Beaumont, CA" 86.050599867979
+"Mesa Verde Branch Library
+2969 Mesa Verde Drive East
+Costa Mesa, CA" 86.1324998141813
+"Soliz Library
+2820 Jourdan St.
+Oxnard, CA" 86.8757530097021
+"Foothill Ranch Branch Library
+27002 Cabriole
+Foothill Ranch, CA" 87.0126724737811
+"Perris Library
+163 E. San Jacinto
+Perris, CA" 87.3710653981186
+"University Park Branch Library
+4512 Sandburg Way
+Irvine, CA" 87.4832916010974
+"Main Street Library
+525 Main St.
+Huntington Beach, CA" 87.5152701335698
+"Colonia Center Library
+1500 Camino Del Sol 26
+Oxnard, CA" 87.7518400566204
+"Ventura County Library
+646 County Square Dr., Ste. 150
+Ventura, CA" 87.9002521386948
+"Kern County Library - Shafter
+236 James Street
+Shafter, CA" 88.0116892203102
+"Oak View Library
+469 N. Ventura Ave.
+Oak View, CA" 88.192236120901
+"H. P. Wright Library
+57 Day Rd.
+Ventura, CA" 88.2235090431636
+"Banning Library
+9281 Banning Ave.
+Huntington Beach, CA" 88.6721424813569
+"Costa Mesa Branch Library
+1855 Park Ave.
+Costa Mesa, CA" 88.707431919929
+"Nuview Library
+29990 Lakeview Rd.
+Nuevo, CA" 88.7327404042036
+"Oxnard Public Library
+251 South A St.
+Oxnard, CA" 88.783529177384
+"Mariners Branch Library
+2005 Dover Dr.
+Newport Beach, CA" 89.3173568970924
+"Banning Library District
+21 W. Nicolet St.
+Banning, CA" 89.9250253074272
+"Kern County Library - Taft
+27 Emmons Park Drive
+Taft, CA" 90.1613592419181
+"South Oxnard Center Branch Library
+200 East Bard Road
+Oxnard, CA" 90.2879032171216
+"Rancho Santa Margarita Branch Library
+30902 La Promesa
+Rancho Santa Margari, CA" 90.4061976615625
+"El Toro Branch Library
+24672 Raymond Way
+Lake Forest, CA" 90.8952661675731
+"Central Library
+1000 Avocado Ave.
+Newport Beach, CA" 91.0525660760123
+"Ray D. Prueter - Port Hueneme Library
+510 Park Ave.
+Port Hueneme, CA" 91.208610524693
+"E. P. Foster Library
+651 E. Main St.
+Ventura, CA" 91.2556394208782
+"Balboa Library
+100 E. Balboa Blvd.
+Newport Beach, CA" 91.3029413668833
+"Avenue Library
+606 N. Ventura Ave.
+Ventura, CA" 91.3727224948975
+"Lakeside Library
+32593 Riverside Dr.
+Lake Elsinore, CA" 91.5131623770795
+"Ventura County Mus. Of Hist. Art Lib.
+100 E. Main St.
+Ventura, CA" 91.7015836199515
+"Corona Del Mar Library
+420 Marigold Ave.
+Corona Del Mar, CA" 91.860786226806
+"Kern County Library - Clara M. Jackson (Mcfarland)
+500 West Kern Avenue
+Mcfarland, CA" 92.0388769392134
+"Lake Elsinore Library
+600 W. Graham
+Lake Elsinore, CA" 92.4260007958147
+"Romoland Library
+26000 Briggs Road
+Romoland, CA" 92.5558223618243
+"Laguna Hills Technology Branch
+25555 Alicia Parkway
+Laguna Hills, CA" 92.8021384489404
+"Mission Viejo Library
+100 Civic Center
+Mission Viejo, CA" 92.8119641399989
+"Sun City Library
+26982 Cherry Hills
+Menifee, CA" 92.9494461759181
+"Sun City Branch Library
+26982 Cherry Hills Blvd.
+Sun City, CA" 92.9494461759181
+"Cabazon Branch Library
+50171 Ramona
+Cabazon, CA" 93.9404610875479
+"Canyon Lake Library
+31516 Railroad Canyon Rd.
+Canyon Lake, CA" 93.9685959058489
+"Aliso Viejo Branch Library
+1 Journey
+Aliso Viejo, CA" 94.1284795085468
+"San Jacinto Library
+500 Idyllwild Dr.
+San Jacinto, CA" 94.2674894091569
+"Kern County Library - Wasco
+102 7th Street
+Wasco, CA" 95.0712594267272
+"Kern County Library - Bookmobile
+116 Buttonwillow Drive
+Buttonwillow, CA" 95.3755414276649
+"Laguna Beach Branch Library
+363 Glenneyre St.
+Laguna Beach, CA" 95.794095408201
+"Paloma Valley Library
+31375 Bradley Road
+Menifee, CA" 95.8465398908358
+"Kern County Library - Delano
+925 Tenth Avenue
+Delano, CA" 96.1816230349538
+"Mission Trail Library
+34303 Mission Trail
+Wildomar, CA" 96.2846672361578
+"Terra Bella Library
+23825 Ave. 92
+Terra Bella, CA" 96.3533308519219
+"Hemet Public Library
+300 E. Latham Ave
+Hemet, CA" 96.7933897361908
+"Laguna Niguel Branch Library
+30341 Crown Valley Parkway
+Laguna Niguel, CA" 97.4599333351843
+"Springville Library
+35800 Hwy 190 (Sequoia Dawn)
+Springville, CA" 98.4096502015175
+"San Juan Capistrano Regional Library
+31495 El Camino Real
+San Juan Capistrano, CA" 99.0015341907145
+"Valle Vista Library
+25757 Fairview Ave.
+Hemet, CA" 99.3444112786084
+"Carpinteria Library
+5141 Carpinteria Ave.
+Carpinteria, CA" 99.4176087767666

@@ -11,7 +11,7 @@ mergeLibs <- function() {
 
   which(state.abb==state.name)
 
-  all.libs <- data.frame()
+  all.libs <- data.frame(stringsAsFactors = F)
 
   for(i in 1:length(state.abb)) {
 
@@ -20,6 +20,11 @@ mergeLibs <- function() {
   all.libs <- plyr::join(all.libs, lib, type = 'full')
 
   }
+
+  all.libs[,1] <- as.character(all.libs[,1])
+  all.libs[,2] <- as.character(all.libs[,2])
+  all.libs[,3] <- as.character(all.libs[,3])
+  all.libs[,4] <- as.character(all.libs[,4])
 
   rda.name <- "US_Libs"
 
@@ -30,27 +35,3 @@ mergeLibs <- function() {
        compression_level = 9)
 }
 
-distance <- function(base = NULL, service = 'libraries',radius = NULL,...) {
-
-  if(tolower(service)=='libraries') services <- US_Libs
-
-  b.row <- which(sapply(Base_Locations, match, base, nomatch = 0)==1)%%nrow(Base_Locations)
-
-  b.row <- ifelse(b.row==0, nrow(Base_Locations), b.row)
-
-  base.point <- matrix(unlist(Base_Locations[b.row,(ncol(Base_Locations)-1):ncol(Base_Locations)]),ncol = 2)
-
-  distances <- list()
-
-  for(i in 1:nrow(services)) {
-
-  service.point <- matrix(unlist(services[i,(ncol(services)-1):ncol(services)]), ncol = 2)
-
-  distances[[i]] <- fields::rdist.earth.vec(base.point, service.point)
-  }
-  distance.vec <- unlist(distances)
-  service.locs <- data.table::data.table(services, distance.vec)
-  service.locs <- service.locs[order(distance.vec)]
-  colnames(service.locs) <- c(colnames(US_Libs),paste(c('Miles from ', base), collapse = ''))
-  return(service.locs)
-}

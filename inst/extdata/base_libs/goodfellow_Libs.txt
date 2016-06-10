@@ -1,0 +1,109 @@
+"location" "miles"
+"Tom Green County Library System
+113 W Beauregard Ave
+San Angelo, TX" 2.96699316841501
+"Irion County Library
+111 W Fayette Ave
+Mertzon, TX" 27.7556050762158
+"Coke County Library
+706 Austin St
+Robert Lee, TX" 32.1265209720473
+"Carnegie Library Of Ballinger
+204 N 8th St
+Ballinger, TX" 33.8928374427728
+"Eden Public Library
+117 Market St
+Eden, TX" 36.1187900245998
+"Schleicher County Public Library
+201 Sw Main St
+Eldorado, TX" 41.6016230181463
+"Sterling County Public Library
+301 Main
+Sterling City, TX" 44.3185494034108
+"Winters Public Library
+120 N Main St
+Winters, TX" 44.4339556262968
+"Calhoun County Public Library - Seadrift Branch Library
+103 W. Dallas
+Port Oconnor, TX" 47.1713093962617
+"Menard Public Library
+105 E Mission St
+Menard, TX" 51.2312255798951
+"Sutton County Library
+306 E Mulberry St
+Sonora, TX" 61.3901739080501
+"Coleman Public Library
+402 S Commercial Ave
+Coleman, TX" 63.6677688475458
+"Reagan County Library
+300 Courthouse Sq
+Big Lake, TX" 64.8901461677891
+"Fm Buck Richards Memorial Library
+1106 S Blackburn St
+Brady, TX" 66.5278424403477
+"Santa Anna Library
+606 Wallis Ave
+Santa Anna, TX" 66.9734713489734
+"Crockett County Public Library
+1201 Ave G
+Ozona, TX" 69.1616128964029
+"Mitchell County Public Library
+340 Oak St
+Colorado City, TX" 71.5286933307118
+"County-City Library
+206 Elm St
+Sweetwater, TX" 71.7403355372384
+"Merkel Public Library
+100 Kent
+Merkel, TX" 75.2131669499178
+"Kimble County Library
+208 N 10th St
+Junction, TX" 75.293270272021
+"Abilene Library Consortium
+3305 N. 3rd St.
+Abilene, TX" 79.7603870001203
+"Abilene Public Library
+202 Cedar St
+Abilene, TX" 80.3990992454407
+"Big Country Library System
+202 Cedar Street
+Abilene, TX" 80.3990992454407
+"Mason County M Beven Eckert Memorial Library
+410 Post Hill Rd
+Mason, TX" 83.9952114765283
+"Howard County Library
+500 S Main St
+Big Spring, TX" 84.7131371773016
+"Clyde Public Library
+125 Oak St
+Clyde, TX" 85.7672452638236
+"Brownwood Public Library
+600 Carnegie St
+Brownwood, TX" 85.8909619864728
+"Cross Plains Public Library
+149 N Main St
+Cross Plains, TX" 86.931336985913
+"Callahan County Library
+100 W 4th Ste B1
+Baird, TX" 88.6062267276493
+"Rankin Public Library
+310 E 10th St
+Rankin, TX" 92.3214627929053
+"Scurry County Library
+1916 23rd St
+Snyder, TX" 93.9070904701004
+"Martin County Library
+200 N St Mary
+Stanton, TX" 94.7899846327615
+"Iraan Public Library
+120 W 5th St
+Iraan, TX" 95.7160081480034
+"Anson Public Library
+1137 12th St
+Anson, TX" 96.04158677367
+"Rotan Public Library
+404 E Sammy Baugh Ave
+Rotan, TX" 98.1635600761376
+"Claud H Gilmer Memorial Library
+201 N Hwy 377
+Rocksprings, TX" 98.8404560234074

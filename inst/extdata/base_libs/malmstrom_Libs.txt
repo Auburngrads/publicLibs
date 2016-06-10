@@ -1,0 +1,85 @@
+"location" "miles"
+"Great Falls Public Library
+301 2nd Ave North
+Great Falls, MT" 5.74740475155935
+"Belt Public Library
+404 Millard St
+Belt, MT" 14.5213426339396
+"Highwood Branch Library
+1412 Main Street
+Highwood, MT" 18.9702165791995
+"Wedsworth Memorial Library
+13 Front Street North
+Cascade, MT" 29.2496713482513
+"Chouteau County Library
+1518 Main
+Fort Benton, MT" 32.2333137733342
+"Dutton Public Library
+22 Main St W
+Dutton, MT" 34.4887252129411
+"Fairfield Public Library
+14 North 4th St
+Fairfield, MT" 38.2350263789851
+"Geraldine Branch Library
+603 Main St
+Geraldine, MT" 43.1514425327216
+"Judith Basin County Free Library
+93 Third Street North
+Stanford, MT" 50.9931286069368
+"Choteau-Teton Public Library
+17 Main Avenue North
+Choteau, MT" 51.3623851983142
+"Augusta Branch Library
+205 Main St
+Augusta, MT" 56.6954900327293
+"Conrad Public Library
+15 4th Avenue Sw
+Conrad, MT" 58.2263471577505
+"Denton Public Library
+515 Broadway
+Denton, MT" 58.9255679152455
+"Meagher County-City Library
+15 First Avenue Se
+White Sulphur Spring, MT" 67.4637305084368
+"Big Sandy Branch Library
+230 1st Ave N
+Big Sandy, MT" 67.8788113750263
+"Liberty County Library
+100 East 1st Street
+Chester, MT" 70.6437312161978
+"East Helena Branch Library
+400 North Kalispell
+East Helena, MT" 71.7205938389151
+"Valier Public Library
+400 Teton Avenue
+Valier, MT" 74.6662456422598
+"Lewis And Clark Library
+120 South Last Chance Gulch
+Helena, MT" 75.4653501333107
+"Toole County Library
+229 2nd Ave S
+Shelby, MT" 75.9580929884063
+"Moore Public Library
+403 Fergus Avenue
+Moore, MT" 78.8015801356975
+"Library Lincoln Branch Library
+102 9th Avenue South
+Lincoln, MT" 79.8475810096683
+"Broadwater School And Community Library
+201 N Spruce St
+Townsend, MT" 83.3880759560755
+"Dorothy Asbjornson Community Library
+110 Main Street
+Winifred, MT" 84.3156986782878
+"Lewistown Public Library
+701 West Main
+Lewistown, MT" 87.5529815953172
+"Glacier County Library
+21 1st Avenue Se
+Cut Bank, MT" 94.6209500382467
+"Harlowton Public Library
+13 South Central Ave
+Harlowton, MT" 97.5278416312912
+"Boulder Community Library
+202 S Main
+Boulder, MT" 98.4095749543391

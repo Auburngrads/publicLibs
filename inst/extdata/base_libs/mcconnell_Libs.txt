@@ -1,0 +1,478 @@
+"location" "miles"
+"Linwood Park Branch Library
+1901 S Kansas
+Wichita, KS" 3.90527276030027
+"Ford Rockwell Branch Library
+5939 E 9th
+Wichita, KS" 4.83532442125208
+"Derby Public Library
+611 N Mulberry Rd, Suite 200
+Derby, KS" 5.7453067510362
+"Wichita Public Library
+223 S. Main St
+Wichita, KS" 6.00938859177585
+"Comotara Branch Library
+2244 N. Rock Road
+Wichita, KS" 6.35839866772918
+"Alford Branch Library
+3447 S. Meridian
+Wichita, KS" 6.59900676681125
+"Maya Angelou Branch Library
+3051 E. 21st
+Wichita, KS" 6.8027786389841
+"Haysville Community Library
+130 West Grand Avenue
+Haysville, KS" 7.24612351109399
+"Rose Hill Public Library
+306 N Rose Hill Rd
+Rose Hill, KS" 8.04682063932382
+"Andover Public Library
+1511 E. Central
+Andover, KS" 8.40281936640818
+"Evergreen Branch Library
+2601 N. Arkansas
+Wichita, KS" 8.53498535900699
+"Orchard Park Branch Library
+4808 W 9th
+Wichita, KS" 9.50456534909721
+"Mulvane Public Library
+101 East Main
+Mulvane, KS" 10.8807871927598
+"Westlink Branch Library
+8515 Bekemeyer
+Wichita, KS" 11.3429094957048
+"Park City Public Library
+1530 E. 61st St. N.
+Park City, KS" 11.9691111297626
+"Augusta Public Library
+1609 State St.
+Augusta, KS" 15.4534070135832
+"Edna Buschow Memorial Library
+321 West 1st St.
+Valley Center, KS" 15.5075941645483
+"Clearwater Public Library
+109 E. Ross
+Clearwater, KS" 16.4842161147743
+"Belle Plaine Public Library
+222 W. 5th
+Belle Plaine, KS" 16.5580821196722
+"Towanda Public Library
+620 Highland
+Towanda, KS" 18.0058157580191
+"Udall Public Library
+109 E. First St
+Udall, KS" 18.451547603468
+"Colwich Community Library
+432 W Colwich
+Colwich, KS" 18.9067344482566
+"Sedgwick-Lillian Tear
+501 Commercial
+Sedgwick, KS" 21.8919330428988
+"Lillian Tear Library, Sedgwick
+112 W. 5th
+Sedgwick, KS" 21.9248247383629
+"Andale District Library
+328 Main St
+Andale, KS" 23.4632572327183
+"Whitewater Memorial Library
+118 East Topeka
+Whitewater, KS" 23.557636123132
+"Viola Township
+100 N. Grice
+Viola, KS" 23.7844130724381
+"Garden Plain Community Library
+421 Ave B
+Garden Plain, KS" 23.8127117500713
+"Potwin Public Library
+126 N. Randall
+Potwin, KS" 24.7075863281564
+"Bradford Memorial Library
+611 S. Washington
+El Dorado, KS" 25.0895526810232
+"Oxford Public Library
+115 South Sumner
+Oxford, KS" 25.2240415223964
+"Leon Public Library
+113 S. Main
+Leon, KS" 26.0326439230032
+"Wellington Public
+121 West 7th
+Wellington, KS" 26.5104690387126
+"Conway Springs City Library
+210 W. Springs Ave
+Conway Springs, KS" 27.2263446949274
+"Mt. Hope Public Library
+109 South Ohio
+Mt. Hope, KS" 27.9430602533697
+"Cheney Public Library
+203 N. Main
+Cheney, KS" 29.0434641313187
+"Halstead Public Library
+264 Main
+Halstead, KS" 29.2064237658476
+"Newton Public Library
+720 N Oak
+Newton, KS" 29.3945041652728
+"Winfield Public Library
+605 College
+Winfield, KS" 30.7611465517201
+"Walton Community Library
+122 Main St
+Walton, KS" 33.636679360686
+"Haven Public Library
+121 North Kansas Avenue
+Haven, KS" 34.4791700791018
+"Norwich Public
+209 South Parkway
+Norwich, KS" 34.7851822433511
+"Burrton Public Library
+121 N. Burrton Ave
+Burrton, KS" 35.5492517530248
+"Ruth Dole Memorial Library
+121 N Burrton
+Burrton Ks, KS" 35.5492517530248
+"Hesston Public Library
+110 E. Smith
+Hesston, KS" 36.4006117368123
+"Burns Public Library
+104 North Washington Ave
+Burns, KS" 37.4081022292816
+"Peabody Township Library
+214 N. Walnut
+Peabody, KS" 37.7992155906461
+"Dixon Township Library
+120 W Walnut
+Argonia, KS" 37.9806226498775
+"Arkansas City Public Library
+120 E. 5th Avenue
+Arkansas City, KS" 41.1752984369412
+"South Haven Township Library
+104 W. Baird
+South Haven, KS" 41.1941064775001
+"Moundridge Public Library
+220 S. Christian
+Moundridge, KS" 42.0175626011346
+"Goessel Public Library
+101 S. Cedar
+Goessel, KS" 42.762459671861
+"Pretty Prairie Public Library
+119 W. Main St.
+Pretty Prairie, KS" 43.2876395543568
+"Buhler Public Library
+121 N. Main St.
+Buhler, KS" 44.9130356229533
+"Florence Public Library
+324 Main St.
+Florence, KS" 45.6898048209135
+"Caldwell Public Library
+8 N. Osage
+Caldwell, KS" 45.9023473793306
+"South Central Kansas Library System
+321 North Main Street
+South Hutchinson, KS" 46.7640381449792
+"Kingman Carnegie Library
+455 North Main
+Kingman, KS" 47.2157277948561
+"Hutchinson Public Library
+901 N. Main
+Hutchinson, KS" 47.6890325486476
+"Grenola Public
+205 South Main
+Grenola, KS" 48.2730468169572
+"Harper Public Library
+1002 Oak
+Harper, KS" 48.8391835000868
+"Hillsboro Public Library
+120 E. Grand Ave.
+Hillsboro, KS" 49.9831737222278
+"Inman Public Library
+100 N. Main
+Inman, KS" 50.4147898764238
+"Partridge Public Library
+23 S Main
+Partridge, KS" 51.5192846457753
+"Newkirk Public Library
+116 N Maple Ave
+Newkirk, OK" 52.8916492648274
+"Canton Township
+200 N Main
+Canton, KS" 52.9422718447636
+"Arlington City Library
+111 E. Main
+Arlington, KS" 53.7303687597969
+"Anthony Public Library
+624 E. Main St.
+Anthony, KS" 53.8524243760629
+"Eureka Public Library
+606 North Main
+Eureka, KS" 54.0402114129182
+"Cedar Vale Memorial Library
+608 Cedar
+Cedar Vale, KS" 55.16996596585
+"Howard City Library
+124 S. Wabash
+Howard, KS" 55.3422443019724
+"Moline Public Library
+107 N. Main
+Moline, KS" 55.370480386491
+"Mcpherson Public Library
+214 W. Marlin
+Mcpherson, KS" 55.9415076176996
+"Blackwell Public Library
+123 West Padon
+Blackwell, OK" 57.4140630675562
+"Nickerson Public Library
+23 N. Nickerson
+Nickerson, KS" 57.6754794448855
+"Zenda Public Library
+215 N. Main
+Zenda, KS" 58.0022349302687
+"Attica City Library
+125 North Main
+Attica, KS" 59.986080729259
+"Medford Public Library
+123 S Main
+Medford, OK" 62.98811197978
+"Kaw City - J.A. Walker Memorial Library
+900 Morgan Square
+Kaw City, OK" 63.6664953352479
+"Burnley Memorial Library
+401 Oak Street
+Cottonwood Falls, KS" 63.8022972881303
+"Cottonwood Falls-Burnley Memorial
+405 N. Oak
+Cottonwood Falls, KS" 64.0220921812853
+"Hamilton City Library
+21 E. Main
+Hamilton, KS" 64.1289185727691
+"Cunningham Public Library
+105 North Main
+Cunningham, KS" 64.7220375413181
+"Ponca City Library
+515 East Grand
+Ponca City, OK" 64.8994064376375
+"Turon Community Library
+501 E. Price
+Turon, KS" 65.2616690818438
+"Sterling Free Public Library
+138 N. Broadway
+Sterling, KS" 65.7396401423254
+"Tonkawa Public Library
+216 N. Seventh
+Tonkawa, OK" 65.8776819622201
+"Longton Public Library
+512a Kansas Ave
+Longton, KS" 66.6067006698936
+"Fall River Public Library
+314 Merchant Ave.
+Fall River, KS" 67.0315026692203
+"Sylvia Public Library
+121 S. Main
+Sylvia, KS" 67.1847756805226
+"Little River Community Library
+125 Main Street
+Little River, KS" 67.3734040344187
+"Sedan Public Library
+115 N Chautauqua
+Sedan, KS" 68.1456762555964
+"Lindsborg Community Library
+111 S. Main
+Lindsborg, KS" 69.0613698265273
+"Sharon Wisner Library
+102 South Broadway
+Sharon, KS" 69.4351088863213
+"Wisner Library
+102 S. Boardway
+Sharon, KS" 69.4351088863213
+"Madison Public Library
+110 South 1st St.
+Madison, KS" 70.3450447122549
+"Marquette Community Library
+121 North Washington
+Marquette, KS" 71.2500304175452
+"Lyons Public Library
+217 East Ave South
+Lyons, KS" 71.6645579863637
+"Toronto Public Library
+107 W. Main St.
+Toronto, KS" 72.1293388847729
+"Herington Public Library
+102 S. Broadway
+Herington, KS" 73.7206924405874
+"Hope Community Library
+216 N. Main
+Hope, KS" 73.8603294663232
+"Gypsum Community Library
+521 Maple St.
+Gypsum, KS" 74.8268564978259
+"Elm Creek Township Library
+213 North 5th St.
+Wilsey, KS" 76.2734712758788
+"Nora E. Larabee Memorial Library
+108 North Union
+Stafford, KS" 77.2625706811566
+"Fredonia Public Library
+807 Jefferson St.
+Fredonia, KS" 78.5014149253884
+"Geneseo Public Library
+725 Main Street
+Geneseo, KS" 78.5584556521101
+"Fairfax Public Library
+158 East Elm
+Fairfax, OK" 79.2124592697606
+"Emporia Public Library
+110 E. Sixth Avenue
+Emporia, KS" 79.2571685401302
+"Kiowa Public Library
+123 N 7th
+Kiowa, KS" 80.0900051867064
+"Americus Township Library
+710 Main
+Americus, KS" 81.0404898770979
+"Havana Study Club Library
+po box 33
+Havana, KS" 81.1136486666993
+"Gridley Library
+512 Main
+Gridley, KS" 81.3352346901074
+"Pratt Public Library
+4th Jackson St.
+Pratt, KS" 81.5948949655472
+"Council Grove Public Library
+829 W. Main St.
+Council Grove, KS" 81.9688797262942
+"Pawhuska Public Library
+1801 Lynn Avenue
+Pawhuska, OK" 83.3386505674554
+"Caney City Library
+100 N. Ridgeway
+Caney, KS" 84.4241951278342
+"Hartford-Elmendaro Township
+224 Commercial St.
+Hartford, KS" 84.6748852520608
+"Yates Center Public Library
+218 N Main
+Yates Center, KS" 84.8627668896213
+"White City Public Library
+111 E Mackenzie
+White City, KS" 85.2483147550127
+"Cherokee City- County Library
+123 South Grand
+Cherokee, OK" 85.8663254393981
+"Salina Public Library
+301 W. Elm Street
+Salina, KS" 86.1351670616064
+"Ida Long Goodman Memorial Library
+406 N. Monroe Ave
+St. John, KS" 86.2860199761983
+"Altoona Public Library
+714 Main
+Altoona, KS" 87.4367108110125
+"Altoona Public Library
+713 Main St.
+Altoona, KS" 87.4367108110125
+"Neodesha-W.A. Rankin Memorial
+502 Indiana
+Neodesha, KS" 87.4714262914055
+"Hardtner Public Library
+102 E Central
+Hardtner, KS" 87.9146488725632
+"Ellinwood School Community Library
+210 N. Schiller
+Ellinwood, KS" 87.9406964596817
+"Enterprise Public Library
+123 S. S Factory
+Enterprise, KS" 88.3129698301603
+"Abilene Public Library
+209 Nw 4th
+Abilene, KS" 89.0096544068978
+"Solomon Public Library
+108 N. Walnut
+Solomon, KS" 89.2689629812996
+"Independence Public Library
+220 East Maple
+Independence, KS" 89.576496663235
+"Kanopolis Public Library
+221 N. Kansas
+Kanopolis, KS" 89.610146246466
+"Dwight Public Library
+637 Main
+Dwight, KS" 91.1049216767686
+"Coffey County Library
+410 Juniatta Street
+Burlington, KS" 91.3466919178473
+"Lyon County Library Dist. 1
+421 Main
+Allen, KS" 92.0651681050869
+"Enid-Public Library Of Enid And Garfield Co
+120 West Maine
+Enid, OK" 92.2666193583334
+"Dewey - Tyler Memorial Library
+821 N Shawnee
+Dewey, OK" 92.5174738611043
+"J.H. Robbins Memorial Library
+219 N. Lincoln Ave.
+Ellsworth, KS" 92.6797716445381
+"Pawnee Public Library
+653 Illinois
+Pawnee, OK" 92.785581078037
+"Lebo Library
+327 Ogden
+Lebo, KS" 93.0894386844417
+"Perry Carnegie Library
+302 N 7th St
+Perry, OK" 93.0929320898948
+"Independent Township
+108 Main
+Claflin, KS" 93.1090629755484
+"Bartlesville Public Library
+600 S Johnstone
+Bartlesville, OK" 93.1186903499257
+"New Strawn Library
+365 North Main
+New Strawn, KS" 93.345810880247
+"Chapman Public Library
+402 N. Marshall
+Chapman, KS" 93.4496313560747
+"Leroy Library
+725 Main
+Leroy, KS" 93.7109114333094
+"Alta Vista Mini Branch
+310 Center
+Alta Vista, KS" 94.7230805670868
+"Barnsdall - Ethel Briggs Memorial Library
+410 S Fifth
+Barnsdall, OK" 95.4624614650622
+"Hominy Public Library
+121 West Main
+Hominy, OK" 96.4958663704001
+"Macksville City Library
+333 N. Main
+Macksville, KS" 96.5144146449273
+"Cherryvale Public Library
+329 East Main
+Cherryvale, KS" 96.8127321320656
+"Alva Public Library
+504 Seventh Street
+Alva, OK" 96.8263447229794
+"Central Kansas Library System
+1409 Williams Street
+Great Bend, KS" 96.9347979305661
+"Great Bend Public Library
+1409 Williams
+Great Bend, KS" 96.9347979305661
+"Thayer Friday Reading Club City Library
+200 West Neosho Avenue
+Thayer, KS" 98.0882394592845
+"Carmen Public Library
+421 West Main Street
+Carmen, OK" 98.3839686882521
+"Chanute Public Library
+111 N. Lincoln Ave.
+Chanute, KS" 98.6134893345897
+"Coffeyville Public Library
+311 W Tenth Street
+Coffeyville, KS" 98.8030158889319
+"Dorothy Bramlage Public Library
+230 West Seventh Street
+Junction City, KS" 99.3174756226491

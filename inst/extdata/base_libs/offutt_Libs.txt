@@ -1,0 +1,739 @@
+"location" "miles"
+"Bellevue Public Library
+1003 Lincoln Road
+Bellevue, NE" 1.84468589015437
+"South Branch Library
+2302 M Street
+Omaha, NE" 6.23490288723346
+"Sump Memorial Library
+222 North Jefferson
+Papillion, NE" 7.05474329979843
+"Plattsmouth Public Library
+401 Avenue A
+Plattsmouth, NE" 7.92600879149533
+"Baright Public Library
+5555 South 77th Street
+Ralston, NE" 8.11097104722685
+"La Vista Public Library
+9110 Giles Road
+La Vista, NE" 8.14642011570417
+"Willa Cather Branch Library
+1905 South 44th Street
+Omaha, NE" 8.73204448332793
+"Omaha Public Library
+215 S 15th Street
+Omaha, NE" 9.32055026936242
+"W Dale Clark Library
+215 So. 15th Street
+Omaha, NE" 9.32055026936242
+"Council Bluffs Public Library
+400 Willow Ave
+Council Bluffs, IA" 9.91052437488668
+"A V Sorenson Branch Library
+4808 Cass Street
+Omaha, NE" 10.3342043666382
+"Glenwood Public Library
+109 N Vine St
+Glenwood, IA" 10.4407883549668
+"Southwest Iowa Library Service Area
+427 East Kanesville, Suite 404
+Council Bluffs, IA" 10.5654757209774
+"Springfield Memorial Library
+665 Main Street
+Springfield, NE" 11.5048003256193
+"Carter Lake Public Library
+1120 Willow Drive
+Carter Lake, IA" 11.5089582701058
+"W Clarke Swanson Branch Library
+9101 West Dodge Road
+Omaha, NE" 12.0201200938549
+"Benson Branch Library
+2918 No. 60th Street
+Omaha, NE" 12.121956077584
+"Eastern Library System
+11929 Elm Street, Suite 18
+Omaha, NE" 12.2264060168506
+"Charles B Washington Branch Library
+2869 Ames Avenue
+Omaha, NE" 12.3071609523127
+"Millard Branch Library
+13214 Westwood Lane
+Omaha, NE" 12.9100065510945
+"Milton R Abrahams Branch Library
+5111 North 90th Street
+Omaha, NE" 14.3651263002267
+"Silver City Public Library
+408 Main St
+Silver City, IA" 14.4606588275856
+"Florence Branch Library
+2920 Bondesson Street
+Omaha, NE" 15.1617236290545
+"Louisville Public Library
+217 Main Street
+Louisville, NE" 15.5083651079551
+"Gretna Public Library
+736 South Street
+Gretna, NE" 17.427059477697
+"Malvern Public Library
+502 Main St
+Malvern, IA" 19.1079258484026
+"Douglas Public Library
+p. o. box 56
+Douglas, NE" 19.6683056112527
+"Bess Johnson Elkhorn Public Library
+100 Reading Road
+Elkhorn, NE" 19.7188573593103
+"Tabor Public Library
+805 Main St
+Tabor, IA" 19.9893714071205
+"Nehawka Public Library
+221 Maple
+Nehawka, NE" 20.783366708222
+"Bennington Public Library
+15505 Warehouse Street
+Bennington, NE" 20.8269233071796
+"Weeping Water Public Library
+206 West H Street
+Weeping Water, NE" 21.1654866797371
+"Agnes Robinson Waterloo Public Library
+23704 Cedar Drive
+Waterloo, NE" 22.4055952101793
+"Dorchester Public Library
+6th Washington
+Dorchester, NE" 24.3439790130778
+"Ashland Public Library
+207 North 15th Street
+Ashland, NE" 24.426059917695
+"Randolph Public Library
+106 S Main
+Randolph, IA" 25.1720365937338
+"Yutan Public Library
+502 3rd Street
+Yutan, NE" 26.5340188792923
+"Emerson Public Library
+701 Morton Ave
+Emerson, IA" 27.7166465828822
+"Elmwood Public Library
+124 West D Street
+Elmwood, NE" 27.8868636702836
+"Sidney Public Library
+1002 Illinois St
+Sidney, IA" 29.3955355226997
+"Missouri Valley Public Library
+119 N. 5th Street
+Missouri Valley, IA" 29.9564941108549
+"Missouri Valley Public Library
+420 E Huron St
+Missouri Valley, IA" 29.9865464940678
+"Eckels Memorial Library
+207 S Highway
+Oakland, IA" 30.0778853878324
+"Mead Public Library
+316 South Vine
+Mead, NE" 30.7527088639018
+"Blair Public Library
+210 South 17th Street
+Blair, NE" 31.1622802831939
+"Morton-James Public Library
+923 First Corso
+Nebraska City, NE" 31.1763507942882
+"Arlington Public Library
+410 West Elm Street
+Arlington, NE" 32.2133176807409
+"Modale Public Library
+208 Main
+Modale, IA" 34.6727700910291
+"Syracuse Public Library
+496 6th Street
+Syracuse, NE" 35.1907481916876
+"Logan Public Library
+121 E 6th St
+Logan, IA" 36.5331110081415
+"Red Oak Public Library
+400 N 2nd St
+Red Oak, IA" 36.5794016410718
+"Wahoo Public Library
+637 North Maple Street
+Wahoo, NE" 37.2895560023631
+"Keene Memorial Library
+1030 North Broad Street
+Fremont, NE" 37.3287648436698
+"Valley Public Library
+210 N. Locust Street
+Valley, NE" 37.5110395726746
+"Lied Public Library-Essex
+508 Iowa Ave
+Essex, IA" 37.5621267414794
+"Shenandoah Public Library
+201 S Elm St
+Shenandoah, IA" 37.6412981487452
+"Palmyra Memorial Library
+525 Illinois Place
+Palmyra, NE" 38.2270747605463
+"Hamburg Public Library
+1301 Main St
+Hamburg, IA" 38.2937275450401
+"Ceresco Community Library
+425 South 2nd Street
+Ceresco, NE" 38.3625900478838
+"Avoca Public Library
+213 N Elm St
+Avoca, IA" 38.6598690752589
+"Elliott Public Library
+401 Main St
+Elliott, IA" 39.2058824565958
+"Griswold Public Library
+505 Main St
+Griswold, IA" 40.915221883352
+"Mondamin Public Library
+201 Maple St
+Mondamin, IA" 40.9237734047126
+"Talmage Public Library
+405 Main Street
+Talmage, NE" 41.3208234867895
+"Victor E. Anderson Branch Library
+3635 Touzalin Avenue
+Lincoln, NE" 42.4124904643468
+"Bethany Branch Library
+1810 North Cotner Boulevard
+Lincoln, NE" 42.5219470926824
+"Stanton Community Library
+310 Broad Ave.
+Stanton, IA" 43.4284910730929
+"Stanton Public Library
+310 Broad
+Stanton, IA" 43.4284910730929
+"Walnut Public Library
+224 Antique City Drive
+Walnut, IA" 43.4520783580291
+"Southeast Library System
+5730 R Street, Ste. C-1
+Lincoln, NE" 43.5219659277724
+"Woodbine Carnegie Public Library
+58 5th
+Woodbine, IA" 43.7812351921223
+"Charles H. Gere Branch Library
+2400 South 56th Street
+Lincoln, NE" 44.636730510909
+"Lewis Public Library
+506 Main
+Lewis, IA" 44.6878342841579
+"Loren Corey Eiseley Branch
+1530 Superior Street
+Lincoln, NE" 44.8752015936675
+"South Branch Library
+2675 South Street
+Lincoln, NE" 46.2656594967751
+"Bennett Martin Public Library
+136 South 14th Street
+Lincoln, NE" 46.3701373840734
+"Lincoln City Libraries
+136 So. 14th Street
+Lincoln, NE" 46.3701373840734
+"Nebraska Center For The Book
+1200 N Street, Ste. 120
+Lincoln, NE" 46.4908451902778
+"Hooper Public Library
+126 North Main
+Hooper, NE" 47.0556598732625
+"Tekamah Carnegie Public Library
+204 South 13th Street
+Tekamah, NE" 47.870907278641
+"Valparaiso Public Library
+300 West 2nd
+Valparaiso, NE" 48.0294390310518
+"Harlan Community Library
+718 Court
+Harlan, IA" 48.1176550555746
+"Bess Dodson Walt Branch
+6701 South 14th Street
+Lincoln, NE" 48.8050611645767
+"Arnold Heights Branch Library
+3815 Nw 54th Street
+Lincoln, NE" 49.6523925681997
+"Atlantic Public Library
+507 Poplar St
+Atlantic, IA" 50.6950352761196
+"Villisca Public Library
+204 S 3rd Ave
+Villisca, IA" 50.7229298851765
+"Auburn Memorial Library
+1810 Courthouse Avenue
+Auburn, NE" 51.1790589192488
+"Sterling Public Library
+150 Broadway Street
+Sterling, NE" 52.0022146222896
+"Dunlap Public Library
+102 S 10th St
+Dunlap, IA" 53.1015607221395
+"Lied Public Library-Clarinda
+100 E Garfield St
+Clarinda, IA" 53.1398892233105
+"Atchison County Library
+200 South Main St.
+Rock Port, MO" 53.4542390314836
+"Tecumseh Public Library
+170 Branch Street
+Tecumseh, NE" 54.2060072365844
+"Elk Horn Public Library
+2027 Washington
+Elk Horn, IA" 54.9325549035933
+"Tarkio Branch
+308 Main St.
+Tarkio, MO" 55.0028405939222
+"Cumberland Public Library
+119 Main
+Cumberland, IA" 55.2991761302441
+"Moorhead Public Library
+po box 33
+Moorhead, IA" 55.3120773882198
+"Adams Public Library
+300 8th Street
+Adams, NE" 55.5883137747987
+"Kimballton Public Library
+118 N Main
+Kimballton, IA" 55.8806570819832
+"Oakland Public Library
+110 East 3rd Street
+Oakland, NE" 56.9205074491461
+"Dwight Community Library
+142 West Pine
+Dwight, NE" 57.6382437006167
+"New Market Public Library
+407 Main St
+New Market, IA" 59.6374622158001
+"Dow City Public Library
+104 S Franklin St
+Dow City, IA" 59.7932432274556
+"Soldier Public Library
+108 Oak Street
+Soldier, IA" 59.9492698063689
+"Snyder Public Library
+203 Ash Street
+Snyder, NE" 60.5576178294764
+"Fairfax Branch
+118 Main St.
+Fairfax, MO" 60.7706055474084
+"Corning Public Library
+603 9th St
+Corning, IA" 62.2021872629695
+"Stella Community Library
+3rd Main Streets
+Stella, NE" 62.2288344441815
+"Shubert Public Library
+313 Main Street
+Shubert, NE" 62.6637413792303
+"Exira Public Library
+114 W Washington
+Exira, IA" 62.8312001312561
+"Onawa Public Library
+707 Iowa Avew
+Onawa, IA" 63.1035005454406
+"Lyons Public Library
+305 Main Street
+Lyons, NE" 63.3162644120748
+"Leigh Public Library
+156 Main Street
+Leigh, NE" 63.3600875570939
+"Schuyler Public Library
+1123 A Street
+Schuyler, NE" 63.5361426090491
+"Seward Memorial Library
+233 South 5th Street
+Seward, NE" 63.5956964193769
+"Anita Public Library
+812 3rd St
+Anita, IA" 63.6046172174734
+"Manilla Public Library
+447 Main St
+Manilla, IA" 63.6273073493527
+"Hruska Memorial Public Library
+399 North 5th Street
+David City, NE" 63.8246652254076
+"Webermeier Memorial Library
+617 2nd Street
+Milford, NE" 64.201416010429
+"John A Stahl Library
+330 North Colfax
+West Point, NE" 64.5353874564488
+"Crete Public Library
+305 East 13th Street
+Crete, NE" 64.6209747432237
+"John Rogers Memorial Library
+703 2nd Street
+Dodge, NE" 64.8467466149627
+"Ute Public Library
+130 Main St
+Ute, IA" 64.9536526553859
+"Audubon Public Library
+401 N Park Place
+Audubon, IA" 65.6204857233347
+"Table Rock Public Library
+511 Luzerne Street
+Table Rock, NE" 66.1257414410697
+"Bruun Memorial Library
+730 3rd Street
+Humboldt, NE" 66.5258826061277
+"Ulysses Township Library
+410 C Street
+Ulysses, NE" 67.2171093336572
+"Charter Oak Public Library
+461 Railroad St
+Charter Oak, IA" 67.5118716899438
+"Norelius Community Library
+1403 1st Ave South
+Denison, IA" 68.1453109654238
+"Prescott Public Library
+607 2nd St
+Prescott, IA" 68.373970204554
+"Village Of Verdon Library
+306 1-2 Main Street
+Verdon, NE" 68.3834786107499
+"John G Smith Memorial Library
+517 Ridge Street
+Dawson, NE" 68.8257167694927
+"Manning Public Library
+310 Main St
+Manning, IA" 69.8586067197774
+"Bedford Public Library
+507 Jefferson St
+Bedford, IA" 69.9709054212723
+"Howells Public Library
+128 North 3rd Street
+Howells, NE" 70.1256011855505
+"Bancroft Public Library
+103 E. Poplar
+Bancroft, NE" 70.1686945470099
+"H. R. Jordan Memorial Library
+103 Poplar
+Bancroft, NE" 70.2526136458774
+"Whiting Public Library
+407 Whittier St
+Whiting, IA" 70.5053844111155
+"Dvoracek Memorial Library
+419 West Third Street
+Wilber, NE" 70.7584090423899
+"Fontanelle Public Library
+303 Washington
+Fontanelle, IA" 71.2267026279807
+"Pawnee City Public Library
+735 8th St
+Pawnee City, NE" 71.2324047293647
+"Rising City Community Library
+675 Main Street
+Rising City, NE" 72.1464450608894
+"Fisher-Whiting Memorial Library
+609 Courtright
+Mapleton, IA" 72.2540850069357
+"Karlen Memorial Library
+215 Blaine Street
+Beemer, NE" 72.3308360316661
+"Lenox Public Library
+101 N Main
+Lenox, IA" 72.7261279139596
+"Bob Wauneta Burkley Library Resource Center
+208 East Fillmore
+Dewitt, NE" 73.0114780561867
+"Beatrice Public Library
+100 North 16th Street
+Beatrice, NE" 73.1988969284261
+"Adair Public Library
+310 Audubon
+Adair, IA" 74.8755337554369
+"Clarkson Public Library
+318 Pine Street
+Clarkson, NE" 75.1581852338472
+"Lydia Bruun Woods Memorial Library
+120 East 18th Street
+Falls City, NE" 75.2362829557812
+"Beaver Crossing Community Library
+436 434th Road
+Beaver Crossing, NE" 75.3481982424921
+"Falls City Library And Arts Center
+1400 Stone Street
+Falls City, NE" 75.5005244224154
+"Schleswig Public Library
+202 Cedar St
+Schleswig, IA" 76.1343696364964
+"Maryville Public Library
+509 North Main
+Maryville, MO" 76.4766450820082
+"Greenfield Public Library
+202 So. First St
+Greenfield, IA" 76.6503172782191
+"Walthill Public Library
+222 Main Street
+Walthill, NE" 76.7804843075362
+"Casey Public Library
+604 Antique Country Drive
+Casey, IA" 77.1440891315775
+"Duncan Memorial Library
+610 Antique Country Drive
+Casey, IA" 77.1456018793047
+"Hornick Branch
+510 Main Street
+Hornick, IA" 77.201549418453
+"Cord Memorial Library, Danbury Branch
+215 Main Street
+Danbury, IA" 77.445031044708
+"Mound City Public Library
+207 East Sixth Street
+Mound City, MO" 77.4481416986442
+"Gresham Public Library
+424 Elm Street
+Gresham, NE" 77.8054937137527
+"Columbus Public Library
+2504 14th Street
+Columbus, NE" 78.0011837910015
+"Westside Public Library
+150 Main St
+Westside, IA" 78.162473539878
+"Public Resource-Technology Center
+201 School St
+Orient, IA" 78.2861434842951
+"Sloan Public Library
+311 4th St
+Sloan, IA" 78.3520623386434
+"Clearfield Public Library
+401 Broadway Suite 200
+Clearfield, IA" 78.3584505102706
+"Gilbert Public Library
+628 Second Street
+Friend, NE" 78.7372324245842
+"Northeast Library System
+3038 33rd Ave., Suite 13
+Columbus, NE" 78.7687977314429
+"Shelby Public Library
+255 N. Walnut
+Shelby, NE" 78.8676011767862
+"Wisner Public Library
+1015 East E Street
+Wisner, NE" 78.9432809675301
+"Wymore Public Library
+116 West F Street
+Wymore, NE" 79.7487741398104
+"House Memorial Library
+220 Thurston Avenue
+Pender, NE" 79.8471687922392
+"Plymouth Public Library
+103 North Jefferson Avenue
+Plymouth, NE" 79.9032200317366
+"Matilda J. Gibson Memorial Library
+200 W Howard St
+Creston, IA" 81.0001607315376
+"Summerfield Public Library
+300 Main St
+Summerfield, KS" 81.144447070805
+"Little Priest Tribal College Winnebago Public Library
+601 E College Dr
+Winnebago, NE" 81.9687105488029
+"Coon Rapids Public Library
+123 3rd Ave
+Coon Rapids, IA" 82.4287963461266
+"Mary J. Barnett Memorial Library
+400 Grand
+Guthrie Center, IA" 82.6650371773367
+"Menlo Public Library
+504 5th St
+Menlo, IA" 83.0956813457548
+"Battle Creek Public Library
+115 Main St
+Battle Creek, IA" 84.0255785667421
+"Struckman-Baatz Memorial Library
+104 South West Avenue
+Western, NE" 84.1236033958341
+"Carroll Public Library
+118 E 5th St
+Carroll, IA" 84.6637014820347
+"Mary Cotton Pubic Library
+915 Virginia
+Sabetha, KS" 84.7313799412994
+"Pilger Public Library
+120 North Main
+Pilger, NE" 84.8993084398342
+"Bayard Public Library
+315 Main St
+Bayard, IA" 86.4114621822942
+"Exeter Public Library
+202 South Exeter Avenue
+Exeter, NE" 86.9031024429736
+"Anthon Public Library
+303 E Main
+Anthon, IA" 87.4747640195239
+"Hamann Memorial Library
+311 E Main
+Anthon, IA" 87.4749267953576
+"Ida Grove Public Library
+100 E 2nd St
+Ida Grove, IA" 87.5005848677109
+"Stromsburg Public Library
+320 Central Street
+Stromsburg, NE" 87.5287284257213
+"Stuart Public Library
+111 E Front St
+Stuart, IA" 87.6882552629842
+"Oregon Public Library
+103 S. Washington
+Oregon, MO" 88.4568448209719
+"Axtell Public Library
+401 Maple
+Axtell, KS" 88.4629209501595
+"Milligan Public Library
+424 Main Street
+Milligan, NE" 88.4911490153459
+"Stanton Public Library
+1009 Jackpine
+Stanton, NE" 88.7005966439052
+"Arthur Public Library
+224 S Main St
+Arthur, IA" 88.7513395319122
+"Glidden Public Library
+110 Idaho St
+Glidden, IA" 88.9209620363114
+"Field-Carnegie Public Library
+200 S Walnut St
+Odebolt, IA" 88.9727385664866
+"Tobias Public Library
+101 Main Street
+Tobias, NE" 89.0765668816066
+"Kilgore Memorial Library
+520 Nebraska Avenue
+York, NE" 89.2717748597376
+"Panora Public Library
+101 N 1st Stree
+Panora, IA" 89.4935327066605
+"Seneca Free Library
+606 Main Street
+Seneca, KS" 89.569121300581
+"Wall Lake Public Library
+116 Main St
+Wall Lake, IA" 89.9647630775816
+"Hiawatha-Morrill Public Library
+431 Oregon
+Hiawatha, KS" 90.2050017335743
+"Emerson Public Library
+110 Main Street
+Emerson, NE" 90.2266176187625
+"Humphrey Public Library
+307 Main Street
+Humphrey, NE" 90.4292628768427
+"Worth County Library
+510 East Avenue
+Grant City, MO" 90.4965333262911
+"Daykin Public Library
+201 Mary Avenue
+Daykin, NE" 91.3686914848711
+"Dexter Public Library
+724 Marshall
+Dexter, IA" 91.7072373167638
+"Bagley Public Library
+117 Main
+Bagley, IA" 91.8384137143266
+"Silver Creek Township Library
+309 Vine Street
+Silver Creek, NE" 92.0061927846942
+"Mount Ayr Public Library
+121 W Monroe
+Mount Ayr, IA" 92.1262740511821
+"Linden Public Library
+131 S Main St
+Linden, IA" 92.6052621635682
+"Dakota City Public Library
+1710 Broadway
+Dakota City, NE" 93.0229171200669
+"Gardner Public Library
+114 West Third Street
+Wakefield, NE" 93.193914412671
+"Madison Public Library
+208 West 3rd Street
+Madison, NE" 93.5650354155126
+"Cushing Community Library
+202 Main St
+Cushing, IA" 93.6016000170531
+"Fairmont Public Library
+600 F Street
+Fairmont, NE" 93.697151265051
+"Correctionville Public Library
+532 Driftwood St
+Correctionville, IA" 93.7215382537028
+"Highland Branch Library
+306 W. Main
+Highland, KS" 93.8704403478077
+"Scranton Public Library
+1102 Main
+Scranton, IA" 94.1563623982328
+"Auburn Public Library
+209 Pine St
+Auburn, IA" 94.5420687382025
+"Woodbury County Library
+825 Main St
+Moville, IA" 94.7161598810947
+"Redfield Public Library
+1112 Thomas St
+Redfield, IA" 94.841453028581
+"Fairbury Public Library
+601 7th Street
+Fairbury, NE" 95.1532605123969
+"Wayne Public Library
+410 North Pearl Street
+Wayne, NE" 95.5757376864924
+"Gentry County Library
+304 N. Park
+Stanberry, MO" 95.6239732548049
+"Morningside Branch Library
+4005 Morningside Ave.
+Sioux City, IA" 95.9067347519796
+"Stubbs Memorial Library
+207 E Second St
+Holstein, IA" 96.3460015427705
+"Earlham Public Library
+120 S Chestnut
+Earlham, IA" 96.4964101109567
+"South Sioux City Public Library
+2121 Dakota Avenue
+South Sioux City, NE" 96.5579287530096
+"Marysville Public Library
+1009 Broadway
+Marysville, KS" 96.6950362815809
+"Genoa Public Library
+421 Willard Avenue
+Genoa, NE" 96.9726591696187
+"Jamaica Public Library
+316 Main St
+Jamaica, IA" 97.0976857735458
+"Geneva Public Library
+1043 G Street
+Geneva, NE" 97.4492061218721
+"Jackson Public Library
+223 N John St
+Jackson, NE" 97.5960375387514
+"Centralia Community Library
+520 4th Street
+Centralia, KS" 97.6072473266862
+"Sioux City Public Library
+529 Pierce St
+Sioux City, IA" 98.2046239967226
+"Northwest Iowa Library Services
+529 Pierce St.
+Sioux City, IA" 98.2046239967226
+"Tucker Memorial Library
+313 Harbine Street
+Alexandria, NE" 98.403147521894
+"Galva Public Library
+203 S Main St
+Galva, IA" 99.023231542261
+"Hanover Public
+205 Jackson Street
+Hanover, KS" 99.0826822156826
+"Vermillion Public Library
+102 Main
+Vermillion, KS" 99.1206504307371
+"Savannah Branch
+514 W. Main
+Savannah, MO" 99.6992841483664
+"Lake City Public Library
+110 E Washington St
+Lake City, IA" 99.9132428458868
+"Norfolk Public Library
+308 Prospect Avenue
+Norfolk, NE" 99.9136817722809

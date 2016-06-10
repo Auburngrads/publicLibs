@@ -1,0 +1,607 @@
+"location" "miles"
+"Nola Brantley Memorial Library
+721 Watson Blvd.
+Warner Robins, GA" 1.77184761620391
+"Centerville Branch Library
+310 E Church Street
+Centerville, GA" 5.38243208707705
+"Byron Public Library
+105 West Church Street
+Byron, GA" 9.76860402177357
+"Rocky Creek Branch Library
+1504 Rocky Creek Road
+Macon, GA" 11.4416569970175
+"Middle Georgia Regional Library System
+1180 Washington Avenue
+Macon, GA" 14.0060021540536
+"Houston County Public Libraries System
+1201 Washington Street
+Perry, GA" 14.8924641429349
+"Twiggs County Public Library
+151 Ash Street
+Jeffersonville, GA" 14.9133529008071
+"Shurling Branch Library
+1765 Shurling Drive
+Macon, GA" 15.2908517200389
+"West Bibb Branch Library
+5580 Thomaston Road
+Macon, GA" 15.9895598643409
+"Peach County Public Libraries System
+315 Martin Luther King Jr. Drive
+Fort Valley, GA" 18.1042220669154
+"Thomas Public Library
+213 Persons Street
+Fort Valley, GA" 18.2022323536607
+"Riverside Branch Library
+110 Holiday Drive North
+Macon, GA" 18.7039375880527
+"Tessie W. Norris Cochran-Bleckley County Pl
+315 Third Street Se
+Cochran, GA" 22.3142377987755
+"Crawford County Public Library
+340 Mccrary Street
+Roberta, GA" 25.1513081761369
+"Jones County Public Library
+146 Railroad Avenue
+Gray, GA" 25.5487073600316
+"M. E. Roden Memorial Library
+400 Commerce Street
+Hawkinsville, GA" 25.6842023567051
+"Elizabeth Harris Library
+312 Harmon Street
+Unadilla, GA" 27.0473743487718
+"East Wilkinson County Library
+154 E. Main Street
+Irwinton, GA" 27.4107697542153
+"Reynolds Community Library
+124e Talbot Street
+Reynolds, GA" 30.0027669755035
+"Monroe County Library
+62 West Main Street
+Forsyth, GA" 33.9963803349012
+"Montezuma Public Library
+506 N. Dooly Street
+Montezuma, GA" 34.1522580469218
+"Byromville Public Library
+452 Main Street
+Byromville, GA" 35.4371689352558
+"Twin Lakes Library System
+151 South Jefferson Street
+Milledgeville, GA" 37.1782231256705
+"Yatesville Public Library
+77 Childs Avenue
+Yatesville, GA" 37.2858274426618
+"Butler Public Library
+21o West Main Street
+Butler, GA" 37.9935285312055
+"Murrell Memorial-Dodge County Public Library
+505 Second Avenue Sw
+Eastman, GA" 39.1769910199691
+"Ocmulgee Regional Library System
+531 Second Ave.
+Eastman, GA" 39.1803634660827
+"Ideal Public Library
+605 Tom Watson Avenue
+Ideal, GA" 39.3048602957462
+"Dooly County Library
+1200 East Union Street
+Vienna, GA" 39.6290111299881
+"Laurens County Library
+801 Bellevue Avenue
+Dublin, GA" 39.9935291413925
+"Lake Sinclair Library
+3061 North Columbia Street
+Milledgeville, GA" 41.5623042121645
+"Barnesville-Lamar County Library
+401 Thomaston Street
+Barnesville, GA" 43.4804217606377
+"Jasper County Library
+319 East Green Street
+Monticello, GA" 46.2230914204859
+"Hightower Memorial Library
+800 West Gordon Street
+Thomaston, GA" 46.4344320440835
+"Cordele-Crisp Carnegie Library
+115 East Eleventh Avenue
+Cordele, GA" 47.7077814970266
+"Wilcox County Public Library
+104 North Broad
+Abbeville, GA" 47.7811897401355
+"Eatonton - Putnam County Library
+309 North Madison Avenue
+Eatonton, GA" 49.0825060162433
+"Jackson-Butts County Public Library
+436 East College Street
+Jackson, GA" 50.0350865760085
+"Harlie Fulford Memorial Library
+301 West Elm Street
+Wrightsville, GA" 50.0955726887752
+"Schley County Library
+234 South Broad Street
+Ellaville, GA" 50.4100109659956
+"Rosa M. Tarbutton Memorial Library
+314 S. Harris Street
+Sandersville, GA" 51.0804427548052
+"Lake Blackshear Regional Library System
+307 East Lamar Street
+Americus, GA" 54.0915951820112
+"J. Joel Edwards Public Library
+618 Hwy 19 South
+Zebulon, GA" 54.2817860328555
+"Telfair County Public Library
+815 College Street
+Mcrae, GA" 56.1531266128341
+"Flint River Regional Library System
+800 Memorial Drive
+Griffin, GA" 56.816890886243
+"Hancock County Library
+403 East Broad Street
+Sparta, GA" 56.8575341747459
+"Locust Grove Public Library
+3918 Highway 42
+Locust Grove, GA" 57.3234496518441
+"Wheeler County Library
+203 W. Forest Avenue
+Alamo, GA" 58.2040252696224
+"Marion County Library
+5th Avenue
+Buena Vista, GA" 58.3332749089289
+"Treutlen County Library
+2nd Street
+Soperton, GA" 61.155624860743
+"Manchester Public Library
+218 Perry Street
+Manchester, GA" 61.5757913316119
+"Henry County Library System
+1001 Florence Mcgarity Pkwy
+Mcdonough, GA" 63.6048213654519
+"Smithville Library
+116 Main Street
+Smithville, GA" 64.0165241448144
+"Victoria Evans Memorial Library
+605 North Street
+Ashburn, GA" 64.2782166702953
+"Fortson Public Library
+14 Old Griffin Rd
+Hampton, GA" 65.2775092341757
+"Morgan County Library
+1131 East Avenue
+Madison, GA" 66.569827957242
+"Fitzgerald-Ben Hill County Library
+123 North Main Street
+Fitzgerald, GA" 66.922347713352
+"Montgomery County Public Library
+215 Railroad Street
+Mt. Vernon, GA" 67.6462863509031
+"Newton County Library System
+7116 Floyd Street
+Covington, GA" 67.8886040538885
+"Webster County Library
+572 Washington Street
+Preston, GA" 68.0313968358456
+"Greene County Library
+610 South Main Street
+Greensboro, GA" 68.4683975775648
+"Greenville Area Public Library
+10 Gilbert Street
+Greenville, GA" 70.3002708345142
+"Wadley Public Library
+11 W. College Ave.
+Wadley, GA" 70.8178596363778
+"Glascock County
+738 Railroad Street
+Gibson, GA" 70.9326182200631
+"Lee County Public Library System
+245 Walnut Avenue, South
+Leesburg, GA" 72.0011620309003
+"Senoia Area Public Library
+62 Main Street
+Senoia, GA" 72.2043813456234
+"W. H. Stanton Memorial Library
+1045 West Hightower Trail
+Social Circle, GA" 72.2292398847628
+"Redbone Library
+104 Thundering Springs Road
+Leesburg, GA" 72.433694178045
+"Cochran Public Library
+4602 N. Henry Blvd
+Stockbridge, GA" 72.6712937078813
+"Franklin Memorial Library
+331 West Main Street
+Swainsboro, GA" 72.9421008284785
+"Jefferson County Library System
+306 E. Broad Street
+Louisville, GA" 73.1779216963322
+"Louisville Public Library
+306 E. Broad St.
+Louisville, GA" 73.1779216963322
+"Parks Memorial Library
+112 Wall Street
+Richland, GA" 73.7208477536805
+"Ladson Genealogy Library
+119 Church Street
+Vidalia, GA" 74.7558652597279
+"Ohoopee Regional Library System
+610 Jackson Street
+Vidalia, GA" 74.8479052328774
+"Taliaferro County Library
+117 Askin Street
+Crawfordville, GA" 74.8517175898717
+"Conyers-Rockdale Library System
+864 Green Street
+Conyers, GA" 75.0746973246406
+"Fayette County Public Library
+1821 Heritage Parkway
+Fayetteville, GA" 75.0748337556722
+"Harris County Public Library
+138 North College Street
+Hamilton, GA" 75.1256878160334
+"Irwin County Library
+310 South Beech Street
+Ocilla, GA" 75.2098547126585
+"Jonesboro Branch Library
+124 Smith Street
+Jonesboro, GA" 75.4697358006671
+"Warren County Public Library
+101 Warren Street
+Warrenton, GA" 75.6707948468805
+"Clayton County Library System
+865 Battle Creek Road
+Jonesboro, GA" 77.3959875429118
+"Morrow Branch Library
+6225 Maddox Road
+Morrow, GA" 77.6192539039143
+"Peachtree City Library
+201 Willowbend Road
+Peachtree City, GA" 77.8226802339762
+"Margaret Jones Memorial Library
+205 Pope Street
+Sylvester, GA" 78.1316295325121
+"Kinchafoonee Regional Library System
+913 Forrester Drive, Se
+Dawson, GA" 78.3763006194146
+"Hazlehurst-Jeff Davis Public Library
+700 Cromartie Street
+Hazlehurst, GA" 78.8768629507332
+"Salem-Panola Branch
+5137 Salem Road
+Lithonia, GA" 79.4275111720321
+"Chattahoochee Valley Regional Library System
+3000 Macon Road
+Columbus, GA" 79.6460911993283
+"Riverdale Branch Library
+420 Valley Hill Road
+Riverdale, GA" 79.6810087312079
+"Tallulah Massey Branch
+2004 Stratford Drive
+Albany, GA" 79.6819858310656
+"Northwest Branch Library
+2215 Barnesdale Way
+Albany, GA" 79.7401298647811
+"Ambrose Public Library
+1070 Cypress Avenue
+Ambrose, GA" 79.7705429729144
+"North Columbus Branch Library
+5689 Armour Road
+Columbus, GA" 79.8144152295159
+"Midville Branch
+149 Trout
+Midville, GA" 79.8187757277134
+"Bruce Street Branch
+2484 Bruce Street
+Lithonia, GA" 79.8745928545693
+"Nelle Brown Memorial Public Library
+166 West Liberty Street
+Lyons, GA" 79.9806981310822
+"Lithonia-Davidson Branch
+6821 Church Street
+Lithonia, GA" 79.9907793240605
+"Monroe-Walton County Library
+217 West Spring Street
+Monroe, GA" 80.1399310507562
+"Mccollum Public Library
+405 N. Main St.
+Wrens, GA" 80.4465873148849
+"Central Library
+300 Pine Avenue
+Albany, GA" 80.501036358135
+"South Columbus Branch Library
+2034 S Lumpkin Road
+Columbus, GA" 80.8299668887288
+"Coastal Plain Regional Library System
+2014 Chestnut Avenue
+Tifton, GA" 80.844917402042
+"Coweta County Public Library System
+85 Literary Lane
+Newnan, GA" 81.0582439565144
+"Forest Park Branch Library
+696 Main Street
+Forest Park, GA" 81.453655690089
+"W. C. Bradley Memorial Library
+1120 Bradley Drive
+Columbus, GA" 81.5624802361429
+"Tyrone Public Library
+881 Senoia Road
+Tyrone, GA" 82.0352903780909
+"Wesley Chapel-William C. Brown Branch
+2861 Wesley Chapel Road
+Decatur, GA" 82.1487415414163
+"Broxton Public Library
+105 Church Street
+Broxton, GA" 82.2110730747597
+"Flat Shoals Branch
+4022 Flat Shoals Pkwy
+Decatur, GA" 82.3342358503454
+"Mildred L. Terry Branch Library
+640 Veterans Parkway
+Columbus, GA" 82.3390554415555
+"Westtown Branch Library
+2124 Waddell Avenue
+Albany, GA" 82.3872192102935
+"Southside Branch Library
+2114 Habersham
+Albany, GA" 82.6729246454063
+"Redan-Trotti Branch
+1569 Wellborn Road
+Redan, GA" 82.8612994323087
+"Grantville Public Library
+123 La Grange Street
+Grantville, GA" 83.2157411720295
+"Phenix City-Russell County Library
+1501 17th Avenue
+Phenix City, AL" 83.842349693512
+"Hapeville Branch
+525 King Arnold Street
+Hapeville, GA" 84.7413815161754
+"South Fulton Regional
+4055 Flat Shoals Road
+Union City, GA" 84.7549209315095
+"Okelly Memorial Library
+363 Conyers Road
+Loganville, GA" 84.8187312652757
+"Hairston Crossing Branch
+4911 Redan Road
+Stone Mountain, GA" 84.8364844750031
+"Hogansville Public Library
+600 East Main Street
+Hogansville, GA" 84.9378780574394
+"Thomson-Mcduffie County Library
+338 Main Street
+Thomson, GA" 85.2523643130608
+"Scott Candler Branch
+2644 Mcafee Road
+Decatur, GA" 85.4582055375551
+"Cleveland Ave.-Roy Yancy, Sr., Branch
+47 Cleveland Avenue, Sw
+Atlanta, GA" 85.6178686441394
+"Thomasville Heights Branch
+1700 Thomasville Drive Se
+Atlanta, GA" 85.8727525502974
+"College Park Branch
+3647 Main Street
+Atlanta, GA" 86.0551809949947
+"Fairburn-Hobgood-Palmer Branch
+60 Valley View Drive
+Fairburn, GA" 86.152576267181
+"Elizabeth H. Williams
+2740 Lenora Church Rd.
+Snellville, GA" 86.807319873516
+"Covington Branch
+3500 Covington Hwy
+Decatur, GA" 86.8084246366212
+"Stewart-Lakewood
+2893 Lakewood Avenue
+Atlanta, GA" 86.8827205857821
+"Carver Homes Branch
+215 Lakewood Way, Suite 104
+Atlanta, GA" 86.9296591990137
+"East Point Branch
+2757 Main Street
+East Point, GA" 87.1531497302304
+"Stone Mountain-Sue Kellogg Branch
+952 Leon Street
+Stone Mountain, GA" 87.3608151383804
+"Kirkwood Branch
+11 Kirkwood Road, Se
+Atlanta, GA" 87.5356834983225
+"Newnan-Coweta Public Library
+25 Hospital Road
+Newnan, GA" 87.8896175551697
+"East Atlanta Branch
+400 Flat Shoals Ave. Se
+Atlanta, GA" 87.9749689927076
+"Decatur Library
+215 Sycamore St
+Decatur, GA" 88.3576577005342
+"Dekalb County Public Library System
+215 Sycamore Street
+Decatur, GA" 88.3576577005342
+"Lagrange Memorial Library
+115 Alford Street
+Lagrange, GA" 88.4524780591991
+"Georgia Hill Branch
+250 Georgia Avenue, S.E.
+Atlanta, GA" 88.533469674664
+"Scottdale-Tobie Grant Branch
+644 Parkdale Drive
+Scottdale, GA" 88.6975121913492
+"Clarkston Branch
+951 N. Indian Creek Dr
+Clarkston, GA" 88.8608265130373
+"Mountain Park
+1210 Pounds Rd. Sw
+Lilburn, GA" 88.9342734204478
+"Adams Park Branch
+2231 Campbellton Road Sw
+Atlanta, GA" 89.2804080935006
+"Mechanicsville Branch
+400 Formwalt Street Sw
+Atlanta, GA" 89.3976959157076
+"Satilla Regional Library System
+200 S. Madison Avenue, Suite D
+Douglas, GA" 89.5672730256861
+"Douglas-Coffee County Public Library
+201 South Coffee Avenue
+Douglas, GA" 89.6456453170342
+"Martin Luther King Jr., Branch
+409 John Wesley Dobbs Ave
+Atlanta, GA" 89.6488384278412
+"Auburn Avenue Research Library
+101 Auburn Avenue, Ne
+Atlanta, GA" 89.7675648073168
+"West End Branch
+525 Peeples Street, S.W.
+Atlanta, GA" 89.9821947179497
+"Ponce De Leon Branch
+980 Ponce De Leon Avenue Ne
+Atlanta, GA" 90.0397506575264
+"Atlanta Branch
+100 South Walnut Street
+Atlanta, IN" 90.2191784062093
+"Oglethorpe County Library
+858 Athens Rd.
+Lexington, GA" 90.3875843203269
+"Bogart Branch Library
+200 S. Burson St.
+Bogart, GA" 90.3919407517818
+"Bartram Trail Regional Library System
+204 E. Liberty Street
+Washington, GA" 90.467982635068
+"L. C. Anderson Memorial Library
+325 West Vertia Street
+Metter, GA" 90.6830708878986
+"Five Forks
+2780 Five Forks Trickum Rd
+Lawrenceville, GA" 90.7400754266655
+"Toco Hill-Avis G. Williams Branch
+1282 Mcconnell Drive
+Decatur, GA" 90.8550917342436
+"Washington Park-Annie L. Mcpheeters Branch
+1116 Martin Luther King, Jr., Dr.
+Atlanta, GA" 90.8986104463129
+"Athens Regional Library System
+2025 Baxter Street
+Athens, GA" 90.9245671018408
+"Tucker-Reid H. Cofer Branch
+4316 Church Street
+Tucker, GA" 91.4491326341546
+"Statham Public Library
+330 Jefferson Street
+Statham, GA" 91.6556879763982
+"Northlake-Barbara Loar Branch
+3772 Lavista Road
+Tucker, GA" 91.7112266340985
+"Harlem Branch
+375 N. Louisville Street
+Harlem, GA" 91.7783342963039
+"Southwest Regional
+3665 Cascade Road, S.W.
+Atlanta, GA" 91.8411294169304
+"Peachtree Branch
+1315 Peachtree Street, N.E.
+Atlanta, GA" 91.8741069790067
+"East Athens Resource Center
+400 Mckinley Drive
+Athens, GA" 92.3190938641231
+"Randolph County Branch Library
+200 East Pearl Street
+Cuthbert, GA" 92.3380861905047
+"Lay Park Resource Center
+297 Hoyt Street
+Athens, GA" 92.4420256201606
+"Dogwood Branch
+1838 Donald Lee Hollowell Pkwy Nw
+Atlanta, GA" 92.7579007049744
+"Lilburn
+788 Hillcrest Rd. Nw
+Lilburn, GA" 92.9692392601865
+"Monroe Memorial Library
+232 Broad Street
+Doerun, GA" 93.2221207772662
+"H. Grady Bradshaw - Chambers County Library
+3419 20th Avenue
+Valley, AL" 93.3054839366458
+"Adamsville-Collier Heights Branch
+3424 Martin Luther King Jr., Dr.
+Atlanta, GA" 93.3506037424
+"Gwinnett County Public Library System
+1001 Lawrenceville Highway
+Lawrenceville, GA" 93.3525672252779
+"Winterville Branch Library
+115 Marigold Land
+Winterville, GA" 93.5690531502269
+"Embry Hills Branch
+3733 Chamblee-Tucker Road
+Chamblee, GA" 93.8628459509
+"Tattnall County Library
+129 Tattnall Street
+Reidsville, GA" 94.1636074764351
+"Piedmont Regional Library System
+189 Bell View Street
+Winder, GA" 94.2557329929871
+"Bowen Homes Branch
+2880 Yates Drive, N.W.
+Atlanta, GA" 94.3534486079999
+"Buckhead Branch
+269 Buckhead Avenue
+Atlanta, GA" 94.5501840657674
+"Chamblee Branch
+4115 Clairmont Rd
+Chamblee, GA" 95.4222548816345
+"Bankhead Courts Branch
+1415 Maynard Road
+Atlanta, GA" 95.5668257625187
+"Perry Homes Branch
+2121 Hollywood Rd Nw
+Atlanta, GA" 95.7265795450234
+"Auburn Library
+7 Seventh Street
+Auburn, GA" 95.8058184736201
+"Nicholls Public Library
+108 North Liberty Street
+Nicholls, GA" 95.8583780308477
+"Doraville Branch
+3748 Central Ave
+Doraville, GA" 95.8719786539137
+"Euchee Creek Branch
+5907 Euchee Creek Dr.
+Grovetown, GA" 96.2552553842535
+"Northside Branch
+3295 Northside Parkway Nw
+Atlanta, GA" 96.3081055703502
+"Norcross
+6025 Buford Hwy.
+Norcross, GA" 96.5879262156684
+"Burke County Library
+412 4th Street
+Waynesboro, GA" 96.6771184710643
+"Jenkins County Memorial Library
+223 Daniel Street
+Millen, GA" 96.8036015022665
+"Heard County Public Library
+564 Main Street
+Franklin, GA" 97.7681087347692
+"Collins Hill
+455 Camp Perrin Rd
+Lawrenceville, GA" 98.0603875690432
+"Lewis A. Ray Library
+4500 Oakdale Road
+Smyrna, GA" 98.3391499724049
+"South Cobb Library
+5801 Mableton Parkway
+Mableton, GA" 98.960300699115
+"Peachtree Corners
+5570 Spalding Dr.
+Norcross, GA" 99.0569370651576
+"Duluth
+3480 Duluth Park Lane
+Duluth, GA" 99.673033191955
+"Sandy Springs Branch
+395 Mount Vernon Hwy Ne
+Atlanta, GA" 99.6796938599102
+"Harold S. Swindle Public Library
+5466 U.S. Hwy. 441 South
+Nicholson, GA" 99.7208755143922
+"Dunwoody Branch
+5339 Chamblee-Dunwoody Rd
+Dunwoody, GA" 99.8766418477488
