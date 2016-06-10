@@ -11,13 +11,11 @@ Description:
 License: MIT + file LICENSE
 LazyData: TRUE
 Depends: R (>= 3.2.0)
-Imports: XML,plyr,datasets,utils
+Imports: XML,plyr,datasets,utils,fields,httr,data.table,ggmap
 NeedsCompilation: no
 Archs: i386, x64
 Suggests:
     testthat,
     knitr,
     rmarkdown
-Remotes:
-    github::Auburngrads/ggmap
 RoxygenNote: 5.0.1

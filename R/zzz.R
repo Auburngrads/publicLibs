@@ -9,6 +9,9 @@
 
 mergeLibs <- function() {
 
+  state.abb  <- datasets::state.abb
+  state.name <- datasets::state.name
+
   which(state.abb==state.name)
 
   all.libs <- data.frame(stringsAsFactors = F)

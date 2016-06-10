@@ -6,3 +6,4 @@
 ^\.RData$
 ^\.Ruserdata$
 meetings/
+inst/extdata2/

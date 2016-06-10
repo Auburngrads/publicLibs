@@ -162,3 +162,6 @@
 
 #' @rdname US_Libs
 'WY_Libs'
+
+#' @rdname US_Libs
+'US_Libs'

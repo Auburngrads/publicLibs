@@ -13,9 +13,11 @@
 #' @importFrom XML readHTMLTable
 #' @import datasets
 #' @importFrom utils write.table
+#' @importFrom ggmap geocode
+#' @importFrom httr GET
 #' @export
 
-baseData <- function(...) {
+baseData <- function(state = NULL, geocode = TRUE,...) {
 
   base.url <- 'http://www.thefullwiki.org/List_of_United_States_Air_Force_bases'
 

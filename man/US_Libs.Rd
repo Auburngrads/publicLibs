@@ -45,6 +45,7 @@
 \alias{SD_Libs}
 \alias{TN_Libs}
 \alias{TX_Libs}
+\alias{US_Libs}
 \alias{UT_Libs}
 \alias{VA_Libs}
 \alias{VT_Libs}
@@ -168,6 +169,8 @@ WV_Libs
 WI_Libs
 
 WY_Libs
+
+US_Libs
 }
 \description{
 Information about public libraries in each state

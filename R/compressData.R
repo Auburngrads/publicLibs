@@ -3,8 +3,12 @@
 #' @export
 #' @description This function uses plyr::join to combine the public library data sets for each state into a single dataset for the entire U.S.
 #' @import datasets
+#' @importFrom utils read.table
 
 compressData <- function() {
+
+  state.abb  <- datasets::state.abb
+  state.name <- datasets::state.name
 
 for(i in 1:50) {
 
