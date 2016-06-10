@@ -1,4 +1,0 @@
-"location" "miles"
-"Guam Public Library System
-254 Martyr Street
-Agana, GA" 13.8480213651751
