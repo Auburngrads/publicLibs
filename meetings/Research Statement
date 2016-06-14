@@ -1,0 +1,4 @@
+This research effort investigated the off-base community of an installation to predict where library partnerships are more likely to succeed.  For each CONUS installation, the library service provided by the community was analyzed to produce an index using inverse distance weighting. The index takes into account the quality of each instance of the service and the distance from the installation.  These indices were then compared and used as a predictor for where a partnership could be used.
+
+Should I include other factors other than distance and quality into the index?  Other services?
+
