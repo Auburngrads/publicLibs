@@ -3,3 +3,9 @@
 Met with Corey
 
 Setup project on my computer.
+
+R code (baseData.R) was wrote which scrapes the base names and retrieves the Lat and Long coordinates.
+
+Tasks for Corey:
+  Create function that takes in base name and community radius and produces distance to all libraries within that radius.
+  Start writing research statememnt.
