@@ -14,7 +14,8 @@ base.distance <- function(base = NULL,service = 'libraries',...) {
   if(tolower(service)=='libraries') { services <- US_Libs ; suffix <- '_Libs' }
 
   Base_Locations <- read.table(system.file('extdata','Base_Locations.txt',
-                                           package = 'publicLibs'))
+                                           package = 'publicLibs'),
+                               header = TRUE)
 
   for(j in 1:nrow(Base_Locations)) {
 
@@ -45,9 +46,8 @@ base.distance <- function(base = NULL,service = 'libraries',...) {
                                          services$Latitude,
                                          services$Longitude)
   colnames(service.locs) <- c('location','miles','latitude','longitude')
-  service.locs <- service.locs[order('miles')]
-  service.locs <- subset(service.locs,service.locs[,'miles']<=100)
-  colnames(service.locs) <- c('location','miles','latitude','longitude')
+  service.locs <- service.locs[order(`miles`)]
+  service.locs <- subset(service.locs,service.locs[,`miles`]<=100)
 
   txt.name <-  paste(c('inst/','extdata/','base_libs/',Base_Locations[j,]$`Base (Abbreviation)`,'_Libs.txt'),collapse = '')
 
