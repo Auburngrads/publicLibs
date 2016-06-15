@@ -49,7 +49,7 @@ base.distance <- function(base = NULL,service = 'libraries',...) {
   service.locs <- service.locs[order(`miles`)]
   service.locs <- subset(service.locs,service.locs[,`miles`]<=100)
 
-  txt.name <-  paste(c('inst/','extdata/','base_libs/',Base_Locations[j,]$`Base (Abbreviation)`,'_Libs.txt'),collapse = '')
+  txt.name <-  paste(c('extdata/','base_libs/',Base_Locations[j,]$`Base (Abbreviation)`,'_Libs.txt'),collapse = '')
 
   write.table(service.locs, file = txt.name, row.names = F)
 
