@@ -32,8 +32,8 @@ base.distance <- function(base = NULL,service = 'libraries',...) {
 
   service.point <- matrix(unlist(services[i,(ncol(services)-1):ncol(services)]), ncol = 2)
 
-  places[[i]] <- paste(c(services[i,]$Library.Name,'\n',
-                                       services[i,]$Address,'\n',
+  places[[i]] <- paste(c(services[i,]$Library.Name,'<br/>',
+                                       services[i,]$Address,'<br/>',
                                        services[i,]$City,', ',services[i,]$State),
                                      collapse = '')
 
