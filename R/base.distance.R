@@ -7,7 +7,6 @@
 #' @importFrom fields rdist.earth.vec
 #' @importFrom data.table data.table
 #' @importFrom utils read.table
-#' @export
 
 base.distance <- function(base = NULL,service = 'libraries',...) {
 
@@ -15,7 +14,8 @@ base.distance <- function(base = NULL,service = 'libraries',...) {
 
   Base_Locations <- read.table(system.file('extdata','Base_Locations.txt',
                                            package = 'publicLibs'),
-                               header = TRUE)
+                               header = TRUE,
+                               stringsAsFactors = F)
 
   for(j in 1:nrow(Base_Locations)) {
 
@@ -47,13 +47,13 @@ base.distance <- function(base = NULL,service = 'libraries',...) {
                                          services$Longitude)
   colnames(service.locs) <- c('location','miles','latitude','longitude')
   service.locs <- service.locs[order(`miles`)]
-  service.locs <- subset(service.locs,service.locs[,`miles`]<=100)
+  service.locs <- subset(service.locs,`miles`<=100)
 
-  txt.name <-  paste(c('extdata/','base_libs/',Base_Locations[j,]$`Base (Abbreviation)`,'_Libs.txt'),collapse = '')
+  txt.name <-  paste(c('inst/','extdata2/','base_libs/',Base_Locations[j,]$Base..Abbreviation.,'_Libs.txt'),collapse = '')
 
   write.table(service.locs, file = txt.name, row.names = F)
 
-  rda.name <- paste(c(Base_Locations[j,]$`Base (Abbreviation)`,'_Libs'),collapse = '')
+  rda.name <- paste(c(Base_Locations[j,]$Base..Abbreviation.,'_Libs'),collapse = '')
 
   assign(rda.name, service.locs, envir = environment())
 
