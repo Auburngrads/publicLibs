@@ -1,5 +1,5 @@
 ---
-title: "Offbase Library Application"
+title: "Off-Base Library Visualization"
 author: "Jason K Freels, Corey DeGroot"
 date: "Air Force Institute of Technology"
 output: slidy_presentation
