@@ -32,6 +32,9 @@
 'blln_Libs'
 
 #' @rdname lib_dist
+'brkd_Libs'
+
+#' @rdname lib_dist
 'brks_Libs'
 
 #' @rdname lib_dist

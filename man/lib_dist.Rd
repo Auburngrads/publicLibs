@@ -9,6 +9,7 @@
 \alias{bckl_Libs}
 \alias{beal_Libs}
 \alias{blln_Libs}
+\alias{brkd_Libs}
 \alias{brks_Libs}
 \alias{chrl_Libs}
 \alias{clmb_Libs}
@@ -97,6 +98,8 @@ bckl_Libs
 beal_Libs
 
 blln_Libs
+
+brkd_Libs
 
 brks_Libs
 
