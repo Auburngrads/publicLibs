@@ -1,37 +1,144 @@
 ---
-title: "Off-Base Library Visualization"
-author: "Jason K Freels, Corey DeGroot"
+title: "Quantifing Partnership Oppurtunity: A GIS Approach"
+author: "1st Lt Corey DeGroot"
 date: "Air Force Institute of Technology"
 output: slidy_presentation
 runtime: shiny
+css: "afit-slidy.css"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
 ```
 
-## Shiny Presentation
+# Overview
 
-This R Markdown presentation is made interactive using Shiny. The viewers of the presentation can change the assumptions underlying what's presented and see the results immediately. 
+- Background
+- Problem Statement
+- Methodology
+- Interactive Plot
 
-To learn more, see [Interactive Documents](http://rmarkdown.rstudio.com/authoring_shiny.html).
 
-## Interactive Plot
 
-```{r eruptions}
+# Background
+
+- AF maintains 20% surplus infrastructure capacity^1^
+- 2014 only 65% of the FSRM requirement was funded^2^
+- Strategic Basing proposed to eliminate funding issues^2^
+- Air Force P4 Initiative:
+
+> “The Air Force Community Partnership Program is a framework through which installation and public/private sector community       leaders can develop innovative ways to leverage their capabilities and resources to obtain shared value and benefit by           avoiding or reducing costs.”
+
+ 
+
+# Background
+
+## Public-Private Partnerships
+
+- An arrangement between public and private entities to work together^4^
+- U.S. Definition: A contractual arrangement between a public agent and 
+    - A contractual arrangement between a public agent and a for-profit private actor
+    - Resources and risks are shared to deliver a public service or public infrastructure^5^
+- Partnerships bring together strong qualities from each sector
+- High complexity for infrastructure procurement
+
+# Background
+
+## Public-Public Partnerships
+
+- Collaboration between two or more public authorities^6^
+- Used in water service reform in developing countries due to failed private sector involvement
+    - Sweden and Latvia
+    - Sweden and Lithuania
+- Not-for-profit key for effective interaction
+- "Unlikely that a PPP could have achieved the same developmental objectives..."
+
+
+# Reseach Statement
+
+> This research effort investigated the off-base community of an installation to predict where partnerships are more likely to succeed.  For each CONUS installation, the library service provided by the community was analyzed to produce an index using inverse distance weighting. The index takes into account the quality of each instance of the service and the distance from the installation.  These indices were then compared and used as a predictor for where a library partnership could be used.
+
+## Reseach Questions:
+
+- Which CONUS installations have off-base communities capable of providing base library service through P4 opportunities?
+
+<!-- - What is the rank order of the installations using IDW for library service? -->
+
+- Can community demographics (population, occupation/industry size, etc.) be used to predict the same rank order to determine P4 opportunities?
+
+
+# Methodology - Data Summary
+
+<div class = 'columns-2'>
+- Sources of data: www.publiclibraries.org and www.public-libraries.com
+- Data converted from HTML tables to data-frame in R
+- Libraries geocoded using Google-maps Application Programming Interface
+    
+
+
+<br>
+
+<center> <img src = "images/picture1.png" style="height:200px" /> </center>
+\hfill
+
+
+<center> <img src="images/datatable.png" style="height:300px" /> </center>
+
+</div>
+
+
+# Methodology - Analysis
+
+- Inverse-Distance-Weighted (IDW) Average
+    - Tobler’s First Law: “All things are related, but nearby things are more related than distant things”^7^
+    - Library index estimates the value of the libraries surrounding the installation
+    - Uses known values to estimate value at nearby points^8^
+    
+
+<div class='columns-2'>
+
+- $z(x) = (W_i * Z_i)/W_i$
+    - $W_i = 1/d_i^2$
+    - $Z_i =$ Size of the library
+
+<br>
+
+  
+<center> <img src="images/IDW.png" style="height:350px" /> </center>
+
+
+</div>
+
+
+
+# Interactive Plot
+
+```{r eval = FALSE}
 teachingApps:::offbase_libraries()
 ```
 
-## Bullets
+# Summary
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
 
-## R Output
 
-```{r cars}
-summary(cars)
-```
+# References
+
+<style type='text/css'>
+ol li {font-size:14pt;}
+</style>
+
+1.  GAO. (2013). GAO Defense Infrastructure. Washington DC: United States Government Accountability Office.
+2.  Johnson, B., & Clark, L. (2015, September). A Plan for Strategic Basing. The Military Engineer, 52 – 54.
+3.  Team, A. F. C. P. (2015). AF Community Partnership Program signs 100th partnering agreement. Retrieved February 21, 2016, from http://www.af.mil/News/ArticleDisplay/tabid/223/Article/608603/af-community-partnership-program-signs-100th-partnering-agreement.aspx
+4.  Hodge, G. a., & Greve, C. (2007). Public Private Partnerships: An International Performance Review. Public Administration Review, 67(3), 545–558. http://doi.org/10.1111/j.1540-6210.2007.00736.x
+5.  Li, B., & Akintoye, A. (2003). An Overview of Public-Private Parnership. In A. Akintoye, M. Beck, & C. Hardcastle (Eds.), Public-Private Partnerships: Managing Risks and Oppurtunities. John Wiley & Sons. Retrieved from https://books.google.com/books?hl=en&lr=&id=Y_hAmDKmJM0C&pgis=1
+6.  Lobina, E., & Hall, D. (2006). Public-Public Partnerships as a catalyst for capacity building and institutional development: Lessons from Stockholm Vatten’s experience in the Baltic region. Retrieved from http://www.psiru.org/reports/2006-09-W-PUPs.doc
+7.  De Smith, M., Goodchild, M. F., & Longley, P. a. (2015). Geospatial Analysis 5th Edition, 2015. Retrieved from http://www.spatialanalysisonline.com/HTML/index.html
+8.  Longley, P., & Goodchild, M. (2011). Geographic Information Systems and Science (Third). John Wiley & Sons. Retrieved from https://books.google.com/books?hl=en&lr=&id=toobg6OwFPEC&pgis=1
+
+
+
+
 
 
