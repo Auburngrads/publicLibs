@@ -15,8 +15,12 @@ knitr::opts_chunk$set(echo = FALSE)
 # Overview
 
 - Background
-- Problem Statement
+    - Public-Private Partnerships
+    - Public-Public Partnerships
+- Research Statement and Questions
 - Methodology
+    - Data Summary
+    - Analysis
 - Interactive Plot
 
 
@@ -68,7 +72,9 @@ knitr::opts_chunk$set(echo = FALSE)
 - Can community demographics (population, occupation/industry size, etc.) be used to predict the same rank order to determine P4 opportunities?
 
 
-# Methodology - Data Summary
+# Methodology
+
+## Data Summary
 
 <div class = 'columns-2'>
 - Sources of data: www.publiclibraries.org and www.public-libraries.com
@@ -88,7 +94,9 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 
 
-# Methodology - Analysis
+# Methodology
+
+## Analysis
 
 - Inverse-Distance-Weighted (IDW) Average
     - Tobler’s First Law: “All things are related, but nearby things are more related than distant things”^7^
@@ -105,7 +113,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br>
 
   
-<center> <img src="images/IDW.png" style="height:350px" /> </center>
+<center> <img src="images/IDW.png" style="height:250px" /> </center>
 
 
 </div>
@@ -119,6 +127,15 @@ teachingApps:::offbase_libraries()
 ```
 
 # Summary
+
+- Background
+    - Public-Private Partnerships
+    - Public-Public Partnerships
+- Research Statement and Questions
+- Methodology
+    - Data Summary
+    - Analysis
+- Interactive Plot
 
 
 
