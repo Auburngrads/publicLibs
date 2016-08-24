@@ -1,10 +1,13 @@
 moreLibs <- function(...) {
-url <- 'http://www.public-libraries.org/'
-    doc = XML::htmlTreeParse(url, useInternalNodes=T)
-    states = XML::xpathSApply(doc,"//a",XML::xmlValue)[10:60]
-    state.name <- gsub(' ', '', state.name)
 
-    for(i in 1:length(state.abb)) {
+  url <- 'http://www.public-libraries.org/'
+  doc = XML::htmlTreeParse(url, useInternalNodes=T)
+  states = XML::xpathSApply(doc,"//a",XML::xmlValue)[10:60]
+  state.name <- gsub(' ', '', state.name)
+#
+# Get the url of each state site of public-libraries.org
+#
+    for(i in 1:1) { #length(state.abb)
 
       urlS <- paste(c('library.public-libraries.org/',
                       state.name[i], '/',
@@ -21,8 +24,7 @@ url <- 'http://www.public-libraries.org/'
       st3 <- gsub(" Libraries", '', st2)
       st4 <- gsub(" ", '', st3)
 
-
-    for(j in 1:length(st4)) {
+    for(j in 1:2) {  # length(st4)
 
     url.lib <- paste(c(tolower(state.name[i]),'.public-libraries.org/library/',
                       state.abb[i],'/',
@@ -47,7 +49,9 @@ url <- 'http://www.public-libraries.org/'
       tl1 <- httr::GET(the.lib)
       tl2 <- httr::content(tl1, encoding = 'UTF-8')
       tl3 <- XML::htmlTreeParse(tl2, useInternalNodes=T)
-      tl4 <- XML::xpathSApply(tl3,"//td[@height='23']",XML::xmlValue) ; tl4 <- gsub('  ','',tl4)
+      tl4 <- XML::xpathSApply(tl3,'//td[@background="http://www.public-libraries.org/images/back.gif"]',XML::xmlValue); tl4 <- gsub('  ', '', tl4)
+      name <- XML::xpathSApply(tl3,'//td[@bgcolor="#6e7b8a"]',XML::xmlValue)
+      tl4 <- tl4[-c(1,length(tl4))]
       tl5 <- XML::xpathSApply(tl3,"//table",XML::xmlValue)
       tl6 <- gsub('  ', '', tl5)
       tl7 <- strsplit(tl6, '\\n')
