@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Public-Private Partnerships
 
 - An arrangement between public and private entities to work together^4^
-- U.S. Definition: A contractual arrangement between a public agent and 
+- U.S. Definition: 
     - A contractual arrangement between a public agent and a for-profit private actor
     - Resources and risks are shared to deliver a public service or public infrastructure^5^
 - Partnerships bring together strong qualities from each sector
@@ -102,7 +102,7 @@ knitr::opts_chunk$set(echo = FALSE)
     - Tobler’s First Law: “All things are related, but nearby things are more related than distant things”^7^
     - Library index estimates the value of the libraries surrounding the installation
     - Uses known values to estimate value at nearby points^8^
-- $z(x) = (W_i * Z_i)/W_i$
+- $z(x) = \frac{\sum_{i=1}^{n}W_i * Z_i}{\sum_{i=1}^{n}W_i}$
 
     - $W_i = 1/d_i^2$
 
