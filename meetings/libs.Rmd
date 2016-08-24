@@ -15,8 +15,12 @@ library(publicLibs)
 # Overview
 
 - Background
-- Problem Statement
+    - Public-Private Partnerships
+    - Public-Public Partnerships
+- Research Statement and Questions
 - Methodology
+    - Data Summary
+    - Analysis
 - Interactive Plot
 
 
@@ -68,7 +72,9 @@ library(publicLibs)
 - Can community demographics (population, occupation/industry size, etc.) be used to predict the same rank order to determine P4 opportunities?
 
 
-# Methodology - Data Summary
+# Methodology
+
+## Data Summary
 
 <div class = 'columns-2'>
 - Sources of data: www.publiclibraries.org and www.public-libraries.com
@@ -88,27 +94,31 @@ library(publicLibs)
 </div>
 
 
-# Methodology - Analysis
+# Methodology
+
+## Analysis
 
 - Inverse-Distance-Weighted (IDW) Average
     - Tobler’s First Law: “All things are related, but nearby things are more related than distant things”^7^
     - Library index estimates the value of the libraries surrounding the installation
     - Uses known values to estimate value at nearby points^8^
-    
-
-<div class='columns-2'>
-
 - $z(x) = (W_i * Z_i)/W_i$
-    - $W_i = 1/d_i^2$
-    - $Z_i =$ Size of the library
 
-<br>
+    - $W_i = 1/d_i^2$
+
+    - $Z_i =$ Size of the library    
+
+<!-- <div class='columns-2'> -->
+
+
+
+<!-- <br> -->
 
   
-<center> <img src="images/IDW.png" style="height:350px" /> </center>
+<img src="images/IDW.png" style="height:450px; position:absolute; top:475px; left:1200px" /> 
 
 
-</div>
+<!-- </div> -->
 
 
 
@@ -119,6 +129,15 @@ teachingApps:::offbase_libraries()
 ```
 
 # Summary
+
+- Background
+    - Public-Private Partnerships
+    - Public-Public Partnerships
+- Research Statement and Questions
+- Methodology
+    - Data Summary
+    - Analysis
+- Interactive Plot
 
 
 
