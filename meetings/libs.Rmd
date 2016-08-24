@@ -1,5 +1,5 @@
 ---
-title: "Quantifing Partnership Oppurtunity: A GIS Approach"
+title: "Quantifing Partnership Opportunity: A GIS Approach"
 author: "1st Lt Corey DeGroot"
 date: "Air Force Institute of Technology"
 output: slidy_presentation
@@ -56,7 +56,7 @@ library(publicLibs)
     - Sweden and Latvia
     - Sweden and Lithuania
 - Not-for-profit key for effective interaction
-- "Unlikely that a PPP could have achieved the same developmental objectives..."
+- "Unlikely that a PPP could have achieved the same developmental objectives..."^6^
 
 
 # Reseach Statement
@@ -93,6 +93,25 @@ library(publicLibs)
 
 </div>
 
+# Methodology
+
+<br>
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+shinyApp(options = list(width = '100%', height = '800px'),
+         
+ui = fluidPage(mainPanel(DT::dataTableOutput("states", height = "800px"), 
+                         width = 12)),
+
+server = function(input, output, session){
+  
+  library(DT)
+  output$states <- DT::renderDataTable({    
+                   DT::datatable(publicLibs::US_Libs[1:2000,],                                                     options = list(pageLength = 14)) 
+})
+})
+
+```
 
 # Methodology
 
@@ -115,7 +134,7 @@ library(publicLibs)
 <!-- <br> -->
 
   
-<img src="images/IDW.png" style="height:450px; position:absolute; top:475px; left:1200px" /> 
+<img src="images/IDW.png" style="height:400px; position:absolute; top:500px; left:1000px" /> 
 
 
 <!-- </div> -->
@@ -144,17 +163,17 @@ teachingApps:::offbase_libraries()
 # References
 
 <style type='text/css'>
-ol li {font-size:14pt;}
+ol li {font-size:18pt;}
 </style>
 
 1.  GAO. (2013). GAO Defense Infrastructure. Washington DC: United States Government Accountability Office.
 2.  Johnson, B., & Clark, L. (2015, September). A Plan for Strategic Basing. The Military Engineer, 52 – 54.
-3.  Team, A. F. C. P. (2015). AF Community Partnership Program signs 100th partnering agreement. Retrieved February 21, 2016, from http://www.af.mil/News/ArticleDisplay/tabid/223/Article/608603/af-community-partnership-program-signs-100th-partnering-agreement.aspx
-4.  Hodge, G. a., & Greve, C. (2007). Public Private Partnerships: An International Performance Review. Public Administration Review, 67(3), 545–558. http://doi.org/10.1111/j.1540-6210.2007.00736.x
-5.  Li, B., & Akintoye, A. (2003). An Overview of Public-Private Parnership. In A. Akintoye, M. Beck, & C. Hardcastle (Eds.), Public-Private Partnerships: Managing Risks and Oppurtunities. John Wiley & Sons. Retrieved from https://books.google.com/books?hl=en&lr=&id=Y_hAmDKmJM0C&pgis=1
-6.  Lobina, E., & Hall, D. (2006). Public-Public Partnerships as a catalyst for capacity building and institutional development: Lessons from Stockholm Vatten’s experience in the Baltic region. Retrieved from http://www.psiru.org/reports/2006-09-W-PUPs.doc
-7.  De Smith, M., Goodchild, M. F., & Longley, P. a. (2015). Geospatial Analysis 5th Edition, 2015. Retrieved from http://www.spatialanalysisonline.com/HTML/index.html
-8.  Longley, P., & Goodchild, M. (2011). Geographic Information Systems and Science (Third). John Wiley & Sons. Retrieved from https://books.google.com/books?hl=en&lr=&id=toobg6OwFPEC&pgis=1
+3.  Team, A. F. C. P. (2015). AF Community Partnership Program signs 100th partnering agreement. Retrieved February 21, 2016, from <http://www.af.mil/News/ArticleDisplay/tabid/223/Article/608603/af-community-partnership-program-signs-100th-partnering-agreement.aspx>
+4.  Hodge, G. a., & Greve, C. (2007). Public Private Partnerships: An International Performance Review. Public Administration Review, 67(3), 545–558. <http://doi.org/10.1111/j.1540-6210.2007.00736.x>
+5.  Li, B., & Akintoye, A. (2003). An Overview of Public-Private Parnership. In A. Akintoye, M. Beck, & C. Hardcastle (Eds.), Public-Private Partnerships: Managing Risks and Oppurtunities. John Wiley & Sons. Retrieved from <https://books.google.com/books?hl=en&lr=&id=Y_hAmDKmJM0C&pgis=1>
+6.  Lobina, E., & Hall, D. (2006). Public-Public Partnerships as a catalyst for capacity building and institutional development: Lessons from Stockholm Vatten’s experience in the Baltic region. Retrieved from <http://www.psiru.org/reports/2006-09-W-PUPs.doc>
+7.  De Smith, M., Goodchild, M. F., & Longley, P. a. (2015). Geospatial Analysis 5th Edition, 2015. Retrieved from <http://www.spatialanalysisonline.com/HTML/index.html>
+8.  Longley, P., & Goodchild, M. (2011). Geographic Information Systems and Science (Third). John Wiley & Sons. Retrieved from <https://books.google.com/books?hl=en&lr=&id=toobg6OwFPEC&pgis=1>
 
 
 

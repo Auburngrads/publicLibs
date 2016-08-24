@@ -2,8 +2,8 @@ name: libs
 account: afit
 server: shinyapps.io
 appId: 121434
-bundleId: 539349
+bundleId: 540053
 url: https://afit.shinyapps.io/libs/
-when: 1472008098.71788
+when: 1472068460.50308
 asMultiple: FALSE
 asStatic: FALSE
