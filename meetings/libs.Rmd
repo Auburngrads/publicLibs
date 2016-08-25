@@ -9,7 +9,7 @@ css: "afit-slidy.css"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(publicLibs)
+# library(publicLibs)
 ```
 
 # Overview
@@ -124,7 +124,7 @@ library(publicLibs)
 
 # Interactive Plot
 
-```{r}
+```{r eval=FALSE}
 teachingApps:::offbase_libraries()
 ```
 
