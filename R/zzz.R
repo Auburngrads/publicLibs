@@ -6,7 +6,6 @@
 #' @importFrom plyr join
 #' @import datasets
 
-
 mergeLibs <- function() {
 
   state.abb  <- datasets::state.abb

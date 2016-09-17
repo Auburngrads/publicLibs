@@ -1,9 +1,11 @@
+#' @import datasets
+
 moreLibs <- function(...) {
 
   url <- 'http://www.public-libraries.org/'
   doc = XML::htmlTreeParse(url, useInternalNodes=T)
   states = XML::xpathSApply(doc,"//a",XML::xmlValue)[10:60]
-  state.name <- gsub(' ', '', state.name)
+  state.name <- gsub(' ', '', datasets::state.name)
 #
 # Get the url of each state site of public-libraries.org
 #
@@ -11,7 +13,7 @@ moreLibs <- function(...) {
 
       urlS <- paste(c('library.public-libraries.org/',
                       state.name[i], '/',
-                      state.abb[i],'.html'),
+                      datasets::state.abb[i],'.html'),
                     collapse = '')
 
       stuff1 <- httr::GET(urlS)
@@ -27,7 +29,7 @@ moreLibs <- function(...) {
     for(j in 1:2) {  # length(st4)
 
     url.lib <- paste(c(tolower(state.name[i]),'.public-libraries.org/library/',
-                      state.abb[i],'/',
+                      datasets::state.abb[i],'/',
                       st4[j],'.html'),
                     collapse = '')
       dl1 <- httr::GET(url.lib)
@@ -62,7 +64,15 @@ moreLibs <- function(...) {
       tl8[tl0[4]][[1]] <- tl8[tl0[4]][[1]][-2]
       tl8[tl0[5]][[1]] <- tl8[tl0[5]][[1]][-c(1,12)]
       tla <- lapply(tl8[tl0], FUN=function(x) matrix(unlist(x), ncol=2, byrow = T))
-
+      tlb <- lapply(tla, FUN = function(x) {matrix(x, ncol = 2, byrow = F)})
+      tlc <- rbind(tlb[[1]], tlb[[2]], tlb[[3]],tlb[[4]], tlb[[5]], tlb[[6]])
+      tld <- t(tlc)
+      colnames(tld) <- c('Relationship','Operated','Area','Population','Visits','Hours','Libraries', 'Branches', 'Bookmobiles','Books','Audio','Video','Subscriptions','Circulation','Loans Provided','Loans Received','ALA Librarians','FT Librarians','Other Full Time','Total Full Time','Children Circulation','Children Attendance','Income-local','Income-state','Income-federal','Income-other','Income-total','Salaries','Benefits','Expenditures-staff','Expenditures-collection','Expenditures-operating-other','Expenditures-operating-total','Expenditures-capital', 'Expenditures-electronic materials','Expenditures-electronic access','Materials electronic format','Access to electronic services','Access to the internet', 'Staff terminals', 'Public Terminals','Weekly Elect Resources')
+      tle <- t(data.frame(tld[-1,], stringsAsFactors = F))
+      tlf <- gsub('\\$', '',tle)
+      tlf <- gsub(',', '',tlf)
+      tlf[,c(4:37,40:42)] <- as.numeric(tlf[,c(4:37,40:42)])
+      rownames(tlf) <- name
     }
     }
     }

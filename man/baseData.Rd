@@ -2,7 +2,7 @@
 % Please edit documentation in R/baseData.R
 \name{baseData}
 \alias{baseData}
-\title{Build data sets for US Public Libraries}
+\title{Scrape and format data for US Public Libraries}
 \usage{
 baseData(state = NULL, geocode = TRUE, ...)
 }
@@ -14,11 +14,14 @@ baseData(state = NULL, geocode = TRUE, ...)
 \item{...}{more options for ggmap::geocode}
 }
 \description{
-Build data sets for US Public Libraries
+Scrape and format data for US Public Libraries
 }
 \details{
-This functions scrapes data from http://www.publiclibraries.com, recording the name, address, zipcode, latitude, and longitude for each public library in \code{state}.
-
-The resulting data is stored as a .txt file in the extdata directory and an .rda file in the data/ directory.
+This functions scrapes data from http://www.publiclibraries.com,
+recording the name, address, zipcode, latitude, and longitude for each
+public library in \code{state}. The resulting data set for each state is
+stored as a text file in the extdata directory and as a .rda file.  The
+resulting data sets may be called using, for example, \code{publicLibs::AK_Libs}
+(which returns data for public libraries in Alaska).
 }
 
