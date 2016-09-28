@@ -1,7 +1,7 @@
-#' Compress data files
+#' Compress library data files
 #'
-#' @export
 #' @description This function uses plyr::join to combine the public library data sets for each state into a single dataset for the entire U.S.
+#'
 #' @import datasets
 #' @importFrom utils read.table
 

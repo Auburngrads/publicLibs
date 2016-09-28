@@ -1,14 +1,21 @@
-#' Calulate the distance from a US Air Force Base to a service
+#' Calculate the distance from a US Air Force Base to a service
 #'
-#' @param base The name of a USAF base COUNS
+#' @details This function computes the distance between the location of a CONUS
+#' US Air Force Base and the location of a service.  The default service
+#' type is \code{libraries} as this was the first service considered.  Distance
+#' measurements were computed using the \code{rdist.earth.vec} function from the
+#' fields package.  Latitude/longitude values were found by submitting the addresses
+#' of the service locations to the Google API using \code{ggmap::geocode}.
+#'
+#' @param base The name of a CONUS USAF base
 #' @param service The type of service for which a distance is desired
-#' @param ... Extra stuff
 #'
 #' @importFrom fields rdist.earth.vec
 #' @importFrom data.table data.table
 #' @importFrom utils read.table
+#' @export
 
-base.distance <- function(base = NULL,service = 'libraries',...) {
+base.distance <- function(base = NULL,service = 'libraries') {
 
   if(tolower(service)=='libraries') { services <- US_Libs ; suffix <- '_Libs' }
 

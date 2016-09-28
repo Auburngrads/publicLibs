@@ -2,7 +2,7 @@
 % Please edit documentation in R/compressData.R
 \name{compressData}
 \alias{compressData}
-\title{Compress data files}
+\title{Compress library data files}
 \usage{
 compressData()
 }

@@ -2,18 +2,24 @@
 % Please edit documentation in R/base.distance.R
 \name{base.distance}
 \alias{base.distance}
-\title{Calulate the distance from a US Air Force Base to a service}
+\title{Calculate the distance from a US Air Force Base to a service}
 \usage{
-base.distance(base = NULL, service = "libraries", ...)
+base.distance(base = NULL, service = "libraries")
 }
 \arguments{
-\item{base}{The name of a USAF base COUNS}
+\item{base}{The name of a CONUS USAF base}
 
 \item{service}{The type of service for which a distance is desired}
-
-\item{...}{Extra stuff}
 }
 \description{
-Calulate the distance from a US Air Force Base to a service
+Calculate the distance from a US Air Force Base to a service
+}
+\details{
+This function computes the distance between the location of a CONUS
+US Air Force Base and the location of a service.  The default service
+type is \code{libraries} as this was the first service considered.  Distance
+measurements were computed using the \code{rdist.earth.vec} function from the
+fields package.  Latitude/longitude values were found by submitting the addresses
+of the service locations to the Google API using \code{ggmap::geocode}.
 }
 
