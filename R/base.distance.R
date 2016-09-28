@@ -15,9 +15,13 @@
 #' @importFrom utils read.table
 #' @export
 
-base.distance <- function(base = NULL,service = 'libraries') {
+base.distance <- function(base = NULL,service = 'libraries', radius = 100) {
 
-  if(tolower(service)=='libraries') { services <- US_Libs ; suffix <- '_Libs' }
+  if(tolower(service)=='libraries') { services <- US_Libs ; suffix <- '_Libs'
+
+  } else { services =
+
+  }
 
   Base_Locations <- read.table(system.file('extdata','Base_Locations.txt',
                                            package = 'publicLibs'),
@@ -54,7 +58,7 @@ base.distance <- function(base = NULL,service = 'libraries') {
                                          services$Longitude)
   colnames(service.locs) <- c('location','miles','latitude','longitude')
   service.locs <- service.locs[order(`miles`)]
-  service.locs <- subset(service.locs,`miles`<=100)
+  service.locs <- subset(service.locs,`miles`<=radius)
 
   txt.name <-  paste(c('inst/','extdata2/','base_libs/',Base_Locations[j,]$Base..Abbreviation.,'_Libs.txt'),collapse = '')
 
