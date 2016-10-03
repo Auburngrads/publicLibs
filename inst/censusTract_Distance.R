@@ -13,5 +13,7 @@ for(i in 1:nrow(Base_Locations)){
   service.locs <- data.table::as.data.table(service.locs)
   service.locs <- service.locs[order(`miles`)]
   service.locs <- subset(service.locs,`miles`<=50)
+  service.locs$weight <- 1/(service.locs$miles^2)
+  service.locs$fact <- service.locs$weight * service.locs$pop
   write.table(service.locs, file = paste(c('inst/','censusData/',Base_Locations[i,3],'_cens.txt'), collapse = '' ), row.names = FALSE)
 }

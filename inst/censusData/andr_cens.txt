@@ -1,1 +1,1 @@
-"pop" "long" "lat" "miles"
+"pop" "long" "lat" "miles" "weight" "fact"

@@ -78,9 +78,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div class = 'columns-2'>
 - Sources of data: www.publiclibraries.org and www.public-libraries.com
+    - No library data set existed
+    - Data set was created using webscraping
 - Data converted from HTML tables to data-frame in R
+    - XML package in R used to pull tables from each website using table headings^7^
+    - Data pulled from each site and joined together
 - Libraries geocoded using Google-maps Application Programming Interface
-    
+    - ggmap package can geocode coordinated using googlemaps^8^
+    - Package was modified to allow the use of an API key
 
 
 <br>
@@ -97,30 +102,32 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br>
 
-```{r, echo=FALSE, warning=FALSE, message=FALSE}
-shinyApp(options = list(width = '100%', height = '800px'),
-         
-ui = fluidPage(mainPanel(DT::dataTableOutput("states", height = "800px"), 
-                         width = 12)),
+<!-- ```{r, echo=FALSE, warning=FALSE, message=FALSE} -->
 
-server = function(input, output, session){
-  
-  library(DT)
-  output$states <- DT::renderDataTable({    
-                   DT::datatable(publicLibs::US_Libs[1:2000,],                                                     options = list(pageLength = 14)) 
-})
-})
+<!-- shinyApp(options = list(width = '100%', height = '800px'), -->
 
-```
+<!-- ui = fluidPage(mainPanel(DT::dataTableOutput("states", height = "800px"),  -->
+<!--                          width = 12)), -->
+
+<!-- server = function(input, output, session){ -->
+
+<!--   library(DT) -->
+<!--   output$states <- DT::renderDataTable({     -->
+<!--                    DT::datatable(publicLibs::US_Libs[1:2000,],                                                     options = list(pageLength = 14))  -->
+<!-- }) -->
+<!-- }) -->
+
+<!-- ``` -->
+
 
 # Methodology
 
 ## Analysis
 
 - Inverse-Distance-Weighted (IDW) Average
-    - Tobler’s First Law: “All things are related, but nearby things are more related than distant things”^7^
+    - Tobler’s First Law: “All things are related, but nearby things are more related than distant things”^9^
     - Library index estimates the value of the libraries surrounding the installation
-    - Uses known values to estimate value at nearby points^8^
+    - Uses known values to estimate value at nearby points^10^
 - $z(x) = \frac{\sum_{i=1}^{n}W_i * Z_i}{\sum_{i=1}^{n}W_i}$
 
     - $W_i = 1/d_i^2$
@@ -172,8 +179,20 @@ ol li {font-size:18pt;}
 4.  Hodge, G. a., & Greve, C. (2007). Public Private Partnerships: An International Performance Review. Public Administration Review, 67(3), 545–558. <http://doi.org/10.1111/j.1540-6210.2007.00736.x>
 5.  Li, B., & Akintoye, A. (2003). An Overview of Public-Private Parnership. In A. Akintoye, M. Beck, & C. Hardcastle (Eds.), Public-Private Partnerships: Managing Risks and Oppurtunities. John Wiley & Sons. Retrieved from <https://books.google.com/books?hl=en&lr=&id=Y_hAmDKmJM0C&pgis=1>
 6.  Lobina, E., & Hall, D. (2006). Public-Public Partnerships as a catalyst for capacity building and institutional development: Lessons from Stockholm Vatten’s experience in the Baltic region. Retrieved from <http://www.psiru.org/reports/2006-09-W-PUPs.doc>
-7.  De Smith, M., Goodchild, M. F., & Longley, P. a. (2015). Geospatial Analysis 5th Edition, 2015. Retrieved from <http://www.spatialanalysisonline.com/HTML/index.html>
-8.  Longley, P., & Goodchild, M. (2011). Geographic Information Systems and Science (Third). John Wiley & Sons. Retrieved from <https://books.google.com/books?hl=en&lr=&id=toobg6OwFPEC&pgis=1>
+7.  Lang, D. T., & the CRAN Team. (2016). XML: Tools for Parsing and Generating XML Within R and S-Plus. Retrieved from <https://cran.r-project.org/package=XML>
+8.  Kahle, D., & Wickham, H. (2013). ggmap: Spatial Visualization with ggplot2. The R Journal, 5(1), 144–161. Retrieved from <http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf>
+9.  De Smith, M., Goodchild, M. F., & Longley, P. a. (2015). Geospatial Analysis 5th Edition, 2015. Retrieved from <http://www.spatialanalysisonline.com/HTML/index.html>
+10.  Longley, P., & Goodchild, M. (2011). Geographic Information Systems and Science (Third). John Wiley & Sons. Retrieved from <https://books.google.com/books?hl=en&lr=&id=toobg6OwFPEC&pgis=1>
+
+# Tips for AFIt
+- Find a thesis advisor that you can work with, or a topic that you are really interested in
+- Take COMM 680 (write first three chapters)
+- Start using Mendeley or other citation manager for class papers
+- Get an external hard drive network approved
+- STAT 535 will teach you JMP, try and learn the same functions in R
+- STRONG Lab training and nutritional studies offered (Bldg. 840, Rm W205)
+
+
 
 
 
