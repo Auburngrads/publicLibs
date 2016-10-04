@@ -23,6 +23,7 @@ library(shiny)
     - Data Summary
     - Analysis
 - Interactive Plot
+- AFIT Tips
 
 
 
