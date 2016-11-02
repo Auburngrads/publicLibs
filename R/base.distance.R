@@ -19,7 +19,7 @@ base.distance <- function(base = NULL,service = 'libraries', radius = 100) {
 
   if(tolower(service)=='libraries') { services <- US_Libs ; suffix <- '_Libs'
 
-  } else { services =
+  } else { services = NULL
 
   }
 

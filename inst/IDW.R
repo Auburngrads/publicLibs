@@ -1,4 +1,5 @@
-
+library(data.table)
+library(publicLibs)
 IDW <- as.data.table(Base_Locations[, 1:3])
 IDW$index <- "NA"
 for (i in 1:nrow(Base_Locations)){
