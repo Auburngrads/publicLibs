@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/221959/369b4a4bedee4ed688754f07aa3fa63c
+bundleId: https://api.rpubs.com/api/v1/document/221959/369b4a4bedee4ed688754f07aa3fa63c
+url: http://rpubs.com/coreydeg/221959
+when: 1477522213.24151
