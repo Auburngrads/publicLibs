@@ -1,6 +1,6 @@
 #' @import datasets
 
-moreLibs <- function(...) {
+moreLibs <- function(state = 'NY',...) {
 
   url <- 'http://www.public-libraries.org/'
   doc = XML::htmlTreeParse(url, useInternalNodes=T)
@@ -9,9 +9,19 @@ moreLibs <- function(...) {
 #
 # Get the url of each state site of public-libraries.org
 #
-    for(i in 1:1) { #length(state.abb)
+  mat    <- data.frame()
+  smalls <- data.frame()
 
-      urlS <- paste(c('library.public-libraries.org/',
+if(nchar(state) < 3) {
+
+  i <- which(tolower(state.abb)%in%gsub(' ','', tolower(state)))
+
+} else {
+
+  i <- which(tolower(state.name)%in%gsub(' ','', tolower(state)))
+}
+
+        urlS <- paste(c('library.public-libraries.org/',
                       state.name[i], '/',
                       datasets::state.abb[i],'.html'),
                     collapse = '')
@@ -24,9 +34,12 @@ moreLibs <- function(...) {
       stl <- length(st1)
       st2 <- st1[-c((stl-6):stl)]
       st3 <- gsub(" Libraries", '', st2)
+      st3 <- gsub("\\.", '', st3)
       st4 <- gsub(" ", '', st3)
+      st4 <- gsub("-", '', st4)
+      st4 <- gsub("'", '', st3)
 
-    for(j in 1:2) {  # length(st4)
+    for(j in 1:length(st4)) {  # length(st4)
 
     url.lib <- paste(c(tolower(state.name[i]),'.public-libraries.org/library/',
                       datasets::state.abb[i],'/',
@@ -39,8 +52,11 @@ moreLibs <- function(...) {
       llib2 <- llib[-c(1:9)]
       lll <- length(llib2)
       llib3 <- llib2[-c((lll-7):lll)]
-      llib4 <- gsub('/', '',llib3)
-      llib5 <- gsub(' ', '',llib4)
+      llib4 <- gsub('/', '', llib3) # Library Name
+      llib5 <- gsub(' ', '', llib4)
+      llib5 <- gsub("'", '', llib5)
+      llib5 <- gsub('\\.', '', llib5)
+      llib5 <- gsub('-', '', llib5)
 
       for(l in 1:length(llib5)) {
 
@@ -58,6 +74,15 @@ moreLibs <- function(...) {
       tl6 <- gsub('  ', '', tl5)
       tl7 <- strsplit(tl6, '\\n')
       tl8 <- lapply(tl7, FUN = unlist)
+
+if(length(tl8) < 30) {
+
+  little <- data.frame(library = llib4[l],
+                       City = st3[j],
+                       State = state.name[i])
+  smalls <- plyr::rbind.fill(smalls, little)
+} else {
+
       tl9 <- unlist(lapply(tl8, FUN = function(x) sum(x%in%lapply(tl4, FUN = function(x) x))))
       tl0 <- which(tl9==1)+1
       tl8[tl0[4]][[1]][1] <- paste(c(tl8[tl0[4]][[1]][1:2]), collapse = ' ')
@@ -72,8 +97,31 @@ moreLibs <- function(...) {
       tlf <- gsub('\\$', '',tle)
       tlf <- gsub(',', '',tlf)
       tlf[,c(4:37,40:42)] <- as.numeric(tlf[,c(4:37,40:42)])
-      rownames(tlf) <- name
+      tlg <- data.frame(llib4[l], st3[j],state.name[i],tlf, stringsAsFactors = F)
+      colnames(tlg) <- c('Library', 'City', 'State', colnames(tlf))
+      mat <- plyr::rbind.fill(mat, tlg)
+      }
     }
     }
-    }
+    mat[,c(7:40,43:45)] <- lapply(X = mat[,c(7:40,43:45)], FUN = function(x) { as.numeric(x) })
+
+    zzz <- list()
+    zzz$libs <- mat
+    zzz$excluded <- smalls
+
+    txt.name <-  paste(c('inst/','extdata3/',state.abb[i],'_Libs2.txt'),collapse = '')
+
+    write.table(zzz$libs, file = txt.name, row.names = F)
+
+  rda.name <- paste(c(state.abb[i],'_Libs2'),collapse = '')
+
+  assign(rda.name, zzz$libs, envir = environment())
+
+  save(list = rda.name, 
+       file = paste(c("data/",tolower(rda.name),'.rda'), collapse = ''),
+       compress = 'xz',
+       compression_level = 9)
+
+
+    invisible(zzz)
 }

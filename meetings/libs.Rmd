@@ -144,8 +144,8 @@ server = function(input, output, session){
 
 # Interactive Plot
 
-```{r }
-teachingApps:::offbase_libraries()
+```{r , out.width='100%'}
+teachingApps::includeApp('offbase_libraries', height = '800px')
 ```
 
 # Summary
