@@ -35,6 +35,8 @@ for(i in 1:nrow(Base_Locations)){
   }
 
   data4 <- data4[-1,]
+  data4$Weight <- 1/(data4[, "Distance"]^2)
+  data4$SizeWeight <- data4$Size * data4$Weight
   file.name <- paste(c(Base_Locations[i,3], "_Libs.txt"), collapse = '')
   txt.name <-  paste(c('inst/','extdata4/',file.name),collapse = '')
   write.table(data4, file = txt.name, row.names = F)
