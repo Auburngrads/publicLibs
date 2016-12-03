@@ -1,0 +1,212 @@
+---
+title: "Library Partnership - IDW"
+author: "Corey DeGroot"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+runtime: shiny
+---
+
+```{r global, include=FALSE}
+library(flexdashboard)
+library(data.table)
+library(leaflet)
+library(DT)
+
+Base_Locations1 <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Straight.txt", header = TRUE, stringsAsFactors = F)
+Base_Locations2 <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Drive.txt", header = TRUE, stringsAsFactors = F)
+
+CONUS_Locations1 <- Base_Locations1[-c(2, 19, 21, 28),]
+colnames(CONUS_Locations1) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "5 Miles", "10 Miles", "15 Miles", "20 Miles",
+                               "25 Miles", "30 Miles", "35 Miles", "40 Miles", "45 Miles", "50 Miles", "55 Miles", "60 Miles",
+                               "65 Miles", "70 Miles", "75 Miles", "80 Miles", "85 Miles", "90 Miles", "95 Miles", "100 Miles")
+
+CONUS_Locations2 <- Base_Locations2[-c(2, 19, 21, 28),]
+colnames(CONUS_Locations2) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "5 Miles", "10 Miles", "15 Miles", "20 Miles",
+                               "25 Miles", "30 Miles", "35 Miles", "40 Miles", "45 Miles", "50 Miles", "55 Miles", "60 Miles",
+                               "65 Miles", "70 Miles", "75 Miles", "80 Miles", "85 Miles", "90 Miles", "95 Miles", "100 Miles")
+
+Base_Locs <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata/Base_Locations.txt", header = TRUE, stringsAsFactors = F)
+Base_Locs <- Base_Locs[-c(2, 19, 21, 28),]
+
+
+
+```
+
+
+Inputs {.sidebar}
+-----------------------------------------------------------------------
+
+```{r}
+  sliderInput(inputId = "rad", label = "Radius Around the Base:",
+              min = 5, max = 100, value = 50,
+              step = 5)
+  
+  selectInput(inputId = "base", label = "Installation:",
+              choices = CONUS_Locations1[,1], selected = NULL)
+  
+  selectInput(inputId = "mode", label = "Distance Mode:",
+              choices = c("Straight Line Distance", "Driving Distance"),
+              selected = NULL)
+```
+
+Insert text about the app...
+  
+Row {data-height=550}
+-----------------------------------------------------------------------
+
+### Map
+
+```{r}
+
+
+  
+output$basemap <- renderLeaflet({
+  
+  base.loc <- Base_Locs[which(Base_Locs[,1]%in%input$base),]
+  file.location <- "C:/Files/Documents/R/publicLibs/inst/extdata4/App Data/Base Libs/"
+  inst <- as.character(input$base)
+  base_lib <- read.table(paste(c(file.location, CONUS_Locations1[which(CONUS_Locations1[, 1] == inst), 3], "_Libs.txt"), collapse = ""), 
+                         header = TRUE, stringsAsFactors = FALSE)
+  colnames(base_lib) <- c("Library Name", "Service Area Population", "Address", "Latitude", "Longitude", "Central Libraries",
+                          "Branch Libraries", "Total Staff", "Print Materials", "Audio Materials", "Video Materials", "Print Serials",
+                          "Computers", "Collection Space", "Seats Per", "Work Space", "Size", "Distance", "Weight", "SizeWeight",
+                          "Drive Distance", "Drive Weight", "Drive SizeWeight")
+  base_lib <- subset(base_lib, base_lib[, "Distance"] <= input$rad)
+  
+  # redStar <- makeIcon(
+  #   iconUrl <- "C:/Files/Documents/R/publicLibs/inst/extdata4/App Data/red_star.png",
+  #   iconWidth <- 10, iconHeight <- 40,
+  #   iconAnchorX <- 22, iconAnchorY <- 94,
+  # )
+  
+  leaflet() %>%
+    addTiles() %>%
+    addCircleMarkers(base_lib$Longitude,
+                     base_lib$Latitude,
+                     color = "blue",
+                     radius = 6,
+                     fill = T,
+                     fillOpacity = 1,
+                     opacity = 1,
+                     popup = paste(base_lib$`Library Name`, "<br>",
+                                   base_lib$Address)) %>%
+
+    addCircleMarkers(base.loc$Longitude,
+                     base.loc$Latitude,
+                     color = "red",
+                     radius = 6,
+                     fill = T,
+                     fillOpacity = 1,
+                     opacity = 1,
+                     popup = base.loc$Base..Long.Name.) %>%
+  
+    # addMarkers(base_lib$Longitude,
+    #            base_lib$Latitude,
+    #            popup = base_lib$Address) %>%
+
+    # addMarkers(base.loc$Longitude,
+    #            base.loc$Latitude,
+    #            popup = base.loc$Base..Abbreviation.,
+    #            icon = redStar) %>%
+    
+    addLegend("bottomleft",
+              title = "Legend",
+              colors = c("Red", "Blue"),
+              labels = c("Air Force Base", "Library"),
+              opacity = 1)
+})
+
+
+leafletOutput("basemap", width = "100%", height = "100%")
+
+# fitBounds(-127.44,24.05,-65.30,50.35) %>% 
+
+```
+
+### IDW Measure
+
+```{r}
+  
+IDWData <- reactive({
+  
+  if(input$mode == "Straight Line Distance" ) {
+    CONUS_Locations <- CONUS_Locations1
+  }
+    else {
+      CONUS_Locations <- CONUS_Locations2
+    }
+  
+  IDW <- as.data.table(CONUS_Locations)
+  var <- paste(input$rad, "Miles")
+  IDW <- IDW[order(-IDW[[var]])][,"Overall Rank" := 1:.N]
+  IDW <- as.data.frame(IDW)
+  IDW <- IDW[, c("Base Name", paste(as.character(input$rad), "Miles"), "Overall Rank")]
+  
+  
+})
+
+  renderTable(IDWData(), digits = 3)
+
+```
+
+Row {data-height=450}
+-----------------------------------------------------------------------
+
+### Library List
+
+```{r}
+
+  file.location <- "C:/Files/Documents/R/publicLibs/inst/extdata4/App Data/Base Libs/"
+
+  selectedData <- reactive({
+    
+    
+    
+    inst <- as.character(input$base)
+    base_lib <- read.table(paste(c(file.location, CONUS_Locations1[which(CONUS_Locations1[, 1] == inst), 3], "_Libs.txt"), collapse = ""),
+                           header = TRUE, stringsAsFactors = FALSE)
+    colnames(base_lib) <- c("Library Name", "Service Area Population", "Address", "Latitude", "Longitude",
+                            "Central Libraries", "Branch Libraries", "Total Staff", "Print Materials",
+                            "Audio Materials", "Video Materials", "Print Serials", "Computers", "Collection Space",
+                            "Seats Per", "Work Space", "Size", "Distance", "Weight", "SizeWeight", "Drive Distance",
+                            "Drive Weight", "Drive SizeWeight")
+    
+    if(input$mode == "Straight Line Distance" ) {
+      
+      col <- c("Library Name", "Service Area Population", "Central Libraries", "Branch Libraries",
+               "Total Staff", "Print Materials", "Audio Materials", "Video Materials", "Print Serials",
+               "Computers", "Collection Space", "Seats Per", "Work Space", "Size", "Distance", "Weight", "SizeWeight")
+      libs_straight <- base_lib[, paste(col)]
+      base_lib.sub <- subset(libs_straight, libs_straight[, "Distance"] <= input$rad)
+    }
+    else {
+      col <- c("Library Name", "Service Area Population", "Central Libraries", "Branch Libraries",
+               "Total Staff", "Print Materials", "Audio Materials", "Video Materials", "Print Serials",
+               "Computers", "Collection Space", "Seats Per", "Work Space", "Size", "Distance", "Drive Distance", 
+               "Drive Weight", "Drive SizeWeight")
+      libs_drive <- base_lib[, paste(col)]
+      base_lib.sub <- subset(libs_drive, libs_drive[, "Distance"] <= input$rad)
+      # base_lib.sub <- base_lib.sub[, -"Distance"]
+    }
+    
+    
+    
+    # datatable(base_lib.sub, rownames = FALSE, extensions = 'Scroller',
+    #       options = list(scrollY = 200, scroller = TRUE, columnDefs = list(list(className = 'dt-left', targets = 0:3))))
+  })
+
+
+  renderTable(selectedData())
+  
+  
+  
+  
+
+## options=list(scrollX=TRUE, scrolly = TRUE)
+ 
+
+```
+
+
+

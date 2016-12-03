@@ -1,6 +1,6 @@
 #' @import datasets
 
-moreLibs <- function(state = 'NY',...) {
+moreLibs <- function(state = 'AL',...) {
 
   url <- 'http://www.public-libraries.org/'
   doc = XML::htmlTreeParse(url, useInternalNodes=T)
@@ -117,7 +117,7 @@ if(length(tl8) < 30) {
 
   assign(rda.name, zzz$libs, envir = environment())
 
-  save(list = rda.name, 
+  save(list = rda.name,
        file = paste(c("data/",tolower(rda.name),'.rda'), collapse = ''),
        compress = 'xz',
        compression_level = 9)
