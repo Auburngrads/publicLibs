@@ -179,6 +179,12 @@ Row {data-height=450}
                "Computers", "Collection Space", "Seats Per", "Work Space", "Size", "Distance", "Weight", "SizeWeight")
       libs_straight <- base_lib[, paste(col)]
       base_lib.sub <- subset(libs_straight, libs_straight[, "Distance"] <= input$rad)
+      base_lib.sub <- as.data.table(base_lib.sub)
+      base_lib.sub <- base_lib.sub[order(base_lib.sub$Distance)]
+      base_lib.sub <- as.data.frame(base_lib.sub)
+      
+  #     var <- paste(input$rad, "Miles")
+  # IDW <- IDW[order(-IDW[[var]])]
     }
     else {
       col <- c("Library Name", "Service Area Population", "Central Libraries", "Branch Libraries",
@@ -187,7 +193,10 @@ Row {data-height=450}
                "Drive Weight", "Drive SizeWeight")
       libs_drive <- base_lib[, paste(col)]
       base_lib.sub <- subset(libs_drive, libs_drive[, "Distance"] <= input$rad)
-      # base_lib.sub <- base_lib.sub[, -"Distance"]
+      base_lib.sub <- as.data.table(base_lib.sub)
+      base_lib.sub <- base_lib.sub[order(base_lib.sub$'Drive Distance')]
+      base_lib.sub <- as.data.frame(base_lib.sub)
+      
     }
     
     
@@ -197,7 +206,7 @@ Row {data-height=450}
   })
 
 
-  renderTable(selectedData())
+  renderTable(selectedData(), digits = 5)
   
   
   
