@@ -7,22 +7,25 @@ output:
 runtime: shiny
 ---
 
+Page 1
+===========
+
 ```{r global, include=FALSE}
 library(flexdashboard)
 library(data.table)
 library(leaflet)
 library(DT)
 
-Base_Locations1 <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Straight.txt", header = TRUE, stringsAsFactors = F)
-Base_Locations2 <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Drive.txt", header = TRUE, stringsAsFactors = F)
+IDW_straight <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Straight.txt", header = TRUE, stringsAsFactors = F)
+IDW_drive <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Drive.txt", header = TRUE, stringsAsFactors = F)
 
-CONUS_Locations1 <- Base_Locations1[-c(2, 19, 21, 28),]
-colnames(CONUS_Locations1) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "5 Miles", "10 Miles", "15 Miles", "20 Miles",
+IDW_straight <- IDW_straight[-c(2, 19, 21, 28),]
+colnames(IDW_straight) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "5 Miles", "10 Miles", "15 Miles", "20 Miles",
                                "25 Miles", "30 Miles", "35 Miles", "40 Miles", "45 Miles", "50 Miles", "55 Miles", "60 Miles",
                                "65 Miles", "70 Miles", "75 Miles", "80 Miles", "85 Miles", "90 Miles", "95 Miles", "100 Miles")
 
-CONUS_Locations2 <- Base_Locations2[-c(2, 19, 21, 28),]
-colnames(CONUS_Locations2) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "5 Miles", "10 Miles", "15 Miles", "20 Miles",
+IDW_drive <- IDW_drive[-c(2, 19, 21, 28),]
+colnames(IDW_drive) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "5 Miles", "10 Miles", "15 Miles", "20 Miles",
                                "25 Miles", "30 Miles", "35 Miles", "40 Miles", "45 Miles", "50 Miles", "55 Miles", "60 Miles",
                                "65 Miles", "70 Miles", "75 Miles", "80 Miles", "85 Miles", "90 Miles", "95 Miles", "100 Miles")
 
@@ -43,7 +46,7 @@ Inputs {.sidebar}
               step = 5)
   
   selectInput(inputId = "base", label = "Installation:",
-              choices = CONUS_Locations1[,1], selected = NULL)
+              choices = Base_Locs[,1], selected = NULL)
   
   selectInput(inputId = "mode", label = "Distance Mode:",
               choices = c("Straight Line Distance", "Driving Distance"),
@@ -66,7 +69,7 @@ output$basemap <- renderLeaflet({
   base.loc <- Base_Locs[which(Base_Locs[,1]%in%input$base),]
   file.location <- "C:/Files/Documents/R/publicLibs/inst/extdata4/App Data/Base Libs/"
   inst <- as.character(input$base)
-  base_lib <- read.table(paste(c(file.location, CONUS_Locations1[which(CONUS_Locations1[, 1] == inst), 3], "_Libs.txt"), collapse = ""), 
+  base_lib <- read.table(paste(c(file.location, IDW_straight[which(IDW_straight[, 1] == inst), 3], "_Libs.txt"), collapse = ""), 
                          header = TRUE, stringsAsFactors = FALSE)
   colnames(base_lib) <- c("Library Name", "Service Area Population", "Address", "Latitude", "Longitude", "Central Libraries",
                           "Branch Libraries", "Total Staff", "Print Materials", "Audio Materials", "Video Materials", "Print Serials",
@@ -131,10 +134,10 @@ leafletOutput("basemap", width = "100%", height = "100%")
 IDWData <- reactive({
   
   if(input$mode == "Straight Line Distance" ) {
-    CONUS_Locations <- CONUS_Locations1
+    CONUS_Locations <- IDW_straight
   }
     else {
-      CONUS_Locations <- CONUS_Locations2
+      CONUS_Locations <- IDW_drive
     }
   
   IDW <- as.data.table(CONUS_Locations)
@@ -164,7 +167,7 @@ Row {data-height=450}
     
     
     inst <- as.character(input$base)
-    base_lib <- read.table(paste(c(file.location, CONUS_Locations1[which(CONUS_Locations1[, 1] == inst), 3], "_Libs.txt"), collapse = ""),
+    base_lib <- read.table(paste(c(file.location, IDW_straight[which(IDW_straight[, 1] == inst), 3], "_Libs.txt"), collapse = ""),
                            header = TRUE, stringsAsFactors = FALSE)
     colnames(base_lib) <- c("Library Name", "Service Area Population", "Address", "Latitude", "Longitude",
                             "Central Libraries", "Branch Libraries", "Total Staff", "Print Materials",
@@ -206,7 +209,7 @@ Row {data-height=450}
   })
 
 
-  renderTable(selectedData(), digits = 5)
+  renderTable(selectedData(), digits = 2)
   
   
   
@@ -215,6 +218,16 @@ Row {data-height=450}
 ## options=list(scrollX=TRUE, scrolly = TRUE)
  
 
+```
+
+Page 2
+=========
+
+Stuff
+
+```{r}
+
+rnorm(1)
 ```
 
 
