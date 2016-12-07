@@ -7,8 +7,8 @@ output:
 runtime: shiny
 ---
 
-Page 1
-===========
+Analysis
+======================================
 
 ```{r global, include=FALSE}
 library(flexdashboard)
@@ -220,8 +220,8 @@ Row {data-height=450}
 
 ```
 
-Page 2
-=========
+Methodology
+==================================
 
 Stuff
 
