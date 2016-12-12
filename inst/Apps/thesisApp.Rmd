@@ -7,8 +7,52 @@ output:
 runtime: shiny
 ---
 
+Methodology
+==================================
+
+
+Library Size Estimate
+
+- Collection Space = $13*(N_b+N_v+N_a)+(45*N_i)$
+    - $N_b =$ Number of books
+    - $N_v =$ Number of serial volumes
+    - $N_a =$ Number of audio visual materials
+    - $N_i =$ Number of internet terminals
+    
+- Work Space = $150*N_w+30*N_s/1000$
+    - $N_w =$ Number of workstations
+    - $N_s =$ Number of seats
+
+- Lbrary Size = Collection Space + Work Space
+
+
+Analysis
+
+- Inverse-Distance-Weighted (IDW) Average
+    - Tobler’s First Law: “All things are related, but nearby things are more related than distant things”
+    - Uses known values to estimate value at nearby points
+    - Library index estimates the value of the libraries surrounding the installation
+    
+- $z(x) = \frac{\sum_{i=1}^{n}W_i * Z_i}{\sum_{i=1}^{n}W_i}$
+
+    - $W_i = 1/d_i^2$
+
+    - $Z_i =$ Size of the library 
+    
+
+
+```{r eval=TRUE}
+absolutePanel(tags$img(src = "IDW.png", height = "600px"),
+              top = "200px",
+              left = "1000px"
+)
+
+```
+
+
 Analysis
 ======================================
+
 
 ```{r global, include=FALSE}
 library(flexdashboard)
@@ -219,16 +263,5 @@ Row {data-height=450}
  
 
 ```
-
-Methodology
-==================================
-
-Stuff
-
-```{r}
-
-rnorm(1)
-```
-
 
 
