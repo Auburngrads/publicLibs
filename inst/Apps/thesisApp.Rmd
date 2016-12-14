@@ -60,18 +60,31 @@ library(data.table)
 library(leaflet)
 library(DT)
 
-IDW_straight <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Straight.txt", header = TRUE, stringsAsFactors = F)
-IDW_drive <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Drive.txt", header = TRUE, stringsAsFactors = F)
+IDW_straight <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Straight1.txt", header = TRUE, stringsAsFactors = F)
+colnames(IDW_straight) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "IDW - 5 Miles", "IDW Normalized - 5 Miles",
+                            "IDW - 10 Miles", "IDW Normalized - 10 Miles", "IDW - 15 Miles", "IDW Normalized - 15 Miles",
+                            "IDW - 20 Miles", "IDW Normalized - 20 Miles", "IDW - 25 Miles", "IDW Normalized - 25 Miles",
+                            "IDW - 30 Miles", "IDW Normalized - 30 Miles", "IDW - 35 Miles", "IDW Normalized - 35 Miles",
+                            "IDW - 40 Miles", "IDW Normalized - 40 Miles", "IDW - 45 Miles", "IDW Normalized - 45 Miles",
+                            "IDW - 50 Miles", "IDW Normalized - 50 Miles", "IDW - 55 Miles", "IDW Normalized - 55 Miles",
+                            "IDW - 60 Miles", "IDW Normalized - 60 Miles", "IDW - 65 Miles", "IDW Normalized - 65 Miles", 
+                            "IDW - 70 Miles", "IDW Normalized - 70 Miles", "IDW - 75 Miles", "IDW Normalized - 75 Miles", 
+                            "IDW - 80 Miles", "IDW Normalized - 80 Miles", "IDW - 85 Miles", "IDW Normalized - 85 Miles", 
+                            "IDW - 90 Miles", "IDW Normalized - 90 Miles", "IDW - 95 Miles", "IDW Normalized - 95 Miles", 
+                            "IDW - 100 Miles", "IDW Normalized - 100 Miles")
 
-IDW_straight <- IDW_straight[-c(2, 19, 21, 28),]
-colnames(IDW_straight) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "5 Miles", "10 Miles", "15 Miles", "20 Miles",
-                               "25 Miles", "30 Miles", "35 Miles", "40 Miles", "45 Miles", "50 Miles", "55 Miles", "60 Miles",
-                               "65 Miles", "70 Miles", "75 Miles", "80 Miles", "85 Miles", "90 Miles", "95 Miles", "100 Miles")
-
-IDW_drive <- IDW_drive[-c(2, 19, 21, 28),]
-colnames(IDW_drive) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "5 Miles", "10 Miles", "15 Miles", "20 Miles",
-                               "25 Miles", "30 Miles", "35 Miles", "40 Miles", "45 Miles", "50 Miles", "55 Miles", "60 Miles",
-                               "65 Miles", "70 Miles", "75 Miles", "80 Miles", "85 Miles", "90 Miles", "95 Miles", "100 Miles")
+IDW_drive <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Drive1.txt", header = TRUE, stringsAsFactors = F)
+colnames(IDW_drive) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "IDW - 5 Miles", "IDW Normalized - 5 Miles",
+                         "IDW - 10 Miles", "IDW Normalized - 10 Miles", "IDW - 15 Miles", "IDW Normalized - 15 Miles",
+                         "IDW - 20 Miles", "IDW Normalized - 20 Miles", "IDW - 25 Miles", "IDW Normalized - 25 Miles",
+                         "IDW - 30 Miles", "IDW Normalized - 30 Miles", "IDW - 35 Miles", "IDW Normalized - 35 Miles",
+                         "IDW - 40 Miles", "IDW Normalized - 40 Miles", "IDW - 45 Miles", "IDW Normalized - 45 Miles",
+                         "IDW - 50 Miles", "IDW Normalized - 50 Miles", "IDW - 55 Miles", "IDW Normalized - 55 Miles",
+                         "IDW - 60 Miles", "IDW Normalized - 60 Miles", "IDW - 65 Miles", "IDW Normalized - 65 Miles", 
+                         "IDW - 70 Miles", "IDW Normalized - 70 Miles", "IDW - 75 Miles", "IDW Normalized - 75 Miles", 
+                         "IDW - 80 Miles", "IDW Normalized - 80 Miles", "IDW - 85 Miles", "IDW Normalized - 85 Miles", 
+                         "IDW - 90 Miles", "IDW Normalized - 90 Miles", "IDW - 95 Miles", "IDW Normalized - 95 Miles", 
+                         "IDW - 100 Miles", "IDW Normalized - 100 Miles")
 
 Base_Locs <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata/Base_Locations.txt", header = TRUE, stringsAsFactors = F)
 Base_Locs <- Base_Locs[-c(2, 19, 21, 28),]
@@ -167,7 +180,6 @@ output$basemap <- renderLeaflet({
 
 leafletOutput("basemap", width = "100%", height = "100%")
 
-# fitBounds(-127.44,24.05,-65.30,50.35) %>% 
 
 ```
 
@@ -185,15 +197,27 @@ IDWData <- reactive({
     }
   
   IDW <- as.data.table(CONUS_Locations)
-  var <- paste(input$rad, "Miles")
+  var <- paste(c("IDW - ", input$rad, " Miles"), collapse = '')
   IDW <- IDW[order(-IDW[[var]])][,"Overall Rank" := 1:.N]
   IDW <- as.data.frame(IDW)
-  IDW <- IDW[, c("Base Name", paste(as.character(input$rad), "Miles"), "Overall Rank")]
+  IDW <- IDW[, c("Base Name", paste(c("IDW - ", as.character(input$rad), " Miles"), collapse = ''),
+                 paste(c("IDW Normalized - ", as.character(input$rad), " Miles"), collapse = ''), 
+                 "Overall Rank")]
   
   
 })
 
   renderTable(IDWData(), digits = 3)
+  
+  # "IDW - 5 Miles", "IDW Normalized - 5 Miles",
+  
+  # IDW <- as.data.table(CONUS_Locations)
+  # var <- paste(input$rad, "Miles")
+  # IDW <- IDW[order(-IDW[[var]])][,"Overall Rank" := 1:.N]
+  # IDW <- as.data.frame(IDW)
+  # IDW <- IDW[, c("Base Name", paste(as.character(input$rad), "Miles"), "Overall Rank")]
+  
+  # paste("Std_", as.character(input$rad), "_Miles")
 
 ```
 
