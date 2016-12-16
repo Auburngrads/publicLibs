@@ -71,7 +71,14 @@ for(k in 1:length(radius)) {
 
   CONUS_Locations[, (4+(2*k))] <- as.numeric(gsub("NaN", 0, CONUS_Locations[, (4+(2*k))]))
   maxIDW <- as.numeric(max(CONUS_Locations[, (4+(2*k))]))
-  CONUS_Locations[, (5+(2*k))] <- CONUS_Locations[, (4+(2*k))]/maxIDW
+
+  # new stuff
+
+  minIDW <- as.numeric(min(CONUS_Locations[, (4+(2*k))]))
+  CONUS_Locations[, (5+(2*k))] <- (CONUS_Locations[, (4+(2*k))] - minIDW)/(maxIDW - minIDW)
+  #-----
+
+  #CONUS_Locations[, (5+(2*k))] <- CONUS_Locations[, (4+(2*k))]/maxIDW
 
 }
 
@@ -103,7 +110,14 @@ for(k in 1:length(radius)) {
 
     CONUS_Locations[, (4+(2*k))] <- as.numeric(gsub("NaN", 0, CONUS_Locations[, (4+(2*k))]))
     maxIDW <- as.numeric(max(CONUS_Locations[, (4+(2*k))]))
-    CONUS_Locations[, (5+(2*k))] <- CONUS_Locations[, (4+(2*k))]/maxIDW
+
+    # new stuff
+
+    minIDW <- as.numeric(min(CONUS_Locations[, (4+(2*k))]))
+    CONUS_Locations[, (5+(2*k))] <- (CONUS_Locations[, (4+(2*k))] - minIDW)/(maxIDW - minIDW)
+    #-----
+
+    #CONUS_Locations[, (5+(2*k))] <- CONUS_Locations[, (4+(2*k))]/maxIDW
 
 }
 

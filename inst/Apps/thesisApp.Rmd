@@ -1,5 +1,5 @@
 ---
-title: "Library Partnership - IDW"
+title: "Identifying Partnership Opportunities: A GIS Approach"
 author: "Corey DeGroot"
 output: 
   flexdashboard::flex_dashboard:
@@ -7,37 +7,95 @@ output:
 runtime: shiny
 ---
 
+<style>
+h1 {font-size: 20pt;
+    font-weight: bold;}
+p {font-size: 120%;}
+form p {font-size: 100%;}
+ul li ul li p {font-size: 100%;}
+ul li p {font-size: 160%;}
+li {font-size: 120%;}
+a {font-size: 140%; font-weight: bold;}
+blockquote { font-size: 160%;
+             line-height: 1.5em;
+             font-weight: normal;
+             margin: 50px 10% 50px 10%;
+             padding: 30px;
+             border-bottom-width: thin;
+             border-right-width: 12px;
+             border-top-width: thin;
+             border-left-width: 12px;
+             border-radius: 10px;
+             border-color: #149C82;
+             border-style: solid;
+             font-family: "Century Gothic", "Optima", "Segoe UI", sans-serif;
+            }
+</style>
+
+Background
+==================
+
+> This research effort investigated the off-base community to build a tool to identify installations which should explore partnership opportunities. The scope of this research was limited to exploring library partnership opportunities at Air Force installations located in the Continental United States (CONUS).  The result of this research is a tool which produces a relative measure for each off-base community, where higher values indicate a greater potential for partnerships.  This relative measure utilizes inverse distance weighting (IDW) between an installation and each service location in the surrounding community. The tool can be used by decision makers to compare the computed measures and communities for each installation, and identify where the greatest opportunity for creating a partnership may exist. 
+
+- Methodology Tab: This section of the app explains the analysis that is utilized.  It provides a review of Inverse Distance Weighting (IDW), and how library sizes were estimated.
+  
+- Analysis Tab: This section of the app presents the results of the IDW analysis.  It allows users to investigate the libraries around a specific installation and specified radius.  Users can select the installation of interest, define the radius around the installation that should be considered, and select whether straight line distance or driving distances should be used in the analysis.
+  
+```{r, echo=FALSE, eval=FALSE}
+shiny::includeMarkdown('text.Rmd')
+```
+
+
+
+
 Methodology
 ==================================
 
-
-Library Size Estimate
-
-- Collection Space = $13*(N_b+N_v+N_a)+(45*N_i)$
-    - $N_b =$ Number of books
-    - $N_v =$ Number of serial volumes
-    - $N_a =$ Number of audio visual materials
-    - $N_i =$ Number of internet terminals
-    
-- Work Space = $150*N_w+30*N_s/1000$
-    - $N_w =$ Number of workstations
-    - $N_s =$ Number of seats
-
-- Lbrary Size = Collection Space + Work Space
-
-
-Analysis
+<h1>Analysis</h1>
 
 - Inverse-Distance-Weighted (IDW) Average
+
     - Tobler’s First Law: “All things are related, but nearby things are more related than distant things”
-    - Uses known values to estimate value at nearby points
-    - Library index estimates the value of the libraries surrounding the installation
     
-- $z(x) = \frac{\sum_{i=1}^{n}W_i * Z_i}{\sum_{i=1}^{n}W_i}$
+    - Uses known values to estimate value at nearby points
+    
+    - Library index estimates the value of the libraries surrounding the installation
 
-    - $W_i = 1/d_i^2$
+$$
+\begin{equation}
+\hspace{-700px} \displaystyle Z = \frac{\sum_{i=1}^{n}z_i\times d_i^{-2}}{\sum_{i=1}^{n}d_i^{-2}}
+\end{equation}
+$$
 
-    - $Z_i =$ Size of the library 
+- Where
+
+    - $d_i \equiv$ Distance from service to installation
+
+    - $Z_i \equiv$ Quality of the library (Size)
+    
+
+<h1>Library Size Estimate</h1>
+
+- Collection Space = $13*(N_b+N_v+N_a)+(45*N_i)$
+
+    - $N_b \equiv$ Number of books
+    
+    - $N_v \equiv$ Number of serial volumes
+    
+    - $N_a \equiv$ Number of audio visual materials
+    
+    - $N_i \equiv$ Number of internet terminals
+    
+- Work Space = $150*N_w+30*N_s/1000$
+
+    - $N_w \equiv$ Number of workstations
+    
+    - $N_s \equiv$ Number of seats
+
+- Library Size = Collection Space + Work Space
+
+
+
     
 
 
@@ -49,6 +107,12 @@ absolutePanel(tags$img(src = "IDW.png", height = "600px"),
 
 ```
 
+
+```{r eval=FALSE}
+shiny::img(src = "IDW.png", height = "600px", top = "20px",    left = "100px"
+)
+
+```
 
 Analysis
 ======================================
@@ -110,7 +174,22 @@ Inputs {.sidebar}
               selected = NULL)
 ```
 
-Insert text about the app...
+Inputs:
+
+  Radius Around the Base: This input will change the community around the base that is considered.  Libraries outside of this radius will not be used in the analysis.
+
+  Installation:  This input selects the installation that is viewed in the map and library list.
+
+  Distance Mode:  This changes whether straight line distance or driving distance is used in the analysis.
+  
+Panels:
+
+Map:  The map provides a visual display of the installation that is selected and the libraries that are within the defined radius.
+
+IDW Measure:  The IDW measure is the result produced for a specified radius and distance mode.  
+
+Library List:  The libraries listed here are the libraries that fall within the specified radius of the selected installation.  They are sorted by either straight line distance or driving distance depending on the distance mode selected.
+ 
   
 Row {data-height=550}
 -----------------------------------------------------------------------
