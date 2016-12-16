@@ -124,7 +124,7 @@ library(data.table)
 library(leaflet)
 library(DT)
 
-IDW_straight <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Straight1.txt", header = TRUE, stringsAsFactors = F)
+IDW_straight <- read.table("App Data/IDW/Straight1.txt", header = TRUE, stringsAsFactors = F)
 colnames(IDW_straight) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "IDW - 5 Miles", "IDW Normalized - 5 Miles",
                             "IDW - 10 Miles", "IDW Normalized - 10 Miles", "IDW - 15 Miles", "IDW Normalized - 15 Miles",
                             "IDW - 20 Miles", "IDW Normalized - 20 Miles", "IDW - 25 Miles", "IDW Normalized - 25 Miles",
@@ -137,7 +137,7 @@ colnames(IDW_straight) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "I
                             "IDW - 90 Miles", "IDW Normalized - 90 Miles", "IDW - 95 Miles", "IDW Normalized - 95 Miles", 
                             "IDW - 100 Miles", "IDW Normalized - 100 Miles")
 
-IDW_drive <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata4/IDW/Drive1.txt", header = TRUE, stringsAsFactors = F)
+IDW_drive <- read.table("App Data/IDW/Drive1.txt", header = TRUE, stringsAsFactors = F)
 colnames(IDW_drive) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "IDW - 5 Miles", "IDW Normalized - 5 Miles",
                          "IDW - 10 Miles", "IDW Normalized - 10 Miles", "IDW - 15 Miles", "IDW Normalized - 15 Miles",
                          "IDW - 20 Miles", "IDW Normalized - 20 Miles", "IDW - 25 Miles", "IDW Normalized - 25 Miles",
@@ -150,7 +150,7 @@ colnames(IDW_drive) <- c("Base Name", "Short Name", "Abbr", "Long", "Lat", "IDW 
                          "IDW - 90 Miles", "IDW Normalized - 90 Miles", "IDW - 95 Miles", "IDW Normalized - 95 Miles", 
                          "IDW - 100 Miles", "IDW Normalized - 100 Miles")
 
-Base_Locs <- read.table("C:/Files/Documents/R/publicLibs/inst/extdata/Base_Locations.txt", header = TRUE, stringsAsFactors = F)
+Base_Locs <- read.table("App Data/Base_Locations.txt", header = TRUE, stringsAsFactors = F)
 Base_Locs <- Base_Locs[-c(2, 19, 21, 28),]
 
 
@@ -203,7 +203,7 @@ Row {data-height=550}
 output$basemap <- renderLeaflet({
   
   base.loc <- Base_Locs[which(Base_Locs[,1]%in%input$base),]
-  file.location <- "C:/Files/Documents/R/publicLibs/inst/extdata4/App Data/Base Libs/"
+  file.location <- "App Data/Base Libs/"
   inst <- as.character(input$base)
   base_lib <- read.table(paste(c(file.location, IDW_straight[which(IDW_straight[, 1] == inst), 3], "_Libs.txt"), collapse = ""), 
                          header = TRUE, stringsAsFactors = FALSE)
@@ -307,7 +307,7 @@ Row {data-height=450}
 
 ```{r}
 
-  file.location <- "C:/Files/Documents/R/publicLibs/inst/extdata4/App Data/Base Libs/"
+  file.location <- "App Data/Base Libs/"
 
   selectedData <- reactive({
     
