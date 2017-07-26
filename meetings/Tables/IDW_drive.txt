@@ -1,0 +1,66 @@
+"Base Name","IDW - 50 Miles"
+"MacDill AFB",1
+"Patrick AFB",0.767
+"Bolling AFB",0.751
+"Andrews AFB",0.598
+"McChord AFB",0.459
+"Charleston AFB",0.451
+"Air Force Academy",0.367
+"Peterson AFB",0.345
+"Tinker AFB",0.345
+"Davis-Monthan AFB",0.319
+"Travis AFB",0.289
+"Hill AFB",0.278
+"Barksdale AFB",0.263
+"Pope AFB",0.25
+"Wright-Patterson AFB",0.236
+"Maxwell AFB",0.23
+"Little Rock AFB",0.228
+"Schriever AFB",0.209
+"FE Warren AFB",0.203
+"Nellis AFB",0.195
+"Los Angeles AFB",0.192
+"Gunter AFB",0.185
+"Buckley AFB",0.166
+"Lackland AFB",0.161
+"Robins AFB",0.16
+"Kirtland AFB",0.157
+"Brooks City-Base",0.155
+"Goodfellow AFB",0.144
+"Moody AFB",0.142
+"Shaw AFB",0.128
+"Seymour Johnson AFB",0.123
+"Beale AFB",0.122
+"Luke AFB",0.119
+"Tyndall AFB",0.119
+"Creech AFB",0.116
+"Keesler AFB",0.114
+"Dyess AFB",0.108
+"Fairchild AFB",0.107
+"Langley AFB",0.094
+"Hanscom AFB",0.089
+"McGuire AFB",0.087
+"McConnell AFB",0.077
+"Offutt AFB",0.075
+"Malmstrom AFB",0.068
+"Otis AFB",0.068
+"Sheppard AFB",0.068
+"Vandenberg AFB",0.067
+"Cannon AFB",0.065
+"Whiteman AFB",0.065
+"Dover AFB",0.057
+"Scott AFB",0.049
+"Minot AFB",0.049
+"Edwards AFB",0.046
+"Hurlburt Field",0.045
+"Holloman AFB",0.045
+"Ellsworth AFB",0.044
+"Altus AFB",0.041
+"Columbus AFB",0.04
+"Grand Forks AFB",0.039
+"Vance AFB",0.033
+"Laughlin AFB",0.031
+"Arnold AFB",0.03
+"Randolph AFB",0.025
+"Mountain Home AFB",0.015
+"Eglin AFB",0.014
